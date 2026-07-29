@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032373600834175224",
+    "created_at": "2026-03-14T08:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T09:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032740375149097159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510395038479441924",
+          "start": 0,
+          "username": "Hugo88049441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032740375149097159",
+    "in_reply_to_user_id": "1510395038479441924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032373600834175224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hugo88049441 啊？！太厉害了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 115635,
+        "height": 1024,
+        "media_key": "13_2032352192129351680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032352192129351680/img/P90YeYjWDB5LAhyJ.jpg",
+        "public_metrics": {
+          "view_count": 63127
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032352192129351680/vid/avc1/320x568/-cjsR3DtiJl897XY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032352192129351680/vid/avc1/480x852/KcBaBbH-Pzd7JKQO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032352192129351680/vid/avc1/576x1024/JWdAYSWSIwC2522M.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032352192129351680/pl/buZm5jUoTvx7rugw.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032373600834175224",
+        "created_at": "2026-03-14T08:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T09:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032740375149097159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510395038479441924",
+              "start": 0,
+              "username": "Hugo88049441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032740375149097159",
+        "in_reply_to_user_id": "1510395038479441924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032373600834175224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hugo88049441 啊？！太厉害了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032352192129351680"
+          ]
+        },
+        "author_id": "1510395038479441924",
+        "conversation_id": "2032373600834175224",
+        "created_at": "2026-03-13T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032373600834175224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJ5Q5PLPx6",
+              "end": 61,
+              "expanded_url": "https://x.com/Hugo88049441/status/2032373600834175224/video/1",
+              "media_key": "13_2032352192129351680",
+              "start": 38,
+              "url": "https://t.co/HJ5Q5PLPx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032373600834175224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 111739,
+          "like_count": 289,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "援助犬检测到癫痫要发作，帮助主人坐下，给她拿水和药，并引导她躺下休息👍👍👍 https://t.co/HJ5Q5PLPx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2032690474990055444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 2269,
+          "like_count": 6304,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1565
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T23:13:59.000Z",
+        "description": "兰溪市，位于浙江省中西部，地处钱塘江中游，金衢盆地北缘。常住人口为57万余人。清光绪《兰溪县志》开宗明义载，“邑虽褊小而实当四冲。踞杭严之上游，职衢婺之门钥，南蔽瓯括，北捍徽歙。定职方者，谓为浙东之要区，洵不诬也。”兰溪自古有“三江之汇”，“六水之腰”，“七省通衢”之称。市树市花分别为樟树和兰花。",
+        "id": "1510395038479441924",
+        "location": "中国浙江兰溪",
+        "name": "LoveLanxi🌹",
+        "pinned_tweet_id": "2026474175997817184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526397346619092992/wAG7hELK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15844,
+          "following_count": 10749,
+          "like_count": 69472,
+          "listed_count": 15,
+          "media_count": 3995,
+          "tweet_count": 11012
+        },
+        "username": "Hugo88049441",
+        "verified": false
+      }
+    ]
+  }
+}

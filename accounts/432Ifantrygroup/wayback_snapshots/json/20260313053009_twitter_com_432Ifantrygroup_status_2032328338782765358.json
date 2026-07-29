@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032319113926942872",
+    "created_at": "2026-03-13T05:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032328338782765358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022980944723095552",
+          "start": 0,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032328338782765358",
+    "in_reply_to_user_id": "2022980944723095552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032319113926942872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanka_TWT 为什么呀，反复开裂会造成很严重的增生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31440,
+        "height": 1920,
+        "media_key": "13_2032313218040020993",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032313218040020993/img/5nb8b5EZw0L5dBC3.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032313218040020993/vid/avc1/320x568/RhTlDqjLboivP-ze.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032313218040020993/vid/avc1/480x852/qvuXvv9fTak9qUo5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032313218040020993/vid/avc1/720x1280/j7nLGEFyCuiwhkHE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032313218040020993/pl/_1UJKlCZFz9bwv1h.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032319113926942872",
+        "created_at": "2026-03-13T05:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032328338782765358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032328338782765358",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032319113926942872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT 为什么呀，反复开裂会造成很严重的增生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032313218040020993"
+          ]
+        },
+        "author_id": "2022980944723095552",
+        "conversation_id": "2032319113926942872",
+        "created_at": "2026-03-13T04:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032319113926942872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RiRYbfBm7",
+              "end": 164,
+              "expanded_url": "https://x.com/tanka_TWT/status/2032319113926942872/video/1",
+              "media_key": "13_2032313218040020993",
+              "start": 141,
+              "url": "https://t.co/2RiRYbfBm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032319113926942872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把伤口搞裂了……\n我好想在妈妈面前哭但她不知道我发生了什么她不知道我怎么了我不敢也不能解释我好想告诉她发生的一切但我不想让她担心我她也只是个脆弱的女人我对不起妈妈我想再回到嘉兴看望edw但我对不起他父母对不起他的朋友身边人\n明明想要去做难道继续被迫逃避吗？\n想见你\n能见到吗…？ https://t.co/2RiRYbfBm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 2235,
+          "like_count": 5735,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1402
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼\n/cptsd 因創傷而躲藏\n/FOW參與者 接受藥物報告投稿及咨詢\n/逝去的愛人@Edward_8964\n/始終遊走在自我毀滅邊緣 所以 請多看看現在的我吧\n/提問箱https://t.co/Nz6tp4jZsY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 129,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 106,
+                "url": "https://t.co/Nz6tp4jZsY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/J3Aw5nOZQt"
+              }
+            ]
+          }
+        },
+        "id": "2022980944723095552",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2030639170121818270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 127,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/J3Aw5nOZQt",
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

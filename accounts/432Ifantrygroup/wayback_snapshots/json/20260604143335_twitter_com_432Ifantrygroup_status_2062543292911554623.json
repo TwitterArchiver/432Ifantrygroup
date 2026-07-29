@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062511688990216192"
+      ],
+      "media_source_tweet_id": [
+        "2062511697039130981"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062543292911554623",
+    "created_at": "2026-06-04T14:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062543292911554623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2061450593617563649",
+          "start": 3,
+          "username": "minesavior0311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VnudfmmnKf",
+          "end": 43,
+          "expanded_url": "https://x.com/minesavior0311/status/2062511697039130981/photo/1",
+          "media_key": "3_2062511688990216192",
+          "start": 20,
+          "url": "https://t.co/VnudfmmnKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062543292911554623",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062511697039130981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minesavior0311: https://t.co/VnudfmmnKf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2062511688990216192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-DdBdaUAAk9at.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062511688990216192"
+          ],
+          "media_source_tweet_id": [
+            "2062511697039130981"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062543292911554623",
+        "created_at": "2026-06-04T14:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062543292911554623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2061450593617563649",
+              "start": 3,
+              "username": "minesavior0311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VnudfmmnKf",
+              "end": 43,
+              "expanded_url": "https://x.com/minesavior0311/status/2062511697039130981/photo/1",
+              "media_key": "3_2062511688990216192",
+              "start": 20,
+              "url": "https://t.co/VnudfmmnKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543292911554623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062511697039130981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minesavior0311: https://t.co/VnudfmmnKf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062511688990216192"
+          ]
+        },
+        "author_id": "2061450593617563649",
+        "conversation_id": "2062511697039130981",
+        "created_at": "2026-06-04T12:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062511697039130981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VnudfmmnKf",
+              "end": 23,
+              "expanded_url": "https://x.com/minesavior0311/status/2062511697039130981/photo/1",
+              "media_key": "3_2062511688990216192",
+              "start": 0,
+              "url": "https://t.co/VnudfmmnKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062511697039130981",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VnudfmmnKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062240095227592980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 4046,
+          "like_count": 42318,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 11832
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T14:15:47.000Z",
+        "description": "前世可颂\n我割我o 随便发发低脂小视频\n🚪52纯绿\n欢迎来找我玩\n防炸/雪兔https://t.co/UoBIc9JrtE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 61,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 38,
+                "url": "https://t.co/UoBIc9JrtE"
+              }
+            ]
+          }
+        },
+        "id": "2061450593617563649",
+        "name": "Choke",
+        "pinned_tweet_id": "2061838185421029827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062124667041959936/umI--rr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 95,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 115
+        },
+        "username": "minesavior0311",
+        "verified": false
+      }
+    ]
+  }
+}

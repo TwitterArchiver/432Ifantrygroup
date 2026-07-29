@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041157637111435344",
+    "created_at": "2026-04-07T00:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041313798905299114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687115860358627328",
+          "start": 0,
+          "username": "Calypso04844716"
+        },
+        {
+          "end": 31,
+          "id": "1872886584292589570",
+          "start": 17,
+          "username": "Oliver1363958"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041313798905299114",
+    "in_reply_to_user_id": "1687115860358627328",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041312223642165584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Calypso04844716 @Oliver1363958 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041157637111435344",
+        "created_at": "2026-04-07T00:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041313798905299114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687115860358627328",
+              "start": 0,
+              "username": "Calypso04844716"
+            },
+            {
+              "end": 31,
+              "id": "1872886584292589570",
+              "start": 17,
+              "username": "Oliver1363958"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041313798905299114",
+        "in_reply_to_user_id": "1687115860358627328",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041312223642165584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Calypso04844716 @Oliver1363958 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687115860358627328",
+        "conversation_id": "2041157637111435344",
+        "created_at": "2026-04-07T00:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041312223642165584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872886584292589570",
+              "start": 0,
+              "username": "Oliver1363958"
+            },
+            {
+              "end": 31,
+              "id": "1852895432269234176",
+              "start": 15,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041312223642165584",
+        "in_reply_to_user_id": "1872886584292589570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041215804235214922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oliver1363958 @432Ifantrygroup 没必要跟这种人争辩，有学习能力的早考音乐学院了，而不是在这里发帖博同情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 2832,
+          "like_count": 19963,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 5230
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T14:59:15.000Z",
+        "description": "",
+        "id": "1687115860358627328",
+        "name": "无敌贝利亚大王（二次重生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002987571820072961/zA9iizbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 183
+        },
+        "username": "Calypso04844716",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T06:05:45.000Z",
+        "description": "我是中国人，港澳台都是中国的。\nI am Chinese.\nHongKong,China.Macau,China.Taiwan,China.",
+        "id": "1872886584292589570",
+        "name": "Oliver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890823739493003264/29hREVoB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 13,
+          "like_count": 2616,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 486
+        },
+        "username": "Oliver1363958",
+        "verified": false
+      }
+    ]
+  }
+}

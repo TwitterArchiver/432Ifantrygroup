@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034189097406021969",
+    "created_at": "2026-03-18T08:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034189492782006336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034189492782006336",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034189097406021969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 这叫adhd吗，我以为我就是单纯的蠢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034189047846047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrkKVLakAA36Fl.jpg",
+        "width": 1228
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034189047841927169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrkKVKbsAExF59.jpg",
+        "width": 1228
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034189047858704384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrkKVObsAAqww_.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034189097406021969",
+        "created_at": "2026-03-18T08:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034189492782006336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034189492782006336",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034189097406021969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 这叫adhd吗，我以为我就是单纯的蠢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034189047846047744",
+            "3_2034189047841927169",
+            "3_2034189047858704384"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "conversation_id": "2034189097406021969",
+        "created_at": "2026-03-18T08:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034189097406021969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "adhd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgLk7U0S0E",
+              "end": 34,
+              "expanded_url": "https://x.com/22wbxsx/status/2034189097406021969/photo/1",
+              "media_key": "3_2034189047846047744",
+              "start": 11,
+              "url": "https://t.co/SgLk7U0S0E"
+            },
+            {
+              "display_url": "pic.x.com/SgLk7U0S0E",
+              "end": 34,
+              "expanded_url": "https://x.com/22wbxsx/status/2034189097406021969/photo/1",
+              "media_key": "3_2034189047841927169",
+              "start": 11,
+              "url": "https://t.co/SgLk7U0S0E"
+            },
+            {
+              "display_url": "pic.x.com/SgLk7U0S0E",
+              "end": 34,
+              "expanded_url": "https://x.com/22wbxsx/status/2034189097406021969/photo/1",
+              "media_key": "3_2034189047858704384",
+              "start": 11,
+              "url": "https://t.co/SgLk7U0S0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034189097406021969",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❤️‍🩹 #adhd https://t.co/SgLk7U0S0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 2374,
+          "like_count": 7882,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 2014
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "老子不厌男不厌女不媚男不媚女 谁也别想来管我",
+        "id": "1788642156111863808",
+        "name": "22",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032021475994320898/hdF5dHmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 292,
+          "like_count": 12931,
+          "listed_count": 1,
+          "media_count": 1123,
+          "tweet_count": 8381
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

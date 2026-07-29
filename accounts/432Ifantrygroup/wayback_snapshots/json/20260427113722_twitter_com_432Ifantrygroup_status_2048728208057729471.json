@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048721620316098627",
+    "created_at": "2026-04-27T11:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048728208057729471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970921429010087941",
+          "start": 0,
+          "username": "AirWiaAir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048728208057729471",
+    "in_reply_to_user_id": "1970921429010087941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048721739799277657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AirWiaAir 没有呀🤗🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048721620316098627",
+        "created_at": "2026-04-27T11:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048728208057729471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970921429010087941",
+              "start": 0,
+              "username": "AirWiaAir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048728208057729471",
+        "in_reply_to_user_id": "1970921429010087941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048721739799277657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirWiaAir 没有呀🤗🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970921429010087941",
+        "conversation_id": "2048721620316098627",
+        "created_at": "2026-04-27T11:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048721739799277657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048721739799277657",
+        "in_reply_to_user_id": "1970921429010087941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048721620316098627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "手臂好粗我该少吃点了Orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048703129471029448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 3364,
+          "like_count": 28997,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 7724
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T18:42:11.000Z",
+        "description": "",
+        "id": "1970921429010087941",
+        "name": "凜冬的長青樹",
+        "pinned_tweet_id": "2041377794912059865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016339692372033538/65f5IrcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 135,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 442
+        },
+        "username": "AirWiaAir",
+        "verified": false
+      }
+    ]
+  }
+}

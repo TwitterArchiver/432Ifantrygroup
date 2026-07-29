@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074303611044040704"
+      ],
+      "media_source_tweet_id": [
+        "2074303619097059589"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2074314382948131017",
+    "created_at": "2026-07-07T02:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074314382948131017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1573402865372200967",
+          "start": 3,
+          "username": "monsterfutball"
+        },
+        {
+          "end": 28,
+          "id": "1138458175663988738",
+          "start": 20,
+          "username": "PopBase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9QZmJrxYWp",
+          "end": 101,
+          "expanded_url": "https://x.com/monsterfutball/status/2074303619097059589/photo/1",
+          "media_key": "3_2074303611044040704",
+          "start": 78,
+          "url": "https://t.co/9QZmJrxYWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074314382948131017",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074303619097059589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @monsterfutball: @PopBase We go again Beligium, the corrupt are going home https://t.co/9QZmJrxYWp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2074303611044040704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMloJOSXEAA3gmD.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074303611044040704"
+          ],
+          "media_source_tweet_id": [
+            "2074303619097059589"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2074314382948131017",
+        "created_at": "2026-07-07T02:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074314382948131017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1573402865372200967",
+              "start": 3,
+              "username": "monsterfutball"
+            },
+            {
+              "end": 28,
+              "id": "1138458175663988738",
+              "start": 20,
+              "username": "PopBase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QZmJrxYWp",
+              "end": 101,
+              "expanded_url": "https://x.com/monsterfutball/status/2074303619097059589/photo/1",
+              "media_key": "3_2074303611044040704",
+              "start": 78,
+              "url": "https://t.co/9QZmJrxYWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074314382948131017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074303619097059589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @monsterfutball: @PopBase We go again Beligium, the corrupt are going home https://t.co/9QZmJrxYWp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074303611044040704"
+          ]
+        },
+        "author_id": "1573402865372200967",
+        "conversation_id": "2074302702688100781",
+        "created_at": "2026-07-07T01:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074303619097059589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1138458175663988738",
+              "start": 0,
+              "username": "PopBase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QZmJrxYWp",
+              "end": 81,
+              "expanded_url": "https://x.com/monsterfutball/status/2074303619097059589/photo/1",
+              "media_key": "3_2074303611044040704",
+              "start": 58,
+              "url": "https://t.co/9QZmJrxYWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074303619097059589",
+        "in_reply_to_user_id": "1138458175663988738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7298,
+          "like_count": 360,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074302702688100781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopBase We go again Beligium, the corrupt are going home https://t.co/9QZmJrxYWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 4228,
+          "like_count": 45288,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13119
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T20:04:35.000Z",
+        "description": "Your daily dose of football truths that nobody wants to hear. Join the community at @monsterfutball👹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "monsterfutball"
+              }
+            ]
+          }
+        },
+        "id": "1573402865372200967",
+        "name": "Monster Football",
+        "pinned_tweet_id": "2067345309345226981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869403591321985024/Mq6JYzqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4141,
+          "following_count": 1537,
+          "like_count": 25414,
+          "listed_count": 4,
+          "media_count": 6210,
+          "tweet_count": 16031
+        },
+        "url": "",
+        "username": "monsterfutball",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T14:49:15.000Z",
+        "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4971088,
+          "following_count": 2679,
+          "like_count": 3835,
+          "listed_count": 5194,
+          "media_count": 75096,
+          "tweet_count": 91963
+        },
+        "url": "",
+        "username": "PopBase",
+        "verified": true
+      }
+    ]
+  }
+}

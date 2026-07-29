@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061390880452546630",
+    "created_at": "2026-06-01T10:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061392499520999440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825605856064581632",
+          "start": 0,
+          "username": "Neko_Ju1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061392499520999440",
+    "in_reply_to_user_id": "1825605856064581632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061390880452546630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_Ju1008 另一个世界，那是什么呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061390880452546630",
+        "created_at": "2026-06-01T10:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061392499520999440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825605856064581632",
+              "start": 0,
+              "username": "Neko_Ju1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061392499520999440",
+        "in_reply_to_user_id": "1825605856064581632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061390880452546630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_Ju1008 另一个世界，那是什么呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825605856064581632",
+        "conversation_id": "2061390880452546630",
+        "created_at": "2026-06-01T10:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061390880452546630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061390880452546630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我们在一起吧——\n在另一个世界里\n我们会幸福的\n对吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 4002,
+          "like_count": 41170,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 11468
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T18:49:07.000Z",
+        "description": "或许我们已经和很多人见完了此生的最后一面，但真正重要的角色，一定会在生命中的某个时间再次相遇。\n​\n​——心理鸭Psyqualogy",
+        "id": "1825605856064581632",
+        "name": "北冰洋与尼罗河",
+        "pinned_tweet_id": "2002768691600228795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996876990520127488/ziDIkyv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 48,
+          "like_count": 5578,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1394
+        },
+        "username": "Neko_Ju1008",
+        "verified": false
+      }
+    ]
+  }
+}

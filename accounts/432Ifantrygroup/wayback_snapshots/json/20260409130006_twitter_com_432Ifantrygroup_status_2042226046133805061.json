@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2042226046133805061",
+    "created_at": "2026-04-09T13:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042226046133805061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sunset__3000/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Sunset__3000/status/2042196276469784930",
+          "start": 22,
+          "url": "https://t.co/CezpKQHs9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042226046133805061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042196276469784930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这位张警官长得好像张维维。建议做个亲子鉴定 https://t.co/CezpKQHs9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042196273978376194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdWsPAbgAIOeR-.jpg",
+        "width": 1082
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042196274129367040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdWsPkbcAAndf0.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2042226046133805061",
+        "created_at": "2026-04-09T13:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042226046133805061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sunset__3000/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Sunset__3000/status/2042196276469784930",
+              "start": 22,
+              "url": "https://t.co/CezpKQHs9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042226046133805061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042196276469784930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位张警官长得好像张维维。建议做个亲子鉴定 https://t.co/CezpKQHs9I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042196273978376194",
+            "3_2042196274129367040"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "conversation_id": "2042196276469784930",
+        "created_at": "2026-04-09T11:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042196276469784930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eqtdoBeJEg",
+              "end": 56,
+              "expanded_url": "https://x.com/Sunset__3000/status/2042196276469784930/photo/1",
+              "media_key": "3_2042196273978376194",
+              "start": 33,
+              "url": "https://t.co/eqtdoBeJEg"
+            },
+            {
+              "display_url": "pic.x.com/eqtdoBeJEg",
+              "end": 56,
+              "expanded_url": "https://x.com/Sunset__3000/status/2042196276469784930/photo/1",
+              "media_key": "3_2042196274129367040",
+              "start": 33,
+              "url": "https://t.co/eqtdoBeJEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042196276469784930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1753,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "遇到说od＝吸毒的神人可以拿出这个，张警官亲口帮我们反驳捏😁😁😁 https://t.co/eqtdoBeJEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042110335428202840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 2876,
+          "like_count": 21135,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 5529
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 437,
+          "like_count": 2544,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 570
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040693977272430651",
+    "created_at": "2026-04-05T07:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040693977272430651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SeYU1eScwt5205…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/SeYU1eScwt52054/status/2040301447091462276",
+          "start": 9,
+          "url": "https://t.co/UoHzuhgCxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040693977272430651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040301447091462276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出个胡辣汤味的吧 https://t.co/UoHzuhgCxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040301437918543872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCbWQnagAAf2fM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040693977272430651",
+        "created_at": "2026-04-05T07:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040693977272430651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SeYU1eScwt5205…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/SeYU1eScwt52054/status/2040301447091462276",
+              "start": 9,
+              "url": "https://t.co/UoHzuhgCxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040693977272430651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040301447091462276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出个胡辣汤味的吧 https://t.co/UoHzuhgCxm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040301437918543872"
+          ]
+        },
+        "author_id": "1664120419711074304",
+        "conversation_id": "2040301447091462276",
+        "created_at": "2026-04-04T05:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040301447091462276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eweREi1IOX",
+              "end": 36,
+              "expanded_url": "https://x.com/SeYU1eScwt52054/status/2040301447091462276/photo/1",
+              "media_key": "3_2040301437918543872",
+              "start": 13,
+              "url": "https://t.co/eweREi1IOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040301447091462276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 69238,
+          "like_count": 390,
+          "quote_count": 45,
+          "reply_count": 95,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "这个有点太刺激了我说真的 https://t.co/eweREi1IOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 2742,
+          "like_count": 18756,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4862
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T04:03:36.000Z",
+        "description": "我有病看不惯我就去死｜🚪520｜发着玩",
+        "id": "1664120419711074304",
+        "location": "南京",
+        "name": "悲伤的前妻",
+        "pinned_tweet_id": "1996073455012511901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037754539626106880/IYGut5oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6677,
+          "following_count": 94,
+          "like_count": 11067,
+          "listed_count": 6,
+          "media_count": 863,
+          "tweet_count": 9397
+        },
+        "username": "SeYU1eScwt52054",
+        "verified": false
+      }
+    ]
+  }
+}

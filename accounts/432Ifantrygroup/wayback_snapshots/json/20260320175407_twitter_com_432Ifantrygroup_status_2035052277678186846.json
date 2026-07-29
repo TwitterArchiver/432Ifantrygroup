@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035048355144114478",
+    "created_at": "2026-03-20T17:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T18:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035052277678186846"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035052277678186846",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035048355144114478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到主人一大串的碎碎念我的心也要碎了💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035048355144114478",
+        "created_at": "2026-03-20T17:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035052277678186846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035052277678186846",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035048355144114478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到主人一大串的碎碎念我的心也要碎了💔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035048355144114478",
+        "created_at": "2026-03-20T17:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T18:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035048355144114478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IYo3oo/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/IYo3oo/status/2034806307627442506",
+              "start": 12,
+              "url": "https://t.co/lMdEnh7oIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035048355144114478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034806307627442506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🕯️🕯️🕯️\n小猫安息 https://t.co/lMdEnh7oIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035039695928008831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2485,
+          "like_count": 9078,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2395
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034175707623137563",
+    "created_at": "2026-04-08T16:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041913002040160377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804167097255387136",
+          "start": 0,
+          "username": "8964qwertyuiop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041913002040160377",
+    "in_reply_to_user_id": "1804167097255387136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041911161717977590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964qwertyuiop 明天我打美系，今天苏系第三颗打完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034175707623137563",
+        "created_at": "2026-04-08T16:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041913002040160377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804167097255387136",
+              "start": 0,
+              "username": "8964qwertyuiop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041913002040160377",
+        "in_reply_to_user_id": "1804167097255387136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041911161717977590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964qwertyuiop 明天我打美系，今天苏系第三颗打完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804167097255387136",
+        "conversation_id": "2034175707623137563",
+        "created_at": "2026-04-08T16:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041911161717977590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041911161717977590",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034175707623137563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 主包，可以一起玩原子雷霆吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041758922651136322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 2870,
+          "like_count": 20820,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 5454
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:59:54.000Z",
+        "description": "保守主义去死",
+        "id": "1804167097255387136",
+        "location": "中国",
+        "name": "fuckChina🇵🇸🇨🇺（我是左派）",
+        "pinned_tweet_id": "1964728627448480180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804167567785017344/ZEAqVZfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 3904,
+          "like_count": 33040,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 882
+        },
+        "username": "8964qwertyuiop",
+        "verified": false
+      }
+    ]
+  }
+}

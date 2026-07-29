@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059578796030996480"
+      ],
+      "media_source_tweet_id": [
+        "2059578801676566587"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059581942585286791",
+    "created_at": "2026-05-27T10:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059581942585286791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAoSJqbmju",
+          "end": 57,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2059578801676566587/photo/1",
+          "media_key": "3_2059578796030996480",
+          "start": 34,
+          "url": "https://t.co/qAoSJqbmju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059581942585286791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059578801676566587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 云南省西双版纳傣族自治州 https://t.co/qAoSJqbmju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059578796030996480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUYALxasAAUZmB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059578796030996480"
+          ],
+          "media_source_tweet_id": [
+            "2059578801676566587"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059581942585286791",
+        "created_at": "2026-05-27T10:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059581942585286791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAoSJqbmju",
+              "end": 57,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059578801676566587/photo/1",
+              "media_key": "3_2059578796030996480",
+              "start": 34,
+              "url": "https://t.co/qAoSJqbmju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059581942585286791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059578801676566587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 云南省西双版纳傣族自治州 https://t.co/qAoSJqbmju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059578796030996480"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059578801676566587",
+        "created_at": "2026-05-27T10:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059578801676566587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAoSJqbmju",
+              "end": 36,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059578801676566587/photo/1",
+              "media_key": "3_2059578796030996480",
+              "start": 13,
+              "url": "https://t.co/qAoSJqbmju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059578801676566587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "云南省西双版纳傣族自治州 https://t.co/qAoSJqbmju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059548405635153933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 3917,
+          "like_count": 39066,
+          "listed_count": 4,
+          "media_count": 430,
+          "tweet_count": 10818
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

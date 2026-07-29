@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033163823373484032",
+        "3_2033163821007949824"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2033163843854315875",
+    "created_at": "2026-03-15T12:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033163843854315875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dBM2Jo4QVR",
+          "end": 41,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2033163843854315875/photo/1",
+          "media_key": "3_2033163823373484032",
+          "start": 18,
+          "url": "https://t.co/dBM2Jo4QVR"
+        },
+        {
+          "display_url": "pic.x.com/dBM2Jo4QVR",
+          "end": 41,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2033163843854315875/photo/1",
+          "media_key": "3_2033163821007949824",
+          "start": 18,
+          "url": "https://t.co/dBM2Jo4QVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033163843854315875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以我为鉴，正告各位，骑车不能看手机 https://t.co/dBM2Jo4QVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033163823373484032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc_uaZaAAASoWx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033163821007949824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDc_uRla0AALx3R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033163823373484032",
+            "3_2033163821007949824"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2033163843854315875",
+        "created_at": "2026-03-15T12:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033163843854315875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBM2Jo4QVR",
+              "end": 41,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2033163843854315875/photo/1",
+              "media_key": "3_2033163823373484032",
+              "start": 18,
+              "url": "https://t.co/dBM2Jo4QVR"
+            },
+            {
+              "display_url": "pic.x.com/dBM2Jo4QVR",
+              "end": 41,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2033163843854315875/photo/1",
+              "media_key": "3_2033163821007949824",
+              "start": 18,
+              "url": "https://t.co/dBM2Jo4QVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033163843854315875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以我为鉴，正告各位，骑车不能看手机 https://t.co/dBM2Jo4QVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 2305,
+          "like_count": 6940,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1739
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

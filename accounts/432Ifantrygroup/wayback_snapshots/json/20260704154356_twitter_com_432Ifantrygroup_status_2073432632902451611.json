@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073394358649602048"
+      ],
+      "media_source_tweet_id": [
+        "2073394434520350768"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073432632902451611",
+    "created_at": "2026-07-04T15:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073432632902451611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4KFnAvQqdt",
+          "end": 81,
+          "expanded_url": "https://x.com/Paramjitt/status/2073394434520350768/photo/1",
+          "media_key": "3_2073394358649602048",
+          "start": 58,
+          "url": "https://t.co/4KFnAvQqdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073432632902451611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073394434520350768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: 你们好这里16.霖，互关寻回求转🙏🏻🙏🏻😭🙏🏻😭🙏🏻😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻😭😭😭 https://t.co/4KFnAvQqdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2073394358649602048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYtLxKbwAAdlDK.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073394358649602048"
+          ],
+          "media_source_tweet_id": [
+            "2073394434520350768"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073432632902451611",
+        "created_at": "2026-07-04T15:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073432632902451611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KFnAvQqdt",
+              "end": 81,
+              "expanded_url": "https://x.com/Paramjitt/status/2073394434520350768/photo/1",
+              "media_key": "3_2073394358649602048",
+              "start": 58,
+              "url": "https://t.co/4KFnAvQqdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073432632902451611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073394434520350768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: 你们好这里16.霖，互关寻回求转🙏🏻🙏🏻😭🙏🏻😭🙏🏻😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻😭😭😭 https://t.co/4KFnAvQqdt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073394358649602048"
+          ]
+        },
+        "author_id": "162974851",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073394434520350768",
+        "created_at": "2026-07-04T13:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073394434520350768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KFnAvQqdt",
+              "end": 66,
+              "expanded_url": "https://x.com/Paramjitt/status/2073394434520350768/photo/1",
+              "media_key": "3_2073394358649602048",
+              "start": 43,
+              "url": "https://t.co/4KFnAvQqdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073394434520350768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你们好这里16.霖，互关寻回求转🙏🏻🙏🏻😭🙏🏻😭🙏🏻😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻😭😭😭 https://t.co/4KFnAvQqdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 4236,
+          "like_count": 45237,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13083
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 9,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 311,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

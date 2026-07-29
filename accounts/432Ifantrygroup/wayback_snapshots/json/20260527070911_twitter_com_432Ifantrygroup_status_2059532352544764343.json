@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2057855256663613639",
+    "created_at": "2026-05-27T07:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059532352544764343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956724571475947520",
+          "start": 0,
+          "username": "Dqy2jl79EO72974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059532352544764343",
+    "in_reply_to_user_id": "1956724571475947520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057855256663613639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dqy2jl79EO72974 老师现在就很好看呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10750,
+        "height": 1270,
+        "media_key": "7_2057855085586313216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057855085586313216/pu/img/n4621lEVowOcYNog.jpg",
+        "public_metrics": {
+          "view_count": 316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057855085586313216/pu/vid/avc1/320x564/eYnr6Dk_fjgL9TfO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057855085586313216/pu/vid/avc1/480x846/v9qPfHS4kmfJeWjl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057855085586313216/pu/vid/avc1/720x1270/weMjBID-j1sp5H-m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057855085586313216/pu/pl/Ja7ODwGLNyp5lJ-u.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057855256663613639",
+        "created_at": "2026-05-27T07:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059532352544764343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956724571475947520",
+              "start": 0,
+              "username": "Dqy2jl79EO72974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059532352544764343",
+        "in_reply_to_user_id": "1956724571475947520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057855256663613639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dqy2jl79EO72974 老师现在就很好看呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057855085586313216"
+          ]
+        },
+        "author_id": "1956724571475947520",
+        "conversation_id": "2057855256663613639",
+        "created_at": "2026-05-22T16:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057855256663613639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URzRgkjYJD",
+              "end": 54,
+              "expanded_url": "https://x.com/Dqy2jl79EO72974/status/2057855256663613639/video/1",
+              "media_key": "7_2057855085586313216",
+              "start": 31,
+              "url": "https://t.co/URzRgkjYJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057855256663613639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 850,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想等我去死的那一天。打扮的好看点。穿上自己喜欢的衣服再走。 https://t.co/URzRgkjYJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059474100775747904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 3912,
+          "like_count": 38984,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 10786
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:28:37.000Z",
+        "description": "我們吞咽了太多意義忘記了生命只需要呼吸",
+        "id": "1956724571475947520",
+        "name": "不言",
+        "pinned_tweet_id": "2057855256663613639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041946258483638274/qIGMJJbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 432,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 427
+        },
+        "username": "Dqy2jl79EO72974",
+        "verified": false
+      }
+    ]
+  }
+}

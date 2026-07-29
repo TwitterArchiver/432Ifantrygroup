@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059549979858067492",
+    "created_at": "2026-05-27T08:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059549979858067492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1420962557897035781",
+          "start": 3,
+          "username": "shrinkviolet77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059549979858067492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059532156704342198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shrinkviolet77: 中国有很多普遍的行为实质上完全能认定为对婴幼儿的性侵。比如那种把镜头怼在男婴生殖器上的照片到处发的，以及各种不孕不育医院的裸体婴儿广告。很多中老年还时不时就要上手摸一下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059549979858067492",
+        "created_at": "2026-05-27T08:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059549979858067492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1420962557897035781",
+              "start": 3,
+              "username": "shrinkviolet77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059549979858067492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059532156704342198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shrinkviolet77: 中国有很多普遍的行为实质上完全能认定为对婴幼儿的性侵。比如那种把镜头怼在男婴生殖器上的照片到处发的，以及各种不孕不育医院的裸体婴儿广告。很多中老年还时不时就要上手摸一下。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "2059532156704342198",
+        "created_at": "2026-05-27T07:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059532156704342198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059532156704342198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国有很多普遍的行为实质上完全能认定为对婴幼儿的性侵。比如那种把镜头怼在男婴生殖器上的照片到处发的，以及各种不孕不育医院的裸体婴儿广告。很多中老年还时不时就要上手摸一下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059548405635153933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 3915,
+          "like_count": 39038,
+          "listed_count": 4,
+          "media_count": 429,
+          "tweet_count": 10804
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 123,
+          "like_count": 43674,
+          "listed_count": 1,
+          "media_count": 552,
+          "tweet_count": 16389
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

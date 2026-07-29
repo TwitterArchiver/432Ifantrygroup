@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1901929082771616251",
+    "created_at": "2025-03-18T16:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902030256170815548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1571484780050407424",
+          "start": 0,
+          "username": "kwi_cattt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902030256170815548",
+    "in_reply_to_user_id": "1571484780050407424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901929082771616251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwi_cattt 应该。不要寄希望于让推特上的人共情你，上推特的精神有几个正常的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1901929082771616251",
+        "created_at": "2025-03-18T16:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902030256170815548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571484780050407424",
+              "start": 0,
+              "username": "kwi_cattt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902030256170815548",
+        "in_reply_to_user_id": "1571484780050407424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901929082771616251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwi_cattt 应该。不要寄希望于让推特上的人共情你，上推特的精神有几个正常的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571484780050407424",
+        "conversation_id": "1901929082771616251",
+        "created_at": "2025-03-18T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901929082771616251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901929082771616251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2814,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在是不是应该搁简介里加上我是精神病别拿正常人的标准要求我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "搞抽象的哈",
+        "id": "1852895432269234176",
+        "name": "日月山河永在",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1013,
+          "like_count": 2336,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 80
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T13:02:29.000Z",
+        "description": "白茫茫一片大地真干净 | 血图@ivy_falling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "ivy_falling"
+              }
+            ]
+          }
+        },
+        "id": "1571484780050407424",
+        "location": "北欧",
+        "name": "薄荷加特林",
+        "pinned_tweet_id": "1900236686313087372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886295551526027264/M__bIICb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 120,
+          "like_count": 259,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 4179
+        },
+        "username": "kwi_cattt",
+        "verified": false
+      }
+    ]
+  }
+}

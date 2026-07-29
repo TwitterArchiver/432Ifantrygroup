@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+          "id": "955547826368344064",
+          "name": "Violence & safety in Brazil"
+        }
+      }
+    ],
+    "conversation_id": "2062237347258024031",
+    "created_at": "2026-06-03T18:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062237347258024031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1876290301452521472",
+          "start": 3,
+          "username": "SolOveginn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062237347258024031",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062001729235718419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SolOveginn: Gente, e se a gente votasse em pessoas boas nessa eleição? Só uma ideia que me surgiu aqui"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062237347258024031",
+        "created_at": "2026-06-03T18:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062237347258024031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1876290301452521472",
+              "start": 3,
+              "username": "SolOveginn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062237347258024031",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062001729235718419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SolOveginn: Gente, e se a gente votasse em pessoas boas nessa eleição? Só uma ideia que me surgiu aqui"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876290301452521472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062001729235718419",
+        "created_at": "2026-06-03T02:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062001729235718419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/analise2025/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/analise2025/status/2061947762048917718",
+              "start": 91,
+              "url": "https://t.co/6uTo5Y7zAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062001729235718419",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 57789,
+          "like_count": 6786,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 1235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061947762048917718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gente, e se a gente votasse em pessoas boas nessa eleição? Só uma ideia que me surgiu aqui https://t.co/6uTo5Y7zAl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 41995,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11715
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T15:31:10.000Z",
+        "description": "– Be not afraid \n\nEu sou literalmente o sol.\n\nGente, eu sou homem.\n\nMade in RJ.\n \nI use arch, btw \n\n💍⚣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/solosigdrr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/solosigdrr",
+                "start": 0,
+                "url": "https://t.co/V8ZuOvpXt8"
+              }
+            ]
+          }
+        },
+        "id": "1876290301452521472",
+        "location": "ele/dele - 19y ☀︎",
+        "name": "Sól",
+        "pinned_tweet_id": "2055723555136913545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060218070556110854/yUA_BfUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 463,
+          "like_count": 29663,
+          "listed_count": 1,
+          "media_count": 2228,
+          "tweet_count": 14008
+        },
+        "url": "https://t.co/V8ZuOvpXt8",
+        "username": "SolOveginn",
+        "verified": false
+      }
+    ]
+  }
+}

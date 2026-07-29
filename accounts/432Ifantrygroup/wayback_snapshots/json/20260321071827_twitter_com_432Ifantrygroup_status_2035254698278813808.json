@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035094319258915004",
+    "created_at": "2026-03-21T07:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035254698278813808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3195245890",
+          "start": 0,
+          "username": "ron_eisele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035254698278813808",
+    "in_reply_to_user_id": "3195245890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035094319258915004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ron_eisele 我不能理解当时德国空军的决策者为什么会让人类历史上第一种投入实战的喷气式飞机执行这种对地攻击任务"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_959139697908908032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DU-MeTfWAAA0qtP.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035094319258915004",
+        "created_at": "2026-03-21T07:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035254698278813808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3195245890",
+              "start": 0,
+              "username": "ron_eisele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035254698278813808",
+        "in_reply_to_user_id": "3195245890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035094319258915004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ron_eisele 我不能理解当时德国空军的决策者为什么会让人类历史上第一种投入实战的喷气式飞机执行这种对地攻击任务"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_959139697908908032"
+          ],
+          "media_source_tweet_id": [
+            "959139707719385089"
+          ]
+        },
+        "author_id": "3195245890",
+        "conversation_id": "2035094319258915004",
+        "created_at": "2026-03-20T20:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T21:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035094319258915004"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Rheinmetall",
+              "probability": 0.5522,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OlKZ8EFgED",
+              "end": 77,
+              "expanded_url": "https://x.com/ron_eisele/status/959139707719385089/photo/1",
+              "media_key": "3_959139697908908032",
+              "start": 54,
+              "url": "https://t.co/OlKZ8EFgED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035094319258915004",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2753,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Me262 V083 with a 50mm Rheinmetall Mauser BK 5 cannon https://t.co/OlKZ8EFgED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2504,
+          "like_count": 9308,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2470
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-22T16:06:46.000Z",
+        "description": "Author. Early aviation historian, enthusiast and aviator.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.uk/Ron-Eisele/e/B…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.uk/Ron-Eisele/e/B00VEZMAOY/ref=ntt_dp_epwbk_0",
+                "start": 0,
+                "url": "https://t.co/MqBpP2si0G"
+              }
+            ]
+          }
+        },
+        "id": "3195245890",
+        "location": "Eastbourne, Sussex, England",
+        "name": "Ron Eisele",
+        "pinned_tweet_id": "2007885604537901243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/783339924313534464/dvAe5r4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67077,
+          "following_count": 558,
+          "like_count": 49833,
+          "listed_count": 514,
+          "media_count": 245373,
+          "tweet_count": 261852
+        },
+        "url": "https://t.co/MqBpP2si0G",
+        "username": "ron_eisele",
+        "verified": false
+      }
+    ]
+  }
+}

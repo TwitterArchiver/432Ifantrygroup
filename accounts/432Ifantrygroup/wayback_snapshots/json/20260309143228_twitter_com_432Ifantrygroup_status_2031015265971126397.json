@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2030866133952389261",
+    "created_at": "2026-03-09T14:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031015265971126397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "927097021051289600",
+          "start": 0,
+          "username": "SfWQHlDaMmjWPsj"
+        },
+        {
+          "end": 32,
+          "id": "912623216899715072",
+          "start": 17,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031015265971126397",
+    "in_reply_to_user_id": "927097021051289600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031012954620199214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SfWQHlDaMmjWPsj @Xianzhong_1953 你智慧。\n“六代机、5g的背后是工业体系和大量一般理科生。你举的这些思想背后是权力体系不依靠大量一般文科生。”\n我把话题拐到考公上，意思就是这段结论就是你自己臆想出来的，无由无据。不过既然你深信不疑，“一想到正在试飞的六代机，即使是野鸡三本的理科生也不由得挺起了胸膛”，那我祝福你不就得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2030866133952389261",
+        "created_at": "2026-03-09T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031015265971126397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "927097021051289600",
+              "start": 0,
+              "username": "SfWQHlDaMmjWPsj"
+            },
+            {
+              "end": 32,
+              "id": "912623216899715072",
+              "start": 17,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031015265971126397",
+        "in_reply_to_user_id": "927097021051289600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031012954620199214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SfWQHlDaMmjWPsj @Xianzhong_1953 你智慧。\n“六代机、5g的背后是工业体系和大量一般理科生。你举的这些思想背后是权力体系不依靠大量一般文科生。”\n我把话题拐到考公上，意思就是这段结论就是你自己臆想出来的，无由无据。不过既然你深信不疑，“一想到正在试飞的六代机，即使是野鸡三本的理科生也不由得挺起了胸膛”，那我祝福你不就得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "927097021051289600",
+        "conversation_id": "2030866133952389261",
+        "created_at": "2026-03-09T14:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031012954620199214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 32,
+              "id": "912623216899715072",
+              "start": 17,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031012954620199214",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031011973270479215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @Xianzhong_1953 我本来不想说的，因为我自始至终就是这个意思，没想到你蠢成这样这都看不出来。至于学医，我说的是文科教育废物。医学不在我的讨论范围。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男，汉族。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2030638745322750332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 8,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 839
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T08:55:29.000Z",
+        "description": "",
+        "id": "927097021051289600",
+        "name": "FFT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/927758922001342464/2ukleTC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 132,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 148
+        },
+        "username": "SfWQHlDaMmjWPsj",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108278,
+          "following_count": 820,
+          "like_count": 256046,
+          "listed_count": 353,
+          "media_count": 23815,
+          "tweet_count": 46437
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

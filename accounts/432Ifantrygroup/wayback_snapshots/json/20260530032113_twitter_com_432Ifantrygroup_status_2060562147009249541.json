@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060562147009249541",
+    "created_at": "2026-05-30T03:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060562147009249541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "637143339",
+          "start": 3,
+          "username": "SoyDaniloDiaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060562147009249541",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1710
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060354891277594728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SoyDaniloDiaz: Amo que nuestra generación rompió el estereotipo de que si te tatúas, no consigues trabajo; ahora nadie consigue trabajo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060562147009249541",
+        "created_at": "2026-05-30T03:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060562147009249541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "637143339",
+              "start": 3,
+              "username": "SoyDaniloDiaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060562147009249541",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1710
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060354891277594728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SoyDaniloDiaz: Amo que nuestra generación rompió el estereotipo de que si te tatúas, no consigues trabajo; ahora nadie consigue trabajo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "637143339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2060354891277594728",
+        "created_at": "2026-05-29T13:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060354891277594728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060354891277594728",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 124221,
+          "like_count": 15740,
+          "quote_count": 41,
+          "reply_count": 67,
+          "retweet_count": 1710
+        },
+        "reply_settings": "everyone",
+        "text": "Amo que nuestra generación rompió el estereotipo de que si te tatúas, no consigues trabajo; ahora nadie consigue trabajo, estés tatuado o no."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060427736322351606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 3989,
+          "like_count": 40546,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 11279
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-16T15:42:01.000Z",
+        "description": "De todo un poco... humor tonto para gente tonta, digo inteligente...😂😂😂\nSolo quiero sacarte una sonrisa...😉😊 Adm #ElDiazTeam",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 113,
+                "tag": "ElDiazTeam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soydanilodiaz/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soydanilodiaz/",
+                "start": 0,
+                "url": "https://t.co/B7CUATJRlq"
+              }
+            ]
+          }
+        },
+        "id": "637143339",
+        "location": "Colombia",
+        "name": "El Diaz",
+        "pinned_tweet_id": "1874587028492525854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849458549560168448/jpZyd9l3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34874,
+          "following_count": 3119,
+          "like_count": 324906,
+          "listed_count": 72,
+          "media_count": 3845,
+          "tweet_count": 10433
+        },
+        "url": "https://t.co/B7CUATJRlq",
+        "username": "SoyDaniloDiaz",
+        "verified": false
+      }
+    ]
+  }
+}

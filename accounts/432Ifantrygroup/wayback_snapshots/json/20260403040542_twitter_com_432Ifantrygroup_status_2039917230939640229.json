@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2039568777621500255",
+    "created_at": "2026-04-03T04:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039917230939640229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2916917561",
+          "start": 0,
+          "username": "SamYangAus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039917230939640229",
+    "in_reply_to_user_id": "2916917561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039915312183972009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamYangAus 就像我们比较熟悉的高考，高考其实是取排名而不是取分数，也就是说假如所有人都考600分以上，那么照样会有上大专的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2039568777621500255",
+        "created_at": "2026-04-03T04:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039917230939640229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2916917561",
+              "start": 0,
+              "username": "SamYangAus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039917230939640229",
+        "in_reply_to_user_id": "2916917561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039915312183972009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamYangAus 就像我们比较熟悉的高考，高考其实是取排名而不是取分数，也就是说假如所有人都考600分以上，那么照样会有上大专的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916917561",
+        "conversation_id": "2039568777621500255",
+        "created_at": "2026-04-03T03:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039915312183972009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039915312183972009",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039914618232119469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 哦。也就是说，单就价值观的个人这部分，你其实跟你所批判的观点是基本一致的。你之所以反对是因为这个观点跟你价值观的社会/公众部分相抵触，对吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2039150831120130134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 2714,
+          "like_count": 17739,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4617
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 16,
+          "media_count": 167,
+          "tweet_count": 16863
+        },
+        "username": "SamYangAus",
+        "verified": false
+      }
+    ]
+  }
+}

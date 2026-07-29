@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2012755936599773304",
+    "created_at": "2026-01-19T01:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T02:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013056783036686454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596428281",
+          "start": 0,
+          "username": "BoDiplo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013056783036686454",
+    "in_reply_to_user_id": "1596428281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012755936599773304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoDiplo 有没有可能外国也有自媒体"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2012755589072388096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6-i1JXgAA-9kZ.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2012755936599773304",
+        "created_at": "2026-01-19T01:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T02:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013056783036686454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596428281",
+              "start": 0,
+              "username": "BoDiplo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013056783036686454",
+        "in_reply_to_user_id": "1596428281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012755936599773304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoDiplo 有没有可能外国也有自媒体"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012755589072388096"
+          ]
+        },
+        "author_id": "1596428281",
+        "conversation_id": "2012755936599773304",
+        "created_at": "2026-01-18T05:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:15:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012755591991640198",
+          "2012755936599773304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1hLGkrIKJ",
+              "end": 100,
+              "expanded_url": "https://x.com/BoDiplo/status/2012755936599773304/photo/1",
+              "media_key": "3_2012755589072388096",
+              "start": 77,
+              "url": "https://t.co/Z1hLGkrIKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012755936599773304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 53465,
+          "like_count": 730,
+          "quote_count": 10,
+          "reply_count": 58,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵，奇怪嘛？😉\n由于在以色列境内的中国电车被发现向中国传输数据，甚至在连接手机充电时下载手机数据，以色列国防部已经禁止以色列国防军人员驾驶中国产电车。 https://t.co/Z1hLGkrIKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 1550,
+          "like_count": 2832,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 291
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-15T17:57:04.000Z",
+        "description": "苟全性命於亂世，不求聞達于諸侯。",
+        "id": "1596428281",
+        "location": "USA",
+        "name": "Dr. Bo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816834021747314689/eleqQfaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86216,
+          "following_count": 589,
+          "like_count": 24079,
+          "listed_count": 310,
+          "media_count": 3795,
+          "tweet_count": 24984
+        },
+        "username": "BoDiplo",
+        "verified": true
+      }
+    ]
+  }
+}

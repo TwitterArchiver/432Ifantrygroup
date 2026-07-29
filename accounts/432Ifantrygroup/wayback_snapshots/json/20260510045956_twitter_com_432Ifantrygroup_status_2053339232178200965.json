@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053339232178200965",
+    "created_at": "2026-05-10T04:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053339232178200965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053339232178200965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053338657734766777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 那当然了，我凭什么代表无产阶级啊。而且无产阶级并不是什么神圣的、代表正确和先进概念，它只是用于描述这个阶级状态的词而已，无产阶级内部也有矛盾，例如在公共场所抽烟的人和支持禁烟的人，我是后者。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053339232178200965",
+        "created_at": "2026-05-10T04:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053339232178200965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053339232178200965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053338657734766777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 那当然了，我凭什么代表无产阶级啊。而且无产阶级并不是什么神圣的、代表正确和先进概念，它只是用于描述这个阶级状态的词而已，无产阶级内部也有矛盾，例如在公共场所抽烟的人和支持禁烟的人，我是后者。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053338657734766777",
+        "created_at": "2026-05-10T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053338657734766777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nostraman6000/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/Nostraman6000/status/2053338105068114395",
+              "start": 96,
+              "url": "https://t.co/zzPJJ7TRty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053338657734766777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053338105068114395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那当然了，我凭什么代表无产阶级啊。而且无产阶级并不是什么神圣的、代表正确和先进概念，它只是用于描述这个阶级状态的词而已，无产阶级内部也有矛盾，例如在公共场所抽烟的人和支持禁烟的人，我是后者。 https://t.co/zzPJJ7TRty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 3712,
+          "like_count": 34556,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9223
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041302400544456789",
+    "created_at": "2026-04-07T12:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041489466901307412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697044283566833664",
+          "start": 0,
+          "username": "michel4062914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041489466901307412",
+    "in_reply_to_user_id": "1697044283566833664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041488704544645378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@michel4062914 最低刑责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041302400544456789",
+        "created_at": "2026-04-07T12:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041489466901307412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697044283566833664",
+              "start": 0,
+              "username": "michel4062914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041489466901307412",
+        "in_reply_to_user_id": "1697044283566833664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041488704544645378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@michel4062914 最低刑责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697044283566833664",
+        "conversation_id": "2041302400544456789",
+        "created_at": "2026-04-07T12:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041488704544645378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041488704544645378",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041302400544456789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 能问问为什么是12岁吗？\n感觉12岁还是太小了，16岁差不多🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 2838,
+          "like_count": 20080,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 5274
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T00:31:11.000Z",
+        "description": "",
+        "id": "1697044283566833664",
+        "location": "穴",
+        "name": "mi che l👣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697087216726790144/JP_a2t5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 310,
+          "like_count": 3645,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 211
+        },
+        "username": "michel4062914",
+        "verified": false
+      }
+    ]
+  }
+}

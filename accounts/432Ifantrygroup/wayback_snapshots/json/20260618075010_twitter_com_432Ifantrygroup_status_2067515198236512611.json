@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2065780740084613243",
+    "created_at": "2026-06-18T07:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067515198236512611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586348863274725376",
+          "start": 0,
+          "username": "ltngtngzi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067515198236512611",
+    "in_reply_to_user_id": "1586348863274725376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065780740084613243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ltngtngzi1 注意消毒呀老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065780724565762048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsgn7-XYAAbLm_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2065780740084613243",
+        "created_at": "2026-06-18T07:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067515198236512611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586348863274725376",
+              "start": 0,
+              "username": "ltngtngzi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067515198236512611",
+        "in_reply_to_user_id": "1586348863274725376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065780740084613243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltngtngzi1 注意消毒呀老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065780724565762048"
+          ]
+        },
+        "author_id": "1586348863274725376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065780740084613243",
+        "created_at": "2026-06-13T12:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065780740084613243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtN4kAdaSm",
+              "end": 29,
+              "expanded_url": "https://x.com/ltngtngzi1/status/2065780740084613243/photo/1",
+              "media_key": "3_2065780724565762048",
+              "start": 6,
+              "url": "https://t.co/JtN4kAdaSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065780740084613243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微量凉席印 https://t.co/JtN4kAdaSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 4120,
+          "like_count": 42574,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 12066
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T13:27:04.000Z",
+        "description": "休学中，精神状态不稳定喵，计划重开中https://t.co/9990Ifrzkj\n匿名版在这",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litang29115",
+                "end": 41,
+                "expanded_url": "https://ngl.link/litang29115",
+                "start": 18,
+                "url": "https://t.co/9990Ifrzkj"
+              }
+            ]
+          }
+        },
+        "id": "1586348863274725376",
+        "name": "蜜柚厚松饼",
+        "pinned_tweet_id": "2060255430866301320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942654619915804672/a5sJ_JPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 122,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1949
+        },
+        "url": "",
+        "username": "ltngtngzi1",
+        "verified": false
+      }
+    ]
+  }
+}

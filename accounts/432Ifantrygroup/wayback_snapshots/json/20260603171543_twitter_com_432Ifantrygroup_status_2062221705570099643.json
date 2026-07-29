@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062218914562764899",
+    "created_at": "2026-06-03T17:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062221705570099643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986715081963712512",
+          "start": 0,
+          "username": "qinche0418110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062221705570099643",
+    "in_reply_to_user_id": "1986715081963712512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062221077527547983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinche0418110 我天天很开心呀！我多希望大家也能天天开心😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062218914562764899",
+        "created_at": "2026-06-03T17:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062221705570099643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986715081963712512",
+              "start": 0,
+              "username": "qinche0418110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062221705570099643",
+        "in_reply_to_user_id": "1986715081963712512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062221077527547983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinche0418110 我天天很开心呀！我多希望大家也能天天开心😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986715081963712512",
+        "conversation_id": "2062218914562764899",
+        "created_at": "2026-06-03T17:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062221077527547983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062221077527547983",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062220226083905898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 没什么事的我割的都是真皮层不过还是谢谢你关心我祝你天天开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4014,
+          "like_count": 41914,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 11669
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T08:39:22.000Z",
+        "description": "刺穿我枯瘠的胸膛,剖开我糜烂的心脏",
+        "id": "1986715081963712512",
+        "location": "约兰",
+        "name": "致幻毒药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061336350067167232/GDN4G4_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 67,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 303
+        },
+        "username": "qinche0418110",
+        "verified": false
+      }
+    ]
+  }
+}

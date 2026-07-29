@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043334152062443521",
+        "3_2043334152611897344"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043334168097292497",
+    "created_at": "2026-04-12T14:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043334168097292497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5j9pvrM4eU",
+          "end": 28,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2043334168097292497/photo/1",
+          "media_key": "3_2043334152062443521",
+          "start": 5,
+          "url": "https://t.co/5j9pvrM4eU"
+        },
+        {
+          "display_url": "pic.x.com/5j9pvrM4eU",
+          "end": 28,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2043334168097292497/photo/1",
+          "media_key": "3_2043334152611897344",
+          "start": 5,
+          "url": "https://t.co/5j9pvrM4eU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043334168097292497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没毛病啊 https://t.co/5j9pvrM4eU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043334152062443521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFthldMbIAEh1St.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2043334152611897344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFthlfPbIAAWVjI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043334152062443521",
+            "3_2043334152611897344"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043334168097292497",
+        "created_at": "2026-04-12T14:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043334168097292497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5j9pvrM4eU",
+              "end": 28,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043334168097292497/photo/1",
+              "media_key": "3_2043334152062443521",
+              "start": 5,
+              "url": "https://t.co/5j9pvrM4eU"
+            },
+            {
+              "display_url": "pic.x.com/5j9pvrM4eU",
+              "end": 28,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043334168097292497/photo/1",
+              "media_key": "3_2043334152611897344",
+              "start": 5,
+              "url": "https://t.co/5j9pvrM4eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043334168097292497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没毛病啊 https://t.co/5j9pvrM4eU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042939446417596722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 2881,
+          "like_count": 21718,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 5684
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

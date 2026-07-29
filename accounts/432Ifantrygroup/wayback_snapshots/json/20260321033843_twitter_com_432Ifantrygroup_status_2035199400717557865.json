@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035197894056452258",
+    "created_at": "2026-03-21T03:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035199400717557865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20321…",
+          "end": 45,
+          "expanded_url": "https://x.com/i/status/2032177565167993170",
+          "start": 22,
+          "url": "https://t.co/3H2wNpuYGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035199400717557865",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032177565167993170",
+        "type": "quoted"
+      },
+      {
+        "id": "2035197894056452258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 贴一个自己在家祛疤的方法\nhttps://t.co/3H2wNpuYGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032177554732556288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO-uBZbIAAvAGt.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032177555156123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO-uC-aQAA_-x6.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032177554845765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO-uB0akAAt9nu.jpg",
+        "width": 922
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035197883549720577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD55sTCboAEAtn_.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035197883507777538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD55sS4boAIEQm8.jpg",
+        "width": 1419
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035197883709104131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD55sToboAM6xAP.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035197883507777540",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD55sS4boAQZ6lV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035197894056452258",
+        "created_at": "2026-03-21T03:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035199400717557865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20321…",
+              "end": 45,
+              "expanded_url": "https://x.com/i/status/2032177565167993170",
+              "start": 22,
+              "url": "https://t.co/3H2wNpuYGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035199400717557865",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032177565167993170",
+            "type": "quoted"
+          },
+          {
+            "id": "2035197894056452258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 贴一个自己在家祛疤的方法\nhttps://t.co/3H2wNpuYGN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032177554732556288",
+            "3_2032177555156123648",
+            "3_2032177554845765632"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2031415810703634709",
+        "created_at": "2026-03-12T19:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032177565167993170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4KnFq2hzu",
+              "end": 164,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2032177565167993170/photo/1",
+              "media_key": "3_2032177554732556288",
+              "start": 141,
+              "url": "https://t.co/b4KnFq2hzu"
+            },
+            {
+              "display_url": "pic.x.com/b4KnFq2hzu",
+              "end": 164,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2032177565167993170/photo/1",
+              "media_key": "3_2032177555156123648",
+              "start": 141,
+              "url": "https://t.co/b4KnFq2hzu"
+            },
+            {
+              "display_url": "pic.x.com/b4KnFq2hzu",
+              "end": 164,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2032177565167993170/photo/1",
+              "media_key": "3_2032177554845765632",
+              "start": 141,
+              "url": "https://t.co/b4KnFq2hzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032177565167993170",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031415810703634709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结痂前，脱落后全过程应该使用的药品顺序如下。\n结痂前用生长因子加快愈合，同时贴减张贴减少伤口恢复后的皮肤压力。结痂脱落后减张贴可以撕掉了，同时一定不能再涂生长因子了会导致增生，要在新皮肤表面涂硅酮类祛疤膏。\n最后恢复期戴那种紧紧的冰丝防晒套袖，避免紫外线刺激伤口的嫩肉导致色素沉积 https://t.co/b4KnFq2hzu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035197883549720577",
+            "3_2035197883507777538",
+            "3_2035197883709104131",
+            "3_2035197883507777540"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035197894056452258",
+        "created_at": "2026-03-21T03:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035197894056452258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6JUxlFLRy",
+              "end": 99,
+              "expanded_url": "https://x.com/DQadopt/status/2035197894056452258/photo/1",
+              "media_key": "3_2035197883549720577",
+              "start": 76,
+              "url": "https://t.co/S6JUxlFLRy"
+            },
+            {
+              "display_url": "pic.x.com/S6JUxlFLRy",
+              "end": 99,
+              "expanded_url": "https://x.com/DQadopt/status/2035197894056452258/photo/1",
+              "media_key": "3_2035197883507777538",
+              "start": 76,
+              "url": "https://t.co/S6JUxlFLRy"
+            },
+            {
+              "display_url": "pic.x.com/S6JUxlFLRy",
+              "end": 99,
+              "expanded_url": "https://x.com/DQadopt/status/2035197894056452258/photo/1",
+              "media_key": "3_2035197883709104131",
+              "start": 76,
+              "url": "https://t.co/S6JUxlFLRy"
+            },
+            {
+              "display_url": "pic.x.com/S6JUxlFLRy",
+              "end": 99,
+              "expanded_url": "https://x.com/DQadopt/status/2035197894056452258/photo/1",
+              "media_key": "3_2035197883507777540",
+              "start": 76,
+              "url": "https://t.co/S6JUxlFLRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035197894056452258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回答10个提问\n我真的是个非常普通的普通人，我早已看清自己，空心的黑洞，没有什么人格魅力也没什么特别，觉得我特别的都是着重注意到了我的痛苦吧\n不要这样 https://t.co/S6JUxlFLRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035039695928008831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2489,
+          "like_count": 9194,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2435
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 252,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 2333
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

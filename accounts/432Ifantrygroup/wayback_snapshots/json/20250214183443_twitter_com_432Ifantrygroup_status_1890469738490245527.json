@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1888887381136204114",
+    "created_at": "2025-02-14T18:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T19:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890469738490245527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1661972669401804800",
+          "start": 0,
+          "username": "Celine_Wyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890469738490245527",
+    "in_reply_to_user_id": "1661972669401804800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888887381136204114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celine_Wyc 不是大姐，如果你学生有刷到你的，你这不完了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1888887381136204114",
+        "created_at": "2025-02-14T18:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890469738490245527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1661972669401804800",
+              "start": 0,
+              "username": "Celine_Wyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890469738490245527",
+        "in_reply_to_user_id": "1661972669401804800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888887381136204114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celine_Wyc 不是大姐，如果你学生有刷到你的，你这不完了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888887369518256128"
+          ]
+        },
+        "author_id": "1661972669401804800",
+        "conversation_id": "1888887381136204114",
+        "created_at": "2025-02-10T09:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888887381136204114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3kXKWdifj",
+              "end": 29,
+              "expanded_url": "https://x.com/Celine_Wyc/status/1888887381136204114/photo/1",
+              "media_key": "3_1888887369518256128",
+              "start": 6,
+              "url": "https://t.co/h3kXKWdifj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888887381136204114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 39498,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无语的家长 https://t.co/h3kXKWdifj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 846,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 86
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T05:49:05.000Z",
+        "description": "已婚 | 御姐 |上海教师｜高考前二｜主修当代艺术史｜本科UT｜GB读研｜可线下｜要求高|置顶🔗进圈看会员内容｜全网无分身｜备用号@CelineWycc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "CelineWycc"
+              }
+            ]
+          }
+        },
+        "id": "1661972669401804800",
+        "location": "北京/上海",
+        "name": "我是一只羊",
+        "pinned_tweet_id": "1818604765108179047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864283020678844417/BXa6ta7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57831,
+          "following_count": 4,
+          "like_count": 469,
+          "listed_count": 143,
+          "media_count": 417,
+          "tweet_count": 1364
+        },
+        "username": "Celine_Wyc",
+        "verified": true
+      }
+    ]
+  }
+}

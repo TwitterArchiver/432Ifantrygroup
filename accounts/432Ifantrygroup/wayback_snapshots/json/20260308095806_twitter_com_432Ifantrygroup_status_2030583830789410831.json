@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2030562113593499775",
+    "created_at": "2026-03-08T09:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030583830789410831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1984670445522862080",
+          "start": 0,
+          "username": "chenmouren2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030583830789410831",
+    "in_reply_to_user_id": "1984670445522862080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030562113593499775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenmouren2009 文化大革命之所以失败，其指导思想一定存在或多或少的问题，而不能单纯地把锅全扣在“呜呜呜走资派怎么这么坏”上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2030561817060339713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4BNthacAEBjWB.png",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2030562113593499775",
+        "created_at": "2026-03-08T09:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030583830789410831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1984670445522862080",
+              "start": 0,
+              "username": "chenmouren2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030583830789410831",
+        "in_reply_to_user_id": "1984670445522862080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030562113593499775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenmouren2009 文化大革命之所以失败，其指导思想一定存在或多或少的问题，而不能单纯地把锅全扣在“呜呜呜走资派怎么这么坏”上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030561817060339713"
+          ]
+        },
+        "author_id": "1984670445522862080",
+        "conversation_id": "2030562113593499775",
+        "created_at": "2026-03-08T08:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030562113593499775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtTWOQirqX",
+              "end": 74,
+              "expanded_url": "https://x.com/chenmouren2009/status/2030562113593499775/photo/1",
+              "media_key": "3_2030561817060339713",
+              "start": 51,
+              "url": "https://t.co/rtTWOQirqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030562113593499775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "809字写了我快三个小时......\n算是与极端毛派论战的一些理论准备吧。有什么不同意见欢迎交流讨论 https://t.co/rtTWOQirqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推就是来看黄和来骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 1996,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 668
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T17:14:54.000Z",
+        "description": "我们还要活下去，我们还要经历惊天动地的事呢\n卢森堡主义|自由马克思主义|立场建制左\n低龄，见证水平低，欢迎一切批评，但请勿人身攻击\n丰川祥子梦男不拒一切",
+        "id": "1984670445522862080",
+        "location": "法兰克福",
+        "name": "宸某人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020140432253243392/uNzACNiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 60,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "username": "chenmouren2009",
+        "verified": false
+      }
+    ]
+  }
+}

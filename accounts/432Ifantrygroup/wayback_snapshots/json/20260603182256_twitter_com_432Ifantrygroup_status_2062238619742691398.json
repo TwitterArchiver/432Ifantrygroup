@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Brazil Senate",
+          "id": "922865766688473089",
+          "name": "Brazil Senate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brazil Senate",
+          "id": "922865766688473089",
+          "name": "Brazil Senate"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      }
+    ],
+    "conversation_id": "2062238619742691398",
+    "created_at": "2026-06-03T18:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062238619742691398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "59150875",
+          "start": 3,
+          "username": "reporterenato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062238619742691398",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062167268151156907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reporterenato: O mesmo Senado que aprovou a proteção dos estupradores, trava a votação do fim da escala 6X1. O Brasil não pode estar no…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Brazil Senate",
+              "id": "922865766688473089",
+              "name": "Brazil Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil Senate",
+              "id": "922865766688473089",
+              "name": "Brazil Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          }
+        ],
+        "conversation_id": "2062238619742691398",
+        "created_at": "2026-06-03T18:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062238619742691398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "59150875",
+              "start": 3,
+              "username": "reporterenato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062238619742691398",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062167268151156907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reporterenato: O mesmo Senado que aprovou a proteção dos estupradores, trava a votação do fim da escala 6X1. O Brasil não pode estar no…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "59150875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Brazil Senate",
+              "id": "922865766688473089",
+              "name": "Brazil Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil Senate",
+              "id": "922865766688473089",
+              "name": "Brazil Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          }
+        ],
+        "conversation_id": "2062167268151156907",
+        "created_at": "2026-06-03T13:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062167268151156907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062167268151156907",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20686,
+          "like_count": 2879,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 523
+        },
+        "reply_settings": "everyone",
+        "text": "O mesmo Senado que aprovou a proteção dos estupradores, trava a votação do fim da escala 6X1. O Brasil não pode estar no século XXI com um parlamento da idade média."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 42003,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11727
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-22T15:13:57.000Z",
+        "description": "Repórter de política, em Brasília. Setorista de Judiciário. Pós-graduando em perícia cibernética.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/reporterenato?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/reporterenato?igsh=MWtteTZrY2RwYTVubg==",
+                "start": 0,
+                "url": "https://t.co/EFFNRRXMcy"
+              }
+            ]
+          }
+        },
+        "id": "59150875",
+        "location": "Brasília, Brazil",
+        "name": "Renato Souza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251957093168529414/Y_Q_66is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150913,
+          "following_count": 3439,
+          "like_count": 176497,
+          "listed_count": 592,
+          "media_count": 5669,
+          "tweet_count": 65373
+        },
+        "url": "https://t.co/EFFNRRXMcy",
+        "username": "reporterenato",
+        "verified": true
+      }
+    ]
+  }
+}

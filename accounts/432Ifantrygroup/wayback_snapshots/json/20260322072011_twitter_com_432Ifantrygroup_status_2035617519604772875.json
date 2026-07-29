@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035373428476166223",
+    "created_at": "2026-03-22T07:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035617519604772875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1207458527968714752",
+          "start": 0,
+          "username": "LVNDMARK_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035617519604772875",
+    "in_reply_to_user_id": "1207458527968714752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035373428476166223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVNDMARK_tv real machine gun"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15331,
+        "height": 1872,
+        "media_key": "13_2035373254991339520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035373254991339520/img/yHQ0iETVlOYrhsGn.jpg",
+        "public_metrics": {
+          "view_count": 119290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035373254991339520/vid/avc1/480x638/BFFNiVkgsZqJYvpB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035373254991339520/pl/tBQmjE-KqdzHatZQ.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035373254991339520/vid/avc1/720x956/19p8dzMhMG8-yubC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035373254991339520/vid/avc1/1408x1872/5N13XTC7q9krqRou.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035373254991339520/vid/avc1/320x424/EfewY71SPtgF_LwU.mp4"
+          }
+        ],
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035373428476166223",
+        "created_at": "2026-03-22T07:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035617519604772875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1207458527968714752",
+              "start": 0,
+              "username": "LVNDMARK_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035617519604772875",
+        "in_reply_to_user_id": "1207458527968714752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035373428476166223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVNDMARK_tv real machine gun"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035373254991339520"
+          ]
+        },
+        "author_id": "1207458527968714752",
+        "conversation_id": "2035373428476166223",
+        "created_at": "2026-03-21T15:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035373428476166223"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "MG42",
+              "probability": 0.7315,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPvx8PXzcl",
+              "end": 78,
+              "expanded_url": "https://x.com/LVNDMARK_tv/status/2035373428476166223/video/1",
+              "media_key": "13_2035373254991339520",
+              "start": 55,
+              "url": "https://t.co/jPvx8PXzcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035373428476166223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 718,
+          "impression_count": 260550,
+          "like_count": 7018,
+          "quote_count": 32,
+          "reply_count": 101,
+          "retweet_count": 433
+        },
+        "reply_settings": "everyone",
+        "text": "Dudes will see the twin MG42 mount and say “hell yeah” https://t.co/jPvx8PXzcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035613539289985465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 2581,
+          "like_count": 10095,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2688
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-19T00:32:19.000Z",
+        "description": "Professional dude who plays video games @MonsterEnergy l LVNDMARK@loaded.gg | https://t.co/QPdsnLFPn0 | https://t.co/dxaSqfMRTa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "MonsterEnergy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Twitch.tv/LVNDMARK",
+                "end": 101,
+                "expanded_url": "http://Twitch.tv/LVNDMARK",
+                "start": 78,
+                "url": "https://t.co/QPdsnLFPn0"
+              },
+              {
+                "display_url": "Youtube.com/LVNDMARK",
+                "end": 127,
+                "expanded_url": "http://Youtube.com/LVNDMARK",
+                "start": 104,
+                "url": "https://t.co/dxaSqfMRTa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/LVNDMARK",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/LVNDMARK",
+                "start": 0,
+                "url": "https://t.co/nFnZMsVqk9"
+              }
+            ]
+          }
+        },
+        "id": "1207458527968714752",
+        "name": "LVNDMARK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527166458727436293/N-zJjjiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193689,
+          "following_count": 383,
+          "like_count": 15593,
+          "listed_count": 172,
+          "media_count": 654,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/nFnZMsVqk9",
+        "username": "LVNDMARK_tv",
+        "verified": true
+      }
+    ]
+  }
+}

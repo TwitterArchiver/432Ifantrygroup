@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2029546580676853826",
+    "created_at": "2026-03-06T03:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T04:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029766358968455242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998947335213350912",
+          "start": 0,
+          "username": "mmtzjsj_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029766358968455242",
+    "in_reply_to_user_id": "1998947335213350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029546580676853826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmtzjsj_ 这就是互联网，任何对于事物本身的探讨最后都会变成关于存在性的辩论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2029546580676853826",
+        "created_at": "2026-03-06T03:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029766358968455242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998947335213350912",
+              "start": 0,
+              "username": "mmtzjsj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029766358968455242",
+        "in_reply_to_user_id": "1998947335213350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029546580676853826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmtzjsj_ 这就是互联网，任何对于事物本身的探讨最后都会变成关于存在性的辩论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998947335213350912",
+        "conversation_id": "2029546580676853826",
+        "created_at": "2026-03-05T13:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029546580676853826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029546580676853826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 172924,
+          "like_count": 1339,
+          "quote_count": 6,
+          "reply_count": 77,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "抖音基本盘真不是盖的\n\n刷到博主讲解碳水脸，明明已经很明确的讲到长期吃高油高盐高热量的精致碳水会导致身体储水形成碳水脸，还有一堆反驳型人格，在评论区不停问为什么不能吃米饭馒头面条、疯狂晒自己照片证明自己天生丽质、攻击博主长的丑\n\n这不是文化高低问题，这纯属是有点听不懂人话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 1784,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 476
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T02:46:10.000Z",
+        "description": "你听我在说什么，你不要猜我是谁｜02｜172｜58kg｜infp｜匿名提问https://t.co/UOtiAG6Sox",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmtzjsj",
+                "end": 60,
+                "expanded_url": "https://ngl.link/mmtzjsj",
+                "start": 37,
+                "url": "https://t.co/UOtiAG6Sox"
+              }
+            ]
+          }
+        },
+        "id": "1998947335213350912",
+        "location": "🚪233",
+        "name": "猫猫头拯救世界",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009860936933502976/XAoS4tZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 129,
+          "like_count": 531,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 1185
+        },
+        "username": "mmtzjsj_",
+        "verified": false
+      }
+    ]
+  }
+}

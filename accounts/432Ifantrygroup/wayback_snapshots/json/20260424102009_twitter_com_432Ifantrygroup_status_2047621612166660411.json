@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047621612166660411",
+    "created_at": "2026-04-24T10:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047621612166660411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970921429010087941",
+          "start": 3,
+          "username": "AirWiaAir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047621612166660411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047266501288464474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AirWiaAir: 好怕大家吃完pr后戒斷反應發作然後做出放棄自己生命那種事啊，，，\n大家都要好好的活著好嗎QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047621612166660411",
+        "created_at": "2026-04-24T10:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047621612166660411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970921429010087941",
+              "start": 3,
+              "username": "AirWiaAir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047621612166660411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047266501288464474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AirWiaAir: 好怕大家吃完pr后戒斷反應發作然後做出放棄自己生命那種事啊，，，\n大家都要好好的活著好嗎QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970921429010087941",
+        "conversation_id": "2047266501288464474",
+        "created_at": "2026-04-23T10:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047266501288464474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047266501288464474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好怕大家吃完pr后戒斷反應發作然後做出放棄自己生命那種事啊，，，\n大家都要好好的活著好嗎QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047588634040357233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 3208,
+          "like_count": 27317,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 7201
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T18:42:11.000Z",
+        "description": "",
+        "id": "1970921429010087941",
+        "name": "凜冬的長青樹",
+        "pinned_tweet_id": "2041377794912059865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016339692372033538/65f5IrcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 124,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 404
+        },
+        "username": "AirWiaAir",
+        "verified": false
+      }
+    ]
+  }
+}

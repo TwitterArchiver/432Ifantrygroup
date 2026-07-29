@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056149650747318273",
+        "3_2056149647119233024",
+        "3_2056149647169560576",
+        "3_2056149639791841280"
+      ],
+      "media_source_tweet_id": [
+        "2056223250913362365",
+        "2056223250913362365",
+        "2056223250913362365",
+        "2056223250913362365"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2056309263811887109",
+    "created_at": "2026-05-18T09:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056309263811887109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MbnQPLiFmO",
+          "end": 118,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+          "media_key": "3_2056149650747318273",
+          "start": 95,
+          "url": "https://t.co/MbnQPLiFmO"
+        },
+        {
+          "display_url": "pic.x.com/MbnQPLiFmO",
+          "end": 118,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+          "media_key": "3_2056149647119233024",
+          "start": 95,
+          "url": "https://t.co/MbnQPLiFmO"
+        },
+        {
+          "display_url": "pic.x.com/MbnQPLiFmO",
+          "end": 118,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+          "media_key": "3_2056149647169560576",
+          "start": 95,
+          "url": "https://t.co/MbnQPLiFmO"
+        },
+        {
+          "display_url": "pic.x.com/MbnQPLiFmO",
+          "end": 118,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+          "media_key": "3_2056149639791841280",
+          "start": 95,
+          "url": "https://t.co/MbnQPLiFmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056309263811887109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056223250913362365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月16日，财新披露了张大鹏最后一次作案时的嚣张气焰：\n\n“张大鹏挑选了一名女性网红,事后他留下一盒紧急避孕药、两张私密部位的照片，以及一段文字：… https://t.co/MbnQPLiFmO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2056149650747318273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjpNqHWYAEC7So.jpg",
+        "width": 669
+      },
+      {
+        "height": 586,
+        "media_key": "3_2056149647119233024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjpNcmWMAAR5Xn.jpg",
+        "width": 537
+      },
+      {
+        "height": 263,
+        "media_key": "3_2056149647169560576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjpNcyWIAAjUI_.jpg",
+        "width": 248
+      },
+      {
+        "height": 3286,
+        "media_key": "3_2056149639791841280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjpNBTXEAAak0d.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056149650747318273",
+            "3_2056149647119233024",
+            "3_2056149647169560576",
+            "3_2056149639791841280"
+          ],
+          "media_source_tweet_id": [
+            "2056223250913362365",
+            "2056223250913362365",
+            "2056223250913362365",
+            "2056223250913362365"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2056309263811887109",
+        "created_at": "2026-05-18T09:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056309263811887109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149650747318273",
+              "start": 95,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149647119233024",
+              "start": 95,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149647169560576",
+              "start": 95,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149639791841280",
+              "start": 95,
+              "url": "https://t.co/MbnQPLiFmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056309263811887109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056223250913362365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月16日，财新披露了张大鹏最后一次作案时的嚣张气焰：\n\n“张大鹏挑选了一名女性网红,事后他留下一盒紧急避孕药、两张私密部位的照片，以及一段文字：… https://t.co/MbnQPLiFmO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056149650747318273",
+            "3_2056149647119233024",
+            "3_2056149647169560576",
+            "3_2056149639791841280"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2056223250913362365",
+        "created_at": "2026-05-18T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056223250913362365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 97,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149650747318273",
+              "start": 74,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 97,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149647119233024",
+              "start": 74,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 97,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149647169560576",
+              "start": 74,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "pic.x.com/MbnQPLiFmO",
+              "end": 97,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056223250913362365/photo/1",
+              "media_key": "3_2056149639791841280",
+              "start": 74,
+              "url": "https://t.co/MbnQPLiFmO"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044712402349117551",
+              "start": 98,
+              "url": "https://t.co/vG6IaA0Tp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056223250913362365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月16日，财新披露了张大鹏最后一次作案时的嚣张气焰：\n\n“张大鹏挑选了一名女性网红,事后他留下一盒紧急避孕药、两张私密部位的照片，以及一段文字：\n“如果您担心，可以服用紧急避孕药。我受人之托拍摄了照片和视频，如果你乖乖配合、不吵不闹，你大可以假装什么都没发生过，就当是一场梦。否则，你的朋友圈和整个互联网都能欣赏到这些漂亮的照片。”这也是张大鹏历次作案中唯一一次主动留下线索。”\n\n根据一些网友收集的资料，张大鹏：\n\n1、自幼立志强奸：“2020年，他决定将自青少年时期就存在的强奸幻想付诸实现。张大鹏的第一次作案是在加入Telegram群组的数月后。2021年1月，在一周时间内，他先后三次对同一女性下手。”（此段来自财新）\n\n2、不顾被害人生死：“判决书记载，张大鹏曾与他人交流时表示，“最完美的情况是，她在迷醉中途醒来，这样就变成了强奸，而第二天她什么都不记得，这样你一次就能获得多种体验。\n\n“三件套”（三种迷药混合）的使用也帮助张大鹏等人数次“涉险逃脱”，不少涉案女性都是在接到警方联系后才意识到自己是被害人。判决书记录，某次迷奸中，被害人中途醒来，询问张大鹏为何赤裸出现在自己的公寓。张大鹏谎称丢了东西，二人甚至还聊了半小时，但被害人醒来把一切都忘了。”（此两段来自财新）\n\n3、直播性侵：张大鹏曾直播性侵邀请群里的人观看。\n\n4、边喂奶边性侵：在德华人曝出张大鹏令人发指的犯罪情节：张大鹏先喂饱婴儿再强奸婴儿母亲，婴儿偶尔醒来张大鹏给喂奶，然后继续强奸那个女人，长达几个小时（图7-8），警方还在他电子设备中发现大量性侵幼童制品。\n\n5、暴力犯罪：张大鹏在下迷药不能引诱成功的场合，会用毛巾直接捂住被害人口鼻强行迷奸。\n\n6、教唆犯罪：张大鹏鼓励群员迷奸性侵自己的身边亲友包括母亲。他还向群员出售迷奸药（图9）\n\n张大鹏和德国群组迷奸核心主犯和群组管理者，他被指控迷奸性侵22位女性，被判14年+预防性拘留，他已提出上诉。\n\n素材来源：财新、德国星报、DB还我血汗钱、丹丹丹丹、德易知"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 436408,
+          "like_count": 1093,
+          "quote_count": 17,
+          "reply_count": 183,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044712402349117551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月16日，财新披露了张大鹏最后一次作案时的嚣张气焰：\n\n“张大鹏挑选了一名女性网红,事后他留下一盒紧急避孕药、两张私密部位的照片，以及一段文字： https://t.co/MbnQPLiFmO https://t.co/vG6IaA0Tp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2056211904700485742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 3842,
+          "like_count": 37025,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 10036
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230382,
+          "following_count": 1055,
+          "like_count": 9564,
+          "listed_count": 8758,
+          "media_count": 47000,
+          "tweet_count": 54122
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

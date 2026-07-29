@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040656395335508357",
+    "created_at": "2026-04-05T05:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T06:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040656395335508357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xusinan0520/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Xusinan0520/status/2040448921248682273",
+          "start": 17,
+          "url": "https://t.co/3rnmoXtKB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040656395335508357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040448921248682273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真有卖药的来了。我是感冒了而已 https://t.co/3rnmoXtKB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040448877921439744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEhcZbaEAASmrT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040656395335508357",
+        "created_at": "2026-04-05T05:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040656395335508357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xusinan0520/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Xusinan0520/status/2040448921248682273",
+              "start": 17,
+              "url": "https://t.co/3rnmoXtKB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040656395335508357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040448921248682273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真有卖药的来了。我是感冒了而已 https://t.co/3rnmoXtKB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040448877921439744"
+          ]
+        },
+        "author_id": "1990685914113421313",
+        "conversation_id": "2040368416511738068",
+        "created_at": "2026-04-04T15:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040448921248682273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IV5XNlqE0w",
+              "end": 47,
+              "expanded_url": "https://x.com/Xusinan0520/status/2040448921248682273/photo/1",
+              "media_key": "3_2040448877921439744",
+              "start": 24,
+              "url": "https://t.co/IV5XNlqE0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040448921248682273",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040368416511738068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 兄弟吃点好的 https://t.co/IV5XNlqE0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 2737,
+          "like_count": 18703,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4850
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T07:38:07.000Z",
+        "description": "思诺思、氯俏西泮、劳拉西泮、扎来普隆，艾司唑仑、阿普唑仑、佑佐等等，各种精二类都能拿到，拿药问价，也可以咨询o完效果",
+        "id": "1990685914113421313",
+        "name": "思诺思（各种精二类）",
+        "pinned_tweet_id": "2035415564794085690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033168301304823808/TWxd3-vD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 61
+        },
+        "username": "Xusinan0520",
+        "verified": false
+      }
+    ]
+  }
+}

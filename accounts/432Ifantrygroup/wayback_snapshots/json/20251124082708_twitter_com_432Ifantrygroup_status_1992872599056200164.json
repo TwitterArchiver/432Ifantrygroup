@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1991479213300543805",
+    "created_at": "2025-11-24T08:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T09:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992872599056200164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933086270114471936",
+          "start": 0,
+          "username": "CuiShu77006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992872599056200164",
+    "in_reply_to_user_id": "1933086270114471936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991479213300543805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiShu77006 别吃，贼恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1991479213300543805",
+        "created_at": "2025-11-24T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992872599056200164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933086270114471936",
+              "start": 0,
+              "username": "CuiShu77006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992872599056200164",
+        "in_reply_to_user_id": "1933086270114471936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991479213300543805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiShu77006 别吃，贼恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933086270114471936",
+        "conversation_id": "1991479213300543805",
+        "created_at": "2025-11-20T12:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T13:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991479213300543805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991479213300543805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1057,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "折耳根到底是啥味儿我还没吃过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 1382,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 242
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T08:57:49.000Z",
+        "description": "03｜172/90｜白羊座爱看剧的小女孩儿｜碎碎念｜日常｜私信礼貌一点谢谢｜发吊永远硬不了哈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 0,
+                "url": "https://t.co/J92behREG1"
+              }
+            ]
+          }
+        },
+        "id": "1933086270114471936",
+        "location": "🚪88/188支付宝口令 下面是匿名箱（傻逼不回）",
+        "name": "脆薯饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933086727846944768/YMUFM2XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 105,
+          "like_count": 5419,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 2066
+        },
+        "url": "https://t.co/J92behREG1",
+        "username": "CuiShu77006",
+        "verified": false
+      }
+    ]
+  }
+}

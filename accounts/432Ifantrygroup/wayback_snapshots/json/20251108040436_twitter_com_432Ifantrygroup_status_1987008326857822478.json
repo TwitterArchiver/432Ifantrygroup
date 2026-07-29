@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1985874619245465847",
+    "created_at": "2025-11-08T04:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987008326857822478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1880396169232207872",
+          "start": 0,
+          "username": "myseseai"
+        },
+        {
+          "end": 20,
+          "id": "1838629980",
+          "start": 10,
+          "username": "wangzaixq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987008326857822478",
+    "in_reply_to_user_id": "1880396169232207872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985874619245465847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myseseai @wangzaixq 你们家软件一直注册不成功，也不知道要验证什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1985873402100432896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G489Vm0XwAAB15r.jpg",
+        "width": 720
+      },
+      {
+        "duration_ms": 4933,
+        "height": 640,
+        "media_key": "13_1985873503237652480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985873503237652480/img/oSIl-9s9f59DVVWO.jpg",
+        "public_metrics": {
+          "view_count": 239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985873503237652480/vid/avc1/320x426/TcoKVZcM-TJ8T_jR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985873503237652480/vid/avc1/480x640/Kts3lo_kv0t5uSDS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985873503237652480/pl/WPce0nWty4NetFjq.m3u8"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1062,
+        "media_key": "3_1985874444082937856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48-SQgXAAAdk03.jpg",
+        "width": 800
+      },
+      {
+        "duration_ms": 1676,
+        "height": 832,
+        "media_key": "13_1985874530615574528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985874530615574528/img/kCXt3D_Rxvu6b1TK.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985874530615574528/vid/avc1/320x426/I16VGPuyF4EsoAeJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985874530615574528/vid/avc1/480x640/u0TTo-5Se0jElpDL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985874530615574528/vid/avc1/624x832/s0LtD8LMHtIQf9AB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985874530615574528/pl/R0yBNlG0fTMU9HV4.m3u8"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1985874619245465847",
+        "created_at": "2025-11-08T04:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987008326857822478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1880396169232207872",
+              "start": 0,
+              "username": "myseseai"
+            },
+            {
+              "end": 20,
+              "id": "1838629980",
+              "start": 10,
+              "username": "wangzaixq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987008326857822478",
+        "in_reply_to_user_id": "1880396169232207872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985874619245465847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myseseai @wangzaixq 你们家软件一直注册不成功，也不知道要验证什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985873402100432896",
+            "13_1985873503237652480",
+            "3_1985874444082937856",
+            "13_1985874530615574528"
+          ]
+        },
+        "author_id": "1880396169232207872",
+        "conversation_id": "1985874619245465847",
+        "created_at": "2025-11-05T00:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985874619245465847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1838629980",
+              "start": 30,
+              "username": "wangzaixq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mAf7rERWZ",
+              "end": 64,
+              "expanded_url": "https://x.com/myseseai/status/1985874619245465847/video/1",
+              "media_key": "3_1985873402100432896",
+              "start": 41,
+              "url": "https://t.co/3mAf7rERWZ"
+            },
+            {
+              "display_url": "pic.x.com/3mAf7rERWZ",
+              "end": 64,
+              "expanded_url": "https://x.com/myseseai/status/1985874619245465847/video/1",
+              "media_key": "13_1985873503237652480",
+              "start": 41,
+              "url": "https://t.co/3mAf7rERWZ"
+            },
+            {
+              "display_url": "pic.x.com/3mAf7rERWZ",
+              "end": 64,
+              "expanded_url": "https://x.com/myseseai/status/1985874619245465847/video/1",
+              "media_key": "3_1985874444082937856",
+              "start": 41,
+              "url": "https://t.co/3mAf7rERWZ"
+            },
+            {
+              "display_url": "pic.x.com/3mAf7rERWZ",
+              "end": 64,
+              "expanded_url": "https://x.com/myseseai/status/1985874619245465847/video/1",
+              "media_key": "13_1985874530615574528",
+              "start": 41,
+              "url": "https://t.co/3mAf7rERWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985874619245465847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 590,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年，用大人魔法，让你的女神不再只能存在于你的幻想中 @wangzaixq https://t.co/3mAf7rERWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1319,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 228
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T23:26:11.000Z",
+        "description": "SeSeAI官方 | AI生成无限成人幻想，高清生成Huan脸/去衣/图转视频，安全私密，18+福利即刻解锁！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sink-9lv.pages.dev/kw9pvu",
+                "end": 23,
+                "expanded_url": "https://sink-9lv.pages.dev/kw9pvu",
+                "start": 0,
+                "url": "https://t.co/hsDyohMB3r"
+              }
+            ]
+          }
+        },
+        "id": "1880396169232207872",
+        "location": "大人AI工具入口👉",
+        "name": "SeSeAI官方 | 满足大人幻想的AI工具",
+        "pinned_tweet_id": "1970441601509134384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970331353507139584/IUoxAoP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8597,
+          "following_count": 13,
+          "like_count": 76,
+          "listed_count": 7,
+          "media_count": 17,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/hsDyohMB3r",
+        "username": "myseseai",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-09T03:26:47.000Z",
+        "description": "大人AI工具，此入口进入送500消费积分👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yp3ki21gelgs.6aiai.com/pages/index/in…",
+                "end": 23,
+                "expanded_url": "https://yp3ki21gelgs.6aiai.com/pages/index/index?utm_id=3402597856505240918&utm_source=csq0q&utm_med",
+                "start": 0,
+                "url": "https://t.co/QKG2SwZ5oF"
+              }
+            ]
+          }
+        },
+        "id": "1838629980",
+        "location": "大人AI工具👉",
+        "name": "徐雅雅yaya",
+        "pinned_tweet_id": "1968650142396928356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958619190991994880/-MzGYSPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 9,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/QKG2SwZ5oF",
+        "username": "wangzaixq",
+        "verified": true
+      }
+    ]
+  }
+}

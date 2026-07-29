@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035209855699648512"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035209861617918301",
+    "created_at": "2026-03-21T04:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035209861617918301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxXBEIcTLP",
+          "end": 29,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2035209861617918301/photo/1",
+          "media_key": "3_2035209855699648512",
+          "start": 6,
+          "url": "https://t.co/kxXBEIcTLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035209861617918301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你们妈 https://t.co/kxXBEIcTLP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2035209855699648512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6ElKxaAAAaPWF.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035209855699648512"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035209861617918301",
+        "created_at": "2026-03-21T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035209861617918301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxXBEIcTLP",
+              "end": 29,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2035209861617918301/photo/1",
+              "media_key": "3_2035209855699648512",
+              "start": 6,
+              "url": "https://t.co/kxXBEIcTLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035209861617918301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你们妈 https://t.co/kxXBEIcTLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035191003934859273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2491,
+          "like_count": 9219,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2444
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047928600763187201"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047928610145939644",
+    "created_at": "2026-04-25T06:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047928610145939644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtw4aM3Hba",
+          "end": 65,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2047928610145939644/photo/1",
+          "media_key": "3_2047928600763187201",
+          "start": 42,
+          "url": "https://t.co/wtw4aM3Hba"
+        },
+        {
+          "display_url": "x.com/cuichenghao/st…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/cuichenghao/status/2041423565141278971",
+          "start": 66,
+          "url": "https://t.co/0wCXwxEU4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047928610145939644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041423565141278971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下哄堂大笑了，也不知道钧正平那篇文章的撰稿人能不能担得起破坏两岸关系这顶大帽子。 https://t.co/wtw4aM3Hba https://t.co/0wCXwxEU4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047928600763187201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu0NkXaQAEiBn4.jpg",
+        "width": 1120
+      },
+      {
+        "duration_ms": 24900,
+        "height": 1430,
+        "media_key": "13_2041423426699874304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041423426699874304/img/4syNaL9obtM_uu-y.jpg",
+        "public_metrics": {
+          "view_count": 31771
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041423426699874304/pl/7ccztb6F7k4TA1Gk.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041423426699874304/vid/avc1/480x772/FykJal5y8DyWF9-c.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041423426699874304/vid/avc1/320x514/RPIhsgJAi3mnxrE3.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041423426699874304/vid/avc1/888x1430/dVTYZL4bHY_be8D5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041423426699874304/vid/avc1/720x1158/F4St_T8Ppq_JrRvF.mp4"
+          }
+        ],
+        "width": 888
+      },
+      {
+        "height": 914,
+        "media_key": "3_2041423427807199232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSXyqqbwAAkTk6.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047928600763187201"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047928610145939644",
+        "created_at": "2026-04-25T06:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047928610145939644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtw4aM3Hba",
+              "end": 65,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2047928610145939644/photo/1",
+              "media_key": "3_2047928600763187201",
+              "start": 42,
+              "url": "https://t.co/wtw4aM3Hba"
+            },
+            {
+              "display_url": "x.com/cuichenghao/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/cuichenghao/status/2041423565141278971",
+              "start": 66,
+              "url": "https://t.co/0wCXwxEU4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047928610145939644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041423565141278971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下哄堂大笑了，也不知道钧正平那篇文章的撰稿人能不能担得起破坏两岸关系这顶大帽子。 https://t.co/wtw4aM3Hba https://t.co/0wCXwxEU4w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041423426699874304",
+            "3_2041423427807199232"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041423565141278971",
+        "created_at": "2026-04-07T07:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041423565141278971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qD7JAsMjvB",
+              "end": 125,
+              "expanded_url": "https://x.com/cuichenghao/status/2041423565141278971/video/1",
+              "media_key": "13_2041423426699874304",
+              "start": 102,
+              "url": "https://t.co/qD7JAsMjvB"
+            },
+            {
+              "display_url": "pic.x.com/qD7JAsMjvB",
+              "end": 125,
+              "expanded_url": "https://x.com/cuichenghao/status/2041423565141278971/video/1",
+              "media_key": "3_2041423427807199232",
+              "start": 102,
+              "url": "https://t.co/qD7JAsMjvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041423565141278971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 57359,
+          "like_count": 135,
+          "quote_count": 3,
+          "reply_count": 108,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "近日，有粉底液将军之称的张凌赫出席线下活动，人气爆棚，女粉丝尖叫连连。解放军喉舌“钧正平”曾发文将其批判一番，结果张凌赫人气不降反增，其粉丝明显不听官媒的哼哼教导，这样的中国，到底是进步了还是进步了呢？ https://t.co/qD7JAsMjvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047901916865429638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 3245,
+          "like_count": 27798,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 7339
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95972,
+          "following_count": 729,
+          "like_count": 6800,
+          "listed_count": 322,
+          "media_count": 3733,
+          "tweet_count": 3923
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045857878234607834",
+    "created_at": "2026-04-19T14:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045872971416523251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1813561571941183488",
+          "start": 0,
+          "username": "care1337_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045872971416523251",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857878234607834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@care1337_ 成分论这玩意和血统论没有本质上的区别。他们要是真的相信新社会使鬼变成人这句话，就不应该有政治审查"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045857878234607834",
+        "created_at": "2026-04-19T14:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045872971416523251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045872971416523251",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045857878234607834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 成分论这玩意和血统论没有本质上的区别。他们要是真的相信新社会使鬼变成人这句话，就不应该有政治审查"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2045857878234607834",
+        "created_at": "2026-04-19T13:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045857878234607834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045857878234607834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "共产党当年打地主，分田地，没有任何问题，但是他们不仅没收地主的财产，还处决，批斗了大量地主，只为给农民解气，获得群众的支持以便和国民党抗衡\n\n并且，而后的几十年里，那些地主的后代，亲人，甚至从未享受过那些财富，被无数的中国人批斗，鄙视，甚至被视作＂资产阶级＂而被处决\n\n这些都是极其反人类的罪行，你可以为共产党消灭剥削者叫好，但你也不能无视无辜者的苦难"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "共产党当年打地主，分田地，没有任何问题，但是他们不仅没收地主的财产，还处决，批斗了大量地主，只为给农民解气，获得群众的支持以便和国民党抗衡\n\n并且，而后的几十年里，那些地主的后代，亲人，甚至从未享受过那些财富，被无数的中国人批斗，鄙视，甚至被视作＂资产阶级＂而被处决"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 3042,
+          "like_count": 24395,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 6458
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女(mtf)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，喜欢普瑞巴林💊。\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，蓝v互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥🏳️‍⚧️🇯🇵",
+        "pinned_tweet_id": "2045832031062630745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044960713345818624/eNV6jb0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 114,
+          "like_count": 2887,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1020
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

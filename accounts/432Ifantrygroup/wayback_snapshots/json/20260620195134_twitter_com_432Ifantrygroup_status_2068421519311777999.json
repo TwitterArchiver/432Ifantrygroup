@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068421473447157760"
+      ],
+      "media_source_tweet_id": [
+        "2068421480191517051"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068421519311777999",
+    "created_at": "2026-06-20T19:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068421519311777999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H9IiSjfevM",
+          "end": 79,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2068421480191517051/photo/1",
+          "media_key": "3_2068421473447157760",
+          "start": 56,
+          "url": "https://t.co/H9IiSjfevM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068421519311777999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068421480191517051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 何意味？\n我倒是没意见我就是好奇你为啥这样，私信我一下呗让我好个信儿 https://t.co/H9IiSjfevM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068421473447157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLSCXwKboAA6P5x.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068421473447157760"
+          ],
+          "media_source_tweet_id": [
+            "2068421480191517051"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068421519311777999",
+        "created_at": "2026-06-20T19:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068421519311777999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9IiSjfevM",
+              "end": 79,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2068421480191517051/photo/1",
+              "media_key": "3_2068421473447157760",
+              "start": 56,
+              "url": "https://t.co/H9IiSjfevM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068421519311777999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068421480191517051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 何意味？\n我倒是没意见我就是好奇你为啥这样，私信我一下呗让我好个信儿 https://t.co/H9IiSjfevM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068421473447157760"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068421480191517051",
+        "created_at": "2026-06-20T19:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068421480191517051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9IiSjfevM",
+              "end": 58,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2068421480191517051/photo/1",
+              "media_key": "3_2068421473447157760",
+              "start": 35,
+              "url": "https://t.co/H9IiSjfevM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068421480191517051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？\n我倒是没意见我就是好奇你为啥这样，私信我一下呗让我好个信儿 https://t.co/H9IiSjfevM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 4175,
+          "like_count": 43286,
+          "listed_count": 4,
+          "media_count": 504,
+          "tweet_count": 12260
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

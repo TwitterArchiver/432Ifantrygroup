@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1970507375229776336",
+    "created_at": "2025-12-30T03:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T04:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005845646004162617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "959397221761409024",
+          "start": 0,
+          "username": "MrLiu60053978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005845646004162617",
+    "in_reply_to_user_id": "959397221761409024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970507375229776336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrLiu60053978 太有实力了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31031,
+        "height": 720,
+        "media_key": "7_1970507275573047296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1970507275573047296/pu/img/VnCLZccJWiqaiV-I.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970507275573047296/pu/vid/avc1/480x270/NGeRTuAOsWIOtMwM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970507275573047296/pu/vid/avc1/640x360/O6W37voF7HjNAm4j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970507275573047296/pu/vid/avc1/1280x720/7BIB26u8-0YdBfLa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1970507275573047296/pu/pl/LG-EsvgipvyAHHQC.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1970507375229776336",
+        "created_at": "2025-12-30T03:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005845646004162617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "959397221761409024",
+              "start": 0,
+              "username": "MrLiu60053978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005845646004162617",
+        "in_reply_to_user_id": "959397221761409024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970507375229776336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrLiu60053978 太有实力了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970507275573047296"
+          ]
+        },
+        "author_id": "959397221761409024",
+        "conversation_id": "1970507375229776336",
+        "created_at": "2025-09-23T15:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970507375229776336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYehSQCt1q",
+              "end": 23,
+              "expanded_url": "https://x.com/MrLiu60053978/status/1970507375229776336/video/1",
+              "media_key": "7_1970507275573047296",
+              "start": 0,
+              "url": "https://t.co/EYehSQCt1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970507375229776336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EYehSQCt1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 1446,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 229
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-02T12:04:57.000Z",
+        "description": "走走看看，自由自在",
+        "id": "959397221761409024",
+        "location": "浦东",
+        "name": "雨晴",
+        "pinned_tweet_id": "1965476497994777083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965473920792027136/9x9BR-q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 993,
+          "like_count": 4053,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 841
+        },
+        "username": "MrLiu60053978",
+        "verified": false
+      }
+    ]
+  }
+}

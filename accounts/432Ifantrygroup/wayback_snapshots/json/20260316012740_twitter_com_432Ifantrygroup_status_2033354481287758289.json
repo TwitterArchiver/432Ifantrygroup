@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2033354481287758289",
+    "created_at": "2026-03-16T01:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T02:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033354481287758289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033354481287758289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033176388744655026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 中国多地调查：中学生便秘问题不容忽视，部分学校检出率超过18%\n\n近日，多项针对中国青少年肠道健康的研究显示，中学生便秘问题较为普遍，部分地区检出率甚至高于成年人群体。\n\n根据媒体梳理的调查数据，在采用罗马Ⅳ标准进行评估的研究中，上海崇明…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2033098324753133570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcEJ5BaMAIYMR_.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2033354481287758289",
+        "created_at": "2026-03-16T01:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T02:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033354481287758289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033354481287758289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033176388744655026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 中国多地调查：中学生便秘问题不容忽视，部分学校检出率超过18%\n\n近日，多项针对中国青少年肠道健康的研究显示，中学生便秘问题较为普遍，部分地区检出率甚至高于成年人群体。\n\n根据媒体梳理的调查数据，在采用罗马Ⅳ标准进行评估的研究中，上海崇明…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033098324753133570"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2033176388744655026",
+        "created_at": "2026-03-15T13:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033176388744655026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcF5WYJXhh",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2033176388744655026/photo/1",
+              "media_key": "3_2033098324753133570",
+              "start": 148,
+              "url": "https://t.co/kcF5WYJXhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033176388744655026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国多地调查：中学生便秘问题不容忽视，部分学校检出率超过18%\n\n近日，多项针对中国青少年肠道健康的研究显示，中学生便秘问题较为普遍，部分地区检出率甚至高于成年人群体。\n\n根据媒体梳理的调查数据，在采用罗马Ⅳ标准进行评估的研究中，上海崇明区中学生便秘检出率约为 13.95%，河南某地高中生约为 10.5%。如果以一个40人的班级计算，大约会有 4至6名学生存在排便困难问题。\n研究还发现，不同学校类型之间存在差异。某市示范性高中学生便秘检出率达到 18.23%，比普通高中高出约5个百分点。研究者认为，这可能与高考压力、睡眠时间不足以及学习节奏紧张等因素有关。\n\n在成年人群体中，相关研究纳入约12万名中国成年人进行荟萃分析，结果显示中国成人便秘患病率约在 6.5%—8.1% 左右，整体低于部分青少年调查结果。\n\n心理健康因素也被认为与便秘存在关联。发表于《情感障碍杂志》的一项研究指出，存在 抑郁症 和 焦虑症 的学生，其发生便秘的风险分别是普通学生的 1.65倍 和 1.64倍。\n此外，西安交通大学针对河南高中生的一项研究显示，在患有便秘的学生群体中，约 60.5% 存在不同程度的心理健康问题，而在排便正常的学生中，该比例为 26%。\n\n专家表示，青少年便秘往往与 久坐学习、饮食结构单一、饮水不足以及心理压力 等多种因素有关。建议学校和家长关注学生作息与饮食习惯，增加膳食纤维摄入，保持规律运动，并及时关注青少年心理健康问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 79365,
+          "like_count": 456,
+          "quote_count": 14,
+          "reply_count": 50,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "中国多地调查：中学生便秘问题不容忽视，部分学校检出率超过18%\n\n近日，多项针对中国青少年肠道健康的研究显示，中学生便秘问题较为普遍，部分地区检出率甚至高于成年人群体。\n\n根据媒体梳理的调查数据，在采用罗马Ⅳ标准进行评估的研究中，上海崇明区中学生便秘检出率约为 13.95%，河南某地高中生约为 https://t.co/kcF5WYJXhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 2314,
+          "like_count": 7147,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1798
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2025900193976308004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195535,
+          "following_count": 1020,
+          "like_count": 9182,
+          "listed_count": 8637,
+          "media_count": 43342,
+          "tweet_count": 50390
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

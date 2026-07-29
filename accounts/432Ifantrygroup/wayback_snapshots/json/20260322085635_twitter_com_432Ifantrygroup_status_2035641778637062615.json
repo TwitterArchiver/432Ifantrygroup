@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035294575250862212",
+    "created_at": "2026-03-22T08:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T09:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035641778637062615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000826943206555649",
+          "start": 0,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035641778637062615",
+    "in_reply_to_user_id": "2000826943206555649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035294575250862212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingapingu002 跟风圈钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035294575250862212",
+        "created_at": "2026-03-22T08:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035641778637062615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035641778637062615",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035294575250862212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 跟风圈钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000826943206555649",
+        "conversation_id": "2035294575250862212",
+        "created_at": "2026-03-21T09:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035294575250862212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035294575250862212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 349623,
+          "like_count": 2619,
+          "quote_count": 7,
+          "reply_count": 171,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "国内为什么所有app都要塞个短视频的模块，好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035613539289985465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 2612,
+          "like_count": 10226,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2715
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "上个号互关私我下我回关你们，互关们能不能加我v我不怎么玩推了( ^ω^ )清水推",
+        "id": "2000826943206555649",
+        "location": "不进行任何社交，专心经营我的糖人生活中",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2021961810585563453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 305,
+          "like_count": 4418,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 863
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2039192219958317501",
+    "created_at": "2026-04-01T04:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039192467782955439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605731018815983616",
+          "start": 0,
+          "username": "liecross"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039192467782955439",
+    "in_reply_to_user_id": "1605731018815983616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039192219958317501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liecross 🫡🫳🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039192215852060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyqhCaakAAiH0t.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2039192219958317501",
+        "created_at": "2026-04-01T04:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039192467782955439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605731018815983616",
+              "start": 0,
+              "username": "liecross"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192467782955439",
+        "in_reply_to_user_id": "1605731018815983616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039192219958317501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liecross 🫡🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039192215852060672"
+          ]
+        },
+        "author_id": "1605731018815983616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039192219958317501",
+        "created_at": "2026-04-01T04:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039192219958317501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/e1ttypDhGz"
+            },
+            {
+              "display_url": "pic.x.com/H5PZCtCgZ6",
+              "end": 64,
+              "expanded_url": "https://x.com/liecross/status/2039192219958317501/photo/1",
+              "media_key": "3_2039192215852060672",
+              "start": 41,
+              "url": "https://t.co/H5PZCtCgZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192219958317501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/e1ttypDhGz https://t.co/H5PZCtCgZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2039150831120130134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 2702,
+          "like_count": 16814,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4438
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T01:04:55.000Z",
+        "description": "叫我哈哈或者倩倩 欢迎找我玩！⼁08退学上班状态⼁od自残⼁同类看成分互fo⼁目前愿望是活着以及大家幸福⼁不聊骚 聊骚的别来找骂",
+        "id": "1605731018815983616",
+        "location": "外空",
+        "name": "我假装过去不重要",
+        "pinned_tweet_id": "2033796312454640085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026743135838285831/tXA48KSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 121,
+          "like_count": 3753,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 901
+        },
+        "username": "liecross",
+        "verified": false
+      }
+    ]
+  }
+}

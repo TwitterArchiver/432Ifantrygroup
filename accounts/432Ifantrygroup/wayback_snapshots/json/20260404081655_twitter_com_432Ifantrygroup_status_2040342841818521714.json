@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040046545580781871",
+    "created_at": "2026-04-04T08:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040342841818521714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917338865884418048",
+          "start": 0,
+          "username": "DiamondHal77842"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040342841818521714",
+    "in_reply_to_user_id": "1917338865884418048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040341828378275856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DiamondHal77842 当然不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040046545580781871",
+        "created_at": "2026-04-04T08:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040342841818521714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917338865884418048",
+              "start": 0,
+              "username": "DiamondHal77842"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040342841818521714",
+        "in_reply_to_user_id": "1917338865884418048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040341828378275856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DiamondHal77842 当然不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917338865884418048",
+        "conversation_id": "2040046545580781871",
+        "created_at": "2026-04-04T08:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040341828378275856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040341828378275856",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040046545580781871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 不应该吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040274741509124208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 2717,
+          "like_count": 18161,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 4707
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T22:03:10.000Z",
+        "description": "老保｜極端男權｜軍國主義｜強國有我，請黨放心｜百人斬進度：4/100",
+        "id": "1917338865884418048",
+        "location": "Hong Kong",
+        "name": "大鵬金翅明王",
+        "pinned_tweet_id": "2039360313494290500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030719608668454912/d5x4Oe65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 180,
+          "like_count": 1102,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 728
+        },
+        "username": "DiamondHal77842",
+        "verified": false
+      }
+    ]
+  }
+}

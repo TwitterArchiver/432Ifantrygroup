@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071658124394557814",
+    "created_at": "2026-06-29T19:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071677706299941018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1984316739363209216",
+          "start": 0,
+          "username": "Ouiwops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071677706299941018",
+    "in_reply_to_user_id": "1984316739363209216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071658124394557814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ouiwops 他也就欺负马克思现在是死人不会说话了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071658124394557814].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071658124394557814",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071658124394557814"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071658124394557814",
+        "created_at": "2026-06-29T19:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071677706299941018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984316739363209216",
+              "start": 0,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071677706299941018",
+        "in_reply_to_user_id": "1984316739363209216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071658124394557814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouiwops 他也就欺负马克思现在是死人不会说话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 4210,
+          "like_count": 44437,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 12694
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "一个无可救药的理想主义者\n\n老婆：@nvdlaamdmag114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nvdlaamdmag114"
+              }
+            ]
+          }
+        },
+        "id": "1984316739363209216",
+        "location": "乌托邦",
+        "name": "阳🇵🇸🇺🇦🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071219189331992576/qeduwppF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 706,
+          "like_count": 5304,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "Ouiwops",
+        "verified": false
+      }
+    ]
+  }
+}

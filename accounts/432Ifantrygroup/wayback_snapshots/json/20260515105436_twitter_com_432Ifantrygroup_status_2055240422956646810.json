@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055236080669192347",
+    "created_at": "2026-05-15T10:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055240422956646810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969691175574769664",
+          "start": 0,
+          "username": "Nostraman6000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055240422956646810",
+    "in_reply_to_user_id": "1969691175574769664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055236080669192347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nostraman6000 差点忘了你还要转帖发一遍，那直接再见吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055236080669192347",
+        "created_at": "2026-05-15T10:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055240422956646810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969691175574769664",
+              "start": 0,
+              "username": "Nostraman6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055240422956646810",
+        "in_reply_to_user_id": "1969691175574769664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055236080669192347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nostraman6000 差点忘了你还要转帖发一遍，那直接再见吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969691175574769664",
+        "conversation_id": "2055236080669192347",
+        "created_at": "2026-05-15T10:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055236080669192347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2055161612609454231",
+              "start": 131,
+              "url": "https://t.co/2lXYIZ0nri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055236080669192347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055161612609454231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个问题是你们网佐是解不了的，你们一般又要说女性解放，要尊重个体的自由，一方面又说要所有个体都尊重其他个体，如果不能做到，就要用国家的大手去达成这一切，这不就是自打嘴巴，最后又要搞父权制吗？无论左翼女性主义理论有多么光鲜亮丽，到了底层都会瓦房店化变成一地鸡毛。 https://t.co/2lXYIZ0nri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055161612609454231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 3808,
+          "like_count": 36527,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 9814
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:12:35.000Z",
+        "description": "你疑似有点过于守护常态，而不是人类了\n小号：@LXL1165188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "LXL1165188"
+              }
+            ]
+          }
+        },
+        "id": "1969691175574769664",
+        "location": "CI-△",
+        "name": "Dr.████",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032040350836277253/m1jDwtVg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 310,
+          "like_count": 469,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2907
+        },
+        "username": "Nostraman6000",
+        "verified": false
+      }
+    ]
+  }
+}

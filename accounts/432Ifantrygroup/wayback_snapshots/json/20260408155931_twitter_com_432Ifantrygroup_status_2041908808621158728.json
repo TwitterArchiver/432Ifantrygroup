@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041907578989343045",
+    "created_at": "2026-04-08T15:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041908808621158728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909663766771310592",
+          "start": 0,
+          "username": "012277ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041908808621158728",
+    "in_reply_to_user_id": "1909663766771310592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041907578989343045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@012277ovo 给我也弹过。我不太明白，推特也不知道我的身份证照片啥样，给我拍了又怎么确认呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_2041907573973024768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZQHrrXgAAEdfC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041907578989343045",
+        "created_at": "2026-04-08T15:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041908808621158728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909663766771310592",
+              "start": 0,
+              "username": "012277ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041908808621158728",
+        "in_reply_to_user_id": "1909663766771310592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041907578989343045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@012277ovo 给我也弹过。我不太明白，推特也不知道我的身份证照片啥样，给我拍了又怎么确认呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041907573973024768"
+          ]
+        },
+        "author_id": "1909663766771310592",
+        "conversation_id": "2041907578989343045",
+        "created_at": "2026-04-08T15:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041907578989343045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtmsbHcI30",
+              "end": 98,
+              "expanded_url": "https://x.com/012277ovo/status/2041907578989343045/photo/1",
+              "media_key": "3_2041907573973024768",
+              "start": 75,
+              "url": "https://t.co/EtmsbHcI30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041907578989343045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ip在欧洲除了认证真的没其他办法了吗，，谁懂打开推主页全是这种，，，甚至只是腹肌和自拍 我都刷不到什么特别暴露的东西都这样，，有种太监逛青楼的无力感 https://t.co/EtmsbHcI30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041758922651136322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 2870,
+          "like_count": 20809,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 5451
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T17:45:07.000Z",
+        "description": "在冬天拾起枯叶时，也想起我吧。",
+        "id": "1909663766771310592",
+        "location": "🚪188纯绿",
+        "name": "KLaxixi77",
+        "pinned_tweet_id": "2032783533702525355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009208157307031552/6ReJlkN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 92,
+          "like_count": 4729,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1661
+        },
+        "username": "012277ovo",
+        "verified": false
+      }
+    ]
+  }
+}

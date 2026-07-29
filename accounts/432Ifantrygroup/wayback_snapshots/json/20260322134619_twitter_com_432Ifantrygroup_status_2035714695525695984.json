@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035315232713879585",
+    "created_at": "2026-03-22T13:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T14:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035714695525695984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685152248098410496",
+          "start": 0,
+          "username": "WYYXH2CY_"
+        },
+        {
+          "end": 19,
+          "id": "1788642156111863808",
+          "start": 11,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035714695525695984",
+    "in_reply_to_user_id": "1685152248098410496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035713493014556861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WYYXH2CY_ @22wbxsx 应该说名媛=工人，二者并没有谁高谁低的说法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035315232713879585",
+        "created_at": "2026-03-22T13:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035714695525695984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685152248098410496",
+              "start": 0,
+              "username": "WYYXH2CY_"
+            },
+            {
+              "end": 19,
+              "id": "1788642156111863808",
+              "start": 11,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035714695525695984",
+        "in_reply_to_user_id": "1685152248098410496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035713493014556861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WYYXH2CY_ @22wbxsx 应该说名媛=工人，二者并没有谁高谁低的说法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685152248098410496",
+        "conversation_id": "2035315232713879585",
+        "created_at": "2026-03-22T13:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035713493014556861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 25,
+              "id": "1788642156111863808",
+              "start": 17,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035713493014556861",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035418777102524691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @22wbxsx 工人=名媛？\n\n你是这个👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035639223337062500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2748
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T04:56:55.000Z",
+        "description": "你要坚信一场恋爱只是一场梦，把没有ta能活得更好的理由记下来，每次意志晕头晕脑时，将ta的罪状再看一遍，相信时间会消逝一切。",
+        "id": "1685152248098410496",
+        "name": "GYU",
+        "pinned_tweet_id": "1955325974595227798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008956437020725248/LANz9mZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 1400,
+          "like_count": 33802,
+          "listed_count": 1,
+          "media_count": 541,
+          "tweet_count": 3017
+        },
+        "username": "WYYXH2CY_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "老子不厌男不厌女不媚男不媚女 谁也别想来管我",
+        "id": "1788642156111863808",
+        "name": "22",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032021475994320898/hdF5dHmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 292,
+          "like_count": 12857,
+          "listed_count": 1,
+          "media_count": 1136,
+          "tweet_count": 8614
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

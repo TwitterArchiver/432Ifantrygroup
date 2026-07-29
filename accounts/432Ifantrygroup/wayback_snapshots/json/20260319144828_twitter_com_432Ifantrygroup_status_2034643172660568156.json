@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034225380018749919",
+    "created_at": "2026-03-19T14:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034643172660568156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913595442946023424",
+          "start": 0,
+          "username": "ChenLi391236"
+        },
+        {
+          "end": 22,
+          "id": "2005276268145868800",
+          "start": 14,
+          "username": "NanyL_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034643172660568156",
+    "in_reply_to_user_id": "1913595442946023424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034642208461348868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenLi391236 @NanyL_1 哇，你好棒啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034225380018749919",
+        "created_at": "2026-03-19T14:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034643172660568156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913595442946023424",
+              "start": 0,
+              "username": "ChenLi391236"
+            },
+            {
+              "end": 22,
+              "id": "2005276268145868800",
+              "start": 14,
+              "username": "NanyL_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034643172660568156",
+        "in_reply_to_user_id": "1913595442946023424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034642208461348868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenLi391236 @NanyL_1 哇，你好棒啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913595442946023424",
+        "conversation_id": "2034225380018749919",
+        "created_at": "2026-03-19T14:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034642208461348868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005276268145868800",
+              "start": 0,
+              "username": "NanyL_1"
+            },
+            {
+              "end": 25,
+              "id": "1852895432269234176",
+              "start": 9,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034642208461348868",
+        "in_reply_to_user_id": "1913595442946023424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034641429428064266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanyL_1 @432Ifantrygroup 我前十八年，一直都在对自己的怀疑中成长，因为是遗传所以我妈并不觉得我奇怪，女性ASD患者基本上是被学术界忽略的，当我带她一起去确诊时她才明白为什么从小不被别人喜欢。确诊后反而帮我接受我自己的怪处了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2034572282203697316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 2428,
+          "like_count": 8446,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2177
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T14:08:52.000Z",
+        "description": "INTP+ASD，♀，温和的键政人，这里当胡言乱语的手记发。",
+        "id": "1913595442946023424",
+        "location": "Nantes, France",
+        "name": "Chen Li",
+        "pinned_tweet_id": "2029019257091371512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980656361730908160/UuboD3IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 62,
+          "like_count": 2371,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 993
+        },
+        "username": "ChenLi391236",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T13:55:03.000Z",
+        "description": "我恨君生早｜不混圈 只围观 很好说话王梦王粉快来和我互fo 💗 我只是表达我自己谢谢",
+        "id": "2005276268145868800",
+        "name": "難",
+        "pinned_tweet_id": "2011856362792476776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015412429434540032/70nzx_TS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 282,
+          "like_count": 10684,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 2765
+        },
+        "username": "NanyL_1",
+        "verified": false
+      }
+    ]
+  }
+}

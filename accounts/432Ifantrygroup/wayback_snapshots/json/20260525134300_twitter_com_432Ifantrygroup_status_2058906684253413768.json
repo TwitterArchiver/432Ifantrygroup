@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058821327763439616"
+      ],
+      "media_source_tweet_id": [
+        "2058821348743389566"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058906684253413768",
+    "created_at": "2026-05-25T13:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058906684253413768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1595110651621318656",
+          "start": 3,
+          "username": "ProcyonCoke731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQl5L6hgbs",
+          "end": 43,
+          "expanded_url": "https://x.com/ProcyonCoke731/status/2058821348743389566/photo/1",
+          "media_key": "3_2058821327763439616",
+          "start": 20,
+          "url": "https://t.co/BQl5L6hgbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058906684253413768",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058821348743389566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProcyonCoke731: https://t.co/BQl5L6hgbs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2058821327763439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJnFulWgAArZ0R.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058821327763439616"
+          ],
+          "media_source_tweet_id": [
+            "2058821348743389566"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058906684253413768",
+        "created_at": "2026-05-25T13:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058906684253413768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1595110651621318656",
+              "start": 3,
+              "username": "ProcyonCoke731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQl5L6hgbs",
+              "end": 43,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2058821348743389566/photo/1",
+              "media_key": "3_2058821327763439616",
+              "start": 20,
+              "url": "https://t.co/BQl5L6hgbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058906684253413768",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058821348743389566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProcyonCoke731: https://t.co/BQl5L6hgbs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058821327763439616"
+          ]
+        },
+        "author_id": "1595110651621318656",
+        "conversation_id": "2058821348743389566",
+        "created_at": "2026-05-25T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058821348743389566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQl5L6hgbs",
+              "end": 23,
+              "expanded_url": "https://x.com/ProcyonCoke731/status/2058821348743389566/photo/1",
+              "media_key": "3_2058821327763439616",
+              "start": 0,
+              "url": "https://t.co/BQl5L6hgbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058821348743389566",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 15974,
+          "like_count": 483,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BQl5L6hgbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058794876662374831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 3885,
+          "like_count": 38328,
+          "listed_count": 4,
+          "media_count": 413,
+          "tweet_count": 10470
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5469,
+          "following_count": 1186,
+          "like_count": 33726,
+          "listed_count": 59,
+          "media_count": 3970,
+          "tweet_count": 17139
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

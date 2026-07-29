@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2033056659363475658",
+    "created_at": "2026-03-15T06:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033062979428823417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887784896976060416",
+          "start": 0,
+          "username": "koioi7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033062979428823417",
+    "in_reply_to_user_id": "1887784896976060416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033061910585979351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koioi7777 就是那种土皇帝的样子。\n我就感觉河北的教育环境很压抑。在我遇到我的河北舍友后我才知道有学校可以让学生连续几个月住在宿舍里，可以没有任何节日庆典，可以没有任何学生社团组织。\n恐怖啊，这和监狱有什么区别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2033056659363475658",
+        "created_at": "2026-03-15T06:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033062979428823417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887784896976060416",
+              "start": 0,
+              "username": "koioi7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033062979428823417",
+        "in_reply_to_user_id": "1887784896976060416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033061910585979351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koioi7777 就是那种土皇帝的样子。\n我就感觉河北的教育环境很压抑。在我遇到我的河北舍友后我才知道有学校可以让学生连续几个月住在宿舍里，可以没有任何节日庆典，可以没有任何学生社团组织。\n恐怖啊，这和监狱有什么区别。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887784896976060416",
+        "conversation_id": "2033056659363475658",
+        "created_at": "2026-03-15T06:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033061910585979351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033061910585979351",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033061669824594161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 河北的老师不是老师 而是皇帝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 2303,
+          "like_count": 6825,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1715
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T08:46:20.000Z",
+        "description": "有🚪 具体看置顶 只回口令 点评鸡巴9.9 直接发鸡巴图的全家死光光 男女都可以接",
+        "id": "1887784896976060416",
+        "name": "y",
+        "pinned_tweet_id": "2020457668326879284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938463492182585344/FUZwowpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 14,
+          "like_count": 178,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 312
+        },
+        "username": "koioi7777",
+        "verified": false
+      }
+    ]
+  }
+}

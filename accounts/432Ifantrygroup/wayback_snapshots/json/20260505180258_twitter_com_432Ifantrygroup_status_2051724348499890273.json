@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051722295534829988",
+    "created_at": "2026-05-05T18:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051724348499890273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051724348499890273",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051722295534829988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 我认识几个台湾网友，特别好倒也没有，出国也得有钱才行，不过为什么有人就一门心思盼望着人家过得不好，到底是个什么心理...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2051722287662219264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkujNXbwAAz0BQ.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051722295534829988",
+        "created_at": "2026-05-05T18:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051724348499890273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051724348499890273",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051722295534829988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 我认识几个台湾网友，特别好倒也没有，出国也得有钱才行，不过为什么有人就一门心思盼望着人家过得不好，到底是个什么心理...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051722287662219264"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "conversation_id": "2051722295534829988",
+        "created_at": "2026-05-05T17:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051722295534829988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDDGU1pPPe",
+              "end": 37,
+              "expanded_url": "https://x.com/22wbxsx/status/2051722295534829988/photo/1",
+              "media_key": "3_2051722287662219264",
+              "start": 14,
+              "url": "https://t.co/ZDDGU1pPPe"
+            },
+            {
+              "display_url": "x.com/fchanghui66086…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/fchanghui66086/status/2051687087485878327",
+              "start": 38,
+              "url": "https://t.co/bzRHU08nCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051722295534829988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051687087485878327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一本护照能把你急成这个样子 https://t.co/ZDDGU1pPPe https://t.co/bzRHU08nCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051683007774568749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 3557,
+          "like_count": 32223,
+          "listed_count": 4,
+          "media_count": 348,
+          "tweet_count": 8623
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 295,
+          "like_count": 15057,
+          "listed_count": 2,
+          "media_count": 1212,
+          "tweet_count": 9771
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2074718711265816937",
+    "created_at": "2026-07-08T04:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074718711265816937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_TwT"
+        },
+        {
+          "end": 64,
+          "id": "2047894021457211393",
+          "start": 48,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074718711265816937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073811033744171495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_TwT: 操蛋第12世 參上？！\n好操蛋啊！又要從0開始了呢…前世為 @FanQie_QianQian \n好不容易快1k5 followers 了 結果遭惡意舉報 永封了\n我好難過 我什麼都沒有了 我不想再被封了 我不想再失去了 這個號我只會發自拍 不…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [FanQie_QianQian].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "FanQie_QianQian",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "FanQie_QianQian"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2073811024592183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeoI6wbIAAnhLf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 958,
+        "media_key": "3_2073811023916912641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeoI4PbUAEB7GX.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2074718711265816937",
+        "created_at": "2026-07-08T04:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074718711265816937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_TwT"
+            },
+            {
+              "end": 64,
+              "id": "2047894021457211393",
+              "start": 48,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074718711265816937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073811033744171495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_TwT: 操蛋第12世 參上？！\n好操蛋啊！又要從0開始了呢…前世為 @FanQie_QianQian \n好不容易快1k5 followers 了 結果遭惡意舉報 永封了\n我好難過 我什麼都沒有了 我不想再被封了 我不想再失去了 這個號我只會發自拍 不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073811024592183296",
+            "3_2073811023916912641"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2073811033744171495",
+        "created_at": "2026-07-05T16:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073811033744171495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "2047894021457211393",
+              "start": 30,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 162,
+              "id": "2050947066709573632",
+              "start": 150,
+              "username": "KetChup_Mew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/id7S5t2ffi",
+              "end": 195,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073811033744171495/photo/1",
+              "media_key": "3_2073811024592183296",
+              "start": 172,
+              "url": "https://t.co/id7S5t2ffi"
+            },
+            {
+              "display_url": "pic.x.com/id7S5t2ffi",
+              "end": 195,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2073811033744171495/photo/1",
+              "media_key": "3_2073811023916912641",
+              "start": 172,
+              "url": "https://t.co/id7S5t2ffi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073811033744171495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15007,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋第12世 參上？！\n好操蛋啊！又要從0開始了呢…前世為 @FanQie_QianQian \n好不容易快1k5 followers 了 結果遭惡意舉報 永封了\n我好難過 我什麼都沒有了 我不想再被封了 我不想再失去了 這個號我只會發自拍 不要再惡意舉報我了好不好 我從未招惹任何人 \n血圖碎碎唸放在@KetChup_Mew 只通過熟悉的互關 https://t.co/id7S5t2ffi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 4230,
+          "like_count": 45371,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13158
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 42,
+          "like_count": 281,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

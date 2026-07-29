@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032990908183134480",
+    "created_at": "2026-03-15T02:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T03:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033012721088881031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2893886738",
+          "start": 0,
+          "username": "bbjk666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033012721088881031",
+    "in_reply_to_user_id": "2893886738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032990908183134480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbjk666 这小玩意看着是挺可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15815,
+        "height": 1280,
+        "media_key": "13_1997708064557035520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997708064557035520/img/n1G6jcZt-mq-glfm.jpg",
+        "public_metrics": {
+          "view_count": 1126979
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997708064557035520/vid/avc1/320x568/WP8LXgSihCS65th-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997708064557035520/vid/avc1/480x852/gZNC58i87vVqMkdf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997708064557035520/vid/avc1/720x1280/jjpkTc6IOY1lbd7M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997708064557035520/pl/veVnMvm0AiWjCHjN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032990908183134480",
+        "created_at": "2026-03-15T02:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T03:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033012721088881031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2893886738",
+              "start": 0,
+              "username": "bbjk666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033012721088881031",
+        "in_reply_to_user_id": "2893886738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032990908183134480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbjk666 这小玩意看着是挺可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997708064557035520"
+          ],
+          "media_source_tweet_id": [
+            "1997708186854547559"
+          ]
+        },
+        "author_id": "2893886738",
+        "conversation_id": "2032990908183134480",
+        "created_at": "2026-03-15T01:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032990908183134480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73rxHxAX8w",
+              "end": 39,
+              "expanded_url": "https://x.com/MarchUnofficial/status/1997708186854547559/video/1",
+              "media_key": "13_1997708064557035520",
+              "start": 16,
+              "url": "https://t.co/73rxHxAX8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032990908183134480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2098,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你敢养这样的跳蛛宠物吗？🕷🕷🕷 https://t.co/73rxHxAX8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 2295,
+          "like_count": 6747,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1692
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T15:19:57.000Z",
+        "description": "分享的内容源自网络，侵删。点赞=已阅。 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bbyk168?si=wH…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bbyk168?si=wHK9ZVOdMVrGbHS3",
+                "start": 0,
+                "url": "https://t.co/XQRiJuIWBH"
+              }
+            ]
+          }
+        },
+        "id": "2893886738",
+        "location": "X平台",
+        "name": "背包健客",
+        "pinned_tweet_id": "1881289880040542535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817918441044807680/hKAVDYHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175420,
+          "following_count": 2289,
+          "like_count": 17302,
+          "listed_count": 660,
+          "media_count": 14489,
+          "tweet_count": 20492
+        },
+        "url": "https://t.co/XQRiJuIWBH",
+        "username": "bbjk666",
+        "verified": true
+      }
+    ]
+  }
+}

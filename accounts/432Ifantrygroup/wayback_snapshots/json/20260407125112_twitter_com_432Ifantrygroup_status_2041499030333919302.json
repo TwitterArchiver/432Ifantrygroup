@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2041499030333919302",
+    "created_at": "2026-04-07T12:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041499030333919302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VicentYip/stat…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/VicentYip/status/2041191828129489172",
+          "start": 144,
+          "url": "https://t.co/0wFO6hPeyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041499030333919302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041191828129489172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯扯淡地摊文学。激素调节轴的作用速度缓慢，泌乳素对乳汁分泌的调节时间是以天为单位剂量的，这帖子描述的作用效果简直是在写黄文，本质上是不了解女性生理机能的人为满足某种施虐倾向创作的的文学幻想\n说句题外话：催乳剂用作吐真虽是无稽之谈，但越战中曾被用作吐真剂的药物有一个大家耳熟能详--LSD https://t.co/0wFO6hPeyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2041191816989741056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPFJJIbkAA1CpT.jpg",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2041499030333919302",
+        "created_at": "2026-04-07T12:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041499030333919302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VicentYip/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/VicentYip/status/2041191828129489172",
+              "start": 144,
+              "url": "https://t.co/0wFO6hPeyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041499030333919302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041191828129489172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯扯淡地摊文学。激素调节轴的作用速度缓慢，泌乳素对乳汁分泌的调节时间是以天为单位剂量的，这帖子描述的作用效果简直是在写黄文，本质上是不了解女性生理机能的人为满足某种施虐倾向创作的的文学幻想\n说句题外话：催乳剂用作吐真虽是无稽之谈，但越战中曾被用作吐真剂的药物有一个大家耳熟能详--LSD https://t.co/0wFO6hPeyE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041191816989741056"
+          ]
+        },
+        "author_id": "1271534910746931200",
+        "conversation_id": "2041191828129489172",
+        "created_at": "2026-04-06T16:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041191828129489172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1LosIuBAA",
+              "end": 142,
+              "expanded_url": "https://x.com/VicentYip/status/2041191828129489172/photo/1",
+              "media_key": "3_2041191816989741056",
+              "start": 119,
+              "url": "https://t.co/L1LosIuBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041191828129489172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“空孕催乳剂，没人扛得住。”1961年，美国对越战争中，美军俘获了一名越南女兵，试图通过严酷的审讯手段撬开她的嘴，几近绝望的折磨无济于事，就在捉襟见肘之际，美方的军官脑海中闪个一抹阴险的念头，竟想出了一个令人发指的主意：利用空孕催乳剂。\n​在此之前，美军已经对这名女兵用尽了常规的审讯酷刑。\n​皮鞭抽打的伤痕遍布全身，电击带来的痉挛让她数次昏厥，水刑造成的窒息感反复撕扯着她的意志，连续数日的睡眠剥夺和食物限制，早已让她的身体濒临极限。\n​可即便身处这样的绝境，这名越南女兵始终咬紧牙关，没有吐露半个关于北越军队的情报，眼神里只剩下对侵略者的刻骨仇恨。\n​这不是个例，在整个越南战场上，这样的场景每天都在美军的审讯室里上演。\n​随着越南战争的深入，北越兵力吃紧，大量越南女性放下红妆、拿起武器，加入到保家卫国的战斗中。\n​她们善于伪装，能化身田间农妇发起突袭，能潜伏进美军营地执行暗杀，甚至有越南女兵创下过单人击杀 123 名美军的战绩，成了美军挥之不去的噩梦。\n​也正因如此，美军对被俘的越南女兵格外忌惮，也格外狠辣。他们用尽了各种惨无人道的刑讯手段，却始终难以瓦解这些女兵的战斗意志。常规的肉体折磨，除了让她们更加憎恨美军，起不到任何逼供的效果。\n​就在美军审讯官们无计可施之际，空孕催乳剂这种本不该出现在战场上的药剂，成了他们最后的 “杀手锏”。\n​这种药剂的主要成分是绒促性素、垂体后叶素等激素类物质，最初研发出来是用于畜牧业，给母猪、母牛等家畜催产催乳，帮助家畜更好地哺育幼崽。后来在美国的风月场所，这种药剂被滥用，用来强行改变女性身体状态，以此博取关注。\n​可谁也没有想到，美军会将这种原本用于牲畜的药剂，搬上战场，变成摧毁女性战俘身心的利刃。\n当冰冷的药剂被强行注射进女兵的静脉，一场比肉体酷刑更残忍的折磨，就此拉开序幕。\n​药剂进入血液后，短短十几分钟就会起效。女兵先是感到身体莫名发热，一股不受控制的躁动从四肢百骸涌来，紧接着，乳腺在激素的强行刺激下急剧膨胀，乳汁不受控制地开始分泌。\n​可没有婴儿的吮吸，这些乳汁根本无法顺利排出，只能不断淤积在体内，随之而来的是乳房撕裂般的剧痛，胸肌持续痉挛，那种濒死的胀痛感，远非皮肉之苦可以比拟。\n​与此同时，体内紊乱的性激素，会让女性的生理欲望暴涨到正常水平的数倍，理智被汹涌的生理本能一点点吞噬，意识逐渐模糊，整个人陷入癫狂又痛苦的错乱状态。\n​这种折磨，从来都不是靠钢铁般的意志就能扛住的。它绕开了皮肉的痛苦，直接攻击人体最基础的生理防线，将人的尊严碾碎在地。\n​那名最初被注射药剂的越南女兵，在药效发作后，从最开始的咬牙硬撑，到身体不受控制地颤抖，再到彻底失去理智、胡言乱语，最终在神志不清的状态下，说出了美军想要的全部情报。\n​等药效褪去，她恢复清醒的那一刻，巨大的羞耻感和负罪感瞬间将她淹没。她无法接受自己出卖了战友和组织的事实，最终在审讯室里，用最惨烈的方式结束了自己的生命。\n​这样的悲剧，在越南战争中反复上演。\n​从 1965 年开始，美军在岘港、芹苴等地设立了专门的审讯中心，开始大规模对被俘的越南女兵使用空孕催乳剂。他们不仅会用针管进行高剂量强制注射，还会在女兵的饮食中偷偷添加药剂，确保药效持续发作，彻底瓦解她们的意志。\n​根据越南方面战后的统计，到 1975 年战争结束，有超过 12000 名越南女性战斗人员、地下交通员，都曾遭受过这种药剂的迫害。\n​其中，不少女兵和开头那名女兵一样，在清醒后选择了自杀，用死亡洗刷屈辱；而那些侥幸活下来的女兵，也迎来了终身无法摆脱的噩梦。\n​空孕催乳剂给女性身体带来的伤害，是完全不可逆的。\n​长期、高剂量的激素刺激，让大量幸存女兵出现了严重的内分泌紊乱，闭经、终身不育成了她们人生的常态。同时，非正常的乳腺增生与萎缩，让她们患上乳腺癌的概率大幅提升，很多人后半生都在与病痛相伴。\n​比身体创伤更难治愈的，是心理上的永久伤疤。很多幸存女兵一辈子都活在屈辱和恐惧中，战争结束多年后，依然会被深夜的噩梦惊醒，无法正常生活。\n​而美军的这一暴行，早已严重违反了《日内瓦公约》。\n​​这份国际公约早已明确规定，不得对战俘实施虐待和侮辱性刑罚，必须保障战俘的基本人权与人格尊严。\n​可一向在国际社会高举 “人权” 大旗的美国，却在越南战场上，用这种令人发指的手段，对女性战俘实施身心双重的极致摧残，这无疑是对美式人权最辛辣的讽刺。\n​半个多世纪过去，越南战争的硝烟早已散尽，但空孕催乳剂留下的伤疤，至今仍未愈合。\n​战争从来都不是冰冷的伤亡数字，也不是武器装备的对决，它最残酷的一面，永远都落在普通人身上。那些拿起武器保卫家国的越南女兵，本该拥有平凡安稳的人生，却在战火中遭遇了泯灭人性的折磨。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 440,
+          "impression_count": 833823,
+          "like_count": 680,
+          "quote_count": 15,
+          "reply_count": 237,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "“空孕催乳剂，没人扛得住。”1961年，美国对越战争中，美军俘获了一名越南女兵，试图通过严酷的审讯手段撬开她的嘴，几近绝望的折磨无济于事，就在捉襟见肘之际，美方的军官脑海中闪个一抹阴险的念头，竟想出了一个令人发指的主意：利用空孕催乳剂。 https://t.co/L1LosIuBAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 2840,
+          "like_count": 20157,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 5290
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T20:09:03.000Z",
+        "description": "世上最怕的是“认真”这三个字！",
+        "id": "1271534910746931200",
+        "location": "HONGKONG",
+        "name": "如是我闻",
+        "pinned_tweet_id": "2039227842425434153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749090181171519488/OVvzPQQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35724,
+          "following_count": 1888,
+          "like_count": 98642,
+          "listed_count": 130,
+          "media_count": 21564,
+          "tweet_count": 65801
+        },
+        "username": "VicentYip",
+        "verified": true
+      }
+    ]
+  }
+}

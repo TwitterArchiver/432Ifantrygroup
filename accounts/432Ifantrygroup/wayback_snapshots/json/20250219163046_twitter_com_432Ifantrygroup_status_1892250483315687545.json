@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1891855823699153034",
+    "created_at": "2025-02-19T16:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T17:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892250483315687545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "556973756",
+          "start": 0,
+          "username": "DJ_Siesto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892250483315687545",
+    "in_reply_to_user_id": "556973756",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891855823699153034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DJ_Siesto 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1891855823699153034",
+        "created_at": "2025-02-19T16:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T17:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892250483315687545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "556973756",
+              "start": 0,
+              "username": "DJ_Siesto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892250483315687545",
+        "in_reply_to_user_id": "556973756",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891855823699153034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DJ_Siesto 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "556973756",
+        "conversation_id": "1891855823699153034",
+        "created_at": "2025-02-18T14:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T15:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891855823699153034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891855823699153034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 355510,
+          "like_count": 1646,
+          "quote_count": 0,
+          "reply_count": 1785,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我靠！！玩大了，晚上给新疆小妹喝的春药有点多了，刚刚上台表演的时候放飞自我了，边摇边揉白虎，场面太炸裂了。\n老样子，点赞扣1我发你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 899,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 89
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-18T15:43:29.000Z",
+        "description": "坐标浙江｜职场女强人｜手里三个酒吧｜来发泄自己",
+        "id": "556973756",
+        "location": "杭州",
+        "name": "老板娘阿昭",
+        "pinned_tweet_id": "1889574126571930022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793475382429335552/D6p6rGBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33388,
+          "following_count": 39,
+          "like_count": 870,
+          "listed_count": 45,
+          "media_count": 71,
+          "tweet_count": 465
+        },
+        "username": "DJ_Siesto",
+        "verified": false
+      }
+    ]
+  }
+}

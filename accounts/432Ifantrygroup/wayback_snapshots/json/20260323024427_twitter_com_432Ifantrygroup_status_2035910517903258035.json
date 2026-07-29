@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035750663498748070",
+    "created_at": "2026-03-23T02:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035910517903258035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025326527374917636",
+          "start": 0,
+          "username": "NekpoArsenal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035910517903258035",
+    "in_reply_to_user_id": "2025326527374917636",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035750663498748070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekpoArsenal terrible"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2035750661401505792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBwcNAacAATN-U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035750663498748070",
+        "created_at": "2026-03-23T02:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035910517903258035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025326527374917636",
+              "start": 0,
+              "username": "NekpoArsenal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035910517903258035",
+        "in_reply_to_user_id": "2025326527374917636",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035750663498748070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekpoArsenal terrible"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035750661401505792"
+          ]
+        },
+        "author_id": "2025326527374917636",
+        "conversation_id": "2035750663498748070",
+        "created_at": "2026-03-22T16:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035750663498748070"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Glock",
+              "probability": 0.9181,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfoRAXExUt",
+              "end": 34,
+              "expanded_url": "https://x.com/NekpoArsenal/status/2035750663498748070/photo/1",
+              "media_key": "3_2035750661401505792",
+              "start": 11,
+              "url": "https://t.co/AfoRAXExUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035750663498748070",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 48704,
+          "like_count": 2943,
+          "quote_count": 16,
+          "reply_count": 72,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "Glock 1911 https://t.co/AfoRAXExUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 2649,
+          "like_count": 10658,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2835
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T21:47:55.000Z",
+        "description": "",
+        "id": "2025326527374917636",
+        "name": "Nekpo",
+        "pinned_tweet_id": "2030360244845678916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025334849293484032/Ka8Qtw3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 126,
+          "like_count": 282,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 67
+        },
+        "username": "NekpoArsenal",
+        "verified": false
+      }
+    ]
+  }
+}

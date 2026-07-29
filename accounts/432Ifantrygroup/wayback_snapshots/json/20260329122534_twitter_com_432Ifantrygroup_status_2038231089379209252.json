@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038193437867229374",
+    "created_at": "2026-03-29T12:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038231089379209252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945847691025715200",
+          "start": 0,
+          "username": "hchn222209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038231089379209252",
+    "in_reply_to_user_id": "1945847691025715200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038193437867229374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hchn222209 不要！🥺怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038193437867229374",
+        "created_at": "2026-03-29T12:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038231089379209252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945847691025715200",
+              "start": 0,
+              "username": "hchn222209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038231089379209252",
+        "in_reply_to_user_id": "1945847691025715200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038193437867229374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hchn222209 不要！🥺怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945847691025715200",
+        "conversation_id": "2038193437867229374",
+        "created_at": "2026-03-29T09:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038193437867229374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038193437867229374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已准备好，今天晚上成功我就升天，失败失败就去医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 2650,
+          "like_count": 14910,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3933
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T14:07:10.000Z",
+        "description": "泥嚎!09/infp 这里是小稚ovo\n中度抑郁混合焦虑 \n别惹我我很脆弱ŏ̥̥̥̥םŏ̥̥̥̥\n喜欢一切可爱的东西...",
+        "id": "1945847691025715200",
+        "location": "距离你2.5km",
+        "name": "命比纸薄",
+        "pinned_tweet_id": "2036767859175755975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036767637703987200/4Tsl_zn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 3,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 223
+        },
+        "username": "hchn222209",
+        "verified": false
+      }
+    ]
+  }
+}

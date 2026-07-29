@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Portal g1",
+          "id": "920731680242991104",
+          "name": "Portal g1"
+        }
+      }
+    ],
+    "conversation_id": "2062230050099868093",
+    "created_at": "2026-06-04T03:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062381393481777504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 3,
+          "id": "8802752",
+          "start": 0,
+          "username": "g1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062381393481777504",
+    "in_reply_to_user_id": "8802752",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062230050099868093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g1 Os direitos são um atributo social, não biológico. O âmbito de aplicação dos direitos deve ser limitado ao \"ser social\".\n\nUm indivíduo só se torna um sujeito independente após o nascimento."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 171200,
+        "height": 1920,
+        "media_key": "13_2062229975361568768",
+        "preview_image_url": "https://pbs.twimg.com/media/HJ6EcGfXMAACP6b.jpg",
+        "public_metrics": {
+          "view_count": 3801
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062229975361568768/vid/avc1/480x852/MPWQBcGq1-qHlGdf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062229975361568768/vid/avc1/1080x1920/TrsVjTm5li2moiLk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062229975361568768/pl/XIU1LdrtjyHATqfV.m3u8?v=242"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062229975361568768/vid/avc1/720x1280/1001Ntj_TFe1mVwY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062229975361568768/vid/avc1/320x568/2xlyTCB1xNgk3h_t.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Portal g1",
+              "id": "920731680242991104",
+              "name": "Portal g1"
+            }
+          }
+        ],
+        "conversation_id": "2062230050099868093",
+        "created_at": "2026-06-04T03:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062381393481777504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 3,
+              "id": "8802752",
+              "start": 0,
+              "username": "g1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062381393481777504",
+        "in_reply_to_user_id": "8802752",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062230050099868093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g1 Os direitos são um atributo social, não biológico. O âmbito de aplicação dos direitos deve ser limitado ao \"ser social\".\n\nUm indivíduo só se torna um sujeito independente após o nascimento."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062229975361568768"
+          ]
+        },
+        "author_id": "8802752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Portal g1",
+              "id": "920731680242991104",
+              "name": "Portal g1"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192882051944333313",
+              "name": "Brazil national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192882051944333313",
+              "name": "Brazil national news"
+            }
+          }
+        ],
+        "conversation_id": "2062230050099868093",
+        "created_at": "2026-06-03T17:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062230050099868093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4PYK47SNz",
+              "end": 303,
+              "expanded_url": "https://x.com/g1/status/2062230050099868093/video/1",
+              "media_key": "13_2062229975361568768",
+              "start": 280,
+              "url": "https://t.co/B4PYK47SNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062230050099868093",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 790,
+                "start": 787,
+                "tag": "g1"
+              }
+            ]
+          },
+          "text": "Dados publicados pelo Fórum Brasileiro de Segurança Pública mostraram que em 2024, quatro crianças foram estupradas a cada hora no Brasil, em média.\n\nO levantamento mostra que foram registrados mais de 67 mil casos de estupro de vulnerável naquele ano - destes, 33% tinham idades entre 10 e 13 anos.\nOs números absolutos mostram que 78% das vítimas de violência sexual têm menos de 18 anos. E em 92% dos casos, o agressor é ou um familiar (63%), ou um conhecido (29%).\n\nNa terça-feira (2), o Senado Federal precisou de menos de dois minutos para aprovar um projeto que dificulta o aborto legal em crianças vítimas de estupro. A decisão suspende os efeitos de uma resolução de dezembro de 2024 que regulamentava o direito de menores de idade ao aborto legal em casos de violência sexual. #g1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9919,
+          "like_count": 487,
+          "quote_count": 11,
+          "reply_count": 25,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "Dados publicados pelo Fórum Brasileiro de Segurança Pública mostraram que em 2024, quatro crianças foram estupradas a cada hora no Brasil, em média.\n\nO levantamento mostra que foram registrados mais de 67 mil casos de estupro de vulnerável naquele ano - destes, 33% tinham idades https://t.co/B4PYK47SNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062240095227592980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 4025,
+          "like_count": 42104,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 11783
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2007-09-11T04:05:49.000Z",
+        "description": "Siga o g1 nas redes sociais:\nhttps://t.co/Z0QGNc44I7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "empli.fi/g1/",
+                "end": 52,
+                "expanded_url": "http://empli.fi/g1/",
+                "start": 29,
+                "url": "https://t.co/Z0QGNc44I7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "g1.com.br",
+                "end": 23,
+                "expanded_url": "http://g1.com.br",
+                "start": 0,
+                "url": "https://t.co/aU1rfIKpvv"
+              }
+            ]
+          }
+        },
+        "id": "8802752",
+        "location": "Brasil",
+        "name": "g1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006426591685935104/ryEbMweZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13964740,
+          "following_count": 64,
+          "like_count": 20,
+          "listed_count": 18652,
+          "media_count": 329634,
+          "tweet_count": 839069
+        },
+        "url": "https://t.co/aU1rfIKpvv",
+        "username": "g1",
+        "verified": true
+      }
+    ]
+  }
+}

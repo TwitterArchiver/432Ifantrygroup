@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036797301960966417",
+    "created_at": "2026-03-25T14:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036812702698627560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036812702698627560",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036797301960966417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 这真神了。不过他说的这事大概率是不太可能的，要是你努努力考到北京上海杭州南京这些地方他更不可能去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036797301960966417",
+        "created_at": "2026-03-25T14:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036812702698627560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036812702698627560",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036797301960966417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 这真神了。不过他说的这事大概率是不太可能的，要是你努努力考到北京上海杭州南京这些地方他更不可能去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "conversation_id": "2036797301960966417",
+        "created_at": "2026-03-25T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036797301960966417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhaxia123/stat…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/zhaxia123/status/2036796839723483324",
+              "start": 124,
+              "url": "https://t.co/kK005gKeRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036797301960966417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036796839723483324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸还说我上大学了要跟我一起 在我上大学的地方开诊所和我住 听到这话我都要崩溃死了呀 求求你们两个别粘着我了太尼玛币恐怖了听完我都好绝望呀想死了😂😂还说他俩已经没有人生了唯一的希望就是我 那快点重开小号吧我不想要父爱母爱折腾二胎继续培养精神病吧😇 https://t.co/kK005gKeRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036518135612973442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 2721,
+          "like_count": 12929,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 3428
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "",
+        "id": "1986760052955652096",
+        "name": "one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 38,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 354
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

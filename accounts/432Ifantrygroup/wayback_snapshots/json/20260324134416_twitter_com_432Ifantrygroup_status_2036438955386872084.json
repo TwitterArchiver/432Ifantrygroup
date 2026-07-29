@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036399209281364088",
+    "created_at": "2026-03-24T13:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036438955386872084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1711941598765076480",
+          "start": 0,
+          "username": "hong_zi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036438955386872084",
+    "in_reply_to_user_id": "1711941598765076480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036399209281364088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hong_zi3 割伤静脉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21703,
+        "height": 1280,
+        "media_key": "13_2036399119728779267",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036399119728779267/img/uJyrwz-HcSMuBeSr.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036399119728779267/vid/avc1/320x568/PabR_BgXVRD-cTmi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036399119728779267/vid/avc1/480x852/_t2DFicoNESk4XxC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036399119728779267/vid/avc1/720x1280/aZDENf-hrst9-KN5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036399119728779267/pl/J6WYm_Df0l7-3xUz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036399209281364088",
+        "created_at": "2026-03-24T13:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036438955386872084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711941598765076480",
+              "start": 0,
+              "username": "hong_zi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036438955386872084",
+        "in_reply_to_user_id": "1711941598765076480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036399209281364088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hong_zi3 割伤静脉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036399119728779267"
+          ]
+        },
+        "author_id": "1711941598765076480",
+        "conversation_id": "2036399209281364088",
+        "created_at": "2026-03-24T11:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036399209281364088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAnHubmAJK",
+              "end": 23,
+              "expanded_url": "https://x.com/hong_zi3/status/2036399209281364088/video/1",
+              "media_key": "13_2036399119728779267",
+              "start": 0,
+              "url": "https://t.co/YAnHubmAJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036399209281364088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 116,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YAnHubmAJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2722,
+          "like_count": 11953,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3174
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T03:07:51.000Z",
+        "description": "",
+        "id": "1711941598765076480",
+        "name": "潮湿的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852878044727480320/4HurfYGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 212,
+          "like_count": 4179,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 473
+        },
+        "username": "hong_zi3",
+        "verified": false
+      }
+    ]
+  }
+}

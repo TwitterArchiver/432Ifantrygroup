@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2027862306777141260",
+    "created_at": "2026-03-01T02:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027938670519660756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "922884339804672000",
+          "start": 0,
+          "username": "Fahadnaimb"
+        },
+        {
+          "end": 20,
+          "id": "1655156808",
+          "start": 12,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027938670519660756",
+    "in_reply_to_user_id": "922884339804672000",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027862306777141260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fahadnaimb @GetXBot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14953,
+        "height": 1280,
+        "media_key": "7_2027862276817240064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027862276817240064/pu/img/uqX2mOswYD5QvuKu.jpg",
+        "public_metrics": {
+          "view_count": 1996049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027862276817240064/pu/vid/avc1/320x568/2fZoAxGKCQL-_Nnr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027862276817240064/pu/vid/avc1/480x852/qZps9kcno9SHCFFS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027862276817240064/pu/vid/avc1/720x1280/jcIWZ0Ds893bmaa8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027862276817240064/pu/pl/ucLBbOk6pM60NvmS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2027862306777141260",
+        "created_at": "2026-03-01T02:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027938670519660756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "922884339804672000",
+              "start": 0,
+              "username": "Fahadnaimb"
+            },
+            {
+              "end": 20,
+              "id": "1655156808",
+              "start": 12,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027938670519660756",
+        "in_reply_to_user_id": "922884339804672000",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027862306777141260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fahadnaimb @GetXBot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027862276817240064"
+          ]
+        },
+        "author_id": "922884339804672000",
+        "conversation_id": "2027862306777141260",
+        "created_at": "2026-02-28T21:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027862306777141260"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Burj Al Khalifa",
+              "probability": 0.9527,
+              "start": 23,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Dubai",
+              "probability": 0.9856,
+              "start": 40,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4Xw5EKzFb",
+              "end": 70,
+              "expanded_url": "https://x.com/Fahadnaimb/status/2027862306777141260/video/1",
+              "media_key": "7_2027862276817240064",
+              "start": 47,
+              "url": "https://t.co/Z4Xw5EKzFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027862306777141260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2570,
+          "impression_count": 2905803,
+          "like_count": 14667,
+          "quote_count": 133,
+          "reply_count": 181,
+          "retweet_count": 1571
+        },
+        "reply_settings": "everyone",
+        "text": "Missile flying towards Burj Al Khalifa, Dubai. https://t.co/Z4Xw5EKzFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 1734,
+          "like_count": 3146,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 427
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-24T17:55:47.000Z",
+        "description": "✈I fix the planes you fly on. Licensed Aircraft Maintenance Engineer sharing real crash causes, Boeing vs Airbus truths & untold stories. No fluff. #AvGeek",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 155,
+                "start": 148,
+                "tag": "AvGeek"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "klingai.com/h5-app/invitat…",
+                "end": 23,
+                "expanded_url": "https://klingai.com/h5-app/invitation?code=7BQPG7EJU6SQ",
+                "start": 0,
+                "url": "https://t.co/flCYBa3MAw"
+              }
+            ]
+          }
+        },
+        "id": "922884339804672000",
+        "location": "Moon",
+        "name": "Fahad Naim",
+        "pinned_tweet_id": "2027862306777141260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933301102415654912/8Rz4Y2-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12320,
+          "following_count": 72,
+          "like_count": 14590,
+          "listed_count": 30,
+          "media_count": 4347,
+          "tweet_count": 9507
+        },
+        "url": "https://t.co/flCYBa3MAw",
+        "username": "Fahadnaimb",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。\n新功能：VIP会员可将推文通过私信发送给我获取视频下载链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pay.getxbot.work",
+                "end": 23,
+                "expanded_url": "https://pay.getxbot.work",
+                "start": 0,
+                "url": "https://t.co/PMtZdQVrNl"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "location": "订阅成为会员➤",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "2009751195653681430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518905,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 213,
+          "media_count": 9,
+          "tweet_count": 510910
+        },
+        "url": "https://t.co/PMtZdQVrNl",
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

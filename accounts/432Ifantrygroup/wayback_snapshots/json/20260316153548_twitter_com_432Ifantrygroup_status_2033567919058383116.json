@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2033128467479572593",
+    "created_at": "2026-03-16T15:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033567919058383116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008502056752218112",
+          "start": 0,
+          "username": "Cathy_CHN_2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033567919058383116",
+    "in_reply_to_user_id": "2008502056752218112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033128467479572593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_CHN_2026 确实好吃，不过带冰碴的欣赏不来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033128455123161089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcfjtZa0AE3knE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2033128467479572593",
+        "created_at": "2026-03-16T15:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033567919058383116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008502056752218112",
+              "start": 0,
+              "username": "Cathy_CHN_2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033567919058383116",
+        "in_reply_to_user_id": "2008502056752218112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033128467479572593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_CHN_2026 确实好吃，不过带冰碴的欣赏不来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033128455123161089"
+          ]
+        },
+        "author_id": "2008502056752218112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2033128467479572593",
+        "created_at": "2026-03-15T10:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033128467479572593"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "自制皮冻"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "朴素一餐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNd63HpT8R",
+              "end": 75,
+              "expanded_url": "https://x.com/Cathy_CHN2026/status/2033128467479572593/photo/1",
+              "media_key": "3_2033128455123161089",
+              "start": 52,
+              "url": "https://t.co/rNd63HpT8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033128467479572593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#自制皮冻\n#朴素一餐\n大概只有东北人懂得这玩意儿的含金量\n春节做太多了，冻的没完全解冻还带冰碴儿的😹 https://t.co/rNd63HpT8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 2323,
+          "like_count": 7354,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1863
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T11:34:02.000Z",
+        "description": "待到山花烂漫时👻🍵✈️🏸🎵📖🦉",
+        "id": "2008502056752218112",
+        "name": "不 加 糖 🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024516526427238400/tXKFAZ4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 199,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2066
+        },
+        "username": "Cathy_CHN_2026",
+        "verified": false
+      }
+    ]
+  }
+}

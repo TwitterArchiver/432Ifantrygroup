@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046097320840929566",
+    "created_at": "2026-04-20T05:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046097320840929566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ThyvyTrnth5217…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ThyvyTrnth52178/status/2046029121382437261",
+          "start": 25,
+          "url": "https://t.co/GvUlOKaqgV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046097320840929566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046029121382437261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个梗我说实话非常恶俗，一点也不尊重心理疾病患者 https://t.co/GvUlOKaqgV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046097320840929566",
+        "created_at": "2026-04-20T05:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046097320840929566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ThyvyTrnth5217…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ThyvyTrnth52178/status/2046029121382437261",
+              "start": 25,
+              "url": "https://t.co/GvUlOKaqgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046097320840929566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046029121382437261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个梗我说实话非常恶俗，一点也不尊重心理疾病患者 https://t.co/GvUlOKaqgV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003449520873779200",
+        "conversation_id": "2045878120914567563",
+        "created_at": "2026-04-20T00:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046029121382437261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1258393909182361600",
+              "start": 0,
+              "username": "AlongMosaic"
+            },
+            {
+              "end": 24,
+              "id": "1173259891286392832",
+              "start": 13,
+              "username": "seanwei001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046029121382437261",
+        "in_reply_to_user_id": "1258393909182361600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045984975087173650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlongMosaic @seanwei001 什么心理问题，通通都是性压抑，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045930755239682447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 3065,
+          "like_count": 24788,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 6560
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T12:56:57.000Z",
+        "description": "",
+        "id": "2003449520873779200",
+        "name": "Thúy vy Trần thị",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003449750897721352/ggs8s3on_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 7677,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "ThyvyTrnth52178",
+        "verified": false
+      }
+    ]
+  }
+}

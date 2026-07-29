@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073565658294652928"
+      ],
+      "media_source_tweet_id": [
+        "2073565691517763735"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2073697249335636246",
+    "created_at": "2026-07-05T09:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073697249335636246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mvDdcz3ddf",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2073565691517763735/photo/1",
+          "media_key": "3_2073565658294652928",
+          "start": 15,
+          "url": "https://t.co/mvDdcz3ddf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073697249335636246",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073565691517763735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/mvDdcz3ddf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2073565658294652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbI-uEaEAAVUDI.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073565658294652928"
+          ],
+          "media_source_tweet_id": [
+            "2073565691517763735"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2073697249335636246",
+        "created_at": "2026-07-05T09:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073697249335636246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvDdcz3ddf",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2073565691517763735/photo/1",
+              "media_key": "3_2073565658294652928",
+              "start": 15,
+              "url": "https://t.co/mvDdcz3ddf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073697249335636246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073565691517763735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/mvDdcz3ddf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073565658294652928"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2073565691517763735",
+        "created_at": "2026-07-05T00:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T01:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073565691517763735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvDdcz3ddf",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2073565691517763735/photo/1",
+              "media_key": "3_2073565658294652928",
+              "start": 0,
+              "url": "https://t.co/mvDdcz3ddf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073565691517763735",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 168640,
+          "like_count": 1657,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mvDdcz3ddf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 4231,
+          "like_count": 45255,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13101
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36650,
+          "following_count": 368,
+          "like_count": 229,
+          "listed_count": 108,
+          "media_count": 16985,
+          "tweet_count": 17069
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

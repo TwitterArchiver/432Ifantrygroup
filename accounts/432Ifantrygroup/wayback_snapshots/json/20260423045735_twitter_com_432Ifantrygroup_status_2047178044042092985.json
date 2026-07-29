@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2044301673678680249",
+    "created_at": "2026-04-23T04:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047178044042092985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959496372388052992",
+          "start": 0,
+          "username": "songoengdeng"
+        },
+        {
+          "end": 30,
+          "id": "1515416985500221441",
+          "start": 14,
+          "username": "Andrewh45405394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047178044042092985",
+    "in_reply_to_user_id": "1959496372388052992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046929443860648168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@songoengdeng @Andrewh45405394 没错，你很敏锐，这图文根本不是一回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044301673678680249",
+        "created_at": "2026-04-23T04:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047178044042092985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959496372388052992",
+              "start": 0,
+              "username": "songoengdeng"
+            },
+            {
+              "end": 30,
+              "id": "1515416985500221441",
+              "start": 14,
+              "username": "Andrewh45405394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047178044042092985",
+        "in_reply_to_user_id": "1959496372388052992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046929443860648168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@songoengdeng @Andrewh45405394 没错，你很敏锐，这图文根本不是一回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959496372388052992",
+        "conversation_id": "2044301673678680249",
+        "created_at": "2026-04-22T12:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046929443860648168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515416985500221441",
+              "start": 0,
+              "username": "Andrewh45405394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046929443860648168",
+        "in_reply_to_user_id": "1515416985500221441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044301673678680249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andrewh45405394 这张不是解放布痕瓦尔德集中营后的照片？😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3156,
+          "like_count": 26534,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 6953
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T06:02:11.000Z",
+        "description": "无",
+        "id": "1959496372388052992",
+        "name": "怜奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022151406363586561/CV6B2c0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 253,
+          "like_count": 288,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 139
+        },
+        "username": "songoengdeng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T19:49:12.000Z",
+        "description": "前美国海军预备役军人，专业移民顾问， 不是律师.多年来帮无数同胞拿到绿卡.润美国，身份有问题咨询.微信： jas130909 whats app 0016262462579 line：16262462579. 电报： jiuzaigou888",
+        "id": "1515416985500221441",
+        "location": "Monterey Park, CA",
+        "name": "Andrew he",
+        "pinned_tweet_id": "1842468863692202280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618459924048252932/5_861SVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13915,
+          "following_count": 9244,
+          "like_count": 198,
+          "listed_count": 46,
+          "media_count": 5732,
+          "tweet_count": 25867
+        },
+        "username": "Andrewh45405394",
+        "verified": true
+      }
+    ]
+  }
+}

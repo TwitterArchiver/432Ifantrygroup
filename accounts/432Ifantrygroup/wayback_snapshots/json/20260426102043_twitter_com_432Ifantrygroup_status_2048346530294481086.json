@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048303151753879552"
+      ],
+      "media_source_tweet_id": [
+        "2048303171706241172"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048346530294481086",
+    "created_at": "2026-04-26T10:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048346530294481086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486225700793495552",
+          "start": 3,
+          "username": "ABC13067637"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KP2VfFdW9k",
+          "end": 59,
+          "expanded_url": "https://x.com/ABC13067637/status/2048303171706241172/photo/1",
+          "media_key": "3_2048303151753879552",
+          "start": 36,
+          "url": "https://t.co/KP2VfFdW9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048346530294481086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048303171706241172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ABC13067637: 为了业绩，民警设计诱害未成年人吸毒😅 https://t.co/KP2VfFdW9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2048303151753879552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0I3TiaYAAUqNv.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048303151753879552"
+          ],
+          "media_source_tweet_id": [
+            "2048303171706241172"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048346530294481086",
+        "created_at": "2026-04-26T10:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048346530294481086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486225700793495552",
+              "start": 3,
+              "username": "ABC13067637"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KP2VfFdW9k",
+              "end": 59,
+              "expanded_url": "https://x.com/ABC13067637/status/2048303171706241172/photo/1",
+              "media_key": "3_2048303151753879552",
+              "start": 36,
+              "url": "https://t.co/KP2VfFdW9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048346530294481086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048303171706241172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ABC13067637: 为了业绩，民警设计诱害未成年人吸毒😅 https://t.co/KP2VfFdW9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048303151753879552"
+          ]
+        },
+        "author_id": "1486225700793495552",
+        "conversation_id": "2048303171706241172",
+        "created_at": "2026-04-26T07:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048303171706241172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KP2VfFdW9k",
+              "end": 42,
+              "expanded_url": "https://x.com/ABC13067637/status/2048303171706241172/photo/1",
+              "media_key": "3_2048303151753879552",
+              "start": 19,
+              "url": "https://t.co/KP2VfFdW9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048303171706241172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2472,
+          "like_count": 72,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "为了业绩，民警设计诱害未成年人吸毒😅 https://t.co/KP2VfFdW9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048310354015621270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 3311,
+          "like_count": 28377,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 7521
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 406,
+          "like_count": 648,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 355
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

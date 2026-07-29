@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047986779974988182",
+    "created_at": "2026-04-25T10:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047986779974988182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jise_fox/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jise_fox/status/2047985192728662152",
+          "start": 12,
+          "url": "https://t.co/tDh0Lna9tC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047986779974988182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047985192728662152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我坚信胜利必然属于我们 https://t.co/tDh0Lna9tC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047986779974988182",
+        "created_at": "2026-04-25T10:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047986779974988182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jise_fox/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jise_fox/status/2047985192728662152",
+              "start": 12,
+              "url": "https://t.co/tDh0Lna9tC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047986779974988182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047985192728662152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我坚信胜利必然属于我们 https://t.co/tDh0Lna9tC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444091820560945152",
+        "conversation_id": "2047985192728662152",
+        "created_at": "2026-04-25T10:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047985192728662152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2047563494451732804",
+              "start": 37,
+              "url": "https://t.co/j9POGXm5bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047985192728662152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047563494451732804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以父母防范子女不给子女钱乱花也是对的，既然是博弈就绝不能软弱绝不能让步 https://t.co/j9POGXm5bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047981379359776796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 3257,
+          "like_count": 27970,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 7380
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T00:08:25.000Z",
+        "description": "今天，我的冲锋枪已经擦过三遍了，我真恨不得现在亲手把那不伦不类的女神像推倒担碎。",
+        "id": "1444091820560945152",
+        "location": "黎巴嫩。贝卡谷地",
+        "name": "贾革命",
+        "pinned_tweet_id": "1798903039409205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559926708945539073/sduRDMfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 699,
+          "like_count": 92854,
+          "listed_count": 10,
+          "media_count": 705,
+          "tweet_count": 12730
+        },
+        "username": "jise_fox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060082944501235975",
+    "created_at": "2026-05-29T04:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060211241977884763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957680534441836544",
+          "start": 0,
+          "username": "gustav0cardenas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060211241977884763",
+    "in_reply_to_user_id": "1957680534441836544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060082944501235975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gustav0cardenas 高中大学基本上都是公立的，医院也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060082944501235975",
+        "created_at": "2026-05-29T04:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060211241977884763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957680534441836544",
+              "start": 0,
+              "username": "gustav0cardenas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060211241977884763",
+        "in_reply_to_user_id": "1957680534441836544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060082944501235975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gustav0cardenas 高中大学基本上都是公立的，医院也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957680534441836544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060082944501235975",
+        "created_at": "2026-05-28T19:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060082944501235975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/escapistrain/s…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/escapistrain/status/2060061859588251945",
+              "start": 275,
+              "url": "https://t.co/UXQTCSdf9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060082944501235975",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Los comunistoides de Twitter son muy graciosos, tienen creencias basadas en su ignorancia supina.\n\nEn China ninguno de esos servicios que tú llamas derechos son gratuitos (salud, educación, vivienda o alimentos).\n\n🔷La educación secundaria y universitaria es privada; solo la primaria y media son públicas, pero los padres costean todos los materiales, uniformes, transporte, etc.\n\n🔷China no tiene un sistema de salud pública como algunos países hispanoamericanos; su sistema es mayoritariamente privado y cuenta con seguros de copago, es decir, cuando van al médico, el seguro paga una parte y la persona la otra.\n\n🔷La comida en China no es gratuita y se vende en el mercado como en cualquier país.\n\n🔷Con respecto a la propiedad, no existe la propiedad privada de la tierra, pero las viviendas se venden bajo el término legal de usufructo.\n\nAsí que eso que dices que China refuta esto es mentira, ya que allá, como en todos los países, estos servicios se cobran.\n\nLean, zurditos."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 64918,
+          "like_count": 835,
+          "quote_count": 13,
+          "reply_count": 426,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060061859588251945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Los comunistoides de Twitter son muy graciosos, tienen creencias basadas en su ignorancia supina.\n\nEn China ninguno de esos servicios que tú llamas derechos son gratuitos (salud, educación, vivienda o alimentos).\n\n🔷La educación secundaria y universitaria es privada; solo la https://t.co/UXQTCSdf9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060039923676397927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 3960,
+          "like_count": 40181,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 11166
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T05:46:43.000Z",
+        "description": "📌Analizo y escribo. Liberal de derecha. Escribiendo mi primer libro.",
+        "id": "1957680534441836544",
+        "name": "Gustavo Cardenas",
+        "pinned_tweet_id": "2007387819342492062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041399532844650496/_bh_PjKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33359,
+          "following_count": 2015,
+          "like_count": 42452,
+          "listed_count": 64,
+          "media_count": 4758,
+          "tweet_count": 9307
+        },
+        "username": "gustav0cardenas",
+        "verified": true
+      }
+    ]
+  }
+}

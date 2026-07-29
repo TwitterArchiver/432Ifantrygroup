@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047172564284502164",
+    "created_at": "2026-04-23T07:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047216295318610198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687397241424908288",
+          "start": 0,
+          "username": "aaaaaaa51075861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047216295318610198",
+    "in_reply_to_user_id": "1687397241424908288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047194401534025883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaaaa51075861 如果她和父母住一起那确实是没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047172564284502164",
+        "created_at": "2026-04-23T07:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047216295318610198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687397241424908288",
+              "start": 0,
+              "username": "aaaaaaa51075861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047216295318610198",
+        "in_reply_to_user_id": "1687397241424908288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047194401534025883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaaaa51075861 如果她和父母住一起那确实是没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687397241424908288",
+        "conversation_id": "2047172564284502164",
+        "created_at": "2026-04-23T06:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047194401534025883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047194401534025883",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047172564284502164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我是她现实朋友 他现在还没有回复我的消息 但他家长说他没什么事 不清楚呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 3159,
+          "like_count": 26609,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 6982
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T09:37:20.000Z",
+        "description": "这里走走 08/双子/INFP/性别女性向女/抑郁随时都会死/我o我伤/欢迎来找我互fo 我喜欢你萌 每一个我都会回的(*/ω＼*)",
+        "id": "1687397241424908288",
+        "name": "white",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039872351987433472/CKo90pXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 10,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "aaaaaaa51075861",
+        "verified": false
+      }
+    ]
+  }
+}

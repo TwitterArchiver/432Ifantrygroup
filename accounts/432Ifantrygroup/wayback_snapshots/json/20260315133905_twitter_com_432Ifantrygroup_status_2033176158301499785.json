@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2033080528933625928",
+    "created_at": "2026-03-15T13:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033176158301499785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1826584459074043904",
+          "start": 0,
+          "username": "61343Min"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033176158301499785",
+    "in_reply_to_user_id": "1826584459074043904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033080528933625928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@61343Min 废话，哪个正常人不生气？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18733,
+        "height": 1920,
+        "media_key": "13_2033080381122162689",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033080381122162689/img/kNO33akrUm_B4I-w.jpg",
+        "public_metrics": {
+          "view_count": 88790
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033080381122162689/vid/avc1/1080x1920/N-_uH8n4T-baolxk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033080381122162689/vid/avc1/320x568/xvdqC9REkOaJuuXy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033080381122162689/vid/avc1/720x1280/zRbn5DBwJI9gMsD7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033080381122162689/vid/avc1/480x852/MJE6xpL4ZLyl_aYU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033080381122162689/pl/Q8y8L6ZNb7hK_HbG.m3u8?v=23a"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2033080528933625928",
+        "created_at": "2026-03-15T13:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033176158301499785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1826584459074043904",
+              "start": 0,
+              "username": "61343Min"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033176158301499785",
+        "in_reply_to_user_id": "1826584459074043904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033080528933625928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@61343Min 废话，哪个正常人不生气？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033080381122162689"
+          ]
+        },
+        "author_id": "1826584459074043904",
+        "conversation_id": "2033080528933625928",
+        "created_at": "2026-03-15T07:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033080528933625928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cgg3ulQjxw",
+              "end": 41,
+              "expanded_url": "https://x.com/61343Min/status/2033080528933625928/video/1",
+              "media_key": "13_2033080381122162689",
+              "start": 18,
+              "url": "https://t.co/Cgg3ulQjxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033080528933625928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 159925,
+          "like_count": 267,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这个是真生气了，那一瞬间那个眼神🥶 https://t.co/Cgg3ulQjxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 2310,
+          "like_count": 6966,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1745
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T11:37:52.000Z",
+        "description": "allow yourself to feel comfortable and at peace",
+        "id": "1826584459074043904",
+        "name": "怡然自得",
+        "pinned_tweet_id": "1977609277985718536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880087478172020742/X87J0krK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18106,
+          "following_count": 11432,
+          "like_count": 26784,
+          "listed_count": 21,
+          "media_count": 1281,
+          "tweet_count": 13774
+        },
+        "username": "61343Min",
+        "verified": true
+      }
+    ]
+  }
+}

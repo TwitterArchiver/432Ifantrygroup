@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2018337442710131154",
+    "created_at": "2026-02-22T10:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025518940114542712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998709167297802243",
+          "start": 0,
+          "username": "mnng1888222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025518940114542712",
+    "in_reply_to_user_id": "1998709167297802243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018337442710131154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnng1888222 我发现如果我不恶补古希腊神话历史我看不了他们的那些哲学著作。\n我就拿家私国举例，开篇在序言中就用［奥列斯特］中的故事来比喻母系社会的发展历程，结果我完全不知道他在说什么...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2018337442710131154",
+        "created_at": "2026-02-22T10:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025518940114542712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998709167297802243",
+              "start": 0,
+              "username": "mnng1888222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025518940114542712",
+        "in_reply_to_user_id": "1998709167297802243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018337442710131154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnng1888222 我发现如果我不恶补古希腊神话历史我看不了他们的那些哲学著作。\n我就拿家私国举例，开篇在序言中就用［奥列斯特］中的故事来比喻母系社会的发展历程，结果我完全不知道他在说什么...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998709167297802243",
+        "conversation_id": "2018337442710131154",
+        "created_at": "2026-02-02T14:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018337442710131154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018337442710131154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恩格斯好会阴阳怪气，然而我有时候get不到，因为不知道他举的例子，提到的人都是谁，显得我像个文盲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2021185568856551730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 1682,
+          "like_count": 3015,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 363
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T10:59:50.000Z",
+        "description": "一是看王，二是看黄",
+        "id": "1998709167297802243",
+        "name": "叮铃哐啷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001271155827822593/Bd8niZNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 190
+        },
+        "username": "mnng1888222",
+        "verified": false
+      }
+    ]
+  }
+}

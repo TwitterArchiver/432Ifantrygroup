@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053370265749655859",
+    "created_at": "2026-05-10T07:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053370902012907681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053370902012907681",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053370265749655859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青少年在这样的环境里，感受不到作为人的主体性，只觉得自己是一个被推着走的行尸走肉。所以他们会通过这种类似自毁的方式，来夺回一点控对自己的制权。我虽然看不到，也不能决定我的未来，不过至少我可以毁了它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053370265749655859",
+        "created_at": "2026-05-10T07:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053370902012907681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053370902012907681",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053370265749655859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青少年在这样的环境里，感受不到作为人的主体性，只觉得自己是一个被推着走的行尸走肉。所以他们会通过这种类似自毁的方式，来夺回一点控对自己的制权。我虽然看不到，也不能决定我的未来，不过至少我可以毁了它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053370265749655859",
+        "created_at": "2026-05-10T07:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053370265749655859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BingLiu3417380…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/BingLiu34173809/status/2053263665269256603",
+              "start": 54,
+              "url": "https://t.co/2t0V4JZCxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053370265749655859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053263665269256603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是青少年暨未成年人的共同问题，我个人认为一定程度上是因为青少年在这个由成年人主导的世界里无处容身导致的。 https://t.co/2t0V4JZCxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 3713,
+          "like_count": 34640,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9241
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

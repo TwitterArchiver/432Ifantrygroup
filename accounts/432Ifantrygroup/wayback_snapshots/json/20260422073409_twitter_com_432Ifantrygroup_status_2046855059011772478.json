@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046854132095656361",
+    "created_at": "2026-04-22T07:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046855059011772478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934613003695181824",
+          "start": 0,
+          "username": "Bechir_Edd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046855059011772478",
+    "in_reply_to_user_id": "1934613003695181824",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046854973284319243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bechir_Edd no"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046854973284319243].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046854973284319243",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046854973284319243"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046854132095656361",
+        "created_at": "2026-04-22T07:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046855059011772478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934613003695181824",
+              "start": 0,
+              "username": "Bechir_Edd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046855059011772478",
+        "in_reply_to_user_id": "1934613003695181824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046854973284319243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bechir_Edd no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 3121,
+          "like_count": 25982,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 6803
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T14:04:49.000Z",
+        "description": "MLM| 歷史唯物論| 業餘符號觀察員\n\n有啲人困喺黑格爾式觀念辯證，講到離地；用概念代替現實分析，講到底只係「哲學cosplay」。\n我就簡單啲：睇現實、睇矛盾、睇鬥爭；有立場，唔上頭，唔對線。",
+        "id": "1934613003695181824",
+        "name": "Marginal",
+        "pinned_tweet_id": "2029214860287082511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299836277526529/Bbx08DjR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 1204,
+          "like_count": 923,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 800
+        },
+        "username": "Bechir_Edd",
+        "verified": false
+      }
+    ]
+  }
+}

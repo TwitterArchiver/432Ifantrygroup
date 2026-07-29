@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038288277229498518",
+    "created_at": "2026-03-29T16:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038288277229498518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313383273079345152",
+          "start": 3,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038288277229498518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038260219227365878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValeriaEulabeia: 什么叫“外界的客观视角”？你是觉得跨性别这个概念是一群人主观自嗨的产物？\n\n如果多数人错了，那就意味着多数人错了，而不是意味着少数人应该闭嘴，更不意味着少数人有义务附和多数人的错误，懂？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038288277229498518",
+        "created_at": "2026-03-29T16:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038288277229498518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313383273079345152",
+              "start": 3,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038288277229498518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038260219227365878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValeriaEulabeia: 什么叫“外界的客观视角”？你是觉得跨性别这个概念是一群人主观自嗨的产物？\n\n如果多数人错了，那就意味着多数人错了，而不是意味着少数人应该闭嘴，更不意味着少数人有义务附和多数人的错误，懂？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2038260219227365878",
+        "created_at": "2026-03-29T14:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038260219227365878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Linyue7523/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/Linyue7523/status/2038223745291297049",
+              "start": 94,
+              "url": "https://t.co/505d9eN7TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038260219227365878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 441,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038223745291297049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫“外界的客观视角”？你是觉得跨性别这个概念是一群人主观自嗨的产物？\n\n如果多数人错了，那就意味着多数人错了，而不是意味着少数人应该闭嘴，更不意味着少数人有义务附和多数人的错误，懂？ https://t.co/505d9eN7TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 2654,
+          "like_count": 15069,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3992
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Col pugnale nella mano,\ncon la fede dentro il cuore,\nessa avanza, va lontano,\ncon la gloria e di valor!",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6923,
+          "following_count": 3770,
+          "like_count": 152207,
+          "listed_count": 18,
+          "media_count": 2604,
+          "tweet_count": 23924
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

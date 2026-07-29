@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1902038444928270630",
+    "created_at": "2025-03-18T17:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T18:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902055270555193486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1571484780050407424",
+          "start": 0,
+          "username": "kwi_cattt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902055270555193486",
+    "in_reply_to_user_id": "1571484780050407424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902038444928270630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwi_cattt 这样的人缺乏共情。你可以尝试说“你真的好难”之类的话看看会不会有效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1902038444928270630",
+        "created_at": "2025-03-18T17:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T18:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902055270555193486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571484780050407424",
+              "start": 0,
+              "username": "kwi_cattt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902055270555193486",
+        "in_reply_to_user_id": "1571484780050407424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902038444928270630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwi_cattt 这样的人缺乏共情。你可以尝试说“你真的好难”之类的话看看会不会有效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571484780050407424",
+        "conversation_id": "1902038444928270630",
+        "created_at": "2025-03-18T16:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902038444928270630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902038444928270630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前不理解为什么会有人管着人不许抽烟喝酒 因为觉得那不是别人的自由吗 不理解别人的痛苦干嘛还要限制解压的方式\n直到我开始担心身边朋友越来越差的身体 变频繁的咳嗽和越来越差的脸色 但我没有办法解决他们的问题 也不能自私地因为不想失去就管着他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "搞抽象的哈",
+        "id": "1852895432269234176",
+        "name": "日月山河永在",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1012,
+          "like_count": 2337,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T13:02:29.000Z",
+        "description": "白茫茫一片大地真干净 | 血图@ivy_falling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "ivy_falling"
+              }
+            ]
+          }
+        },
+        "id": "1571484780050407424",
+        "location": "北欧",
+        "name": "薄荷加特林",
+        "pinned_tweet_id": "1900236686313087372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886295551526027264/M__bIICb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 120,
+          "like_count": 282,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 4202
+        },
+        "username": "kwi_cattt",
+        "verified": false
+      }
+    ]
+  }
+}

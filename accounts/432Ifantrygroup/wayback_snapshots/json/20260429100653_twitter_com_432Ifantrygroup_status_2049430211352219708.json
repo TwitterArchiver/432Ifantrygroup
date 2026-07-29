@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049429026851495949",
+    "created_at": "2026-04-29T10:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049430211352219708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049430211352219708",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049429026851495949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我高中同学有好几个上警校的，平心而论都是挺好的人，怎么一出来就变成这样了呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049429026851495949",
+        "created_at": "2026-04-29T10:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049430211352219708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049430211352219708",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049429026851495949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我高中同学有好几个上警校的，平心而论都是挺好的人，怎么一出来就变成这样了呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049429026851495949",
+        "created_at": "2026-04-29T10:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049429026851495949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonjaTasha2695…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/SonjaTasha26957/status/2049396730228253066",
+              "start": 54,
+              "url": "https://t.co/UTUvezfHWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049429026851495949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049396730228253066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“这一片全是小区，也不能挨家挨户敲门”我就纳闷为什么不能敲，要是追捕逃犯你警察敲不敲？恨不得挨家挨户搜吧。 https://t.co/UTUvezfHWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049198556431712278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 3415,
+          "like_count": 29939,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 8018
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

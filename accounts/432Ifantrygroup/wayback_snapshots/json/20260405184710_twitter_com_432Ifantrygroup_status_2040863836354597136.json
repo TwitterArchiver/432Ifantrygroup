@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040863827852759040"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040863836354597136",
+    "created_at": "2026-04-05T18:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040863836354597136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebe1hXdTEl",
+          "end": 31,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2040863836354597136/photo/1",
+          "media_key": "3_2040863827852759040",
+          "start": 8,
+          "url": "https://t.co/ebe1hXdTEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040863836354597136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你妈别来啊 https://t.co/ebe1hXdTEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040863827852759040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKa1qYbkAAUz-M.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040863827852759040"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040863836354597136",
+        "created_at": "2026-04-05T18:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040863836354597136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebe1hXdTEl",
+              "end": 31,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2040863836354597136/photo/1",
+              "media_key": "3_2040863827852759040",
+              "start": 8,
+              "url": "https://t.co/ebe1hXdTEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040863836354597136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈别来啊 https://t.co/ebe1hXdTEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2038669800004895018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 2768,
+          "like_count": 19154,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 4989
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049773467432858035",
+    "created_at": "2026-04-30T09:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049780659762426299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1226707681437569024",
+          "start": 0,
+          "username": "liuzhao_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049780659762426299",
+    "in_reply_to_user_id": "1226707681437569024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049775648072479182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuzhao_cn 坏透了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049773467432858035",
+        "created_at": "2026-04-30T09:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049780659762426299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1226707681437569024",
+              "start": 0,
+              "username": "liuzhao_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049780659762426299",
+        "in_reply_to_user_id": "1226707681437569024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049775648072479182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuzhao_cn 坏透了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226707681437569024",
+        "conversation_id": "2049773467432858035",
+        "created_at": "2026-04-30T08:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049775648072479182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049775648072479182",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049773467432858035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 取关并等你重新999了再关注怎么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 3438,
+          "like_count": 30453,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8125
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T03:21:37.000Z",
+        "description": "中国东北（🇨🇳）|| 左（Marxist） || He/他 || 平权（🏳️‍🌈 WITH 🏳️‍⚧）||⚽Chelsea/Mourinho ||🏀Jokić || Esports:LPL || 革命招魂（Mao Zedong nostalgist，1949-1976 ） || ACGN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/ZhuanZhao.cn/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/ZhuanZhao.cn/",
+                "start": 0,
+                "url": "https://t.co/0tKH3oJHH5"
+              }
+            ]
+          }
+        },
+        "id": "1226707681437569024",
+        "location": "Post-Socialist China（PRC-🇨🇳）",
+        "name": "竱肇 🇺🇦🇵🇸",
+        "pinned_tweet_id": "2042473529300697264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046597606714064896/tInKKTdn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 142,
+          "like_count": 2882,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/0tKH3oJHH5",
+        "username": "liuzhao_cn",
+        "verified": false
+      }
+    ]
+  }
+}

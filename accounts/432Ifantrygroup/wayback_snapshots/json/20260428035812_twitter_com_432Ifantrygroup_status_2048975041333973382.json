@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048654894266282438",
+    "created_at": "2026-04-28T03:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048975041333973382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959914413991067648",
+          "start": 0,
+          "username": "KISEKI_0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048975041333973382",
+    "in_reply_to_user_id": "1959914413991067648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048974848064626982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KISEKI_0717 😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048654894266282438",
+        "created_at": "2026-04-28T03:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048975041333973382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959914413991067648",
+              "start": 0,
+              "username": "KISEKI_0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048975041333973382",
+        "in_reply_to_user_id": "1959914413991067648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048974848064626982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KISEKI_0717 😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959914413991067648",
+        "conversation_id": "2048654894266282438",
+        "created_at": "2026-04-28T03:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048974848064626982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048974848064626982",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048654894266282438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 🐔🏀\n🎶📱🥚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048785928278487404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 3387,
+          "like_count": 29264,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 7814
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T09:43:13.000Z",
+        "description": "軌跡（kiseki/KSK）丨♀14↓丨kagerou project丨vocaloid丨maimai丨ai学習禁止🚫丨🔞@kiseki_r18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "kiseki_r18"
+              }
+            ]
+          }
+        },
+        "id": "1959914413991067648",
+        "location": "🇨🇳",
+        "name": "軌跡",
+        "pinned_tweet_id": "2048241816152182999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016495552880328704/Bpz-6u9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 311,
+          "like_count": 789,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 1647
+        },
+        "username": "KISEKI_0717",
+        "verified": false
+      }
+    ]
+  }
+}

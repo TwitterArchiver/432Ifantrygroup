@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051020488424796300",
+    "created_at": "2026-05-03T19:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T20:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051020488424796300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051020488424796300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051017076677190084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 一开始我设想的未成年人权利主义主张的保护未成年人的力度应当是这样的：一个遭到了殴打的未成年人只需要露出自己身上的伤痕，其监护人就会立刻被质询，必须给出一个该未成年人本人认可的解释结果才可以，否则...\n我发现我说不下去了，因为只要社会还…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051020488424796300",
+        "created_at": "2026-05-03T19:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051020488424796300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051020488424796300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051017076677190084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 一开始我设想的未成年人权利主义主张的保护未成年人的力度应当是这样的：一个遭到了殴打的未成年人只需要露出自己身上的伤痕，其监护人就会立刻被质询，必须给出一个该未成年人本人认可的解释结果才可以，否则...\n我发现我说不下去了，因为只要社会还…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051017076677190084",
+        "created_at": "2026-05-03T19:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051017076677190084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051017076677190084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一开始我设想的未成年人权利主义主张的保护未成年人的力度应当是这样的：一个遭到了殴打的未成年人只需要露出自己身上的伤痕，其监护人就会立刻被质询，必须给出一个该未成年人本人认可的解释结果才可以，否则...\n我发现我说不下去了，因为只要社会还指望家庭承担劳动力再生产的任务，这个惩罚就不现实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051017076677190084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 3505,
+          "like_count": 31180,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 8360
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

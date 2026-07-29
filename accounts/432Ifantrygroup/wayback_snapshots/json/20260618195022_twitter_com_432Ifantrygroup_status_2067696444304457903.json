@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2067696411697881088"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2067695920960225533",
+    "created_at": "2026-06-18T19:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067696444304457903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935705327380410369",
+          "start": 0,
+          "username": "wohensad001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ohx9598GSe",
+          "end": 54,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2067696444304457903/video/1",
+          "media_key": "7_2067696411697881088",
+          "start": 31,
+          "url": "https://t.co/ohx9598GSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067696444304457903",
+    "in_reply_to_user_id": "1935705327380410369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067695920960225533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohensad001 别呀别呀，很简单的！请看VCR老师 https://t.co/ohx9598GSe"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067695920960225533].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067695920960225533",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067695920960225533"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10193,
+        "height": 1280,
+        "media_key": "7_2067696411697881088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067696411697881088/pu/img/nYZg249xq1OO0IsR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067696411697881088/pu/vid/avc1/320x710/Rx5k4Mb4S3wbBWtn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067696411697881088/pu/vid/avc1/480x1066/JLhlfwjaB1NN-57D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067696411697881088/pu/vid/avc1/576x1280/kjMDmGs_9-zxRPey.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067696411697881088/pu/pl/HequdzxSGXH0Uz-9.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067696411697881088"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2067695920960225533",
+        "created_at": "2026-06-18T19:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067696444304457903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935705327380410369",
+              "start": 0,
+              "username": "wohensad001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohx9598GSe",
+              "end": 54,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2067696444304457903/video/1",
+              "media_key": "7_2067696411697881088",
+              "start": 31,
+              "url": "https://t.co/ohx9598GSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067696444304457903",
+        "in_reply_to_user_id": "1935705327380410369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067695920960225533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohensad001 别呀别呀，很简单的！请看VCR老师 https://t.co/ohx9598GSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 4128,
+          "like_count": 42731,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 12096
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T14:24:54.000Z",
+        "description": "一切都是我不想",
+        "id": "1935705327380410369",
+        "location": "🚪52",
+        "name": "嗯",
+        "pinned_tweet_id": "2058970455969759286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063355016581414912/cPNlkPg-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 29,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "wohensad001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045801244418265494",
+    "created_at": "2026-04-20T08:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046137441879576870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1496314477372850178",
+          "start": 0,
+          "username": "sinowarrior01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046137441879576870",
+    "in_reply_to_user_id": "1496314477372850178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046133003802550360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinowarrior01 我也从来没否认这一点啊，我说过了我只负责批判和设想，从来不研究任何方法论。说白了我就是个大喷子，看谁不爽就喷谁啊🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045801244418265494",
+        "created_at": "2026-04-20T08:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046137441879576870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1496314477372850178",
+              "start": 0,
+              "username": "sinowarrior01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046137441879576870",
+        "in_reply_to_user_id": "1496314477372850178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046133003802550360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinowarrior01 我也从来没否认这一点啊，我说过了我只负责批判和设想，从来不研究任何方法论。说白了我就是个大喷子，看谁不爽就喷谁啊🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496314477372850178",
+        "conversation_id": "2045801244418265494",
+        "created_at": "2026-04-20T07:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046133003802550360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046133003802550360",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046130743706095992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 所以你不喜欢毛时代也不喜欢改开，你只能在颅内幻想你的共产主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045930755239682447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 3070,
+          "like_count": 24883,
+          "listed_count": 3,
+          "media_count": 272,
+          "tweet_count": 6579
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-23T02:42:53.000Z",
+        "description": "Lover of Warhammer, Gundam, Magic the Gathering. Gourmand without border. Ex-ambulance chaser, current corporate drone.",
+        "id": "1496314477372850178",
+        "name": "Sinowarrior",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658047235710660608/jw-3Bzyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 1723,
+          "like_count": 133,
+          "listed_count": 17,
+          "media_count": 1086,
+          "tweet_count": 25059
+        },
+        "username": "sinowarrior01",
+        "verified": false
+      }
+    ]
+  }
+}

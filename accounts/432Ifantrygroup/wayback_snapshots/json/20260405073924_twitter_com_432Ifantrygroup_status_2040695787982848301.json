@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040693809231863934",
+    "created_at": "2026-04-05T07:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040695787982848301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926702744036917248",
+          "start": 0,
+          "username": "ziykxkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040695787982848301",
+    "in_reply_to_user_id": "1926702744036917248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040693809231863934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziykxkl 这么少吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2040693806102904832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIANGAagAAAe7p.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040693809231863934",
+        "created_at": "2026-04-05T07:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040695787982848301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926702744036917248",
+              "start": 0,
+              "username": "ziykxkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040695787982848301",
+        "in_reply_to_user_id": "1926702744036917248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040693809231863934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziykxkl 这么少吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040693806102904832"
+          ]
+        },
+        "author_id": "1926702744036917248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2040693809231863934",
+        "created_at": "2026-04-05T07:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040693809231863934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Cu4FDoIMg5"
+            },
+            {
+              "display_url": "pic.x.com/ickMz6hXYk",
+              "end": 64,
+              "expanded_url": "https://x.com/ziykxkl/status/2040693809231863934/photo/1",
+              "media_key": "3_2040693806102904832",
+              "start": 41,
+              "url": "https://t.co/ickMz6hXYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040693809231863934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Cu4FDoIMg5 https://t.co/ickMz6hXYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 2742,
+          "like_count": 18762,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 4863
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T18:11:56.000Z",
+        "description": "这里是重生七次的虾仁/这个命你就欺负我吧💔/主页日常更新穿搭和妆造偶尔心情好掉落擦边/这个x求你放过我吧 🚪288 388 520 888 1314求礼貌的门哥过门/求你了黑叉别让我再转生第八次了😿欢迎女宝找我互fo互转 像我匿名提问https://t.co/W3CVMjErGg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaren1",
+                "end": 140,
+                "expanded_url": "https://ngl.link/xiaren1",
+                "start": 117,
+                "url": "https://t.co/W3CVMjErGg"
+              }
+            ]
+          }
+        },
+        "id": "1926702744036917248",
+        "location": "距离1.4km",
+        "name": "ziy",
+        "pinned_tweet_id": "2039643856724181102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039548018719182848/1fCLjrCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 88,
+          "like_count": 272,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 114
+        },
+        "username": "ziykxkl",
+        "verified": false
+      }
+    ]
+  }
+}

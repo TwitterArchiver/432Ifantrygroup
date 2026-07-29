@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047501442672644332",
+    "created_at": "2026-04-24T15:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047692395459072289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1115557625398202368",
+          "start": 0,
+          "username": "Oc2QQZHD9jJXg5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047692395459072289",
+    "in_reply_to_user_id": "1115557625398202368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047691713150644567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oc2QQZHD9jJXg5o 要旅游就自己悄悄去，别当作时尚单品天天搁网上发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047501442672644332",
+        "created_at": "2026-04-24T15:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047692395459072289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1115557625398202368",
+              "start": 0,
+              "username": "Oc2QQZHD9jJXg5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047692395459072289",
+        "in_reply_to_user_id": "1115557625398202368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047691713150644567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oc2QQZHD9jJXg5o 要旅游就自己悄悄去，别当作时尚单品天天搁网上发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115557625398202368",
+        "conversation_id": "2047501442672644332",
+        "created_at": "2026-04-24T14:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047691713150644567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047691713150644567",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047501442672644332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 要嗑药就自己悄悄磕，别当做时尚单品天天搁网上发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047687487079014759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 3220,
+          "like_count": 27451,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 7232
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-09T10:10:38.000Z",
+        "description": "",
+        "id": "1115557625398202368",
+        "name": "工具柜123",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "Oc2QQZHD9jJXg5o",
+        "verified": false
+      }
+    ]
+  }
+}

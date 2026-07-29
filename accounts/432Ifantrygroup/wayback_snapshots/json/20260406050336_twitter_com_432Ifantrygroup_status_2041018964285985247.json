@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040845536870432907",
+    "created_at": "2026-04-06T05:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041018964285985247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007492544016556032",
+          "start": 0,
+          "username": "lingtingyu0830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041018964285985247",
+    "in_reply_to_user_id": "2007492544016556032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041017210773352639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingtingyu0830 🥹🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040845536870432907",
+        "created_at": "2026-04-06T05:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041018964285985247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007492544016556032",
+              "start": 0,
+              "username": "lingtingyu0830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041018964285985247",
+        "in_reply_to_user_id": "2007492544016556032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041017210773352639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingtingyu0830 🥹🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007492544016556032",
+        "conversation_id": "2040845536870432907",
+        "created_at": "2026-04-06T04:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041017210773352639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041017210773352639",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041016886981476503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 啊啊你舅宠我爸！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041006554632392959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 2777,
+          "like_count": 19308,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 5039
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T16:41:57.000Z",
+        "description": "集美，我们只是网友，你把手机摔了我就死了，不要为难我，放过彼此OK?放下手里的屠刀，佛在救你。",
+        "id": "2007492544016556032",
+        "location": "宁城",
+        "name": "讨厌我的你也非常可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040841620560793600/CZSxhWVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 50,
+          "like_count": 5705,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 126
+        },
+        "username": "lingtingyu0830",
+        "verified": false
+      }
+    ]
+  }
+}

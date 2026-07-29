@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052973599531974928",
+    "created_at": "2026-05-09T04:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052976385191518395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052976385191518395",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052973599531974928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过鉴于山河四省的城镇化率与辽宁相比较低，很可能有很多孩子的心理问题没有被统计到。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1861,
+        "media_key": "3_2052973587964071937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2gmePbkAErxd6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052973599531974928",
+        "created_at": "2026-05-09T04:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052976385191518395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052976385191518395",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052973599531974928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过鉴于山河四省的城镇化率与辽宁相比较低，很可能有很多孩子的心理问题没有被统计到。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052973587964071937"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052973599531974928",
+        "created_at": "2026-05-09T04:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052973599531974928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZ9FThQlWu",
+              "end": 47,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052973599531974928/photo/1",
+              "media_key": "3_2052973587964071937",
+              "start": 24,
+              "url": "https://t.co/dZ9FThQlWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052973599531974928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大辽宁也是勇夺亚军，我看伦敦未必有沈阳忧郁。 https://t.co/dZ9FThQlWu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052973599531974928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 3683,
+          "like_count": 33940,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 9079
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

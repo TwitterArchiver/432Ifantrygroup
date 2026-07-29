@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2007584664475832415",
+    "created_at": "2026-03-10T05:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031244223178326489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647583469407727616",
+          "start": 0,
+          "username": "Fan_yyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031244223178326489",
+    "in_reply_to_user_id": "1647583469407727616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007584664475832415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fan_yyin 你可以戴着那种弹力比较强的冰丝套袖，一来能遮一遮，二来持续施加压力限制局部血供，可以一定程度上让凸起的疤痕变平。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2007584664475832415",
+        "created_at": "2026-03-10T05:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031244223178326489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647583469407727616",
+              "start": 0,
+              "username": "Fan_yyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031244223178326489",
+        "in_reply_to_user_id": "1647583469407727616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007584664475832415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fan_yyin 你可以戴着那种弹力比较强的冰丝套袖，一来能遮一遮，二来持续施加压力限制局部血供，可以一定程度上让凸起的疤痕变平。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647583469407727616",
+        "conversation_id": "2007584664475832415",
+        "created_at": "2026-01-03T22:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T23:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007584664475832415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007584664475832415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 28608,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小安\n戒割中\n愿大家一齐步入新生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男，汉族。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2030638745322750332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 2128,
+          "like_count": 4485,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 895
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T12:51:39.000Z",
+        "description": "07/",
+        "id": "1647583469407727616",
+        "name": "Fan",
+        "pinned_tweet_id": "2007584664475832415",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5985,
+          "following_count": 71,
+          "like_count": 12,
+          "listed_count": 9,
+          "media_count": 229,
+          "tweet_count": 308
+        },
+        "username": "Fan_yyin",
+        "verified": false
+      }
+    ]
+  }
+}

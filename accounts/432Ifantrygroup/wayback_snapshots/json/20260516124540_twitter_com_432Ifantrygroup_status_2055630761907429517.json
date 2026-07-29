@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055630761907429517",
+    "created_at": "2026-05-16T12:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055630761907429517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 29,
+          "id": "1778749383808634880",
+          "start": 21,
+          "username": "YDMY514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055630761907429517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055630717602955611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: @YDMY514 我说了，帮助盲人是义务不是施舍，我会从我做起，但不会止于我自己，我会把这个当成义务去要求别人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055630761907429517",
+        "created_at": "2026-05-16T12:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055630761907429517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 29,
+              "id": "1778749383808634880",
+              "start": 21,
+              "username": "YDMY514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055630761907429517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055630717602955611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: @YDMY514 我说了，帮助盲人是义务不是施舍，我会从我做起，但不会止于我自己，我会把这个当成义务去要求别人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055598091718287611",
+        "created_at": "2026-05-16T12:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055630717602955611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778749383808634880",
+              "start": 0,
+              "username": "YDMY514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055630717602955611",
+        "in_reply_to_user_id": "1778749383808634880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055630061332500576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YDMY514 我说了，帮助盲人是义务不是施舍，我会从我做起，但不会止于我自己，我会把这个当成义务去要求别人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055520955645268179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 3826,
+          "like_count": 36787,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 9904
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T11:38:02.000Z",
+        "description": "当抗争将歇，待前路已尽。\n唯有坚不可摧的本真，方能在身后永世长存。",
+        "id": "1778749383808634880",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "焚星灰",
+        "pinned_tweet_id": "2054167028622102794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946239361424506880/6ya-fyVB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 118,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 201
+        },
+        "username": "YDMY514",
+        "verified": false
+      }
+    ]
+  }
+}

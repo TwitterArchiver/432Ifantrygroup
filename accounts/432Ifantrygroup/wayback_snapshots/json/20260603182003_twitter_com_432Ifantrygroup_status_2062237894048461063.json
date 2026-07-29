@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+          "id": "955547826368344064",
+          "name": "Violence & safety in Brazil"
+        }
+      }
+    ],
+    "conversation_id": "2062237894048461063",
+    "created_at": "2026-06-03T18:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062237894048461063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964517923600371712",
+          "start": 3,
+          "username": "pyonezu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062237894048461063",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062019970385461334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pyonezu: Eles dizem que são pela valorização da vida, mas uma criança gerar e parir é quase uma sentença de morte.  Preservam um óvulo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062237894048461063",
+        "created_at": "2026-06-03T18:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062237894048461063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964517923600371712",
+              "start": 3,
+              "username": "pyonezu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062237894048461063",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062019970385461334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pyonezu: Eles dizem que são pela valorização da vida, mas uma criança gerar e parir é quase uma sentença de morte.  Preservam um óvulo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964517923600371712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062019970385461334",
+        "created_at": "2026-06-03T03:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062019970385461334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/analise2025/st…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/analise2025/status/2061947762048917718",
+              "start": 177,
+              "url": "https://t.co/yO3jfscLaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062019970385461334",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061947762048917718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Eles dizem que são pela valorização da vida, mas uma criança gerar e parir é quase uma sentença de morte.  Preservam um óvulo fecundado e a criança viva que sofra complicações. https://t.co/yO3jfscLaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 42001,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11723
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T02:36:38.000Z",
+        "description": "⠀ ⠀ 「‧₊",
+        "id": "1964517923600371712",
+        "name": "𝚗𝚎𝚣𝚞𝚖𝚒",
+        "pinned_tweet_id": "2059808188610785729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057320552235143168/CtM47Fdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 294,
+          "like_count": 5827,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 64
+        },
+        "username": "pyonezu",
+        "verified": false
+      }
+    ]
+  }
+}

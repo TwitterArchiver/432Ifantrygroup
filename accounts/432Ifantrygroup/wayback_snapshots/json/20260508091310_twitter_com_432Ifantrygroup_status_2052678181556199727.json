@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052678164489678848"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052540389236887592",
+    "created_at": "2026-05-08T09:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052678181556199727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2037090530467995648",
+          "start": 0,
+          "username": "A920520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjaGSJW4kV",
+          "end": 36,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2052678181556199727/photo/1",
+          "media_key": "3_2052678164489678848",
+          "start": 13,
+          "url": "https://t.co/MjaGSJW4kV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052678181556199727",
+    "in_reply_to_user_id": "2037090530467995648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052540389236887592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A920520 看一下 https://t.co/MjaGSJW4kV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052678164489678848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyT6kCbsAALsGb.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052678164489678848"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052540389236887592",
+        "created_at": "2026-05-08T09:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052678181556199727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2037090530467995648",
+              "start": 0,
+              "username": "A920520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjaGSJW4kV",
+              "end": 36,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052678181556199727/photo/1",
+              "media_key": "3_2052678164489678848",
+              "start": 13,
+              "url": "https://t.co/MjaGSJW4kV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052678181556199727",
+        "in_reply_to_user_id": "2037090530467995648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052540389236887592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A920520 看一下 https://t.co/MjaGSJW4kV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037090530467995648",
+        "conversation_id": "2052540389236887592",
+        "created_at": "2026-05-08T00:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052540389236887592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052540389236887592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10t是不是太少了，一点感觉都没有，就是胃疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052427326609387874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 3667,
+          "like_count": 33582,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 8990
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:53:36.000Z",
+        "description": "身高188.体重135，土象处女座，妹控，infj绿老头，有点爱喝酒，开心的时候不怎么喝，喜欢冒险，刺激，有激情，有挑战的事，属性s，会点绳缚，另外接私人定制小狗小猫项圈，脾气很好，性格很好，想认识好多新朋友",
+        "id": "2037090530467995648",
+        "name": "林飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037090657848942592/kDT51ZvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 106,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 341
+        },
+        "username": "A920520",
+        "verified": false
+      }
+    ]
+  }
+}

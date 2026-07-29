@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2049006900235395361",
+    "created_at": "2026-04-28T06:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049006900235395361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cybercat868/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/cybercat868/status/2048900405120381057",
+          "start": 21,
+          "url": "https://t.co/ew7zRCCwCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049006900235395361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048900405120381057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要不说父母是孩子心理健康的第一大杀手呢？ https://t.co/ew7zRCCwCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2048900403144863744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8oD6WasAAaH40.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2049006900235395361",
+        "created_at": "2026-04-28T06:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049006900235395361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cybercat868/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cybercat868/status/2048900405120381057",
+              "start": 21,
+              "url": "https://t.co/ew7zRCCwCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049006900235395361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048900405120381057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不说父母是孩子心理健康的第一大杀手呢？ https://t.co/ew7zRCCwCa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048900403144863744"
+          ]
+        },
+        "author_id": "2045308579729625089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048900405120381057",
+        "created_at": "2026-04-27T23:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048900405120381057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2013100592202194945",
+              "start": 8,
+              "username": "Viki211027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuLmVn0WM5",
+              "end": 58,
+              "expanded_url": "https://x.com/cybercat868/status/2048900405120381057/photo/1",
+              "media_key": "3_2048900403144863744",
+              "start": 35,
+              "url": "https://t.co/uuLmVn0WM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048900405120381057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目前土豆泥姐姐 @Viki211027 的社交在母亲的要求下被迫切断 https://t.co/uuLmVn0WM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048785928278487404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 3389,
+          "like_count": 29319,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 7830
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T01:11:09.000Z",
+        "description": "大家好喵，我是白鸠叶，一位mtf，喜欢电脑，archlinuxcn社区,不自残与od",
+        "id": "2045308579729625089",
+        "name": "cybercat（白鸠叶）🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 95,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 209
+        },
+        "username": "cybercat868",
+        "verified": false
+      }
+    ]
+  }
+}

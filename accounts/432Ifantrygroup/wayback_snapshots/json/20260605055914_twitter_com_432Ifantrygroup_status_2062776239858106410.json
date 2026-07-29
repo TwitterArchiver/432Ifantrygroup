@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062766949508206947",
+    "created_at": "2026-06-05T05:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062776239858106410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169463957016330241",
+          "start": 0,
+          "username": "KyuukoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062776239858106410",
+    "in_reply_to_user_id": "1169463957016330241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062766949508206947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KyuukoQ 你家里人是傻逼吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062766949508206947",
+        "created_at": "2026-06-05T05:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062776239858106410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169463957016330241",
+              "start": 0,
+              "username": "KyuukoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062776239858106410",
+        "in_reply_to_user_id": "1169463957016330241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062766949508206947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KyuukoQ 你家里人是傻逼吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169463957016330241",
+        "conversation_id": "2062766949508206947",
+        "created_at": "2026-06-05T05:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062766949508206947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062766949508206947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就因为浑身的疤。我连夏天穿短袖吊带短裙短裤的权利都没有了。我想买条裙子都不可以说遮不住疤。就算在家也必须戴袖套遮住如果露出来就会被一顿痛骂说我故意恶心他们估计挑起事段啊啊哈哈哈哈别太好笑了我去死行不行我死了什么事都没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062576495936381265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 4050,
+          "like_count": 42476,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 11893
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-05T04:15:20.000Z",
+        "description": "我是99 在这个号避难 发照片 主账户@KBDYD555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1169463957016330241",
+        "name": "不安定鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058909547767709696/5wRHt3oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 357,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 51
+        },
+        "username": "KyuukoQ",
+        "verified": false
+      }
+    ]
+  }
+}

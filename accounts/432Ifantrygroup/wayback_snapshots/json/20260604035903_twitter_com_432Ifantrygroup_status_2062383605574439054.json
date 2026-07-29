@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062238645101252608"
+      ],
+      "media_source_tweet_id": [
+        "2062238689900589505"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062383605574439054",
+    "created_at": "2026-06-04T03:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062383605574439054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "812286290507010049",
+          "start": 3,
+          "username": "Astartebord"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s7UVfCnIor",
+          "end": 105,
+          "expanded_url": "https://x.com/Astartebord/status/2062238689900589505/photo/1",
+          "media_key": "3_2062238645101252608",
+          "start": 82,
+          "url": "https://t.co/s7UVfCnIor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062383605574439054",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2582
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062238689900589505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Astartebord: Imaginate tener +30 y creer que quien gobierna no afecta tu vida https://t.co/s7UVfCnIor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 354,
+        "media_key": "3_2062238645101252608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6LHxtX0AASaBD.png",
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062238645101252608"
+          ],
+          "media_source_tweet_id": [
+            "2062238689900589505"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062383605574439054",
+        "created_at": "2026-06-04T03:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062383605574439054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "812286290507010049",
+              "start": 3,
+              "username": "Astartebord"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7UVfCnIor",
+              "end": 105,
+              "expanded_url": "https://x.com/Astartebord/status/2062238689900589505/photo/1",
+              "media_key": "3_2062238645101252608",
+              "start": 82,
+              "url": "https://t.co/s7UVfCnIor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062383605574439054",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062238689900589505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Astartebord: Imaginate tener +30 y creer que quien gobierna no afecta tu vida https://t.co/s7UVfCnIor"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062238645101252608"
+          ]
+        },
+        "author_id": "812286290507010049",
+        "conversation_id": "2062238689900589505",
+        "created_at": "2026-06-03T18:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062238689900589505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s7UVfCnIor",
+              "end": 88,
+              "expanded_url": "https://x.com/Astartebord/status/2062238689900589505/photo/1",
+              "media_key": "3_2062238645101252608",
+              "start": 65,
+              "url": "https://t.co/s7UVfCnIor"
+            },
+            {
+              "display_url": "x.com/poliiitroll/st…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/poliiitroll/status/2062121799769289147",
+              "start": 89,
+              "url": "https://t.co/0xRxwcn1nj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062238689900589505",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 131997,
+          "like_count": 20168,
+          "quote_count": 8,
+          "reply_count": 41,
+          "retweet_count": 2582
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062121799769289147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Imaginate tener +30 y creer que quien gobierna no afecta tu vida https://t.co/s7UVfCnIor https://t.co/0xRxwcn1nj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062240095227592980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 4025,
+          "like_count": 42118,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 11788
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-23T13:18:38.000Z",
+        "description": "Quiero una República Argentina Industrializada que represente a los trabajadores y defienda a los oprimidos. Programador. Mago.",
+        "id": "812286290507010049",
+        "location": "Segmentum Solar, Argentina",
+        "name": "Astarte",
+        "pinned_tweet_id": "2026982061844684853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042389812842233857/0icvAH0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5950,
+          "following_count": 943,
+          "like_count": 96875,
+          "listed_count": 13,
+          "media_count": 7054,
+          "tweet_count": 35090
+        },
+        "username": "Astartebord",
+        "verified": true
+      }
+    ]
+  }
+}

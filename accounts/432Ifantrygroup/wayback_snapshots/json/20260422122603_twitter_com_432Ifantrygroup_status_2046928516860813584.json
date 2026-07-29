@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046928516860813584",
+    "created_at": "2026-04-22T12:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046928516860813584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012617076150611968",
+          "start": 3,
+          "username": "Horiyet8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046928516860813584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046891357525131622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Horiyet8964: 对于跨性别女性而言，靠近规范的女性形象对她们而言不是个人选择问题，而是生存问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046928516860813584",
+        "created_at": "2026-04-22T12:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046928516860813584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012617076150611968",
+              "start": 3,
+              "username": "Horiyet8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046928516860813584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046891357525131622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Horiyet8964: 对于跨性别女性而言，靠近规范的女性形象对她们而言不是个人选择问题，而是生存问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012617076150611968",
+        "conversation_id": "2046891357525131622",
+        "created_at": "2026-04-22T09:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046891357525131622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046891357525131622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "对于跨性别女性而言，靠近规范的女性形象对她们而言不是个人选择问题，而是生存问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 3132,
+          "like_count": 26132,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 6844
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T20:05:14.000Z",
+        "description": "",
+        "id": "2012617076150611968",
+        "name": "JellyBudin47",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043686331528970240/Y1SW8Jz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 105,
+          "like_count": 297,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 4171
+        },
+        "username": "Horiyet8964",
+        "verified": false
+      }
+    ]
+  }
+}

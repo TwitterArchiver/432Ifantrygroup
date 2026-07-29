@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051756182289932655",
+    "created_at": "2026-05-06T17:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052082554153624005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499250507331813381",
+          "start": 0,
+          "username": "this_is_no_id"
+        },
+        {
+          "end": 27,
+          "id": "1473671689171095554",
+          "start": 15,
+          "username": "tree_lemmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052082554153624005",
+    "in_reply_to_user_id": "1499250507331813381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052082348544709065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@this_is_no_id @tree_lemmon 对啊，我说的就是这回事，只不过我需要向其他人阐述这一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051756182289932655",
+        "created_at": "2026-05-06T17:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052082554153624005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499250507331813381",
+              "start": 0,
+              "username": "this_is_no_id"
+            },
+            {
+              "end": 27,
+              "id": "1473671689171095554",
+              "start": 15,
+              "username": "tree_lemmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052082554153624005",
+        "in_reply_to_user_id": "1499250507331813381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052082348544709065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@this_is_no_id @tree_lemmon 对啊，我说的就是这回事，只不过我需要向其他人阐述这一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499250507331813381",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2051756182289932655",
+        "created_at": "2026-05-06T17:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052082348544709065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 29,
+              "id": "1473671689171095554",
+              "start": 17,
+              "username": "tree_lemmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052082348544709065",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052081975960490491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @tree_lemmon 那么心理学会继续这么运作下去，因为“正常”这个概念代表的就是“建制”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051824257039282403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 3621,
+          "like_count": 32973,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8838
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T05:09:21.000Z",
+        "description": "Va, pensiero, sull'ali dorate",
+        "id": "1499250507331813381",
+        "location": "安托西修之地狱/ l'enfer avec 安托西修",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1594499237076664320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573373299584892928/FrivAb6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 69,
+          "like_count": 19556,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 9411
+        },
+        "username": "this_is_no_id",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T15:08:41.000Z",
+        "description": "",
+        "id": "1473671689171095554",
+        "location": "Copenhagen, Denmark",
+        "name": "lemmon tree",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972602265149091840/9A3-hWO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 28373,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1477
+        },
+        "username": "tree_lemmon",
+        "verified": false
+      }
+    ]
+  }
+}

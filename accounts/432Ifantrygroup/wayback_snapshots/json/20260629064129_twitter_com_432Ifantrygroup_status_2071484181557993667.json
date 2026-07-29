@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071301003127996885",
+    "created_at": "2026-06-29T06:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071484181557993667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841815505562456064",
+          "start": 0,
+          "username": "Lunaticonthemo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071484181557993667",
+    "in_reply_to_user_id": "1841815505562456064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071438789147259035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunaticonthemo1 这两者是有一定互斥的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071301003127996885",
+        "created_at": "2026-06-29T06:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071484181557993667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841815505562456064",
+              "start": 0,
+              "username": "Lunaticonthemo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071484181557993667",
+        "in_reply_to_user_id": "1841815505562456064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071438789147259035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunaticonthemo1 这两者是有一定互斥的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841815505562456064",
+        "conversation_id": "2071301003127996885",
+        "created_at": "2026-06-29T03:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071438789147259035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071438789147259035",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071301003127996885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 额......不能都要吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 4207,
+          "like_count": 44258,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 12587
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T12:20:29.000Z",
+        "description": "Yuri♥️\nTranswomen are Women🏳️‍⚧️\nLeft(Heterodox)🌹",
+        "id": "1841815505562456064",
+        "name": "Lunatic on the moon",
+        "pinned_tweet_id": "1947687791414083976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057773658492563456/Jao29eAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 94,
+          "like_count": 4793,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1793
+        },
+        "url": "",
+        "username": "Lunaticonthemo1",
+        "verified": false
+      }
+    ]
+  }
+}

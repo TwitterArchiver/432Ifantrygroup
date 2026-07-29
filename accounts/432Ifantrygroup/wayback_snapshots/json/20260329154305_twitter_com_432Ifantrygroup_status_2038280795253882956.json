@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038278903954129057",
+    "created_at": "2026-03-29T15:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038280795253882956"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038280795253882956",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038278903954129057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家一定要认识到，公序良俗都是用来pua你，用来减轻统治阶级统治成本的工具，你权衡之后就可以违反，不用有心理负担"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038278903954129057",
+        "created_at": "2026-03-29T15:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038280795253882956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038280795253882956",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038278903954129057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家一定要认识到，公序良俗都是用来pua你，用来减轻统治阶级统治成本的工具，你权衡之后就可以违反，不用有心理负担"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038278903954129057",
+        "created_at": "2026-03-29T15:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038278903954129057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Exusiai159/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Exusiai159/status/2038119859436102129",
+              "start": 61,
+              "url": "https://t.co/m7XeYXVJED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038278903954129057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038119859436102129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "道德和公序良俗从来不是什么超历史超阶级的真理，而是特定历史时期的特定物质条件下的意识形态，其必然是服务于统治阶级的统治的 https://t.co/m7XeYXVJED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 2655,
+          "like_count": 15033,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3972
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

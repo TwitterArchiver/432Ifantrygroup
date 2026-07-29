@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045233899584753917",
+    "created_at": "2026-04-18T07:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045399394045079894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "376396452",
+          "start": 0,
+          "username": "aliciahan007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045399394045079894",
+    "in_reply_to_user_id": "376396452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045233899584753917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliciahan007 他说你打拳，那怎么叫不打拳呢？“换个男的也一样”。原来在他眼里不打拳的意思是平等的侮辱所有人？\n不过我不觉得你容忍他是做对了。作为一个能一秒钟切换战斗脸的人，比说脏话他绝对比不过我，我能骂到他怀疑人生；或者干脆一个举报也能给他抬走。\n我们面对手持沾屎拖把的人，不能光是躲，那就如他愿了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2045233682227544064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIhMqfWQAA7gmF.jpg",
+        "width": 876
+      },
+      {
+        "height": 1310,
+        "media_key": "3_2045233712523038721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIhObWW0AE0wXn.jpg",
+        "width": 1882
+      },
+      {
+        "height": 744,
+        "media_key": "3_2045233730286149632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIhPdhaYAAg97A.jpg",
+        "width": 1150
+      },
+      {
+        "height": 1496,
+        "media_key": "3_2045233764582797312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGIhRdSXsAAC3gf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045233899584753917",
+        "created_at": "2026-04-18T07:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045399394045079894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "376396452",
+              "start": 0,
+              "username": "aliciahan007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045399394045079894",
+        "in_reply_to_user_id": "376396452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045233899584753917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliciahan007 他说你打拳，那怎么叫不打拳呢？“换个男的也一样”。原来在他眼里不打拳的意思是平等的侮辱所有人？\n不过我不觉得你容忍他是做对了。作为一个能一秒钟切换战斗脸的人，比说脏话他绝对比不过我，我能骂到他怀疑人生；或者干脆一个举报也能给他抬走。\n我们面对手持沾屎拖把的人，不能光是躲，那就如他愿了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045233682227544064",
+            "3_2045233712523038721",
+            "3_2045233730286149632",
+            "3_2045233764582797312"
+          ]
+        },
+        "author_id": "376396452",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410726858014945283",
+              "name": "Wuxia"
+            }
+          }
+        ],
+        "conversation_id": "2045233899584753917",
+        "created_at": "2026-04-17T20:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045233899584753917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "打拳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MLjt4AYAa",
+              "end": 162,
+              "expanded_url": "https://x.com/aliciahan007/status/2045233899584753917/photo/1",
+              "media_key": "3_2045233682227544064",
+              "start": 139,
+              "url": "https://t.co/5MLjt4AYAa"
+            },
+            {
+              "display_url": "pic.x.com/5MLjt4AYAa",
+              "end": 162,
+              "expanded_url": "https://x.com/aliciahan007/status/2045233899584753917/photo/1",
+              "media_key": "3_2045233712523038721",
+              "start": 139,
+              "url": "https://t.co/5MLjt4AYAa"
+            },
+            {
+              "display_url": "pic.x.com/5MLjt4AYAa",
+              "end": 162,
+              "expanded_url": "https://x.com/aliciahan007/status/2045233899584753917/photo/1",
+              "media_key": "3_2045233730286149632",
+              "start": 139,
+              "url": "https://t.co/5MLjt4AYAa"
+            },
+            {
+              "display_url": "pic.x.com/5MLjt4AYAa",
+              "end": 162,
+              "expanded_url": "https://x.com/aliciahan007/status/2045233899584753917/photo/1",
+              "media_key": "3_2045233764582797312",
+              "start": 139,
+              "url": "https://t.co/5MLjt4AYAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045233899584753917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "打拳"
+              }
+            ]
+          },
+          "text": "作为一个身在欧洲、每天和逻辑代码打交道的孩纸，我怎么也没想到，自己有一天会在一个武侠游戏群里，被一个赛博巨婴指着鼻子骂“#打拳”。以前我觉得，互联网上最让人头疼的是杠精。但今天在游戏群里的一场遭遇，让我确诊了一种新型的恐惧：我生理性地害怕那些随时随地寻找借口“引爆”自己的人。\n事情的起因其实小到不值一提。\n最近沉迷《燕云十六声》，加了几个玩家群日常吹水。今早，群里有个人发了一张照片：发了一个没啥意思的兔女郎+黑丝组合，之后一个身材有些超重的女孩，穿着兔女郎装和黑丝在公园被一群人围观。\n发图的意图不言而喻，无非是拿个别人的窘态当赛博乐子。\n坦白讲，看到图的那一刻我并没有多愤怒，只是觉得这人挺没品。果然，群里有妹子感到不适，开口说了他一句。\n接着，那套我们无比熟悉的“傲慢免责声明”就出现了：“我就是开个玩笑啊，纯搞笑，又没露点，至于吗？”\n我平时极少在群里长篇大论，但我真的很讨厌这种“我冒犯了你，你不仅不能生气，还要配合我幽默”的强盗逻辑，是不是有点杨X的风格？惹人厌了，随手道个歉原本就能翻篇的事，非要嘴硬找补。\n于是我没忍住，从成年人的基本礼仪出发批评了他两点：第一，在公共群发NSFW（工作场合不宜）内容不合时宜；第二，拿别人的身材缺陷当笑料，这不叫幽默，叫刻薄。\n说完之后，群里没人接茬，发图的人也安静了，大家默契地让这件事翻了篇。\n 然而，真正魔幻的剧情，在半天之后才刚刚开始。\n十几个小时后，一个从头到尾完全没有参与过讨论的人，突然像被按下了某种诡异的引爆开关，在群里对我连发了五六条长语音。\n上来就是一顿劈头盖脸的疯狂输出：“媚男！”“身材歧视！”“你这就叫打拳！”\n我点开语音，里面那种气急败坏、充满撕裂感的攻击性语气，仿佛我和他有不共戴天之仇。\n荒谬吗？一个人，为了维护别人嘲笑超重女性的权利，跳出来指责我“身材歧视”和“打拳”。\n看到没人理他，他一个人在群里发泄完，也就偃旗息鼓了。\n但我坐在屏幕前，并没有因为“吵赢了”或者“他闭嘴了”而感到庆幸。相反，我感到了一阵深切的后背发凉。\n我突然看清了这群人的画像。\n他们根本不在乎什么女性权益，不懂什么是“媚男”，更不理解他嘴里喊着的那些主义。他们只是一群在现实生活中充满了巨大压抑、被紧紧压缩的“情绪炸药桶”。\n他们像幽魂一样在互联网上游荡，手里攥着几个从短视频里学来的、似是而非的词汇当武器。他们不想讲道理，也不关心对错，他们只是在苦苦寻找一个可以吵架的标靶，追求那种毫无底线的宣泄，以及通过折辱别人来获得一丁点可怜的“自我存在感”。\n面对这种人，我感到的不是愤怒，是深深的忌惮。\n因为当一个人习惯了在虚拟世界里靠无差别的语言暴力来排解戾气时，他的内心早已失衡。今天他能在群里因为一张图对陌生人狂怒输出，明天在现实的十字路口，谁也不知道他会不会因为别人多看他一眼，就做出极其极端的举动。\n不要试图和随时准备发疯的人讲道理。\n 遇到这种浑身散发着危险戾气的人，我们唯一该做的，就是保持沉默，保护好自己的能量，然后离他们越远越好。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4617,
+          "like_count": 61,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "作为一个身在欧洲、每天和逻辑代码打交道的孩纸，我怎么也没想到，自己有一天会在一个武侠游戏群里，被一个赛博巨婴指着鼻子骂“#打拳”。以前我觉得，互联网上最让人头疼的是杠精。但今天在游戏群里的一场遭遇，让我确诊了一种新型的恐惧：我生理性地害怕那些随时随地寻找借口“引爆”自己的人。 https://t.co/5MLjt4AYAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045192579353027051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 2955,
+          "like_count": 23727,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 6293
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-19T20:24:12.000Z",
+        "description": "今天仍旧没有变瘦喔😭",
+        "id": "376396452",
+        "location": "France",
+        "name": "污妖王的远征",
+        "pinned_tweet_id": "1823264456367100214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875676632351965185/xLRn2hTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5012,
+          "following_count": 959,
+          "like_count": 2758,
+          "listed_count": 26,
+          "media_count": 1350,
+          "tweet_count": 4710
+        },
+        "username": "aliciahan007",
+        "verified": false
+      }
+    ]
+  }
+}

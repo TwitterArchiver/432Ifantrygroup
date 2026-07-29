@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058884050589192192"
+      ],
+      "media_source_tweet_id": [
+        "2058884054477422970"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058897599403586036",
+    "created_at": "2026-05-25T13:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058897599403586036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "36659991",
+          "start": 3,
+          "username": "kenw_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9JyWMsPjZE",
+          "end": 62,
+          "expanded_url": "https://x.com/kenw_2/status/2058884054477422970/photo/1",
+          "media_key": "3_2058884050589192192",
+          "start": 39,
+          "url": "https://t.co/9JyWMsPjZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058897599403586036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058884054477422970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kenw_2: 东亚小孩怎样才能从左边走到右边，打破标配的九件套呢？ https://t.co/9JyWMsPjZE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1751,
+        "media_key": "3_2058884050589192192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKgIrUWEAAbJQ_.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058884050589192192"
+          ],
+          "media_source_tweet_id": [
+            "2058884054477422970"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058897599403586036",
+        "created_at": "2026-05-25T13:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058897599403586036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "36659991",
+              "start": 3,
+              "username": "kenw_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JyWMsPjZE",
+              "end": 62,
+              "expanded_url": "https://x.com/kenw_2/status/2058884054477422970/photo/1",
+              "media_key": "3_2058884050589192192",
+              "start": 39,
+              "url": "https://t.co/9JyWMsPjZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058897599403586036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058884054477422970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kenw_2: 东亚小孩怎样才能从左边走到右边，打破标配的九件套呢？ https://t.co/9JyWMsPjZE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058884050589192192"
+          ]
+        },
+        "author_id": "36659991",
+        "conversation_id": "2058884054477422970",
+        "created_at": "2026-05-25T12:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058884054477422970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JyWMsPjZE",
+              "end": 50,
+              "expanded_url": "https://x.com/kenw_2/status/2058884054477422970/photo/1",
+              "media_key": "3_2058884050589192192",
+              "start": 27,
+              "url": "https://t.co/9JyWMsPjZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058884054477422970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1666,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "东亚小孩怎样才能从左边走到右边，打破标配的九件套呢？ https://t.co/9JyWMsPjZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058794876662374831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 3884,
+          "like_count": 38262,
+          "listed_count": 4,
+          "media_count": 413,
+          "tweet_count": 10452
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend, stay curious, stay human.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173558,
+          "following_count": 469,
+          "like_count": 2734,
+          "listed_count": 571,
+          "media_count": 2198,
+          "tweet_count": 7712
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}

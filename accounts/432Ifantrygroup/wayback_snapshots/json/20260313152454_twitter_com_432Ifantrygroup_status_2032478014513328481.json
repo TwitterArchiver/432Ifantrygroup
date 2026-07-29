@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032419538172776652",
+    "created_at": "2026-03-13T15:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032478014513328481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387569464",
+          "start": 0,
+          "username": "UFP_YujunL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032478014513328481",
+    "in_reply_to_user_id": "3387569464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032419538172776652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_YujunL 打扮的好像律师耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14948,
+        "height": 1280,
+        "media_key": "13_2032419474826313729",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032419474826313729/img/-aiO7rEijgowqiwY.jpg",
+        "public_metrics": {
+          "view_count": 997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032419474826313729/vid/avc1/320x568/Zym1Qf8a2OHyOhtW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032419474826313729/vid/avc1/480x852/lHCZ3ue6dUBQBOUA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032419474826313729/vid/avc1/720x1280/ogkUcchXdePVil3O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032419474826313729/pl/0gmQ3NcSRNe1x3Ul.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032419538172776652",
+        "created_at": "2026-03-13T15:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032478014513328481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387569464",
+              "start": 0,
+              "username": "UFP_YujunL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032478014513328481",
+        "in_reply_to_user_id": "3387569464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032419538172776652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_YujunL 打扮的好像律师耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032419474826313729"
+          ]
+        },
+        "author_id": "3387569464",
+        "conversation_id": "2032419538172776652",
+        "created_at": "2026-03-13T11:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032419538172776652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jygLbe3qwU",
+              "end": 39,
+              "expanded_url": "https://x.com/UFP_YujunL/status/2032419538172776652/video/1",
+              "media_key": "13_2032419474826313729",
+              "start": 16,
+              "url": "https://t.co/jygLbe3qwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032419538172776652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2480,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关键词：国旗，纸巾，西装，牛排 https://t.co/jygLbe3qwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 2246,
+          "like_count": 5888,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1446
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T15:56:17.000Z",
+        "description": "如果我牺牲了,请用我的骨灰在火星乌托邦平原种下一棵胡杨树(建制左派)|家用车驾驶王| 前𝗧𝗢𝗬𝗢𝗧𝗔 𝗖𝗔𝗠𝗥𝗬 𝗫𝗦𝗘 𝗔𝗪𝗗(不)省油车主|比亚迪汉L EV-p准车主 | 不再爱任何人|我真回流了你怎么还没润？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yujunl.com.cn",
+                "end": 23,
+                "expanded_url": "http://yujunl.com.cn",
+                "start": 0,
+                "url": "https://t.co/ImIAme7ZMM"
+              }
+            ]
+          }
+        },
+        "id": "3387569464",
+        "location": "星际联邦地球广州人类抽象史博物馆",
+        "name": "彧君姨姨(🐑不想说话版)",
+        "pinned_tweet_id": "2022195978129092788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022194473615470592/iRhe5MLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13224,
+          "following_count": 860,
+          "like_count": 149944,
+          "listed_count": 51,
+          "media_count": 3949,
+          "tweet_count": 51612
+        },
+        "url": "https://t.co/ImIAme7ZMM",
+        "username": "UFP_YujunL",
+        "verified": false
+      }
+    ]
+  }
+}

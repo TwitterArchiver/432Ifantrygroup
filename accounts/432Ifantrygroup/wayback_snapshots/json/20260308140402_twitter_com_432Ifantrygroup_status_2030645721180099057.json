@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2030583121939407306",
+    "created_at": "2026-03-08T14:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030645721180099057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030645721180099057",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030583121939407306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 这其实不是大家想象中的科技碾压人力的爽文，日本对雷达的应用比美国甚至更早，但日本仍然是失败的。\n二战中的法西斯国家在战争之初都是占尽优势的，他们的失败之处绝非简单的技术落后，而是其他更深层的失败和错误，这才是我们应该思考的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2030583083897122816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4Ujmqa8AAntL_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2030583121939407306",
+        "created_at": "2026-03-08T14:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030645721180099057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030645721180099057",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030583121939407306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 这其实不是大家想象中的科技碾压人力的爽文，日本对雷达的应用比美国甚至更早，但日本仍然是失败的。\n二战中的法西斯国家在战争之初都是占尽优势的，他们的失败之处绝非简单的技术落后，而是其他更深层的失败和错误，这才是我们应该思考的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030583083897122816"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2030583121939407306",
+        "created_at": "2026-03-08T09:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030583121939407306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFUpFrFFLL",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2030583121939407306/photo/1",
+              "media_key": "3_2030583083897122816",
+              "start": 0,
+              "url": "https://t.co/MFUpFrFFLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030583121939407306",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6617,
+          "like_count": 130,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MFUpFrFFLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男，汉族。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2030638745322750332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 2014,
+          "like_count": 3952,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 687
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35041,
+          "following_count": 349,
+          "like_count": 120,
+          "listed_count": 100,
+          "media_count": 11700,
+          "tweet_count": 11746
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

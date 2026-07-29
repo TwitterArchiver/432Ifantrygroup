@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2019723228604940439",
+    "created_at": "2026-02-08T18:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020565162760212862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1212607073466273792",
+          "start": 0,
+          "username": "VimalYa12766509"
+        },
+        {
+          "end": 25,
+          "id": "1655156808",
+          "start": 17,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020565162760212862",
+    "in_reply_to_user_id": "1212607073466273792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019723228604940439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VimalYa12766509 @GetXBot 保存视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71935,
+        "height": 1280,
+        "media_key": "13_2019722562088099840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019722562088099840/img/lXMd4EoV4GxjVaWJ.jpg",
+        "public_metrics": {
+          "view_count": 150934
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019722562088099840/vid/avc1/320x568/l89FjIKzQ9kB40_W.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019722562088099840/vid/avc1/480x852/wKgklc0VgYYr_faw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019722562088099840/vid/avc1/720x1280/Hle2XyUAjA47tJeL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019722562088099840/pl/Z2pWbURtqZW3XRbQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2019723228604940439",
+        "created_at": "2026-02-08T18:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020565162760212862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1212607073466273792",
+              "start": 0,
+              "username": "VimalYa12766509"
+            },
+            {
+              "end": 25,
+              "id": "1655156808",
+              "start": 17,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020565162760212862",
+        "in_reply_to_user_id": "1212607073466273792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019723228604940439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VimalYa12766509 @GetXBot 保存视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019722562088099840"
+          ]
+        },
+        "author_id": "1212607073466273792",
+        "conversation_id": "2019723228604940439",
+        "created_at": "2026-02-06T10:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019723228604940439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BMM8fDZeH",
+              "end": 97,
+              "expanded_url": "https://x.com/VimalYa12766509/status/2019723228604940439/video/1",
+              "media_key": "13_2019722562088099840",
+              "start": 74,
+              "url": "https://t.co/5BMM8fDZeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019723228604940439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1466,
+          "impression_count": 316850,
+          "like_count": 4291,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 711
+        },
+        "reply_settings": "everyone",
+        "text": "wataa🔥\n                 现在的大哥太会玩了，说花钱的想怎么玩就怎么玩，可我受不了啊！我可以让你双飞也怕浑身瘙痒，都快成河了 https://t.co/5BMM8fDZeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1627,
+          "like_count": 2900,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 330
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T05:31:32.000Z",
+        "description": "28岁还没嫁人，寄居在姐姐家里，和姐姐姐夫住在一起，由于长期没有性生活，内分泌失调，然后借用姐夫治疗一下内分泌的问题，从此走上了不归路，姐姐也就默许我们的关系，毕竟肥水不流外人田！！在推特上分享一下我的日常，请多多帮我点赞关注哦！！",
+        "id": "1212607073466273792",
+        "name": "Love小野猫",
+        "pinned_tweet_id": "2019338236225785874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017296998228234246/XtWcAAYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30409,
+          "following_count": 46,
+          "like_count": 15,
+          "listed_count": 19,
+          "media_count": 42,
+          "tweet_count": 73
+        },
+        "username": "VimalYa12766509",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。\n新功能：VIP会员可将推文通过私信发送给我获取视频下载链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pay.getxbot.work",
+                "end": 23,
+                "expanded_url": "https://pay.getxbot.work",
+                "start": 0,
+                "url": "https://t.co/PMtZdQVrNl"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "location": "订阅成为会员➤",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "2009751195653681430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502233,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 203,
+          "media_count": 9,
+          "tweet_count": 488879
+        },
+        "url": "https://t.co/PMtZdQVrNl",
+        "username": "GetXBot",
+        "verified": true
+      }
+    ]
+  }
+}

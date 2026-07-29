@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046777010828226861",
+    "created_at": "2026-04-22T02:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046777010828226861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fangboya/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/fangboya/status/2046499329377292654",
+          "start": 12,
+          "url": "https://t.co/cBLxI247Y8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046777010828226861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046499329377292654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "信这个的治好了也流口水 https://t.co/cBLxI247Y8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046499318073634816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGagSXbbsAAgTvM.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046777010828226861",
+        "created_at": "2026-04-22T02:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046777010828226861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fangboya/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/fangboya/status/2046499329377292654",
+              "start": 12,
+              "url": "https://t.co/cBLxI247Y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046777010828226861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046499329377292654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "信这个的治好了也流口水 https://t.co/cBLxI247Y8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046499318073634816"
+          ]
+        },
+        "author_id": "1590883113835511808",
+        "conversation_id": "2046499329377292654",
+        "created_at": "2026-04-21T08:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046499329377292654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJy7oL9Mp2",
+              "end": 48,
+              "expanded_url": "https://x.com/fangboya/status/2046499329377292654/photo/1",
+              "media_key": "3_2046499318073634816",
+              "start": 25,
+              "url": "https://t.co/zJy7oL9Mp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046499329377292654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 931,
+          "impression_count": 443469,
+          "like_count": 5055,
+          "quote_count": 61,
+          "reply_count": 390,
+          "retweet_count": 341
+        },
+        "reply_settings": "everyone",
+        "text": "在小红书上看到一个博主拍的照片，这个长焦牛逼啊！ https://t.co/zJy7oL9Mp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046592811408277934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 3113,
+          "like_count": 25777,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 6778
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T01:44:37.000Z",
+        "description": "曼哈顿教书匠 第三世界发债人",
+        "id": "1590883113835511808",
+        "location": "New York, USA",
+        "name": "Tony Fang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782233683661115392/8lcUxVz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8151,
+          "following_count": 114,
+          "like_count": 16047,
+          "listed_count": 33,
+          "media_count": 1452,
+          "tweet_count": 11589
+        },
+        "username": "fangboya",
+        "verified": false
+      }
+    ]
+  }
+}

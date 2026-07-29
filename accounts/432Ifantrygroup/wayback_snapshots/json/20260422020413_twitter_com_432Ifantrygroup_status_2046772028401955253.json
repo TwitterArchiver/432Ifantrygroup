@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046755034113970637",
+    "created_at": "2026-04-22T02:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046772028401955253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832619570852720643",
+          "start": 0,
+          "username": "MeiQuan420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046772028401955253",
+    "in_reply_to_user_id": "1832619570852720643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046770707355623735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiQuan420 不过接下来的事情怎么办就不知道了。心病难医啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046755034113970637",
+        "created_at": "2026-04-22T02:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046772028401955253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832619570852720643",
+              "start": 0,
+              "username": "MeiQuan420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046772028401955253",
+        "in_reply_to_user_id": "1832619570852720643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046770707355623735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiQuan420 不过接下来的事情怎么办就不知道了。心病难医啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832619570852720643",
+        "conversation_id": "2046755034113970637",
+        "created_at": "2026-04-22T01:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046770707355623735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046770707355623735",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046757993249964506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 谢谢你\n特别善良又特别不得了的一件事⭐️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046592811408277934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 3112,
+          "like_count": 25771,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 6776
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T03:19:49.000Z",
+        "description": "一只蜗牛…",
+        "id": "1832619570852720643",
+        "name": "天气轮柱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886736856961978368/g9gjsB1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 122,
+          "like_count": 2506,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 85
+        },
+        "username": "MeiQuan420",
+        "verified": false
+      }
+    ]
+  }
+}

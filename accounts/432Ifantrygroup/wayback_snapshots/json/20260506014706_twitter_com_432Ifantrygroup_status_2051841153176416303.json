@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051735450466033922",
+    "created_at": "2026-05-06T01:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051841153176416303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797247911497244672",
+          "start": 0,
+          "username": "lwlSAGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051841153176416303",
+    "in_reply_to_user_id": "1797247911497244672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051840354811547787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwlSAGO yesyes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051735450466033922",
+        "created_at": "2026-05-06T01:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051841153176416303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797247911497244672",
+              "start": 0,
+              "username": "lwlSAGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051841153176416303",
+        "in_reply_to_user_id": "1797247911497244672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051840354811547787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwlSAGO yesyes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797247911497244672",
+        "conversation_id": "2051735450466033922",
+        "created_at": "2026-05-06T01:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051840354811547787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051840354811547787",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051735450466033922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 是这样ദ്ദി (⩌ᴗ⩌ )\n纸质翻页比屏幕划过的感觉更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051824257039282403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 3578,
+          "like_count": 32410,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8690
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T12:44:44.000Z",
+        "description": "Metro，\nSuburbs，\nCommuters，\nChoo choo chah choo choo chah",
+        "id": "1797247911497244672",
+        "name": "happyturtle",
+        "pinned_tweet_id": "1797251498042356164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804850448035438592/7ngCt3LL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 99,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 234
+        },
+        "username": "lwlSAGO",
+        "verified": false
+      }
+    ]
+  }
+}

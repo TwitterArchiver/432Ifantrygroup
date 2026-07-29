@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035715102134133101",
+    "created_at": "2026-03-22T14:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035732138713313307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912326279468122112",
+          "start": 0,
+          "username": "opitia255274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035732138713313307",
+    "in_reply_to_user_id": "1912326279468122112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035715102134133101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opitia255274 我气死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035715102134133101",
+        "created_at": "2026-03-22T14:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035732138713313307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912326279468122112",
+              "start": 0,
+              "username": "opitia255274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035732138713313307",
+        "in_reply_to_user_id": "1912326279468122112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035715102134133101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opitia255274 我气死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912326279468122112",
+        "conversation_id": "2035715102134133101",
+        "created_at": "2026-03-22T13:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035715102134133101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035715102134133101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么东北现在风评这么差，我印象里东北人很热情啊，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035639223337062500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 7,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2757
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T02:05:00.000Z",
+        "description": "仙人，梦想笑了",
+        "id": "1912326279468122112",
+        "name": "戒撸的仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031743553861492736/uGr3ETpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 257,
+          "like_count": 6781,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 2424
+        },
+        "username": "opitia255274",
+        "verified": false
+      }
+    ]
+  }
+}

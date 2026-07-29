@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053979275611549696"
+      ],
+      "media_source_tweet_id": [
+        "2053979279138902453"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054059119355830702",
+    "created_at": "2026-05-12T04:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054059119355830702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IPmsjZplar",
+          "end": 39,
+          "expanded_url": "https://x.com/Kenntnis22/status/2053979279138902453/photo/1",
+          "media_key": "3_2053979275611549696",
+          "start": 16,
+          "url": "https://t.co/IPmsjZplar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054059119355830702",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053979279138902453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: https://t.co/IPmsjZplar"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2053979275611549696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEzRMrXMAAxgzp.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053979275611549696"
+          ],
+          "media_source_tweet_id": [
+            "2053979279138902453"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054059119355830702",
+        "created_at": "2026-05-12T04:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054059119355830702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPmsjZplar",
+              "end": 39,
+              "expanded_url": "https://x.com/Kenntnis22/status/2053979279138902453/photo/1",
+              "media_key": "3_2053979275611549696",
+              "start": 16,
+              "url": "https://t.co/IPmsjZplar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054059119355830702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053979279138902453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: https://t.co/IPmsjZplar"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053979275611549696"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2053979279138902453",
+        "created_at": "2026-05-11T23:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053979279138902453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPmsjZplar",
+              "end": 23,
+              "expanded_url": "https://x.com/Kenntnis22/status/2053979279138902453/photo/1",
+              "media_key": "3_2053979275611549696",
+              "start": 0,
+              "url": "https://t.co/IPmsjZplar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053979279138902453",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 15699,
+          "like_count": 299,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IPmsjZplar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053796478179819806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 3765,
+          "like_count": 35659,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 9548
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2053628101372891611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54711,
+          "following_count": 438,
+          "like_count": 57271,
+          "listed_count": 263,
+          "media_count": 12227,
+          "tweet_count": 18717
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

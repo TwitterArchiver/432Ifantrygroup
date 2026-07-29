@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036045588488433904",
+    "created_at": "2026-03-23T14:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036084520311800257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591524062488297472",
+          "start": 0,
+          "username": "exzasev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036084520311800257",
+    "in_reply_to_user_id": "1591524062488297472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036083348104466649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exzasev 你这是很典型的进食障碍，不过我不能说死这是厌食症，毕竟我还没有医师证呢。\n但进食障碍是致死率很高的精神类疾病，我建议你去三甲医院的精神卫生科或者心理咨询科做一个专业的量表筛查。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036045588488433904",
+        "created_at": "2026-03-23T14:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036084520311800257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591524062488297472",
+              "start": 0,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036084520311800257",
+        "in_reply_to_user_id": "1591524062488297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036083348104466649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exzasev 你这是很典型的进食障碍，不过我不能说死这是厌食症，毕竟我还没有医师证呢。\n但进食障碍是致死率很高的精神类疾病，我建议你去三甲医院的精神卫生科或者心理咨询科做一个专业的量表筛查。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591524062488297472",
+        "conversation_id": "2036045588488433904",
+        "created_at": "2026-03-23T14:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036083348104466649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036083348104466649",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036081829690970324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我馋，就是什么都想尝尝，但是吃饭的时候就会有点抗拒，吃进嘴里嚼两下就想吐出来😞这也是厌食症吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 2667,
+          "like_count": 11112,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2956
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T20:11:30.000Z",
+        "description": "18岁性感少妇\n\nhttps://t.co/zbhsHLnyF1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/exzasev",
+                "end": 32,
+                "expanded_url": "https://ngl.link/exzasev",
+                "start": 9,
+                "url": "https://t.co/zbhsHLnyF1"
+              }
+            ]
+          }
+        },
+        "id": "1591524062488297472",
+        "location": "比基尼海滩",
+        "name": "Exzasev",
+        "pinned_tweet_id": "1971521335701786937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035213941052514306/DOzQnv77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 178,
+          "like_count": 12375,
+          "listed_count": 0,
+          "media_count": 914,
+          "tweet_count": 3721
+        },
+        "username": "exzasev",
+        "verified": false
+      }
+    ]
+  }
+}

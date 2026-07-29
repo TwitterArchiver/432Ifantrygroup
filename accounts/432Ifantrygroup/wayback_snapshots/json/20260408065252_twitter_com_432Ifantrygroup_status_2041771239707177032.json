@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041503208066121887",
+    "created_at": "2026-04-08T06:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041771239707177032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948779307045978112",
+          "start": 0,
+          "username": "woAiLashi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041771239707177032",
+    "in_reply_to_user_id": "1948779307045978112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041503208066121887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woAiLashi8 我就是这么高强度上网🌝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041503208066121887",
+        "created_at": "2026-04-08T06:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041771239707177032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "woAiLashi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041771239707177032",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041503208066121887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woAiLashi8 我就是这么高强度上网🌝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "2041503208066121887",
+        "created_at": "2026-04-07T13:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041503208066121887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041503208066121887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5420,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "特别害怕主页全是引用别人帖子唱反调的人，一点进去感觉整个人都被一种很奇怪的氛围包裹了，怎么能有人的主页全是反驳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041758922651136322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 2865,
+          "like_count": 20665,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 5419
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "别教我做事 我只和喜欢的人玩 不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwwwww51164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwwwww51164",
+                "start": 0,
+                "url": "https://t.co/EekCUBm2yI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "我",
+        "pinned_tweet_id": "2017250484038578632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025513191044968448/hpbNxBYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4682,
+          "following_count": 342,
+          "like_count": 65482,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 23609
+        },
+        "url": "https://t.co/EekCUBm2yI",
+        "username": "woAiLashi8",
+        "verified": false
+      }
+    ]
+  }
+}

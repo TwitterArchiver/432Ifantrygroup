@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036361786006638762",
+    "created_at": "2026-03-24T08:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T09:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036364075765211283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036364075765211283",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036361786006638762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx 我对云南的印象是三点\n1.水果饭，各种香蕉饭菠萝饭之类的\n2.烤肉好吃\n3.昆虫种类特别丰富"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036361786006638762",
+        "created_at": "2026-03-24T08:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036364075765211283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036364075765211283",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036361786006638762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx 我对云南的印象是三点\n1.水果饭，各种香蕉饭菠萝饭之类的\n2.烤肉好吃\n3.昆虫种类特别丰富"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2036361786006638762",
+        "created_at": "2026-03-24T08:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036361786006638762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036361786006638762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好喜欢云南啊 卧槽 简直是四季如春的天堂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2702,
+          "like_count": 11689,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3108
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "第一 老子不厌男不厌女不媚男不媚女 \n第二 老子不是圣母 没义务包容所有人 \n第三 骂我的人老子给你脸了\n第四 谁也别想来管我",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2036055431962042637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035949999364694016/pn_fgmiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 293,
+          "like_count": 13041,
+          "listed_count": 1,
+          "media_count": 1140,
+          "tweet_count": 8727
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

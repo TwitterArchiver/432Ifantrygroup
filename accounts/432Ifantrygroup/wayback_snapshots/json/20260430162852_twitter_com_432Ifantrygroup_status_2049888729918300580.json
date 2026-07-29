@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049888322642993489",
+    "created_at": "2026-04-30T16:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049888729918300580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049888729918300580",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049888322642993489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 如果凉席一下能让痛苦的人得到缓解，我觉得没啥的。但别割太深，到脂肪层就可能致残了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049888322642993489",
+        "created_at": "2026-04-30T16:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049888729918300580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049888729918300580",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049888322642993489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 如果凉席一下能让痛苦的人得到缓解，我觉得没啥的。但别割太深，到脂肪层就可能致残了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "conversation_id": "2049888322642993489",
+        "created_at": "2026-04-30T16:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049888322642993489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maorou_k8m/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/maorou_k8m/status/2017634459278102786",
+              "start": 16,
+              "url": "https://t.co/ClwrSJc7Er"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049888322642993489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017634459278102786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种深度真的恰到好处啊…太美了 https://t.co/ClwrSJc7Er"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049826924818825278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 3450,
+          "like_count": 30738,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8193
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "若发言有误请指正 欢迎讨论 但不接受过激",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2048363908189265942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 44,
+          "like_count": 4642,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2226
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

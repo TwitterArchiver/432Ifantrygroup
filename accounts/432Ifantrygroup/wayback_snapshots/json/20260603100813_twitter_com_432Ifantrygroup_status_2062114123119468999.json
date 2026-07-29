@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062114123119468999",
+    "created_at": "2026-06-03T10:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062114123119468999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165754788681793542",
+          "start": 3,
+          "username": "XpressTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062114123119468999",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 349
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061850927728914448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XpressTR: Ukraynalı sanatçı Tania Galakhova, depresyonda olmanın nasıl hissettirdiğini sade ama etkileyici bir şekilde anlattı. https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23846,
+        "height": 1280,
+        "media_key": "13_2061850767221264384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061850767221264384/img/uvzELUr5Irj5yg9V.jpg",
+        "public_metrics": {
+          "view_count": 105543
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061850767221264384/vid/avc1/320x568/WJc4EqDUeOUP-xlS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061850767221264384/vid/avc1/480x852/hfI8xgh6rtt_Aiie.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061850767221264384/vid/avc1/720x1280/o45T7gFRnelSMpS5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061850767221264384/pl/mqIiMQ9QdlkeLqsu.m3u8?v=8dd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062114123119468999",
+        "created_at": "2026-06-03T10:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062114123119468999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165754788681793542",
+              "start": 3,
+              "username": "XpressTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062114123119468999",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 349
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061850927728914448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XpressTR: Ukraynalı sanatçı Tania Galakhova, depresyonda olmanın nasıl hissettirdiğini sade ama etkileyici bir şekilde anlattı. https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061850767221264384"
+          ]
+        },
+        "author_id": "1165754788681793542",
+        "conversation_id": "2061850927728914448",
+        "created_at": "2026-06-02T16:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061850927728914448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/om7CdZPvhl",
+              "end": 141,
+              "expanded_url": "https://x.com/XpressTR/status/2061850927728914448/video/1",
+              "media_key": "13_2061850767221264384",
+              "start": 118,
+              "url": "https://t.co/om7CdZPvhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061850927728914448",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 503,
+          "impression_count": 223980,
+          "like_count": 3056,
+          "quote_count": 22,
+          "reply_count": 14,
+          "retweet_count": 349
+        },
+        "reply_settings": "everyone",
+        "text": "Ukraynalı sanatçı Tania Galakhova, depresyonda olmanın nasıl hissettirdiğini sade ama etkileyici bir şekilde anlattı. https://t.co/om7CdZPvhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061792207141781708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 4009,
+          "like_count": 41751,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 11629
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T22:36:25.000Z",
+        "description": "Hızlı. Net. Viral.\n\nTürkiye'nin yeni nesil haber & içerik platformu. Bildirimleri Açınız 🔔 İşbirliği ve İhbar için DM 📩",
+        "id": "1165754788681793542",
+        "name": "XpressTR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031489978887192576/LbjFNJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616560,
+          "following_count": 9,
+          "like_count": 94495,
+          "listed_count": 738,
+          "media_count": 13679,
+          "tweet_count": 15491
+        },
+        "username": "XpressTR",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047195463963840607",
+    "created_at": "2026-04-23T06:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047195463963840607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937048792487849984",
+          "start": 3,
+          "username": "nanami269322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047195463963840607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047190831438729302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanami269322: “不幸的是，千百万人只有通过那种伤害身体、使道德和智力畸形发展的紧张劳动，才能勉强养活自己，而他们甚至不得不把找到这样一种工作的不幸看作一种幸运”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047195463963840607",
+        "created_at": "2026-04-23T06:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047195463963840607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937048792487849984",
+              "start": 3,
+              "username": "nanami269322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047195463963840607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047190831438729302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanami269322: “不幸的是，千百万人只有通过那种伤害身体、使道德和智力畸形发展的紧张劳动，才能勉强养活自己，而他们甚至不得不把找到这样一种工作的不幸看作一种幸运”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937048792487849984",
+        "conversation_id": "2047190831438729302",
+        "created_at": "2026-04-23T05:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047190831438729302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2046915449640960143",
+              "start": 74,
+              "url": "https://t.co/RuzUxgwUlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047190831438729302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046915449640960143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“不幸的是，千百万人只有通过那种伤害身体、使道德和智力畸形发展的紧张劳动，才能勉强养活自己，而他们甚至不得不把找到这样一种工作的不幸看作一种幸运” https://t.co/RuzUxgwUlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3155,
+          "like_count": 26551,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 6964
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T07:23:30.000Z",
+        "description": "時は流れて、大切な人ともう一度会えるように",
+        "id": "1937048792487849984",
+        "location": "克拉科夫",
+        "name": "七海燈子☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043663918548295680/PJs-8XHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 721,
+          "like_count": 37205,
+          "listed_count": 1,
+          "media_count": 1109,
+          "tweet_count": 4144
+        },
+        "username": "nanami269322",
+        "verified": false
+      }
+    ]
+  }
+}

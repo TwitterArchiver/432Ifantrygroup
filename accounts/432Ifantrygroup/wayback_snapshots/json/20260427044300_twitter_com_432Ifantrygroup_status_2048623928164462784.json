@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048611608700780897",
+    "created_at": "2026-04-27T04:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048623928164462784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703122902990958592",
+          "start": 0,
+          "username": "oseven1228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048623928164462784",
+    "in_reply_to_user_id": "1703122902990958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048611608700780897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oseven1228 🥺🫂怎么回事\n好好消毒呀老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2048611605794230272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4hZsYbkAADfjg.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048611608700780897",
+        "created_at": "2026-04-27T04:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048623928164462784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703122902990958592",
+              "start": 0,
+              "username": "oseven1228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048623928164462784",
+        "in_reply_to_user_id": "1703122902990958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048611608700780897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oseven1228 🥺🫂怎么回事\n好好消毒呀老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048611605794230272"
+          ]
+        },
+        "author_id": "1703122902990958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048611608700780897",
+        "created_at": "2026-04-27T03:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048611608700780897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgxWgzM6sp",
+              "end": 48,
+              "expanded_url": "https://x.com/oseven1228/status/2048611608700780897/photo/1",
+              "media_key": "3_2048611605794230272",
+              "start": 25,
+              "url": "https://t.co/lgxWgzM6sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048611608700780897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个地方我割了两刀所以很湿润（大概是这个原因吧） https://t.co/lgxWgzM6sp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048607216157303223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 3349,
+          "like_count": 28762,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 7655
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T19:05:25.000Z",
+        "description": "💊/🔪🩸",
+        "id": "1703122902990958592",
+        "name": "O seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808398789025357825/dbxAjeJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 235,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 157
+        },
+        "username": "oseven1228",
+        "verified": false
+      }
+    ]
+  }
+}

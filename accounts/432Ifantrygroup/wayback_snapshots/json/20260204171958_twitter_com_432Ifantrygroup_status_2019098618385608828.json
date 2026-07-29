@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2018399084420481445",
+    "created_at": "2026-02-04T17:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019098618385608828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1691056639804399616",
+          "start": 0,
+          "username": "XXY177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019098618385608828",
+    "in_reply_to_user_id": "1691056639804399616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018399084420481445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XXY177 道德不是超历史的真理，而是特定物质条件下形成的意识形态。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2018399084420481445",
+        "created_at": "2026-02-04T17:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019098618385608828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1691056639804399616",
+              "start": 0,
+              "username": "XXY177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019098618385608828",
+        "in_reply_to_user_id": "1691056639804399616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018399084420481445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XXY177 道德不是超历史的真理，而是特定物质条件下形成的意识形态。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691056639804399616",
+        "conversation_id": "2018399084420481445",
+        "created_at": "2026-02-02T19:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T20:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018399084420481445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018399084420481445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 959951,
+          "like_count": 3366,
+          "quote_count": 21,
+          "reply_count": 195,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "色情片最大的危害不是让你自慰，而是会让你把离谱的摆拍当成真的，进而降低你的道德底线。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1558,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 312
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T11:58:33.000Z",
+        "description": "90后投资者 | 2013老韭菜 | 关注：美股、A股、加密",
+        "id": "1691056639804399616",
+        "location": "Hong Kong",
+        "name": "夏雪宜",
+        "pinned_tweet_id": "2018420291177996638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999861750355955712/CmsGGVzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54792,
+          "following_count": 647,
+          "like_count": 15233,
+          "listed_count": 174,
+          "media_count": 2307,
+          "tweet_count": 20694
+        },
+        "username": "XXY177",
+        "verified": true
+      }
+    ]
+  }
+}

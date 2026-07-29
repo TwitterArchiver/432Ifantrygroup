@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045504883655381337",
+    "created_at": "2026-04-18T16:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045543744624337064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        },
+        {
+          "end": 24,
+          "id": "1930981328473952256",
+          "start": 9,
+          "username": "Kongkongda5882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045543744624337064",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045543009790595438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22wbxsx @Kongkongda5882 蜘蛛侠都来了。确实有“喜蛛”之类的说法，不过蜘蛛有些实打实是有毒的，害怕就喷药赶走他们！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045504883655381337",
+        "created_at": "2026-04-18T16:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045543744624337064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            },
+            {
+              "end": 24,
+              "id": "1930981328473952256",
+              "start": 9,
+              "username": "Kongkongda5882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543744624337064",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045543009790595438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22wbxsx @Kongkongda5882 蜘蛛侠都来了。确实有“喜蛛”之类的说法，不过蜘蛛有些实打实是有毒的，害怕就喷药赶走他们！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2045504883655381337",
+        "created_at": "2026-04-18T16:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045543009790595438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1930981328473952256",
+              "start": 0,
+              "username": "Kongkongda5882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543009790595438",
+        "in_reply_to_user_id": "1930981328473952256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045504883655381337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kongkongda5882 我害怕蜘蛛咋办🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 2982,
+          "like_count": 23974,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 6351
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 296,
+          "like_count": 14143,
+          "listed_count": 1,
+          "media_count": 1174,
+          "tweet_count": 9388
+        },
+        "username": "22wbxsx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T13:34:43.000Z",
+        "description": "微博玄学大v，微博号，深山幽谷修行人。备用号，空空道人02(@kongkongda5588)。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "kongkongda5588"
+              }
+            ]
+          }
+        },
+        "id": "1930981328473952256",
+        "name": "空空道人",
+        "pinned_tweet_id": "2043364394483220980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930981758415343616/_EerIJvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10053,
+          "following_count": 667,
+          "like_count": 183,
+          "listed_count": 28,
+          "media_count": 1423,
+          "tweet_count": 9485
+        },
+        "username": "Kongkongda5882",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038578072815829127",
+    "created_at": "2026-03-30T11:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038582555419775314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031852608684769280",
+          "start": 0,
+          "username": "Kiyumi_kamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038582555419775314",
+    "in_reply_to_user_id": "2031852608684769280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038578072815829127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyumi_kamisama 你用网页版登录试试正不正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038578072815829127",
+        "created_at": "2026-03-30T11:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038582555419775314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031852608684769280",
+              "start": 0,
+              "username": "Kiyumi_kamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038582555419775314",
+        "in_reply_to_user_id": "2031852608684769280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038578072815829127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyumi_kamisama 你用网页版登录试试正不正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031852608684769280",
+        "conversation_id": "2038578072815829127",
+        "created_at": "2026-03-30T11:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038578072815829127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038578072815829127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特好像出bug了我这边主页看我的关注是0但是点进去以后还是有现实关注的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2038508298413240481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 2672,
+          "like_count": 15660,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 4122
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T22:00:35.000Z",
+        "description": "小希Kiyumi/0121/躁郁/焦虑/被害妄想/overdose/清水推/不聊骚努力活着中/第n世就只有这个号现在在用/顺女\n🚪188/288/588/888",
+        "id": "2031852608684769280",
+        "location": "天空",
+        "name": "Kiyumi",
+        "pinned_tweet_id": "2038042420907307315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038043426747465728/9vVwm0uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 159
+        },
+        "username": "Kiyumi_kamisama",
+        "verified": false
+      }
+    ]
+  }
+}

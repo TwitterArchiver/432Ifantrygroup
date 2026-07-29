@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2037446995728834870",
+    "created_at": "2026-03-27T09:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037456685711904943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596887209835388928",
+          "start": 0,
+          "username": "Kuruolyuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037456685711904943",
+    "in_reply_to_user_id": "1596887209835388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037446995728834870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuruolyuuki 看着好阴森"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2037446995728834870",
+        "created_at": "2026-03-27T09:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037456685711904943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596887209835388928",
+              "start": 0,
+              "username": "Kuruolyuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037456685711904943",
+        "in_reply_to_user_id": "1596887209835388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037446995728834870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuruolyuuki 看着好阴森"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596887209835388928",
+        "conversation_id": "2037446995728834870",
+        "created_at": "2026-03-27T08:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037446995728834870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/husky_003/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/husky_003/status/2036941986389995582",
+              "start": 34,
+              "url": "https://t.co/4yXNddTN7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037446995728834870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036941986389995582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不敢看这破地方我特么以前回家爬这个很艰难！有了车以后就狂飙了谢谢 https://t.co/4yXNddTN7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 2707,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3675
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:22:45.000Z",
+        "description": "ちょっとした独り言と、好きなデザインと、私のかけら",
+        "id": "1596887209835388928",
+        "location": "東京 千代田区",
+        "name": "Zeconky",
+        "pinned_tweet_id": "1935325553655169244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896281317945556992/GQLzpVr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 434,
+          "like_count": 5296,
+          "listed_count": 4,
+          "media_count": 1580,
+          "tweet_count": 9893
+        },
+        "username": "Kuruolyuuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2015276706110570995",
+    "created_at": "2026-01-25T16:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T17:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015467731236368838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "257050388",
+          "start": 0,
+          "username": "wanjunxie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015467731236368838",
+    "in_reply_to_user_id": "257050388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015276706110570995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanjunxie 你们就继续造谣吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 163,
+        "media_key": "3_2015274942225432577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ex4fAXwAEyov6.png",
+        "width": 309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2015276706110570995",
+        "created_at": "2026-01-25T16:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015467731236368838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257050388",
+              "start": 0,
+              "username": "wanjunxie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015467731236368838",
+        "in_reply_to_user_id": "257050388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015276706110570995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanjunxie 你们就继续造谣吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015274942225432577"
+          ]
+        },
+        "author_id": "257050388",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2015276706110570995",
+        "created_at": "2026-01-25T04:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:06:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015274954086879436",
+          "2015276706110570995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0kONc8tF5",
+              "end": 137,
+              "expanded_url": "https://x.com/wanjunxie/status/2015276706110570995/photo/1",
+              "media_key": "3_2015274942225432577",
+              "start": 114,
+              "url": "https://t.co/V0kONc8tF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015276706110570995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 518409,
+          "like_count": 643,
+          "quote_count": 13,
+          "reply_count": 187,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "1月24日，各战区通过高速公路，向北京调兵。如果调往北京的部队，是支持习近平的部队，那说明，习近平还没有掌控大局，北京的政治局势随时可能反转。\n\n如果调往北京的部队，是支持张又侠的部队，这意味着，北京地区将爆发激烈的军事冲突。 https://t.co/V0kONc8tF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 2,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 303
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-24T16:31:06.000Z",
+        "description": "中国民主党主席   Chairman of China Democracy Party\n中国民主党的理念：公平、公正、天下为公！\nIdea of CDP: Fairness, Justice, Country belong to all citizens !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqcdp.org",
+                "end": 23,
+                "expanded_url": "http://www.hqcdp.org",
+                "start": 0,
+                "url": "https://t.co/6NrkK1Zblv"
+              }
+            ]
+          }
+        },
+        "id": "257050388",
+        "location": "New York",
+        "name": "谢万军 Wanjun Xie",
+        "pinned_tweet_id": "1777780487869669623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995369969018601472/bcX4s1lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137442,
+          "following_count": 7238,
+          "like_count": 44064,
+          "listed_count": 565,
+          "media_count": 20099,
+          "tweet_count": 55615
+        },
+        "url": "https://t.co/6NrkK1Zblv",
+        "username": "wanjunxie",
+        "verified": true
+      }
+    ]
+  }
+}

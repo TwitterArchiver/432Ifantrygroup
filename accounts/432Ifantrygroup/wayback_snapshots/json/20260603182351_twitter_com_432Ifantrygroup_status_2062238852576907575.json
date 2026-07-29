@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062238852576907575",
+    "created_at": "2026-06-03T18:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062238852576907575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918197046871502849",
+          "start": 3,
+          "username": "poptime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062238852576907575",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062210923289248024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poptime: 🚨🇧🇷 GRAVE: O Senado aprovou em sessão de 1 minuto e 42 segundos o projeto que dificulta o aborto legal em menores de 14 anos v…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2062210916905537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5x5yIWUAAGF-N.png",
+        "width": 1200
+      },
+      {
+        "height": 384,
+        "media_key": "3_2062210916981092352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5x5yaXMAA7CMo.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062238852576907575",
+        "created_at": "2026-06-03T18:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062238852576907575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918197046871502849",
+              "start": 3,
+              "username": "poptime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062238852576907575",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062210923289248024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poptime: 🚨🇧🇷 GRAVE: O Senado aprovou em sessão de 1 minuto e 42 segundos o projeto que dificulta o aborto legal em menores de 14 anos v…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062210916905537536",
+            "3_2062210916981092352"
+          ]
+        },
+        "author_id": "918197046871502849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2062210923289248024",
+        "created_at": "2026-06-03T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062210923289248024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYWIOkRUsy",
+              "end": 237,
+              "expanded_url": "https://x.com/poptime/status/2062210923289248024/photo/1",
+              "media_key": "3_2062210916905537536",
+              "start": 214,
+              "url": "https://t.co/XYWIOkRUsy"
+            },
+            {
+              "display_url": "pic.x.com/XYWIOkRUsy",
+              "end": 237,
+              "expanded_url": "https://x.com/poptime/status/2062210923289248024/photo/1",
+              "media_key": "3_2062210916981092352",
+              "start": 214,
+              "url": "https://t.co/XYWIOkRUsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062210923289248024",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14577,
+          "like_count": 615,
+          "quote_count": 35,
+          "reply_count": 30,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇧🇷 GRAVE: O Senado aprovou em sessão de 1 minuto e 42 segundos o projeto que dificulta o aborto legal em menores de 14 anos vítimas de violência sexual.\n\nAs novas medidas entram em vigor após Congresso promulgar. https://t.co/XYWIOkRUsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 42006,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11729
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-11T19:30:10.000Z",
+        "description": "⚡ Há 10 anos trazendo tudo que é POPular em TEMPO real.\n📍 Mundo, música, cinema, tv, séries e celebs com muito humor.\n📬 Publicidade: poptime@deubuzz.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/poptimebra/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/poptimebra/",
+                "start": 0,
+                "url": "https://t.co/TXWlTfUIjN"
+              }
+            ]
+          }
+        },
+        "id": "918197046871502849",
+        "location": "Brasil",
+        "name": "POPTime",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951465429626441728/8obuQJ41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902585,
+          "following_count": 7120,
+          "like_count": 27886,
+          "listed_count": 1346,
+          "media_count": 73958,
+          "tweet_count": 86001
+        },
+        "url": "https://t.co/TXWlTfUIjN",
+        "username": "poptime",
+        "verified": true
+      }
+    ]
+  }
+}

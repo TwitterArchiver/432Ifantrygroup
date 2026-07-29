@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2057272385171300621",
+    "created_at": "2026-05-21T01:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057272385171300621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057272385171300621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057272366510801084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 上世纪一堆国家在担忧医疗水平上升导致人口过多，“该杀未杀之人满坑满谷”，结果没过一百年这个问题就像路边一条一样被解决了。\n与其试图像操纵提线木偶一样绞尽脑汁去“促进生育”，不如把目光放在更基础更普遍的社会结构性问题上。至于咱们普通人就更…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057272385171300621",
+        "created_at": "2026-05-21T01:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057272385171300621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057272385171300621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057272366510801084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 上世纪一堆国家在担忧医疗水平上升导致人口过多，“该杀未杀之人满坑满谷”，结果没过一百年这个问题就像路边一条一样被解决了。\n与其试图像操纵提线木偶一样绞尽脑汁去“促进生育”，不如把目光放在更基础更普遍的社会结构性问题上。至于咱们普通人就更…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057272366510801084",
+        "created_at": "2026-05-21T01:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057272366510801084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057272366510801084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上世纪一堆国家在担忧医疗水平上升导致人口过多，“该杀未杀之人满坑满谷”，结果没过一百年这个问题就像路边一条一样被解决了。\n与其试图像操纵提线木偶一样绞尽脑汁去“促进生育”，不如把目光放在更基础更普遍的社会结构性问题上。至于咱们普通人就更没必要为这玩意操心了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057093487007609026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 3848,
+          "like_count": 37511,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 10153
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035994369506074896",
+    "created_at": "2026-03-23T16:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T17:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036116606280216655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764007355120029696",
+          "start": 0,
+          "username": "Cora91533930413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036116606280216655",
+    "in_reply_to_user_id": "1764007355120029696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035994369506074896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cora91533930413 吃点布洛芬呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035994369506074896",
+        "created_at": "2026-03-23T16:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036116606280216655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764007355120029696",
+              "start": 0,
+              "username": "Cora91533930413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036116606280216655",
+        "in_reply_to_user_id": "1764007355120029696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035994369506074896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cora91533930413 吃点布洛芬呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764007355120029696",
+        "conversation_id": "2035994369506074896",
+        "created_at": "2026-03-23T08:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035994369506074896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035994369506074896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发自肺腑的觉得那些当母亲的人很强大…每次大姨妈来了人就瘫了 真的好难受😣痛到吐 要晕厥过去了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 2671,
+          "like_count": 11257,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2996
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T19:18:34.000Z",
+        "description": "冷白皮，脸纯天然 腰细🐻大，陌生男人请勿发🐔🙅‍♀️",
+        "id": "1764007355120029696",
+        "name": "泷泷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986853317386117122/KqvzaA62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 91,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 459
+        },
+        "username": "Cora91533930413",
+        "verified": false
+      }
+    ]
+  }
+}

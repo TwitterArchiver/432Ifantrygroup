@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048052837972615645",
+    "created_at": "2026-04-26T10:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048351620321394789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995336408547082240",
+          "start": 0,
+          "username": "qi_dang23244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048351620321394789",
+    "in_reply_to_user_id": "1995336408547082240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048052837972615645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_dang23244 怎么可以这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048052837972615645",
+        "created_at": "2026-04-26T10:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048351620321394789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995336408547082240",
+              "start": 0,
+              "username": "qi_dang23244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048351620321394789",
+        "in_reply_to_user_id": "1995336408547082240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048052837972615645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_dang23244 怎么可以这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995336408547082240",
+        "conversation_id": "2048052837972615645",
+        "created_at": "2026-04-25T14:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048052837972615645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048052837972615645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熬夜的报应来了，上班迟到1个小时🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048310354015621270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 3325,
+          "like_count": 28400,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 7526
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T03:38:30.000Z",
+        "description": "好想成为外星人",
+        "id": "1995336408547082240",
+        "name": "鲫鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995351258941493249/0Qj-1MyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 71,
+          "like_count": 5698,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 236
+        },
+        "username": "qi_dang23244",
+        "verified": false
+      }
+    ]
+  }
+}

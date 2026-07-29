@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064718978836996096"
+      ],
+      "media_source_tweet_id": [
+        "2064718984532963368"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2069291167142006848",
+    "created_at": "2026-06-23T05:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069291167142006848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016749004847988736",
+          "start": 3,
+          "username": "casnuii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cyHEATVTUh",
+          "end": 42,
+          "expanded_url": "https://x.com/casnuii/status/2064718984532963368/photo/1",
+          "media_key": "3_2064718978836996096",
+          "start": 19,
+          "url": "https://t.co/cyHEATVTUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069291167142006848",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4693
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064718984532963368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @casnuii: rifle https://t.co/cyHEATVTUh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1352,
+        "media_key": "3_2064718978836996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKda-M6WIAAsULk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064718978836996096"
+          ],
+          "media_source_tweet_id": [
+            "2064718984532963368"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2069291167142006848",
+        "created_at": "2026-06-23T05:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069291167142006848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016749004847988736",
+              "start": 3,
+              "username": "casnuii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyHEATVTUh",
+              "end": 42,
+              "expanded_url": "https://x.com/casnuii/status/2064718984532963368/photo/1",
+              "media_key": "3_2064718978836996096",
+              "start": 19,
+              "url": "https://t.co/cyHEATVTUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069291167142006848",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064718984532963368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @casnuii: rifle https://t.co/cyHEATVTUh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064718978836996096"
+          ]
+        },
+        "author_id": "2016749004847988736",
+        "conversation_id": "2064718984532963368",
+        "created_at": "2026-06-10T14:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064718984532963368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyHEATVTUh",
+              "end": 29,
+              "expanded_url": "https://x.com/casnuii/status/2064718984532963368/photo/1",
+              "media_key": "3_2064718978836996096",
+              "start": 6,
+              "url": "https://t.co/cyHEATVTUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718984532963368",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2829,
+          "impression_count": 1305492,
+          "like_count": 40091,
+          "quote_count": 519,
+          "reply_count": 121,
+          "retweet_count": 4693
+        },
+        "reply_settings": "everyone",
+        "text": "rifle https://t.co/cyHEATVTUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 4193,
+          "like_count": 43670,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 12388
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T05:43:46.000Z",
+        "description": "⠀⋆.˚ 🥛 awesome as i wanna be ⠀ ⠀ ⠀⠀⠀ ꗃ : @chrmcurl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "chrmcurl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/casnui",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/casnui",
+                "start": 0,
+                "url": "https://t.co/hYx7cT5Auh"
+              }
+            ]
+          }
+        },
+        "id": "2016749004847988736",
+        "location": "⋆  8teen  ݁ ˖  $swnshine",
+        "name": "cassie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067800650914639872/AWgR6nze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 98,
+          "like_count": 3927,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/hYx7cT5Auh",
+        "username": "casnuii",
+        "verified": false
+      }
+    ]
+  }
+}

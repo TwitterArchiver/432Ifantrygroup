@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048578763630493801",
+    "created_at": "2026-04-27T01:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048578763630493801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/brown_25261/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/brown_25261/status/2048577615343043035",
+          "start": 10,
+          "url": "https://t.co/vkhQzbmniQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048578763630493801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048577615343043035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奇谈怪论，不知所云 https://t.co/vkhQzbmniQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048578763630493801",
+        "created_at": "2026-04-27T01:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048578763630493801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brown_25261/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/brown_25261/status/2048577615343043035",
+              "start": 10,
+              "url": "https://t.co/vkhQzbmniQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048578763630493801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048577615343043035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奇谈怪论，不知所云 https://t.co/vkhQzbmniQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702581699803021312",
+        "conversation_id": "2048566439490253022",
+        "created_at": "2026-04-27T01:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048577615343043035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048577615343043035",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048566439490253022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 任何秩序的起源都是制宪暴力\n\n而不是自由意志\n自由意志本身才是对强制的事后合法化\n\n显然历史证明\n是先有暴力再有价值\n而不是自由主义谱系声称的那样 先有意志\n\n合法化叙事与历史证据冲突"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048417768069050394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 3342,
+          "like_count": 28674,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 7635
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T07:15:06.000Z",
+        "description": "aptx",
+        "id": "1702581699803021312",
+        "name": "Aptx Smith",
+        "pinned_tweet_id": "1998601161029669284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702581795298914304/qCECyIUQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 2502,
+          "like_count": 28233,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 39372
+        },
+        "username": "brown_25261",
+        "verified": false
+      }
+    ]
+  }
+}

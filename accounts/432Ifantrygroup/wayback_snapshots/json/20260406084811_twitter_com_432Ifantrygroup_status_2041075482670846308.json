@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041003028254470428",
+    "created_at": "2026-04-06T08:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041075482670846308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "194859435",
+          "start": 0,
+          "username": "stagerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041075482670846308",
+    "in_reply_to_user_id": "194859435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041003028254470428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stagerain 咪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2041003004380475392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMZazWacAA5LCP.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041003028254470428",
+        "created_at": "2026-04-06T08:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041075482670846308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "194859435",
+              "start": 0,
+              "username": "stagerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041075482670846308",
+        "in_reply_to_user_id": "194859435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041003028254470428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stagerain 咪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041003004380475392"
+          ]
+        },
+        "author_id": "194859435",
+        "conversation_id": "2041003028254470428",
+        "created_at": "2026-04-06T04:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041003028254470428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFElUoC0Wg",
+              "end": 23,
+              "expanded_url": "https://x.com/stagerain/status/2041003028254470428/photo/1",
+              "media_key": "3_2041003004380475392",
+              "start": 0,
+              "url": "https://t.co/kFElUoC0Wg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041003028254470428",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kFElUoC0Wg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041035008966893828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 2793,
+          "like_count": 19492,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5093
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-25T04:34:24.000Z",
+        "description": "",
+        "id": "194859435",
+        "name": "能量🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027388090852257792/txYZToCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 39,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 688
+        },
+        "username": "stagerain",
+        "verified": false
+      }
+    ]
+  }
+}

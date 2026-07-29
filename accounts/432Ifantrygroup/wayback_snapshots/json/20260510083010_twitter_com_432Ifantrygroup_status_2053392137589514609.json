@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053321540058685657",
+    "created_at": "2026-05-10T08:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053392137589514609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4577117415",
+          "start": 0,
+          "username": "sissychinkyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053392137589514609",
+    "in_reply_to_user_id": "4577117415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053391867933589554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sissychinkyao emm，你不算是跨女吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053321540058685657",
+        "created_at": "2026-05-10T08:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053392137589514609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4577117415",
+              "start": 0,
+              "username": "sissychinkyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053392137589514609",
+        "in_reply_to_user_id": "4577117415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053391867933589554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sissychinkyao emm，你不算是跨女吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4577117415",
+        "conversation_id": "2053321540058685657",
+        "created_at": "2026-05-10T08:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053391867933589554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053391867933589554",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053321540058685657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 3716,
+          "like_count": 34713,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9262
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-23T09:45:23.000Z",
+        "description": "NSFW\n伪娘/摄影/数码\n间歇性发情，持续性性冷淡\n来自小男娘的二手炮机，应该如何取悦欧姆弥赛亚？",
+        "id": "4577117415",
+        "name": "织瑶",
+        "pinned_tweet_id": "1848094899696197951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793133379283779584/knGNFK-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 181,
+          "like_count": 76718,
+          "listed_count": 11,
+          "media_count": 136,
+          "tweet_count": 6613
+        },
+        "username": "sissychinkyao",
+        "verified": false
+      }
+    ]
+  }
+}

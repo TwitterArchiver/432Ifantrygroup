@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043388789524222208",
+    "created_at": "2026-04-12T18:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043388789524222208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/syhily/status/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/syhily/status/2041378856616239107",
+          "start": 30,
+          "url": "https://t.co/MvlJ2bVDWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043388789524222208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041378856616239107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我强忍着不适看到这句话终于忍不住了：你他妈以为你是鸡巴谁？ https://t.co/MvlJ2bVDWT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043388789524222208",
+        "created_at": "2026-04-12T18:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043388789524222208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syhily/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/syhily/status/2041378856616239107",
+              "start": 30,
+              "url": "https://t.co/MvlJ2bVDWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043388789524222208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041378856616239107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我强忍着不适看到这句话终于忍不住了：你他妈以为你是鸡巴谁？ https://t.co/MvlJ2bVDWT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "2041205065948823682",
+        "created_at": "2026-04-07T04:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041378856616239107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "146840462",
+              "start": 0,
+              "username": "renkaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041378856616239107",
+        "in_reply_to_user_id": "146840462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7222,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041376881241686329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renkaige 一张 A4 纸，一支笔，写什么讲什么。我的脑袋里面装满了教材。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042939446417596722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 2879,
+          "like_count": 21878,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 5725
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28777,
+          "following_count": 896,
+          "like_count": 5713,
+          "listed_count": 176,
+          "media_count": 2368,
+          "tweet_count": 10244
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

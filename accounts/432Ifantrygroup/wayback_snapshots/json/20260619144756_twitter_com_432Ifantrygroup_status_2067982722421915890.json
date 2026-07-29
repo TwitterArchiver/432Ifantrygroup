@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067667585098035200"
+      ],
+      "media_source_tweet_id": [
+        "2067667598238699687"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2067982722421915890",
+    "created_at": "2026-06-19T14:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067982722421915890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662293480486621184",
+          "start": 3,
+          "username": "dofees166639"
+        },
+        {
+          "end": 31,
+          "id": "1910008101371273225",
+          "start": 18,
+          "username": "paopao152025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rKoqpqUj5P",
+          "end": 62,
+          "expanded_url": "https://x.com/dofees166639/status/2067667598238699687/photo/1",
+          "media_key": "3_2067667585098035200",
+          "start": 39,
+          "url": "https://t.co/rKoqpqUj5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067982722421915890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067667598238699687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dofees166639: @paopao152025 这是我的看法 https://t.co/rKoqpqUj5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2067667585098035200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHUtrNbsAAqPkM.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067667585098035200"
+          ],
+          "media_source_tweet_id": [
+            "2067667598238699687"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2067982722421915890",
+        "created_at": "2026-06-19T14:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067982722421915890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662293480486621184",
+              "start": 3,
+              "username": "dofees166639"
+            },
+            {
+              "end": 31,
+              "id": "1910008101371273225",
+              "start": 18,
+              "username": "paopao152025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKoqpqUj5P",
+              "end": 62,
+              "expanded_url": "https://x.com/dofees166639/status/2067667598238699687/photo/1",
+              "media_key": "3_2067667585098035200",
+              "start": 39,
+              "url": "https://t.co/rKoqpqUj5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067982722421915890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067667598238699687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dofees166639: @paopao152025 这是我的看法 https://t.co/rKoqpqUj5P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067667585098035200"
+          ]
+        },
+        "author_id": "1662293480486621184",
+        "conversation_id": "2067657535809781870",
+        "created_at": "2026-06-18T17:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067667598238699687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910008101371273225",
+              "start": 0,
+              "username": "paopao152025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rKoqpqUj5P",
+              "end": 44,
+              "expanded_url": "https://x.com/dofees166639/status/2067667598238699687/photo/1",
+              "media_key": "3_2067667585098035200",
+              "start": 21,
+              "url": "https://t.co/rKoqpqUj5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067667598238699687",
+        "in_reply_to_user_id": "1910008101371273225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067657535809781870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopao152025 这是我的看法 https://t.co/rKoqpqUj5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 4139,
+          "like_count": 42894,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 12127
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "location": "Ginowan-shi, Okinawa",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2033841500724072659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 3568,
+          "like_count": 108798,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 6926
+        },
+        "url": "",
+        "username": "dofees166639",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike 第二世@paonew26\n小号@haoxiangsiaaaa 我很温良 大号随时都会被封 会自言自语抛出一些疑问和思考 本质没有恶意🥺 我说的都是糊话瞎发的很多都是上句不接下句纯自己唠叨🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "paonew26"
+              },
+              {
+                "end": 45,
+                "start": 30,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "没🚪",
+        "name": "泡泡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5724,
+          "following_count": 162,
+          "like_count": 5136,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 2537
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

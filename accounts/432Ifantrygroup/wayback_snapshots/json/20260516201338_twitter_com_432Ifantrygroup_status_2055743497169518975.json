@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055741380887265617",
+    "created_at": "2026-05-16T20:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055743497169518975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20552…",
+          "end": 47,
+          "expanded_url": "https://x.com/i/status/2055259814536921454",
+          "start": 24,
+          "url": "https://t.co/zqj4sb0xHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055743497169518975",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055259814536921454",
+        "type": "quoted"
+      },
+      {
+        "id": "2055743425451057183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@22wbxsx 这种反驳型人格来的我直接拉黑\nhttps://t.co/zqj4sb0xHG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1939,
+        "media_key": "3_2055259809549881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW_6FVbkAATQ-m.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055741380887265617",
+        "created_at": "2026-05-16T20:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055743497169518975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20552…",
+              "end": 47,
+              "expanded_url": "https://x.com/i/status/2055259814536921454",
+              "start": 24,
+              "url": "https://t.co/zqj4sb0xHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055743497169518975",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055259814536921454",
+            "type": "quoted"
+          },
+          {
+            "id": "2055743425451057183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@22wbxsx 这种反驳型人格来的我直接拉黑\nhttps://t.co/zqj4sb0xHG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055259809549881344"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055259814536921454",
+        "created_at": "2026-05-15T12:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055259814536921454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZS2cR8LOf8",
+              "end": 45,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055259814536921454/photo/1",
+              "media_key": "3_2055259809549881344",
+              "start": 22,
+              "url": "https://t.co/ZS2cR8LOf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055259814536921454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3214,
+          "like_count": 127,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我不欢迎反驳，谁再跟我说这种垃圾话直接毕业 https://t.co/ZS2cR8LOf8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055741380887265617",
+        "created_at": "2026-05-16T20:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055743425451057183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055743425451057183",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055742626109001973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@22wbxsx 这人纯脑残来的，建政多了脑子坏了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055520955645268179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 3832,
+          "like_count": 36883,
+          "listed_count": 4,
+          "media_count": 401,
+          "tweet_count": 9955
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041499588805439489/sXkz2Be4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 298,
+          "like_count": 15705,
+          "listed_count": 2,
+          "media_count": 1197,
+          "tweet_count": 10039
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

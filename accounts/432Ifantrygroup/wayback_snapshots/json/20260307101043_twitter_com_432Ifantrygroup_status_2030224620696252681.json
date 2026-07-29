@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2029572322877698202",
+    "created_at": "2026-03-07T10:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030224620696252681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927883541515247616",
+          "start": 0,
+          "username": "zyslzwsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030224620696252681",
+    "in_reply_to_user_id": "1927883541515247616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029572322877698202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyslzwsl 这是好事啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2029572322877698202",
+        "created_at": "2026-03-07T10:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030224620696252681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927883541515247616",
+              "start": 0,
+              "username": "zyslzwsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030224620696252681",
+        "in_reply_to_user_id": "1927883541515247616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029572322877698202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyslzwsl 这是好事啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927883541515247616",
+        "conversation_id": "2029572322877698202",
+        "created_at": "2026-03-05T14:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029572322877698202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029572322877698202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 34217,
+          "like_count": 1252,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "养猫养狗都太弱了，我闭上眼睛就可以养神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 1862,
+          "like_count": 3508,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 556
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T00:23:58.000Z",
+        "description": "留存于宇宙中的回声",
+        "id": "1927883541515247616",
+        "location": "尚未发生的",
+        "name": "Aliens",
+        "pinned_tweet_id": "1993586015999836505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929309185717518336/ne-DPNZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 46,
+          "like_count": 4156,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1695
+        },
+        "username": "zyslzwsl",
+        "verified": false
+      }
+    ]
+  }
+}

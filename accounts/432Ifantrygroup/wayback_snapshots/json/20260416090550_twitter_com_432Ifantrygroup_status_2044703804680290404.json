@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2044574779743891695",
+    "created_at": "2026-04-16T09:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044703804680290404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2693414511",
+          "start": 0,
+          "username": "liu17251086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044703804680290404",
+    "in_reply_to_user_id": "2693414511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044633101297742185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu17251086 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044574779743891695",
+        "created_at": "2026-04-16T09:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044703804680290404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2693414511",
+              "start": 0,
+              "username": "liu17251086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044703804680290404",
+        "in_reply_to_user_id": "2693414511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044633101297742185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu17251086 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2693414511",
+        "conversation_id": "2044574779743891695",
+        "created_at": "2026-04-16T04:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044633101297742185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044633101297742185",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044574779743891695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 油门和刹车一起踩呢 截屏？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 2925,
+          "like_count": 23015,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 6045
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-10T02:04:37.000Z",
+        "description": "燃气行业从业13年｜通过AI解决实际问题，落地为王｜用AI 独立开发燃气管理系统｜探索传统行业+AI转型路径｜相信懂业务的人+AI工具=新可能\nBase：重庆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liu22222222222…",
+                "end": 23,
+                "expanded_url": "https://github.com/liu222222222222/",
+                "start": 0,
+                "url": "https://t.co/sKfFmzKSUZ"
+              }
+            ]
+          }
+        },
+        "id": "2693414511",
+        "name": "liu222222",
+        "pinned_tweet_id": "2043101688882696270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/892985220793745408/f74p_FOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 2528,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/sKfFmzKSUZ",
+        "username": "liu17251086",
+        "verified": true
+      }
+    ]
+  }
+}

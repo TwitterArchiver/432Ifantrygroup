@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029834548301942785"
+      ],
+      "media_source_tweet_id": [
+        "2029834550751182865"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047919858281845241",
+    "created_at": "2026-04-25T06:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047919858281845241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1789165104065605632",
+          "start": 3,
+          "username": "nich71291718082"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HI3fCaghHO",
+          "end": 44,
+          "expanded_url": "https://x.com/nich71291718082/status/2029834550751182865/photo/1",
+          "media_key": "3_2029834548301942785",
+          "start": 21,
+          "url": "https://t.co/HI3fCaghHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047919858281845241",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029834550751182865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nich71291718082: https://t.co/HI3fCaghHO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2029834548301942785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtrxGRaUAE4y8f.jpg",
+        "width": 435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029834548301942785"
+          ],
+          "media_source_tweet_id": [
+            "2029834550751182865"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047919858281845241",
+        "created_at": "2026-04-25T06:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047919858281845241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1789165104065605632",
+              "start": 3,
+              "username": "nich71291718082"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HI3fCaghHO",
+              "end": 44,
+              "expanded_url": "https://x.com/nich71291718082/status/2029834550751182865/photo/1",
+              "media_key": "3_2029834548301942785",
+              "start": 21,
+              "url": "https://t.co/HI3fCaghHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047919858281845241",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029834550751182865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nich71291718082: https://t.co/HI3fCaghHO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029834548301942785"
+          ]
+        },
+        "author_id": "1789165104065605632",
+        "conversation_id": "2029834550751182865",
+        "created_at": "2026-03-06T08:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029834550751182865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HI3fCaghHO",
+              "end": 23,
+              "expanded_url": "https://x.com/nich71291718082/status/2029834550751182865/photo/1",
+              "media_key": "3_2029834548301942785",
+              "start": 0,
+              "url": "https://t.co/HI3fCaghHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029834550751182865",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11905,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HI3fCaghHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047901916865429638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 3242,
+          "like_count": 27778,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 7330
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T05:26:36.000Z",
+        "description": "isfj｜sub｜1i｜天秤｜你态度=我态度｜不约无🚪不加v｜讨厌任何侮辱性称呼",
+        "id": "1789165104065605632",
+        "name": "卿",
+        "pinned_tweet_id": "2029834550751182865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021770765625069568/wQLfJhYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 47,
+          "like_count": 3273,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 226
+        },
+        "username": "nich71291718082",
+        "verified": false
+      }
+    ]
+  }
+}

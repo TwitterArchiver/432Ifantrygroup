@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1857943410147029471",
+    "created_at": "2024-11-17T15:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T16:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858172623068549187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "992961520446377984",
+          "start": 0,
+          "username": "tataqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858172623068549187",
+    "in_reply_to_user_id": "992961520446377984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857943410147029471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tataqwq 这个世界上根本没有鬼，你信则有不信则无"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1857943410147029471",
+        "created_at": "2024-11-17T15:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T16:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858172623068549187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "992961520446377984",
+              "start": 0,
+              "username": "tataqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858172623068549187",
+        "in_reply_to_user_id": "992961520446377984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857943410147029471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tataqwq 这个世界上根本没有鬼，你信则有不信则无"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857943405541613568",
+            "3_1857943405537456128"
+          ]
+        },
+        "author_id": "992961520446377984",
+        "conversation_id": "1857943410147029471",
+        "created_at": "2024-11-17T00:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T01:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857943410147029471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5EOeDixUw",
+              "end": 42,
+              "expanded_url": "https://x.com/tataqwq/status/1857943410147029471/photo/1",
+              "media_key": "3_1857943405541613568",
+              "start": 19,
+              "url": "https://t.co/K5EOeDixUw"
+            },
+            {
+              "display_url": "pic.x.com/K5EOeDixUw",
+              "end": 42,
+              "expanded_url": "https://x.com/tataqwq/status/1857943410147029471/photo/1",
+              "media_key": "3_1857943405537456128",
+              "start": 19,
+              "url": "https://t.co/K5EOeDixUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857943410147029471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18261,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "打扮美美的，然后就碰到了逆天闹鬼酒店 https://t.co/K5EOeDixUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 117,
+          "like_count": 100,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-06T02:57:29.000Z",
+        "description": "画师-游戏开发中@tataqwq233｜不收门槛不加人｜推特纯属自恋产物｜互动欢迎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "tataqwq233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tataqwq",
+                "end": 23,
+                "expanded_url": "https://instagram.com/tataqwq",
+                "start": 0,
+                "url": "https://t.co/MHOe0Rw8Yw"
+              }
+            ]
+          }
+        },
+        "id": "992961520446377984",
+        "location": "天堂",
+        "name": "塔塔🌴",
+        "pinned_tweet_id": "1830057180214571121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546620807350259713/Bbuu5tvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11572,
+          "following_count": 576,
+          "like_count": 3835,
+          "listed_count": 35,
+          "tweet_count": 8972
+        },
+        "url": "https://t.co/MHOe0Rw8Yw",
+        "username": "tataqwq",
+        "verified": false
+      }
+    ]
+  }
+}

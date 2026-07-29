@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047157874691068121",
+    "created_at": "2026-04-23T17:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047363889718034595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494068245279563776",
+          "start": 0,
+          "username": "mr_liang123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047363889718034595",
+    "in_reply_to_user_id": "1494068245279563776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047363323927404814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mr_liang123 我没有打算说服所有人，这也不现实。有人反对我就反击，反对派想杀我手里的，那就先杀我，我既世界，我死后的事我就管不着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T17:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047363889718034595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494068245279563776",
+              "start": 0,
+              "username": "mr_liang123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047363889718034595",
+        "in_reply_to_user_id": "1494068245279563776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047363323927404814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mr_liang123 我没有打算说服所有人，这也不现实。有人反对我就反击，反对派想杀我手里的，那就先杀我，我既世界，我死后的事我就管不着了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494068245279563776",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T17:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047363323927404814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047363323927404814",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047361819082465605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 价值观不同就是造成这个世界的分裂的主要原因。。。如果你想坚定的推行绝育，你就要做好说服所有和你价值观不同的人的准备。如果你只是想着“噢，这太不人道了，我们不能这样，野猫比军人的伙食更重要”，那这就只是一种纯粹的口嗨，你的言辞只会成为给刀把朝外的递给反对派的刀子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 3182,
+          "like_count": 26852,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 7066
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T21:56:52.000Z",
+        "description": "喜欢吃饭",
+        "id": "1494068245279563776",
+        "name": "youjustyou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046163836160602113/BjbRGSc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 126
+        },
+        "username": "mr_liang123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049869786981810680",
+    "created_at": "2026-04-30T15:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049872353300267050"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049872353300267050",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049869786981810680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有任何人希望战争到来，但当压迫者向我们挥舞战争的大棒时，我们必须有勇气站起来，用同样的方式回击他们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049869786981810680",
+        "created_at": "2026-04-30T15:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049872353300267050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049872353300267050",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049869786981810680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有任何人希望战争到来，但当压迫者向我们挥舞战争的大棒时，我们必须有勇气站起来，用同样的方式回击他们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049869786981810680",
+        "created_at": "2026-04-30T15:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049869786981810680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loong001116/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/loong001116/status/2022924643057971396",
+              "start": 85,
+              "url": "https://t.co/ElW1HsjLtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049869786981810680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022924643057971396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能从以色列国防军空军的炸弹下拯救加沙儿童的只有另一架战斗机发射的导弹。反正我是认为一切政治斗争的终极手段就是战争，军事上的胜利是实现政治诉求的基础，LGBTQ+也一样。 https://t.co/ElW1HsjLtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049826924818825278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 3448,
+          "like_count": 30676,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8177
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

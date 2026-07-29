@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051648689836638491",
+    "created_at": "2026-05-05T13:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051649119727587619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888833493",
+          "start": 0,
+          "username": "tanpenguin0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051649119727587619",
+    "in_reply_to_user_id": "1888833493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051648689836638491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanpenguin0615 我认为毒品的定义必须基于有害性，而不能说只要能让人感到欢愉的化学品那就是毒品。\n其次就是，封不封存不是我主要反对的点，我支持修复性司法以及反对政审"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051648689836638491",
+        "created_at": "2026-05-05T13:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051649119727587619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888833493",
+              "start": 0,
+              "username": "tanpenguin0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051649119727587619",
+        "in_reply_to_user_id": "1888833493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051648689836638491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanpenguin0615 我认为毒品的定义必须基于有害性，而不能说只要能让人感到欢愉的化学品那就是毒品。\n其次就是，封不封存不是我主要反对的点，我支持修复性司法以及反对政审"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888833493",
+        "conversation_id": "2051648689836638491",
+        "created_at": "2026-05-05T13:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051648689836638491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2051635445046603977",
+              "start": 50,
+              "url": "https://t.co/kSahAi7cXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051648689836638491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051635445046603977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持公共场合禁烟的人往往也是最反对吸毒记录封存的人，我愿称之为支持合法毒品与反对非法毒品的二象性。 https://t.co/kSahAi7cXQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 3542,
+          "like_count": 31994,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 8574
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T03:59:58.000Z",
+        "description": "交通旅行建筑音乐 理性有序适度节制",
+        "id": "1888833493",
+        "name": "谭企鹅",
+        "pinned_tweet_id": "2031782182394757353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984896814840242176/Jc6PjnNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 408,
+          "like_count": 603,
+          "listed_count": 2,
+          "media_count": 1147,
+          "tweet_count": 2978
+        },
+        "username": "tanpenguin0615",
+        "verified": true
+      }
+    ]
+  }
+}

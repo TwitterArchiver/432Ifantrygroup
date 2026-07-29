@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046893460100411590",
+    "created_at": "2026-04-22T10:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046895370983416149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014553095255293955",
+          "start": 0,
+          "username": "yixinbing2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046895370983416149",
+    "in_reply_to_user_id": "2014553095255293955",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046893460100411590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yixinbing2026 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046893460100411590",
+        "created_at": "2026-04-22T10:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046895370983416149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014553095255293955",
+              "start": 0,
+              "username": "yixinbing2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046895370983416149",
+        "in_reply_to_user_id": "2014553095255293955",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046893460100411590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yixinbing2026 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014553095255293955",
+        "conversation_id": "2046893460100411590",
+        "created_at": "2026-04-22T10:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046893460100411590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046893460100411590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我暑假可能不能出去玩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 3129,
+          "like_count": 26053,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 6819
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T04:17:47.000Z",
+        "description": "其实我也不太了解她\n神临日期2010.10具体不说🤤顺如女\n我病太多了网友需要包容我 对我的容错率提升至100% 女孩子找我互关我将严肃执行 我要转型🤤此女可能现在暂时健全…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yixinbing2026",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yixinbing2026",
+                "start": 0,
+                "url": "https://t.co/EnVzlBuIs1"
+              }
+            ]
+          }
+        },
+        "id": "2014553095255293955",
+        "location": "提瓦特",
+        "name": "疑心病",
+        "pinned_tweet_id": "2026371579064758672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046839584802447360/XAR83Nhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 246,
+          "like_count": 2129,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/EnVzlBuIs1",
+        "username": "yixinbing2026",
+        "verified": false
+      }
+    ]
+  }
+}

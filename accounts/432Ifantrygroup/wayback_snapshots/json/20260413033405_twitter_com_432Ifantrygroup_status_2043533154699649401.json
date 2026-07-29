@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043391920727298127",
+    "created_at": "2026-04-13T03:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043533154699649401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1588846435662843904",
+          "start": 0,
+          "username": "WongHin67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043533154699649401",
+    "in_reply_to_user_id": "1588846435662843904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043532650938552603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WongHin67 我倒是没觉得有多大冒犯，但我觉得不适。主要是莫名其妙的拐到性方面，让我觉得对方很莫名其妙很没边界感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043391920727298127",
+        "created_at": "2026-04-13T03:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043533154699649401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1588846435662843904",
+              "start": 0,
+              "username": "WongHin67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043533154699649401",
+        "in_reply_to_user_id": "1588846435662843904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043532650938552603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WongHin67 我倒是没觉得有多大冒犯，但我觉得不适。主要是莫名其妙的拐到性方面，让我觉得对方很莫名其妙很没边界感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588846435662843904",
+        "conversation_id": "2043391920727298127",
+        "created_at": "2026-04-13T03:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043532650938552603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043532650938552603",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043391920727298127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 刚看到你这条帖子不太懂你想表达什么，直到看到底下的回复，哦，原来你们觉得图里那人是冒犯啊。我琢磨玩笑话的模式也是这样，很明显羞辱的语言我听了也不舒服，但有些我听着无味的玩笑，别人听了就会勃然大怒。原来人们会因为这个生气啊，我得把这句话收录进我的辞典里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042939446417596722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 2890,
+          "like_count": 21984,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 5758
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T10:51:38.000Z",
+        "description": "西山豪杰布武",
+        "id": "1588846435662843904",
+        "location": "津南高校",
+        "name": "阮光中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988623362860716032/ZK_NnN6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 48,
+          "like_count": 4237,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 235
+        },
+        "username": "WongHin67",
+        "verified": false
+      }
+    ]
+  }
+}

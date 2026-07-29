@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059527818703450489",
+    "created_at": "2026-05-27T06:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059527818703450489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loushixianren/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/loushixianren/status/2059527699295519117",
+          "start": 8,
+          "url": "https://t.co/lJ1xjT0tsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059527818703450489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059527699295519117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是圣母，咋了 https://t.co/lJ1xjT0tsn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059527818703450489",
+        "created_at": "2026-05-27T06:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059527818703450489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loushixianren/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/loushixianren/status/2059527699295519117",
+              "start": 8,
+              "url": "https://t.co/lJ1xjT0tsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059527818703450489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059527699295519117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是圣母，咋了 https://t.co/lJ1xjT0tsn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417499973512531968",
+        "conversation_id": "2059478923080270119",
+        "created_at": "2026-05-27T06:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059527699295519117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 33,
+              "id": "1428960202276040708",
+              "start": 17,
+              "username": "newszg_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059527699295519117",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059502995604418951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @newszg_official 别他妈在这装逼了，显得自己多圣母婊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059474100775747904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 3909,
+          "like_count": 38933,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 10774
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T15:02:29.000Z",
+        "description": "全球新闻综述 • 我的随想和思考 • 保持理性、客观和有趣 • 欢迎互粉！",
+        "id": "1417499973512531968",
+        "location": "United States",
+        "name": "春秋见闻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029211123392888833/_f8I4HUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 180,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 611
+        },
+        "username": "loushixianren",
+        "verified": false
+      }
+    ]
+  }
+}

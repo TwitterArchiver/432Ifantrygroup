@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060039459006296455",
+    "created_at": "2026-05-28T16:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060040036650041719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1991749637070548998",
+          "start": 0,
+          "username": "1nphase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060040036650041719",
+    "in_reply_to_user_id": "1991749637070548998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060039459006296455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nphase 怎么啦老师🥺🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060039459006296455",
+        "created_at": "2026-05-28T16:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060040036650041719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1991749637070548998",
+              "start": 0,
+              "username": "1nphase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060040036650041719",
+        "in_reply_to_user_id": "1991749637070548998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060039459006296455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nphase 怎么啦老师🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991749637070548998",
+        "conversation_id": "2060039459006296455",
+        "created_at": "2026-05-28T16:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060039459006296455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060039459006296455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得没必要然后。为什么要像你的母亲去一遍遍教你一次次纠正？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 3956,
+          "like_count": 40054,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 11119
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T06:05:01.000Z",
+        "description": "",
+        "id": "1991749637070548998",
+        "name": "胃液",
+        "pinned_tweet_id": "2045929577646895265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991749754305540100/CGueIdtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "username": "1nphase",
+        "verified": false
+      }
+    ]
+  }
+}

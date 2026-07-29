@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2057673746056687790",
+    "created_at": "2026-05-22T16:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057868984142467497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033295080187211776",
+          "start": 0,
+          "username": "1TwcDNTbg331564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057868984142467497",
+    "in_reply_to_user_id": "2033295080187211776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057865139710480425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1TwcDNTbg331564 0费1攻4防"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057673746056687790",
+        "created_at": "2026-05-22T16:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057868984142467497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033295080187211776",
+              "start": 0,
+              "username": "1TwcDNTbg331564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057868984142467497",
+        "in_reply_to_user_id": "2033295080187211776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057865139710480425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1TwcDNTbg331564 0费1攻4防"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033295080187211776",
+        "conversation_id": "2057673746056687790",
+        "created_at": "2026-05-22T16:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057865139710480425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057865139710480425",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057673746056687790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 第432步兵团是哪个阵营的，特效是什么，油耗多少🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057782398222479717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 3854,
+          "like_count": 37793,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 10243
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T21:31:52.000Z",
+        "description": "",
+        "id": "2033295080187211776",
+        "name": "锦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033295260877754368/7IpIEHLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 295,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 58
+        },
+        "username": "1TwcDNTbg331564",
+        "verified": false
+      }
+    ]
+  }
+}

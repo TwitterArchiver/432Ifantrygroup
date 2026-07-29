@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040274741509124208",
+    "created_at": "2026-04-04T10:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040368897237639255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1616642769233055744",
+          "start": 0,
+          "username": "KeepGoing0702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040368897237639255",
+    "in_reply_to_user_id": "1616642769233055744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040368500091629677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KeepGoing0702 颜值至上的畸形审美我就觉得很诡异。就好像有人跟我说“评价一道菜好不好不能光看味道”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040274741509124208",
+        "created_at": "2026-04-04T10:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040368897237639255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1616642769233055744",
+              "start": 0,
+              "username": "KeepGoing0702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040368897237639255",
+        "in_reply_to_user_id": "1616642769233055744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040368500091629677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KeepGoing0702 颜值至上的畸形审美我就觉得很诡异。就好像有人跟我说“评价一道菜好不好不能光看味道”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616642769233055744",
+        "conversation_id": "2040274741509124208",
+        "created_at": "2026-04-04T09:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040368500091629677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040368500091629677",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040274741509124208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这里的审美是一个宽泛的概念，不是单单指对“长得怎么样的”评判"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040147011979407800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 2721,
+          "like_count": 18252,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 4727
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T03:44:17.000Z",
+        "description": "04 168 女研\n不线下，发啥随心，谨慎关注\n回不回取决于主页，不尊重者直接拉黑",
+        "id": "1616642769233055744",
+        "location": "无🚪不陪聊",
+        "name": "十日",
+        "pinned_tweet_id": "1895993510840713471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033191435844145153/dftm8n-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 16,
+          "like_count": 798,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 66
+        },
+        "username": "KeepGoing0702",
+        "verified": false
+      }
+    ]
+  }
+}

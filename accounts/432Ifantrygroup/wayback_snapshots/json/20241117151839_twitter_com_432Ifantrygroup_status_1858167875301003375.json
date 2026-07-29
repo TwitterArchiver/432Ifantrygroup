@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1858156617495355680",
+    "created_at": "2024-11-17T15:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T16:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858167875301003375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1833708471893827584",
+          "start": 0,
+          "username": "wyaozdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858167875301003375",
+    "in_reply_to_user_id": "1833708471893827584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858156617495355680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyaozdq 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1858156617495355680",
+        "created_at": "2024-11-17T15:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T16:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858167875301003375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833708471893827584",
+              "start": 0,
+              "username": "wyaozdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858167875301003375",
+        "in_reply_to_user_id": "1833708471893827584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858156617495355680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyaozdq 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833708471893827584",
+        "conversation_id": "1858156617495355680",
+        "created_at": "2024-11-17T14:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T15:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858156617495355680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858156617495355680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1593,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想听我的挨凿日记（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 106,
+          "like_count": 72,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T03:25:49.000Z",
+        "description": "喵",
+        "id": "1833708471893827584",
+        "name": "江尤",
+        "pinned_tweet_id": "1851957234001154124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833708550964875265/JlZqq_JG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 42,
+          "like_count": 443,
+          "listed_count": 3,
+          "tweet_count": 546
+        },
+        "username": "wyaozdq",
+        "verified": false
+      }
+    ]
+  }
+}

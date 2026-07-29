@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040981616001184165",
+    "created_at": "2026-04-06T04:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041005879294853209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998068975905984512",
+          "start": 0,
+          "username": "aa5318691169404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041005879294853209",
+    "in_reply_to_user_id": "1998068975905984512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040981616001184165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa5318691169404 🥺🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040981616001184165",
+        "created_at": "2026-04-06T04:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041005879294853209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998068975905984512",
+              "start": 0,
+              "username": "aa5318691169404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041005879294853209",
+        "in_reply_to_user_id": "1998068975905984512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040981616001184165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa5318691169404 🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998068975905984512",
+        "conversation_id": "2040981616001184165",
+        "created_at": "2026-04-06T02:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040981616001184165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040981616001184165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个死妈心理疾病我去你妈的你去死吧 我其实一直不接受这个破病把我日常生活和学习毁了不能接受 让我被耽误这么久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2038669800004895018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 2772,
+          "like_count": 19259,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5029
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T16:36:11.000Z",
+        "description": "好忧郁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyeye69222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyeye69222",
+                "start": 0,
+                "url": "https://t.co/U2MUt2iJ1G"
+              }
+            ]
+          }
+        },
+        "id": "1998068975905984512",
+        "name": "全网最忧郁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037482167668969472/lhIdr_ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 217,
+          "like_count": 8148,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/U2MUt2iJ1G",
+        "username": "aa5318691169404",
+        "verified": false
+      }
+    ]
+  }
+}

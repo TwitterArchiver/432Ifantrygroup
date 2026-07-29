@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052798320305647884",
+    "created_at": "2026-05-08T17:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052801200190583084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985759640328773632",
+          "start": 0,
+          "username": "El_ketchupp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052801200190583084",
+    "in_reply_to_user_id": "1985759640328773632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052798320305647884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@El_ketchupp Please...🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052798320305647884",
+        "created_at": "2026-05-08T17:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052801200190583084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985759640328773632",
+              "start": 0,
+              "username": "El_ketchupp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052801200190583084",
+        "in_reply_to_user_id": "1985759640328773632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052798320305647884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@El_ketchupp Please...🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985759640328773632",
+        "conversation_id": "2052798320305647884",
+        "created_at": "2026-05-08T17:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052798320305647884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052798320305647884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "To punish myself for cutting so small today I'll do my best to cut deep next time, also because it's gonna be the last"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052692907258450424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 3679,
+          "like_count": 33842,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 9049
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T17:24:23.000Z",
+        "description": "aaaaaa I'm dying //\n\nthey/them //\n\nvent/blog //\n\nminor // \n\nDNI: shotacon/lolicon, weirdos, wannabe sugar daddies, fetishizer, normaltwt",
+        "id": "1985759640328773632",
+        "name": "spiteful bitch of the shed",
+        "pinned_tweet_id": "2040904992450650611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040904407324213248/6c9fQH_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 219,
+          "like_count": 4985,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1940
+        },
+        "username": "El_ketchupp",
+        "verified": false
+      }
+    ]
+  }
+}

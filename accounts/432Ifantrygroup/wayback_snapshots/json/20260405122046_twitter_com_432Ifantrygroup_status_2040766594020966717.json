@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040460933949214764",
+    "created_at": "2026-04-05T12:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040766594020966717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1701643627762683904",
+          "start": 0,
+          "username": "quqb99"
+        },
+        {
+          "end": 17,
+          "id": "1057668616408064001",
+          "start": 8,
+          "username": "HK416ABC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040766594020966717",
+    "in_reply_to_user_id": "1701643627762683904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040633062439235779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quqb99 @HK416ABC 我靠这么萌！小咪不能有事啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040633051022344192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFHI8rsbwAA_pI2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040460933949214764",
+        "created_at": "2026-04-05T12:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040766594020966717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1701643627762683904",
+              "start": 0,
+              "username": "quqb99"
+            },
+            {
+              "end": 17,
+              "id": "1057668616408064001",
+              "start": 8,
+              "username": "HK416ABC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040766594020966717",
+        "in_reply_to_user_id": "1701643627762683904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040633062439235779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quqb99 @HK416ABC 我靠这么萌！小咪不能有事啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040633051022344192"
+          ]
+        },
+        "author_id": "1701643627762683904",
+        "conversation_id": "2040460933949214764",
+        "created_at": "2026-04-05T03:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040633062439235779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1057668616408064001",
+              "start": 0,
+              "username": "HK416ABC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYOT1t0sAf",
+              "end": 40,
+              "expanded_url": "https://x.com/quqb99/status/2040633062439235779/photo/1",
+              "media_key": "3_2040633051022344192",
+              "start": 17,
+              "url": "https://t.co/RYOT1t0sAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040633062439235779",
+        "in_reply_to_user_id": "1057668616408064001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040629022330417479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HK416ABC 我去！还真是 https://t.co/RYOT1t0sAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 2759,
+          "like_count": 18953,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 4937
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T17:07:23.000Z",
+        "description": "谢谢你陪我迷途乐园",
+        "id": "1701643627762683904",
+        "name": "小缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038424912214491136/TsfppiH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 50,
+          "like_count": 1757,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 454
+        },
+        "username": "quqb99",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-31T16:20:23.000Z",
+        "description": "",
+        "id": "1057668616408064001",
+        "name": "曳烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031917665061896192/k3OrXUu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 698,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1293
+        },
+        "username": "HK416ABC",
+        "verified": false
+      }
+    ]
+  }
+}

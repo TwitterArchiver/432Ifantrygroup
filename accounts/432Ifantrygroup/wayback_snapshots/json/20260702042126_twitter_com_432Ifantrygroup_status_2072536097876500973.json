@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2072536097876500973",
+    "created_at": "2026-07-02T04:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072536097876500973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1458082369",
+          "start": 3,
+          "username": "BanButterfly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072536097876500973",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071916785155104934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BanButterfly: Si alguna vez alguien te dice que el dinero compra la felicidad solo recuérdale que el hombre más rico del mundo tiene un…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2072536097876500973",
+        "created_at": "2026-07-02T04:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072536097876500973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1458082369",
+              "start": 3,
+              "username": "BanButterfly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072536097876500973",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071916785155104934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BanButterfly: Si alguna vez alguien te dice que el dinero compra la felicidad solo recuérdale que el hombre más rico del mundo tiene un…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1458082369",
+        "conversation_id": "2071916785155104934",
+        "created_at": "2026-06-30T11:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071916785155104934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mayemusk/statu…",
+              "end": 253,
+              "expanded_url": "https://twitter.com/mayemusk/status/2071315496365101564",
+              "start": 230,
+              "url": "https://t.co/yuHLTHKhjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071916785155104934",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2766,
+          "impression_count": 1791463,
+          "like_count": 68960,
+          "quote_count": 110,
+          "reply_count": 286,
+          "retweet_count": 6497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071315496365101564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Si alguna vez alguien te dice que el dinero compra la felicidad solo recuérdale que el hombre más rico del mundo tiene una cuenta donde finge ser su mamá y allí publicó una imagen hecha en IA de el celebrando su propio cumpleaños https://t.co/yuHLTHKhjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 4220,
+          "like_count": 44857,
+          "listed_count": 4,
+          "media_count": 540,
+          "tweet_count": 12944
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-25T21:12:43.000Z",
+        "description": "Padre, esposo y alguien que intenta ser un mejor hombre cada día",
+        "id": "1458082369",
+        "location": "Colombia",
+        "name": "Ban",
+        "pinned_tweet_id": "1559920694867156993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953115146055761920/IEBv0c5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 328,
+          "like_count": 463256,
+          "listed_count": 12,
+          "media_count": 5761,
+          "tweet_count": 30859
+        },
+        "url": "",
+        "username": "BanButterfly",
+        "verified": false
+      }
+    ]
+  }
+}

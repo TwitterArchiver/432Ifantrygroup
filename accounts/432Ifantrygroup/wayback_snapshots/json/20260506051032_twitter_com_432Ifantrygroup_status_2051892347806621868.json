@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051703550653210629"
+      ],
+      "media_source_tweet_id": [
+        "2051738701361750181"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1390006514509762568",
+          "name": "Karl Marx"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1390006514509762568",
+          "name": "Karl Marx"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390006514509762568",
+          "name": "Karl Marx"
+        }
+      }
+    ],
+    "conversation_id": "2051892347806621868",
+    "created_at": "2026-05-06T05:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051892347806621868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811023987092152320",
+          "start": 3,
+          "username": "ChunqiaoPub"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPB6jWGln7",
+          "end": 114,
+          "expanded_url": "https://x.com/ChunqiaoPub/status/2051738701361750181/photo/1",
+          "media_key": "3_2051703550653210629",
+          "start": 91,
+          "url": "https://t.co/jPB6jWGln7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051892347806621868",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051738701361750181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChunqiaoPub: “History is the judge — its executioner, the proletarian.” \n\n—  Karl Marx https://t.co/jPB6jWGln7"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Karl Marx\n\n1818 - 1883",
+        "height": 2048,
+        "media_key": "3_2051703550653210629",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkdgkkXoAUStAo.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051703550653210629"
+          ],
+          "media_source_tweet_id": [
+            "2051738701361750181"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          }
+        ],
+        "conversation_id": "2051892347806621868",
+        "created_at": "2026-05-06T05:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051892347806621868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811023987092152320",
+              "start": 3,
+              "username": "ChunqiaoPub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPB6jWGln7",
+              "end": 114,
+              "expanded_url": "https://x.com/ChunqiaoPub/status/2051738701361750181/photo/1",
+              "media_key": "3_2051703550653210629",
+              "start": 91,
+              "url": "https://t.co/jPB6jWGln7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051892347806621868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051738701361750181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChunqiaoPub: “History is the judge — its executioner, the proletarian.” \n\n—  Karl Marx https://t.co/jPB6jWGln7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051703550653210629"
+          ]
+        },
+        "author_id": "1811023987092152320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390006514509762568",
+              "name": "Karl Marx"
+            }
+          }
+        ],
+        "conversation_id": "2051738701361750181",
+        "created_at": "2026-05-05T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051738701361750181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPB6jWGln7",
+              "end": 97,
+              "expanded_url": "https://x.com/ChunqiaoPub/status/2051738701361750181/photo/1",
+              "media_key": "3_2051703550653210629",
+              "start": 74,
+              "url": "https://t.co/jPB6jWGln7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051738701361750181",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2113,
+          "like_count": 251,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "“History is the judge — its executioner, the proletarian.” \n\n—  Karl Marx https://t.co/jPB6jWGln7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051824257039282403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 3594,
+          "like_count": 32562,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8717
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T13:05:52.000Z",
+        "description": "Marxist-Leninist-Maoist Publisher seeking to provide important texts to the next revolutionaries of the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Chunqiao.Pub",
+                "end": 23,
+                "expanded_url": "http://Chunqiao.Pub",
+                "start": 0,
+                "url": "https://t.co/hCc8U2Dryd"
+              }
+            ]
+          }
+        },
+        "id": "1811023987092152320",
+        "location": "t.me/ChunqiaoPub",
+        "name": "Chunqiao Publications",
+        "pinned_tweet_id": "2017840336140218855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818632176188973056/g-najmIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7322,
+          "following_count": 173,
+          "like_count": 4954,
+          "listed_count": 35,
+          "media_count": 332,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/hCc8U2Dryd",
+        "username": "ChunqiaoPub",
+        "verified": true
+      }
+    ]
+  }
+}

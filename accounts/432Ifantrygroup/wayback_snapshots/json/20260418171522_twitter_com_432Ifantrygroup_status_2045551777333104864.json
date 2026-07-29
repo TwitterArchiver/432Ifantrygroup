@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045461336944247167",
+    "created_at": "2026-04-18T17:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045551777333104864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1335627264440987650",
+          "start": 0,
+          "username": "Drifting116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045551777333104864",
+    "in_reply_to_user_id": "1335627264440987650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045504196338921503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drifting116 那得去国外（我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045461336944247167",
+        "created_at": "2026-04-18T17:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045551777333104864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1335627264440987650",
+              "start": 0,
+              "username": "Drifting116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045551777333104864",
+        "in_reply_to_user_id": "1335627264440987650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045504196338921503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drifting116 那得去国外（我也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335627264440987650",
+        "conversation_id": "2045461336944247167",
+        "created_at": "2026-04-18T14:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045504196338921503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045504196338921503",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045461336944247167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我也能摸ak吗？😭我也想装卸ak步枪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 2982,
+          "like_count": 24001,
+          "listed_count": 3,
+          "media_count": 261,
+          "tweet_count": 6367
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T16:49:02.000Z",
+        "description": "\"Maybe we can never achieve true on-demand allocation, but at least we can try,\" says the Earth-Cleansing Group of the Interstellar Communist Alliance Network.",
+        "id": "1335627264440987650",
+        "name": "Interstellar Communist Alliance Network",
+        "pinned_tweet_id": "1945295591514276038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945184419846696961/DsgvmMcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 413,
+          "like_count": 11112,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 550
+        },
+        "username": "Drifting116",
+        "verified": false
+      }
+    ]
+  }
+}

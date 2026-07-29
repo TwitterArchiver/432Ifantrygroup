@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038779709786640488",
+    "created_at": "2026-03-31T15:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039002780824895668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039002780824895668",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038779709786640488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@22wbxsx 美军的第31海军陆战队远征大队已经归建中央司令部了。假如美军这次地面战打的不好，那么就会无限刺激中国政府的战争野心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038779709786640488",
+        "created_at": "2026-03-31T15:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039002780824895668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039002780824895668",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038779709786640488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@22wbxsx 美军的第31海军陆战队远征大队已经归建中央司令部了。假如美军这次地面战打的不好，那么就会无限刺激中国政府的战争野心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2038779709786640488",
+        "created_at": "2026-03-31T00:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038779709786640488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038779709786640488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我不支持武统台湾，台湾人的命运由台湾人自己决定，大陆凭什么管台湾人当不当中国人？我真的不理解，人家台湾过得好好的，为啥非得拉人家下水啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2038978115003900051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 2695,
+          "like_count": 16462,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4344
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2038664340593922436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038701832802045952/g-oAnWqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 293,
+          "like_count": 13516,
+          "listed_count": 1,
+          "media_count": 1146,
+          "tweet_count": 8937
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

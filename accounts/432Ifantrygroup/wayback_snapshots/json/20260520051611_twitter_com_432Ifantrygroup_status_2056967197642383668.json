@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2056967197642383668",
+    "created_at": "2026-05-20T05:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056967197642383668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056967197642383668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056967183037771807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 日本天皇是不是和bvvd有一腿啊？我一直不理解印尼载具和新加坡载具划分给日系的依据是什么，难道是二战时期这俩地方是日占？？？\n如果你按地缘，那我觉得给这几个系捏一起像瑞典一样单独成系不是挺好吗？全打包发给日系是何意味？山下奉文都看笑了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2056967197642383668",
+        "created_at": "2026-05-20T05:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056967197642383668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056967197642383668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056967183037771807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 日本天皇是不是和bvvd有一腿啊？我一直不理解印尼载具和新加坡载具划分给日系的依据是什么，难道是二战时期这俩地方是日占？？？\n如果你按地缘，那我觉得给这几个系捏一起像瑞典一样单独成系不是挺好吗？全打包发给日系是何意味？山下奉文都看笑了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2056967183037771807",
+        "created_at": "2026-05-20T05:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056967183037771807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056967183037771807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日本天皇是不是和bvvd有一腿啊？我一直不理解印尼载具和新加坡载具划分给日系的依据是什么，难道是二战时期这俩地方是日占？？？\n如果你按地缘，那我觉得给这几个系捏一起像瑞典一样单独成系不是挺好吗？全打包发给日系是何意味？山下奉文都看笑了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2056960514111250515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 3850,
+          "like_count": 37248,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 10087
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

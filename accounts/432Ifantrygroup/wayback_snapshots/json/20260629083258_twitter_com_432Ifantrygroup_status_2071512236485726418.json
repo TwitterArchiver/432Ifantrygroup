@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071471711355285504"
+      ],
+      "media_source_tweet_id": [
+        "2071471751603859554"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071512236485726418",
+    "created_at": "2026-06-29T08:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071512236485726418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1455183357944340483",
+          "start": 3,
+          "username": "ETOH6O3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOXz7S5yZH",
+          "end": 36,
+          "expanded_url": "https://x.com/ETOH6O3/status/2071471751603859554/photo/1",
+          "media_key": "3_2071471711355285504",
+          "start": 13,
+          "url": "https://t.co/vOXz7S5yZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071512236485726418",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071471751603859554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ETOH6O3: https://t.co/vOXz7S5yZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2071471711355285504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9Yi92aMAA_uda.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071471711355285504"
+          ],
+          "media_source_tweet_id": [
+            "2071471751603859554"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071512236485726418",
+        "created_at": "2026-06-29T08:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071512236485726418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1455183357944340483",
+              "start": 3,
+              "username": "ETOH6O3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOXz7S5yZH",
+              "end": 36,
+              "expanded_url": "https://x.com/ETOH6O3/status/2071471751603859554/photo/1",
+              "media_key": "3_2071471711355285504",
+              "start": 13,
+              "url": "https://t.co/vOXz7S5yZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071512236485726418",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071471751603859554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ETOH6O3: https://t.co/vOXz7S5yZH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071471711355285504"
+          ]
+        },
+        "author_id": "1455183357944340483",
+        "conversation_id": "2071471751603859554",
+        "created_at": "2026-06-29T05:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071471751603859554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOXz7S5yZH",
+              "end": 23,
+              "expanded_url": "https://x.com/ETOH6O3/status/2071471751603859554/photo/1",
+              "media_key": "3_2071471711355285504",
+              "start": 0,
+              "url": "https://t.co/vOXz7S5yZH"
+            },
+            {
+              "display_url": "x.com/TXWG19120101/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/TXWG19120101/status/2071470647122047341",
+              "start": 24,
+              "url": "https://t.co/EPejX5IZvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071471751603859554",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071470647122047341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vOXz7S5yZH https://t.co/EPejX5IZvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 4208,
+          "like_count": 44330,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 12610
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T14:42:13.000Z",
+        "description": "活着才有输出，但不输出，那就是死了\n\n喜爱政治历史的工科大学生\n\n世界观塑造.ing\n\n群众||大中华左翼民族主义||建制左派|半个网络左派幼稚病||五毛粉红基本盘（帽子）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyolab.com/home",
+                "end": 23,
+                "expanded_url": "https://www.hoyolab.com/home",
+                "start": 0,
+                "url": "https://t.co/tGnsH3BsZN"
+              }
+            ]
+          }
+        },
+        "id": "1455183357944340483",
+        "location": "中华苏维埃共和国瑞金市",
+        "name": "ETOH6O3",
+        "pinned_tweet_id": "2067687296573559095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458006766319333376/9bi6c7NB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 158,
+          "like_count": 8997,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3610
+        },
+        "url": "https://t.co/tGnsH3BsZN",
+        "username": "ETOH6O3",
+        "verified": false
+      }
+    ]
+  }
+}

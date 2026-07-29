@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054041926828257547",
+    "created_at": "2026-05-12T03:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054048212827390059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703122902990958592",
+          "start": 0,
+          "username": "oseven1228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054048212827390059",
+    "in_reply_to_user_id": "1703122902990958592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054041926828257547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oseven1228 🥲🫂\n我陪你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054041926828257547",
+        "created_at": "2026-05-12T03:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054048212827390059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703122902990958592",
+              "start": 0,
+              "username": "oseven1228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054048212827390059",
+        "in_reply_to_user_id": "1703122902990958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054041926828257547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oseven1228 🥲🫂\n我陪你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703122902990958592",
+        "conversation_id": "2054041926828257547",
+        "created_at": "2026-05-12T03:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054041926828257547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054041926828257547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我这个id是我幻想中的朋友的名字，全名叫做Oliver 7\n我在墙内的cn也是幻想朋友之一的名字\n我只是觉得好孤独\n最后在这里的也只有我一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053796478179819806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 3764,
+          "like_count": 35618,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 9540
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T19:05:25.000Z",
+        "description": "💊/🔪🩸",
+        "id": "1703122902990958592",
+        "name": "O seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808398789025357825/dbxAjeJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 241,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 271
+        },
+        "username": "oseven1228",
+        "verified": false
+      }
+    ]
+  }
+}

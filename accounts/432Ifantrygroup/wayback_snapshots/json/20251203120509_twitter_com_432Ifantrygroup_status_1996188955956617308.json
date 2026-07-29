@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1378812322249015297",
+          "name": "Japan Ministry of Foreign Affairs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378812322249015297",
+          "name": "Japan Ministry of Foreign Affairs"
+        }
+      }
+    ],
+    "conversation_id": "1994314965059096944",
+    "created_at": "2025-12-03T12:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996188955956617308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2689170356",
+          "start": 0,
+          "username": "Hoshikawa_ran"
+        },
+        {
+          "end": 28,
+          "id": "303730149",
+          "start": 15,
+          "username": "MofaJapan_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996188955956617308",
+    "in_reply_to_user_id": "2689170356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995131658266460335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshikawa_ran @MofaJapan_jp 操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          }
+        ],
+        "conversation_id": "1994314965059096944",
+        "created_at": "2025-12-03T12:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996188955956617308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            },
+            {
+              "end": 28,
+              "id": "303730149",
+              "start": 15,
+              "username": "MofaJapan_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996188955956617308",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995131658266460335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran @MofaJapan_jp 操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          }
+        ],
+        "conversation_id": "1994314965059096944",
+        "created_at": "2025-11-30T14:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995131658266460335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 30,
+              "id": "303730149",
+              "start": 17,
+              "username": "MofaJapan_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995131658266460335",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994718543980761594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @MofaJapan_jp 兄啊，你从哪抄的这句狗屁不通的话，战国策里没这句。别用deepseek，那玩意经常瞎编。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1386,
+          "like_count": 2757,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 247
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15038,
+          "following_count": 393,
+          "like_count": 153439,
+          "listed_count": 70,
+          "media_count": 2622,
+          "tweet_count": 26092
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T10:17:04.000Z",
+        "description": "外務省の公式アカウントです。外交に関する新着情報を中心に発信しております。｜英語版（English）@MofaJapan_en\n｜外務省ソーシャルメディア一覧： https://t.co/2VDfT2CQ5p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "MofaJapan_en"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mofa.go.jp/mofaj/annai/sn…",
+                "end": 104,
+                "expanded_url": "https://www.mofa.go.jp/mofaj/annai/sns/list_jp.html",
+                "start": 81,
+                "url": "https://t.co/2VDfT2CQ5p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofa.go.jp/mofaj/",
+                "end": 23,
+                "expanded_url": "http://www.mofa.go.jp/mofaj/",
+                "start": 0,
+                "url": "https://t.co/42AYao2vk0"
+              }
+            ]
+          }
+        },
+        "id": "303730149",
+        "location": "東京都千代田区",
+        "name": "外務省",
+        "pinned_tweet_id": "1993660438886953407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082102533454102528/HXpr1ZEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539725,
+          "following_count": 200,
+          "like_count": 2,
+          "listed_count": 7321,
+          "media_count": 18884,
+          "tweet_count": 45755
+        },
+        "url": "https://t.co/42AYao2vk0",
+        "username": "MofaJapan_jp",
+        "verified": true
+      }
+    ]
+  }
+}

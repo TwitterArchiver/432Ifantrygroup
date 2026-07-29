@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043330211744477185",
+    "created_at": "2026-04-12T14:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043330211744477185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1721288623654658048",
+          "start": 3,
+          "username": "cv41___midway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043330211744477185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043265450336018826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cv41___midway: 气笑了\n我不敢相信这事发生在我身上\n在机构接了两个高三的物理一对一，一个学生提分了另外一个没有\n我问学生怎么回事，那学生说他考不好他爸就拿棍打他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043330211744477185",
+        "created_at": "2026-04-12T14:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043330211744477185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1721288623654658048",
+              "start": 3,
+              "username": "cv41___midway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043330211744477185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043265450336018826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cv41___midway: 气笑了\n我不敢相信这事发生在我身上\n在机构接了两个高三的物理一对一，一个学生提分了另外一个没有\n我问学生怎么回事，那学生说他考不好他爸就拿棍打他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721288623654658048",
+        "conversation_id": "2043265450336018826",
+        "created_at": "2026-04-12T09:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043265450336018826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043265450336018826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3144,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气笑了\n我不敢相信这事发生在我身上\n在机构接了两个高三的物理一对一，一个学生提分了另外一个没有\n我问学生怎么回事，那学生说他考不好他爸就拿棍打他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042939446417596722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 2881,
+          "like_count": 21706,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 5681
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T22:09:35.000Z",
+        "description": "Midway-class No. 1 ship |want to be cute~|Computational fluid dynamics|Please feel free to use personal pronouns QAQ|亲姐姐 @Abs0lutHydra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Abs0lutHydra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/midway_channel",
+                "end": 23,
+                "expanded_url": "https://t.me/midway_channel",
+                "start": 0,
+                "url": "https://t.co/FF1lx06EJS"
+              }
+            ]
+          }
+        },
+        "id": "1721288623654658048",
+        "location": "Amsterdam, The Netherlands",
+        "name": "米德伟",
+        "pinned_tweet_id": "1973759746042904806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777195227951820800/Ye9qu7qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 1355,
+          "like_count": 14183,
+          "listed_count": 10,
+          "media_count": 674,
+          "tweet_count": 6463
+        },
+        "url": "https://t.co/FF1lx06EJS",
+        "username": "cv41___midway",
+        "verified": false
+      }
+    ]
+  }
+}

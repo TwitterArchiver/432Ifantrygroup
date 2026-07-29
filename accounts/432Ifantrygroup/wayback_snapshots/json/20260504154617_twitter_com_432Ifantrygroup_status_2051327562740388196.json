@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051327562740388196",
+    "created_at": "2026-05-04T15:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051327562740388196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814688236398166016",
+          "start": 3,
+          "username": "loveyoluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051327562740388196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051326331452117274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveyoluv: 不要伤害自己，拜托了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051327562740388196",
+        "created_at": "2026-05-04T15:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051327562740388196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814688236398166016",
+              "start": 3,
+              "username": "loveyoluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051327562740388196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051326331452117274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveyoluv: 不要伤害自己，拜托了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2051326331452117274",
+        "created_at": "2026-05-04T15:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051326331452117274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051326331452117274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要伤害自己，拜托了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051017076677190084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 3522,
+          "like_count": 31426,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 8420
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜透明人｜开心发推 生气发推 伤心发推 无聊发推 情绪化发推 欢迎大家观察我•ᴗ• 这个世界很美好:P",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2050223323423105450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050553393027203072/lldNMe4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 542,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 511
+        },
+        "username": "loveyoluv",
+        "verified": false
+      }
+    ]
+  }
+}

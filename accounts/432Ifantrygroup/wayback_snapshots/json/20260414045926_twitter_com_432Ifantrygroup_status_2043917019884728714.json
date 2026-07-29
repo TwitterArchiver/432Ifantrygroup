@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043917006001610752",
+        "3_2043917006194520064"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043917019884728714",
+    "created_at": "2026-04-14T04:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043917019884728714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dG1TM6LzzN",
+          "end": 47,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2043917019884728714/photo/1",
+          "media_key": "3_2043917006001610752",
+          "start": 24,
+          "url": "https://t.co/dG1TM6LzzN"
+        },
+        {
+          "display_url": "pic.x.com/dG1TM6LzzN",
+          "end": 47,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2043917019884728714/photo/1",
+          "media_key": "3_2043917006194520064",
+          "start": 24,
+          "url": "https://t.co/dG1TM6LzzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043917019884728714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就破防了属实让我太意外了，不过我尊重你的选择 https://t.co/dG1TM6LzzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043917006001610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1zsBUbIAAU4BA.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043917006194520064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1zsCCasAA08g4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043917006001610752",
+            "3_2043917006194520064"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043917019884728714",
+        "created_at": "2026-04-14T04:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043917019884728714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dG1TM6LzzN",
+              "end": 47,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043917019884728714/photo/1",
+              "media_key": "3_2043917006001610752",
+              "start": 24,
+              "url": "https://t.co/dG1TM6LzzN"
+            },
+            {
+              "display_url": "pic.x.com/dG1TM6LzzN",
+              "end": 47,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043917019884728714/photo/1",
+              "media_key": "3_2043917006194520064",
+              "start": 24,
+              "url": "https://t.co/dG1TM6LzzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043917019884728714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就破防了属实让我太意外了，不过我尊重你的选择 https://t.co/dG1TM6LzzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2043695138355179834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 2907,
+          "like_count": 22277,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 5818
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

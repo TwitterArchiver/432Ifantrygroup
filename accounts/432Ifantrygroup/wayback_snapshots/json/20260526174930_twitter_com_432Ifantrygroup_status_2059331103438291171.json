@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059331035008311736",
+    "created_at": "2026-05-26T17:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059331103438291171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1455183357944340483",
+          "start": 0,
+          "username": "ETOH6O3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059331103438291171",
+    "in_reply_to_user_id": "1455183357944340483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059331035008311736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ETOH6O3 感谢感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059331035008311736",
+        "created_at": "2026-05-26T17:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059331103438291171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1455183357944340483",
+              "start": 0,
+              "username": "ETOH6O3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059331103438291171",
+        "in_reply_to_user_id": "1455183357944340483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059331035008311736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ETOH6O3 感谢感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455183357944340483",
+        "conversation_id": "2059331035008311736",
+        "created_at": "2026-05-26T17:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059331035008311736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2059316150631297078",
+              "start": 5,
+              "url": "https://t.co/bXVmTUyk0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059331035008311736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059316150631297078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绵薄之力 https://t.co/bXVmTUyk0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059329945718141069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 3900,
+          "like_count": 38679,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 10682
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T14:42:13.000Z",
+        "description": "喜爱政治历史的工科大学生\n\n世界观塑造.ing||群众||左翼民族主义（大中华）|泛左乐子人|建左|旺座||兔(曾经)|粉红（帽子）|基本盘（帽子+1）\n\n毛左/社民欢迎交流||LGBT友好交流||目田/殖人/绿娃/民国派/皇汉❌️\n\n术力口||三体||原神|崩铁||三国杀\n\nC艹|py||sv||FPGA|STM32",
+        "id": "1455183357944340483",
+        "location": "中国广东省广州市番禺区",
+        "name": "ETOH6O3",
+        "pinned_tweet_id": "2058955319381025157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458006766319333376/9bi6c7NB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 51,
+          "like_count": 2519,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 1779
+        },
+        "username": "ETOH6O3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049707036632572043",
+    "created_at": "2026-04-30T09:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049787076133204025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570237333387251713",
+          "start": 0,
+          "username": "smtmym11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049787076133204025",
+    "in_reply_to_user_id": "1570237333387251713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049707036632572043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smtmym11 辣椒炒肉🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049707027048660992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIFrmjbgAAkBRf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049707036632572043",
+        "created_at": "2026-04-30T09:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049787076133204025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570237333387251713",
+              "start": 0,
+              "username": "smtmym11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049787076133204025",
+        "in_reply_to_user_id": "1570237333387251713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049707036632572043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smtmym11 辣椒炒肉🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049707027048660992"
+          ]
+        },
+        "author_id": "1570237333387251713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049707036632572043",
+        "created_at": "2026-04-30T04:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049707036632572043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeTyXy2CQ4",
+              "end": 31,
+              "expanded_url": "https://x.com/smtmym11/status/2049707036632572043/photo/1",
+              "media_key": "3_2049707027048660992",
+              "start": 8,
+              "url": "https://t.co/GeTyXy2CQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049707036632572043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2660,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭了吗宝宝们 https://t.co/GeTyXy2CQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 3439,
+          "like_count": 30504,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8137
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T02:25:44.000Z",
+        "description": "玻璃心求善待🥹",
+        "id": "1570237333387251713",
+        "name": "椰梨",
+        "pinned_tweet_id": "2030199099975442656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021222853727952896/Js20qpBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32007,
+          "following_count": 212,
+          "like_count": 10089,
+          "listed_count": 84,
+          "media_count": 796,
+          "tweet_count": 9250
+        },
+        "username": "smtmym11",
+        "verified": false
+      }
+    ]
+  }
+}

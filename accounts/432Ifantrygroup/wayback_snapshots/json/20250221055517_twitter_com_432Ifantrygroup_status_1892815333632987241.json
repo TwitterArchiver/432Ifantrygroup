@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892815330864762880"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "1892815333632987241",
+    "created_at": "2025-02-21T05:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T06:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892815333632987241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DwAKee41kB",
+          "end": 25,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/1892815333632987241/photo/1",
+          "media_key": "3_1892815330864762880",
+          "start": 2,
+          "url": "https://t.co/DwAKee41kB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892815333632987241",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😢 https://t.co/DwAKee41kB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_1892815330864762880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkShg82bkAAqAbw.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892815330864762880"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "1892815333632987241",
+        "created_at": "2025-02-21T05:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T06:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892815333632987241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwAKee41kB",
+              "end": 25,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/1892815333632987241/photo/1",
+              "media_key": "3_1892815330864762880",
+              "start": 2,
+              "url": "https://t.co/DwAKee41kB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892815333632987241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/DwAKee41kB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 927,
+          "like_count": 2176,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 97
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

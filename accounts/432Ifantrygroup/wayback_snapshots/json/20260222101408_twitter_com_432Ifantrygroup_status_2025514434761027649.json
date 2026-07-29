@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2025411074523365660",
+    "created_at": "2026-02-22T10:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025514434761027649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989301892737105920",
+          "start": 0,
+          "username": "CDrummonds59606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025514434761027649",
+    "in_reply_to_user_id": "1989301892737105920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025411074523365660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CDrummonds59606 你的最后一句话是对的，但他搞阶级调和远比邓要成功。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2025411074523365660",
+        "created_at": "2026-02-22T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025514434761027649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989301892737105920",
+              "start": 0,
+              "username": "CDrummonds59606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025514434761027649",
+        "in_reply_to_user_id": "1989301892737105920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025411074523365660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CDrummonds59606 你的最后一句话是对的，但他搞阶级调和远比邓要成功。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989301892737105920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2025411074523365660",
+        "created_at": "2026-02-22T03:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025411074523365660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025411074523365660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实看网上有些人说习近平在发动第二次文革我就觉得说这些话的人好蠢好好笑，要是真发动文革，习近平以及他的亲信就是首先被批斗的那一批，而习近平所做的一切政治改革，也不过是官僚资本在维护自己的统治而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2021185568856551730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 1681,
+          "like_count": 3013,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 362
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T11:58:26.000Z",
+        "description": "全世界倒数第一讨厌王洪文的人",
+        "id": "1989301892737105920",
+        "location": "Huntington Park, CA",
+        "name": "恩恩是梨",
+        "pinned_tweet_id": "2008196190106738890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023741936662941696/iJJlfSbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 14,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 314
+        },
+        "username": "CDrummonds59606",
+        "verified": false
+      }
+    ]
+  }
+}

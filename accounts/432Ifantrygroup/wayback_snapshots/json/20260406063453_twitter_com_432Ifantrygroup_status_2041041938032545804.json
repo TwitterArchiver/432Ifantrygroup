@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040895238634717673",
+    "created_at": "2026-04-06T06:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041041938032545804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041041938032545804",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040895238634717673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@22wbxsx 你这一天睡多久啊🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2040895230644568064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFK3Zi5bwAAY9kz.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040895238634717673",
+        "created_at": "2026-04-06T06:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041041938032545804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041041938032545804",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040895238634717673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@22wbxsx 你这一天睡多久啊🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040895230644568064"
+          ]
+        },
+        "author_id": "1788642156111863808",
+        "conversation_id": "2040895238634717673",
+        "created_at": "2026-04-05T20:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040895238634717673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KQXz5UwVIn",
+              "end": 38,
+              "expanded_url": "https://x.com/22wbxsx/status/2040895238634717673/photo/1",
+              "media_key": "3_2040895230644568064",
+              "start": 15,
+              "url": "https://t.co/KQXz5UwVIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040895238634717673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "明天开始我必须遵循这一套闹钟 https://t.co/KQXz5UwVIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041035008966893828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 2782,
+          "like_count": 19440,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5076
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038701832802045952/g-oAnWqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 291,
+          "like_count": 13752,
+          "listed_count": 1,
+          "media_count": 1160,
+          "tweet_count": 9128
+        },
+        "username": "22wbxsx",
+        "verified": false
+      }
+    ]
+  }
+}

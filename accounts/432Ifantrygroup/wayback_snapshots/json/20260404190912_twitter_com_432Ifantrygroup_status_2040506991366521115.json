@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040480158122119593",
+    "created_at": "2026-04-04T19:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T20:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040506991366521115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1261512639454212099",
+          "start": 0,
+          "username": "DukeHindenburg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040506991366521115",
+    "in_reply_to_user_id": "1261512639454212099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040505961249669274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DukeHindenburg 你可以搜一下，不是一回事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040480158122119593",
+        "created_at": "2026-04-04T19:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040506991366521115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1261512639454212099",
+              "start": 0,
+              "username": "DukeHindenburg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040506991366521115",
+        "in_reply_to_user_id": "1261512639454212099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040505961249669274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DukeHindenburg 你可以搜一下，不是一回事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261512639454212099",
+        "conversation_id": "2040480158122119593",
+        "created_at": "2026-04-04T19:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040505961249669274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040505961249669274",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040480158122119593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 大部分集中营囚犯，战后都继续在集中营住了一段时间，整个欧洲都被炸烂了，根本没地方收留这些人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 2734,
+          "like_count": 18600,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 4813
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T04:23:58.000Z",
+        "description": "Nice to meet you",
+        "id": "1261512639454212099",
+        "name": "duke hindenburg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949807839909969920/9dCzh21v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 145,
+          "like_count": 10882,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 3776
+        },
+        "username": "DukeHindenburg",
+        "verified": false
+      }
+    ]
+  }
+}

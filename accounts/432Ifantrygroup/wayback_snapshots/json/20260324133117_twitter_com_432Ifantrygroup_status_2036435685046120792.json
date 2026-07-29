@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035753201753035232",
+    "created_at": "2026-03-24T13:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036435685046120792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1593106475685117953",
+          "start": 0,
+          "username": "Kawayipuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036435685046120792",
+    "in_reply_to_user_id": "1593106475685117953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035753201753035232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawayipuppy 确实"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2035753157016662016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBytd5bsAAXZIr.jpg",
+        "width": 1671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035753201753035232",
+        "created_at": "2026-03-24T13:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036435685046120792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1593106475685117953",
+              "start": 0,
+              "username": "Kawayipuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036435685046120792",
+        "in_reply_to_user_id": "1593106475685117953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035753201753035232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawayipuppy 确实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035753157016662016"
+          ]
+        },
+        "author_id": "1593106475685117953",
+        "conversation_id": "2035753201753035232",
+        "created_at": "2026-03-22T16:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035753201753035232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxMKccPvJ6",
+              "end": 27,
+              "expanded_url": "https://x.com/Kawayipuppy/status/2035753201753035232/photo/1",
+              "media_key": "3_2035753157016662016",
+              "start": 4,
+              "url": "https://t.co/nxMKccPvJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035753201753035232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好漂亮 https://t.co/nxMKccPvJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2717,
+          "like_count": 11930,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3168
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T04:59:26.000Z",
+        "description": "补全爱欲",
+        "id": "1593106475685117953",
+        "location": "旋转小狗星球",
+        "name": "KawaiiPuppy",
+        "pinned_tweet_id": "2003817789203857496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593106585995427841/vMQTpgE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14192,
+          "following_count": 110,
+          "like_count": 3651,
+          "listed_count": 59,
+          "media_count": 612,
+          "tweet_count": 2041
+        },
+        "username": "Kawayipuppy",
+        "verified": false
+      }
+    ]
+  }
+}

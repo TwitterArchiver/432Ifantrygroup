@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044061454580563968"
+      ],
+      "media_source_tweet_id": [
+        "2044061460637069370"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hair Care",
+          "id": "854761964874088448",
+          "name": "Hair care"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hair Dryer",
+          "id": "854766629418291201",
+          "name": "Hair Dryer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hair Dryer",
+          "id": "854766629418291201",
+          "name": "Hair Dryer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Hair Dryer",
+          "id": "854766629418291201",
+          "name": "Hair Dryer"
+        }
+      }
+    ],
+    "conversation_id": "2044310041248051267",
+    "created_at": "2026-04-15T07:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044310041248051267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866572144806604800",
+          "start": 3,
+          "username": "rosierpearl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2iDpKkwkXO",
+          "end": 70,
+          "expanded_url": "https://x.com/rosierpearl/status/2044061460637069370/photo/1",
+          "media_key": "3_2044061454580563968",
+          "start": 47,
+          "url": "https://t.co/2iDpKkwkXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044310041248051267",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044061460637069370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosierpearl: vintage 357 magnum hair dryer https://t.co/2iDpKkwkXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2044061454580563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF33ECNXwAAcb-G.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044061454580563968"
+          ],
+          "media_source_tweet_id": [
+            "2044061460637069370"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          }
+        ],
+        "conversation_id": "2044310041248051267",
+        "created_at": "2026-04-15T07:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044310041248051267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866572144806604800",
+              "start": 3,
+              "username": "rosierpearl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iDpKkwkXO",
+              "end": 70,
+              "expanded_url": "https://x.com/rosierpearl/status/2044061460637069370/photo/1",
+              "media_key": "3_2044061454580563968",
+              "start": 47,
+              "url": "https://t.co/2iDpKkwkXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044310041248051267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044061460637069370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosierpearl: vintage 357 magnum hair dryer https://t.co/2iDpKkwkXO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044061454580563968"
+          ]
+        },
+        "author_id": "1866572144806604800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Hair Dryer",
+              "id": "854766629418291201",
+              "name": "Hair Dryer"
+            }
+          }
+        ],
+        "conversation_id": "2044061460637069370",
+        "created_at": "2026-04-14T14:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044061460637069370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2iDpKkwkXO",
+              "end": 53,
+              "expanded_url": "https://x.com/rosierpearl/status/2044061460637069370/photo/1",
+              "media_key": "3_2044061454580563968",
+              "start": 30,
+              "url": "https://t.co/2iDpKkwkXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044061460637069370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 66005,
+          "like_count": 5897,
+          "quote_count": 61,
+          "reply_count": 4,
+          "retweet_count": 653
+        },
+        "reply_settings": "everyone",
+        "text": "vintage 357 magnum hair dryer https://t.co/2iDpKkwkXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2044206594536419798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 2910,
+          "like_count": 22526,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 5888
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T19:54:21.000Z",
+        "description": "art and fashion enthusiast, heaven sent",
+        "id": "1866572144806604800",
+        "name": "𝓇𝑜𝓈𝒾𝑒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948675366760988672/j8O_LOr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35876,
+          "following_count": 77,
+          "like_count": 5660,
+          "listed_count": 161,
+          "media_count": 2466,
+          "tweet_count": 2637
+        },
+        "username": "rosierpearl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052814595509964926",
+    "created_at": "2026-05-08T19:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052829145047171498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045452240878743552",
+          "start": 0,
+          "username": "keso03111314sxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052829145047171498",
+    "in_reply_to_user_id": "2045452240878743552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052814595509964926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keso03111314sxh blue sky"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052814595509964926",
+        "created_at": "2026-05-08T19:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052829145047171498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045452240878743552",
+              "start": 0,
+              "username": "keso03111314sxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052829145047171498",
+        "in_reply_to_user_id": "2045452240878743552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052814595509964926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keso03111314sxh blue sky"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045452240878743552",
+        "conversation_id": "2052814595509964926",
+        "created_at": "2026-05-08T18:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052814595509964926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052814595509964926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了推特到底还有什么地方可以发雪兔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052692907258450424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 3678,
+          "like_count": 33871,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 9062
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T10:42:01.000Z",
+        "description": "自残｜od｜重度抑郁重度焦虑｜\ncn可颂/杨诺\n爱看看不爱看滚我没惹你\n举报我的4000+\n我是刻薄逼别来惹我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/8Z3AQwkdEA"
+              }
+            ]
+          }
+        },
+        "id": "2045452240878743552",
+        "location": "🚪52纯绿",
+        "name": "Croissant(2.0）",
+        "pinned_tweet_id": "2052401637906587970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052396337904427008/-JKsoMvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 202,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/8Z3AQwkdEA",
+        "username": "keso03111314sxh",
+        "verified": false
+      }
+    ]
+  }
+}

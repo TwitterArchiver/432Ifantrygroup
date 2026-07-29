@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1378812322249015297",
+          "name": "Japan Ministry of Foreign Affairs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378812322249015297",
+          "name": "Japan Ministry of Foreign Affairs"
+        }
+      }
+    ],
+    "conversation_id": "1994314965059096944",
+    "created_at": "2025-11-29T10:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994718543980761594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "303730149",
+          "start": 0,
+          "username": "MofaJapan_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994718543980761594",
+    "in_reply_to_user_id": "303730149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994314965059096944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MofaJapan_jp “豕交兽畜，匪人之虞。”\n《战国策·齐策》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2067,
+        "media_key": "3_1994312028589367296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G604OUNboAAeSrU.jpg",
+        "width": 1457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          }
+        ],
+        "conversation_id": "1994314965059096944",
+        "created_at": "2025-11-29T10:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994718543980761594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "303730149",
+              "start": 0,
+              "username": "MofaJapan_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994718543980761594",
+        "in_reply_to_user_id": "303730149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994314965059096944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MofaJapan_jp “豕交兽畜，匪人之虞。”\n《战国策·齐策》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994312028589367296"
+          ]
+        },
+        "author_id": "303730149",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378812322249015297",
+              "name": "Japan Ministry of Foreign Affairs"
+            }
+          }
+        ],
+        "conversation_id": "1994314965059096944",
+        "created_at": "2025-11-28T07:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994314965059096944"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "中国習近平体制をめぐる思惑",
+              "probability": 0.248,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "外交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2cBsL4s71",
+              "end": 85,
+              "expanded_url": "https://x.com/MofaJapan_jp/status/1994314965059096944/photo/1",
+              "media_key": "3_1994312028589367296",
+              "start": 62,
+              "url": "https://t.co/E2cBsL4s71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994314965059096944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 192184,
+          "like_count": 2567,
+          "quote_count": 73,
+          "reply_count": 220,
+          "retweet_count": 583
+        },
+        "reply_settings": "everyone",
+        "text": "外交専門誌『#外交』最新号Vol.94が発売されました。特集は、「中国習近平体制をめぐる思惑」を記載。是非お読みください。 https://t.co/E2cBsL4s71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 1391,
+          "like_count": 2762,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 245
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T10:17:04.000Z",
+        "description": "外務省の公式アカウントです。外交に関する新着情報を中心に発信しております。｜英語版（English）@MofaJapan_en\n｜外務省ソーシャルメディア一覧： https://t.co/2VDfT2CQ5p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "MofaJapan_en"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mofa.go.jp/mofaj/annai/sn…",
+                "end": 104,
+                "expanded_url": "https://www.mofa.go.jp/mofaj/annai/sns/list_jp.html",
+                "start": 81,
+                "url": "https://t.co/2VDfT2CQ5p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mofa.go.jp/mofaj/",
+                "end": 23,
+                "expanded_url": "http://www.mofa.go.jp/mofaj/",
+                "start": 0,
+                "url": "https://t.co/42AYao2vk0"
+              }
+            ]
+          }
+        },
+        "id": "303730149",
+        "location": "東京都千代田区",
+        "name": "外務省",
+        "pinned_tweet_id": "1993660438886953407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082102533454102528/HXpr1ZEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541213,
+          "following_count": 200,
+          "like_count": 2,
+          "listed_count": 7313,
+          "media_count": 18865,
+          "tweet_count": 45692
+        },
+        "url": "https://t.co/42AYao2vk0",
+        "username": "MofaJapan_jp",
+        "verified": true
+      }
+    ]
+  }
+}

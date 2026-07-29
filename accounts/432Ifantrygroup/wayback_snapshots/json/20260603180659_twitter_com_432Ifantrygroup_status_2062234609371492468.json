@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+          "id": "955547826368344064",
+          "name": "Violence & safety in Brazil"
+        }
+      }
+    ],
+    "conversation_id": "2062234609371492468",
+    "created_at": "2026-06-03T18:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062234609371492468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1219445803854548994",
+          "start": 3,
+          "username": "cortezpsol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062234609371492468",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11826
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061947996015669409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cortezpsol: Em 2 minutos, o Senado aprovou um projeto pra dificultar o aborto em crianças e adolescentes vítimas de estupro.\n\nNa mesma…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062234609371492468",
+        "created_at": "2026-06-03T18:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062234609371492468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1219445803854548994",
+              "start": 3,
+              "username": "cortezpsol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062234609371492468",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11826
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061947996015669409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cortezpsol: Em 2 minutos, o Senado aprovou um projeto pra dificultar o aborto em crianças e adolescentes vítimas de estupro.\n\nNa mesma…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219445803854548994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2061947996015669409",
+        "created_at": "2026-06-02T23:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061947996015669409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061947996015669409",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 457,
+          "impression_count": 222922,
+          "like_count": 45298,
+          "quote_count": 132,
+          "reply_count": 114,
+          "retweet_count": 11826
+        },
+        "reply_settings": "everyone",
+        "text": "Em 2 minutos, o Senado aprovou um projeto pra dificultar o aborto em crianças e adolescentes vítimas de estupro.\n\nNa mesma tarde, Alcolumbre falou que não tem pressa pra pautar o fim da escala 6x1.\n\nO congresso está dominado pelos INIMIGOS DO POVO."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 41983,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 11697
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-21T02:26:04.000Z",
+        "description": "🏳️‍🌈 Deputado estadual de São Paulo 🌳 Vice-líder da oposição na ALESP ☀️ PSOL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ofuturoestavindo.com.br",
+                "end": 23,
+                "expanded_url": "http://ofuturoestavindo.com.br",
+                "start": 0,
+                "url": "https://t.co/3PqHHbyIoR"
+              }
+            ]
+          }
+        },
+        "id": "1219445803854548994",
+        "location": "Franca, Brasil",
+        "name": "Guilherme Cortez",
+        "pinned_tweet_id": "2061574062501974250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038795797551329280/fS59JULT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178879,
+          "following_count": 3966,
+          "like_count": 81349,
+          "listed_count": 103,
+          "media_count": 6888,
+          "tweet_count": 26366
+        },
+        "url": "https://t.co/3PqHHbyIoR",
+        "username": "cortezpsol",
+        "verified": true
+      }
+    ]
+  }
+}

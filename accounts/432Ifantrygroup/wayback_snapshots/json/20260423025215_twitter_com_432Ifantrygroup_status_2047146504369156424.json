@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047134133793776062",
+    "created_at": "2026-04-23T02:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047146504369156424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987496594594496512",
+          "start": 0,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047146504369156424",
+    "in_reply_to_user_id": "1987496594594496512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047134133793776062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aldn126633 韩军"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047134117779902464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjhoknakAAnG5u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047134133793776062",
+        "created_at": "2026-04-23T02:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047146504369156424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987496594594496512",
+              "start": 0,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047146504369156424",
+        "in_reply_to_user_id": "1987496594594496512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047134133793776062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aldn126633 韩军"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047134117779902464"
+          ]
+        },
+        "author_id": "1987496594594496512",
+        "conversation_id": "2047134133793776062",
+        "created_at": "2026-04-23T02:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047134133793776062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cBAxxkvs8",
+              "end": 42,
+              "expanded_url": "https://x.com/aldn126633/status/2047134133793776062/photo/1",
+              "media_key": "3_2047134117779902464",
+              "start": 19,
+              "url": "https://t.co/8cBAxxkvs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047134133793776062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我在戒网瘾的时候的衣服像不像韩国人 https://t.co/8cBAxxkvs8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 3153,
+          "like_count": 26453,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 6934
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键\n不是ai没精神分裂我只是喜欢搞cos，@kiwi_03096是我大号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "kiwi_03096"
+              }
+            ]
+          }
+        },
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 16,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 224
+        },
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

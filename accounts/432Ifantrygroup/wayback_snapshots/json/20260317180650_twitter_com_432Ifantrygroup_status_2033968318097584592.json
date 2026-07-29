@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2033792952108257460",
+    "created_at": "2026-03-17T18:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033968318097584592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239436070292320257",
+          "start": 0,
+          "username": "0427SMtieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033968318097584592",
+    "in_reply_to_user_id": "1239436070292320257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033792952108257460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0427SMtieshou 术后拆线"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18181,
+        "height": 720,
+        "media_key": "13_2033709992839438336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033709992839438336/img/P-iZo5amUsgVQZA8.jpg",
+        "public_metrics": {
+          "view_count": 2064720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033709992839438336/vid/avc1/320x320/z5bWpfTQBMKYlmfc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033709992839438336/vid/avc1/540x540/xHDpOwjkrEgp7D-3.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033709992839438336/vid/avc1/720x720/YZNFeSVnKbK9p1W8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033709992839438336/pl/3GY9hGb_XogWT2YI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2033792952108257460",
+        "created_at": "2026-03-17T18:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033968318097584592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239436070292320257",
+              "start": 0,
+              "username": "0427SMtieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033968318097584592",
+        "in_reply_to_user_id": "1239436070292320257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033792952108257460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0427SMtieshou 术后拆线"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033709992839438336"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "conversation_id": "2033792952108257460",
+        "created_at": "2026-03-17T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033792952108257460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDnwpxOVlF",
+              "end": 32,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2033792952108257460/video/1",
+              "media_key": "13_2033709992839438336",
+              "start": 9,
+              "url": "https://t.co/rDnwpxOVlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033792952108257460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 992,
+          "impression_count": 4415632,
+          "like_count": 3941,
+          "quote_count": 53,
+          "reply_count": 406,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "卧艹，什么玩意？ https://t.co/rDnwpxOVlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 2350,
+          "like_count": 7630,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1950
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "蓝V日报：经济｜两性｜娱乐｜认知｜互关",
+        "id": "1239436070292320257",
+        "name": "蓝V日报",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029312451326676992/z8ZHG4rB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72155,
+          "following_count": 1980,
+          "like_count": 20246,
+          "listed_count": 409,
+          "media_count": 1383,
+          "tweet_count": 7587
+        },
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

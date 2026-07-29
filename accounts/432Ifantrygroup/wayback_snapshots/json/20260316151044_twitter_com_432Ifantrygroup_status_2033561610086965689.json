@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2033553839002091779",
+    "created_at": "2026-03-16T15:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033561610086965689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001714721330991109",
+          "start": 0,
+          "username": "Ravenxux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033561610086965689",
+    "in_reply_to_user_id": "2001714721330991109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033553839002091779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ravenxux 我个人感觉cs比瓦好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2033553839002091779",
+        "created_at": "2026-03-16T15:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033561610086965689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001714721330991109",
+              "start": 0,
+              "username": "Ravenxux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033561610086965689",
+        "in_reply_to_user_id": "2001714721330991109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033553839002091779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ravenxux 我个人感觉cs比瓦好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2033553839002091779",
+        "created_at": "2026-03-16T14:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033553839002091779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033553839002091779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦到底好玩在哪？我觉得无聊死了 你们真的不是为了跟风或者找对象才去玩的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 2318,
+          "like_count": 7316,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1846
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "女大学生 这是我的垃圾桶 啥都扔 不约 不聊天 暂时不加好友 骂我惹我会变得倒霉",
+        "id": "2001714721330991109",
+        "name": "Raven",
+        "pinned_tweet_id": "2024917928970215784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001715199091548160/mGxVxuCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 36,
+          "like_count": 2745,
+          "listed_count": 18,
+          "media_count": 115,
+          "tweet_count": 700
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

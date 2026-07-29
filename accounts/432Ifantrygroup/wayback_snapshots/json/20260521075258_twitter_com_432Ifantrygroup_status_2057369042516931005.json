@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2056691330202661091",
+    "created_at": "2026-05-21T07:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057369042516931005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042157672103862272",
+          "start": 0,
+          "username": "Cxz_p0v0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057369042516931005",
+    "in_reply_to_user_id": "2042157672103862272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057345787521343591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxz_p0v0q 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2056691330202661091",
+        "created_at": "2026-05-21T07:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057369042516931005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042157672103862272",
+              "start": 0,
+              "username": "Cxz_p0v0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057369042516931005",
+        "in_reply_to_user_id": "2042157672103862272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057345787521343591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxz_p0v0q 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042157672103862272",
+        "conversation_id": "2056691330202661091",
+        "created_at": "2026-05-21T06:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057345787521343591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057345787521343591",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056691330202661091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 死亡对他们来说是退路嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057093487007609026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 3854,
+          "like_count": 37551,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 10160
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T08:28:37.000Z",
+        "description": "因为某一特质而恨某一类人是无知，因为某一特质而爱某一类人也是无知",
+        "id": "2042157672103862272",
+        "location": "China",
+        "name": "xiiiiii",
+        "pinned_tweet_id": "2050947731901084086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057354589360603136/vpkugPDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 58,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 615
+        },
+        "username": "Cxz_p0v0q",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035396588340965740",
+    "created_at": "2026-03-21T17:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T18:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035401428324511788"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035401428324511788",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035396588340965740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种说法在暗示残障只是个“技术补丁”没打好的问题。这​种逻辑一旦占领高地，社会就会停止反思：“为什么我们的基础设施不能容纳不同身体条件的人？” ，转而认为残障是残障人士可以自己解决的个人问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035396588340965740",
+        "created_at": "2026-03-21T17:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T18:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035401428324511788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035401428324511788",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035396588340965740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种说法在暗示残障只是个“技术补丁”没打好的问题。这​种逻辑一旦占领高地，社会就会停止反思：“为什么我们的基础设施不能容纳不同身体条件的人？” ，转而认为残障是残障人士可以自己解决的个人问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035396588340965740",
+        "created_at": "2026-03-21T16:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T17:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035396588340965740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KKaWSB/status/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/KKaWSB/status/2035350304091406829",
+              "start": 144,
+              "url": "https://t.co/ixeBa4tIt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035396588340965740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035350304091406829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "标题党。\n唐氏综合症不是切掉多余的染色体就可以了，21号染色体上有数百个编码基因。多出一条染色体意味着这些基因的表达产物增加了约50%。这种过量表达会干扰整个细胞的稳态，影响其他染色体基因表达。即使切掉了多余染色体，细胞长期处于失衡状态下的转录组和表观遗传改变是否能完全逆转仍然是个问号 https://t.co/ixeBa4tIt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035390894812348867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 2534,
+          "like_count": 9710,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2599
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

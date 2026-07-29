@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2042223545460384036",
+    "created_at": "2026-04-09T16:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042273355475325052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028799979452772352",
+          "start": 0,
+          "username": "sngxi3837901"
+        },
+        {
+          "end": 26,
+          "id": "2024195400442531841",
+          "start": 14,
+          "username": "zhngy228309"
+        },
+        {
+          "end": 39,
+          "id": "1974865605204586498",
+          "start": 27,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042273355475325052",
+    "in_reply_to_user_id": "2028799979452772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042266420818674064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngxi3837901 @zhngy228309 @Krktmk_8964 张警官还提到了关爱未成年人心理健康。当然其实在我看来你也是心理不健康的人，是不是未成年就不好说了，如果是还有救，不是你这辈子就完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042223545460384036",
+        "created_at": "2026-04-09T16:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042273355475325052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028799979452772352",
+              "start": 0,
+              "username": "sngxi3837901"
+            },
+            {
+              "end": 26,
+              "id": "2024195400442531841",
+              "start": 14,
+              "username": "zhngy228309"
+            },
+            {
+              "end": 39,
+              "id": "1974865605204586498",
+              "start": 27,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042273355475325052",
+        "in_reply_to_user_id": "2028799979452772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042266420818674064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngxi3837901 @zhngy228309 @Krktmk_8964 张警官还提到了关爱未成年人心理健康。当然其实在我看来你也是心理不健康的人，是不是未成年就不好说了，如果是还有救，不是你这辈子就完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028799979452772352",
+        "conversation_id": "2042223545460384036",
+        "created_at": "2026-04-09T15:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042266420818674064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 29,
+              "id": "2024195400442531841",
+              "start": 17,
+              "username": "zhngy228309"
+            },
+            {
+              "end": 42,
+              "id": "1974865605204586498",
+              "start": 30,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042266420818674064",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042263274079826003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @zhngy228309 @Krktmk_8964 你也配提尊重？张警官是在警示滥用药物的危害，你断章取义截半句话，把“暂未按传统毒品定性”偷换成“可以随便用”，本质就是帮滥用药物的毒虫洗地！真要尊重警官，就别滥用管制精神药品，别建涉毒群，别教唆未成年人，少在这拿警官当挡箭牌，恶心！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042110335428202840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 2880,
+          "like_count": 21195,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 5551
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T11:49:58.000Z",
+        "description": "",
+        "id": "2028799979452772352",
+        "name": "谢宋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028800045521498112/01__qMQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "sngxi3837901",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我会发情 介意请私信🥺\nod｜自残｜抽烟\n10｜162cm｜40kg 可以叫我小予喵🥺\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位",
+        "name": "痂",
+        "pinned_tweet_id": "2042223647331582256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025337650073534464/-h1idxzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 403,
+          "like_count": 4115,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2039426492791509083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 2278,
+          "like_count": 36308,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 3719
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

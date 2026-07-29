@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033503961840553984"
+      ],
+      "media_source_tweet_id": [
+        "2033503964784672779"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033566594371293483",
+    "created_at": "2026-03-16T15:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033566594371293483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "25950119",
+          "start": 3,
+          "username": "not_2b_or_2b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lCB3gG3ISc",
+          "end": 52,
+          "expanded_url": "https://x.com/not_2b_or_2b/status/2033503964784672779/photo/1",
+          "media_key": "3_2033503961840553984",
+          "start": 29,
+          "url": "https://t.co/lCB3gG3ISc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033566594371293483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033503964784672779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @not_2b_or_2b: 几千年的洗脑吧！ 😂 https://t.co/lCB3gG3ISc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2033503961840553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDh1FE7bEAA5-ov.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033503961840553984"
+          ],
+          "media_source_tweet_id": [
+            "2033503964784672779"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033566594371293483",
+        "created_at": "2026-03-16T15:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033566594371293483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "25950119",
+              "start": 3,
+              "username": "not_2b_or_2b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCB3gG3ISc",
+              "end": 52,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/2033503964784672779/photo/1",
+              "media_key": "3_2033503961840553984",
+              "start": 29,
+              "url": "https://t.co/lCB3gG3ISc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033566594371293483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033503964784672779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @not_2b_or_2b: 几千年的洗脑吧！ 😂 https://t.co/lCB3gG3ISc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033503961840553984"
+          ]
+        },
+        "author_id": "25950119",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033503964784672779",
+        "created_at": "2026-03-16T11:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033503964784672779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCB3gG3ISc",
+              "end": 34,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/2033503964784672779/photo/1",
+              "media_key": "3_2033503961840553984",
+              "start": 11,
+              "url": "https://t.co/lCB3gG3ISc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033503964784672779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 16049,
+          "like_count": 346,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "几千年的洗脑吧！ 😂 https://t.co/lCB3gG3ISc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 2321,
+          "like_count": 7352,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1858
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39253,
+          "following_count": 176,
+          "like_count": 170,
+          "listed_count": 239,
+          "media_count": 7524,
+          "tweet_count": 12475
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

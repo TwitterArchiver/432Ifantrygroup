@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2039042462212309089",
+    "created_at": "2026-03-31T18:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T19:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039042462212309089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yui80427542945…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yui804275429451/status/2039041598651252944",
+          "start": 22,
+          "url": "https://t.co/bZoaGSGQsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039042462212309089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039041598651252944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别这样呀。累了先睡觉好吗？一切等醒来再说呀 https://t.co/bZoaGSGQsg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2039042462212309089",
+        "created_at": "2026-03-31T18:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039042462212309089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yui80427542945…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yui804275429451/status/2039041598651252944",
+              "start": 22,
+              "url": "https://t.co/bZoaGSGQsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039042462212309089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039041598651252944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别这样呀。累了先睡觉好吗？一切等醒来再说呀 https://t.co/bZoaGSGQsg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981563709102477312",
+        "conversation_id": "2039041598651252944",
+        "created_at": "2026-03-31T18:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039041598651252944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039041598651252944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "好累 我现在只想找个没人的地方吊死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2038978115003900051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 2697,
+          "like_count": 16621,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 4390
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "2036490048368255162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015769888288067585/0C-Vs_Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10082,
+          "following_count": 440,
+          "like_count": 3606,
+          "listed_count": 13,
+          "media_count": 125,
+          "tweet_count": 1133
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

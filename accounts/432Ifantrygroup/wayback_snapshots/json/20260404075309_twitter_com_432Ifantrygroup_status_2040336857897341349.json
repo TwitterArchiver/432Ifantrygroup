@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040336067984032013",
+    "created_at": "2026-04-04T07:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040336857897341349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747594281018363904",
+          "start": 0,
+          "username": "Park404lov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040336857897341349",
+    "in_reply_to_user_id": "1747594281018363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040336067984032013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Park404lov 你的意思是，这女的已经料到这男的肯定会死，提前把墨镜戴上了是吧。有这未卜先知的本事，买股票去好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040336067984032013",
+        "created_at": "2026-04-04T07:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040336857897341349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747594281018363904",
+              "start": 0,
+              "username": "Park404lov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040336857897341349",
+        "in_reply_to_user_id": "1747594281018363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040336067984032013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Park404lov 你的意思是，这女的已经料到这男的肯定会死，提前把墨镜戴上了是吧。有这未卜先知的本事，买股票去好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747594281018363904",
+        "conversation_id": "2040336067984032013",
+        "created_at": "2026-04-04T07:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040336067984032013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2040046545580781871",
+              "start": 112,
+              "url": "https://t.co/tdstFOv80j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040336067984032013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040046545580781871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这织女带墨镜明显就不愿意过多露脸。还想着找下家呢。\n明显想贪安置费又不想承认耗材丘八当过军嫂。\n白羽毛都摘去了，这丘八还得不到一个长期关系对象的肯定。\n既然龟公你不希望人家守寡，\n那就过去交个38.8w彩礼把人家娶回家啊。 https://t.co/tdstFOv80j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040027095276118435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 2717,
+          "like_count": 18124,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 4694
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T12:18:47.000Z",
+        "description": "殖人/反女权主义者",
+        "id": "1747594281018363904",
+        "location": "贵匪",
+        "name": "BingChiLing404⛓️⛓️",
+        "pinned_tweet_id": "2029725908299587675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792458714999623680/kpz8VBLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 268,
+          "like_count": 16222,
+          "listed_count": 3,
+          "media_count": 532,
+          "tweet_count": 5171
+        },
+        "username": "Park404lov",
+        "verified": false
+      }
+    ]
+  }
+}

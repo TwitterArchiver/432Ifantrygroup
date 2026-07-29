@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061678178259857487",
+    "created_at": "2026-06-02T05:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061679239129366608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030250921402535938",
+          "start": 0,
+          "username": "Yepwithyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061679239129366608",
+    "in_reply_to_user_id": "2030250921402535938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061678178259857487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yepwithyou 咪😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061678167098875904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyNXqcbYAApTIn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061678178259857487",
+        "created_at": "2026-06-02T05:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061679239129366608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030250921402535938",
+              "start": 0,
+              "username": "Yepwithyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061679239129366608",
+        "in_reply_to_user_id": "2030250921402535938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061678178259857487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yepwithyou 咪😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061678167098875904"
+          ]
+        },
+        "author_id": "2030250921402535938",
+        "conversation_id": "2061678178259857487",
+        "created_at": "2026-06-02T05:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061678178259857487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwOP3oz6xW",
+              "end": 26,
+              "expanded_url": "https://x.com/Yepwithyou/status/2061678178259857487/photo/1",
+              "media_key": "3_2061678167098875904",
+              "start": 3,
+              "url": "https://t.co/ZwOP3oz6xW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061678178259857487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵～ https://t.co/ZwOP3oz6xW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 3991,
+          "like_count": 41346,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 11517
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:56:02.000Z",
+        "description": "心里总是下小雨 \n🚪588–永远的朋友",
+        "id": "2030250921402535938",
+        "location": "always by your side",
+        "name": "椰",
+        "pinned_tweet_id": "2040201177053233387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031992162141999104/aGlsuHS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 79,
+          "like_count": 4385,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 554
+        },
+        "username": "Yepwithyou",
+        "verified": false
+      }
+    ]
+  }
+}

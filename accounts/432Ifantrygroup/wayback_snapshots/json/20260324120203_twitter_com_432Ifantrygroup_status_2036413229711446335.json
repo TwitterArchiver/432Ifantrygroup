@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036410607491232207",
+    "created_at": "2026-03-24T12:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T13:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036413229711446335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2021643128990777344",
+          "start": 0,
+          "username": "HanaseShizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036413229711446335",
+    "in_reply_to_user_id": "2021643128990777344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036413075222581754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanaseShizuku 我不是啊😢我要是现在上硕士就好了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036410607491232207",
+        "created_at": "2026-03-24T12:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036413229711446335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2021643128990777344",
+              "start": 0,
+              "username": "HanaseShizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036413229711446335",
+        "in_reply_to_user_id": "2021643128990777344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036413075222581754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanaseShizuku 我不是啊😢我要是现在上硕士就好了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021643128990777344",
+        "conversation_id": "2036410607491232207",
+        "created_at": "2026-03-24T12:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036413075222581754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036413075222581754",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036410607491232207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 救命 我以为你是医学硕士生起步 怎么看都不像大一啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2708,
+          "like_count": 11836,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3153
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-11T17:51:12.000Z",
+        "description": "七草月雫，叫我柒月就行\n*欢迎互动 非常欢迎互动*\n**极端账号远离我**\n碎碎念账号，没有什么内容\n本人生理性别话题是雷区，很抱歉\n听说bio带🚪会有流量，但是我这里不存在🚪\n绿色聊天谢谢\n另外晶哥别看我了，我又不发什么违法的东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "网页还没写完啦.dev",
+                "end": 23,
+                "expanded_url": "https://xn--g7q95g50gzytolvlvw8ln.dev",
+                "start": 0,
+                "url": "https://t.co/kTNByEt7r4"
+              }
+            ]
+          }
+        },
+        "id": "2021643128990777344",
+        "location": "300m",
+        "name": "七草つきしずく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031387184696274950/CCd9Z-L3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 15,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/kTNByEt7r4",
+        "username": "HanaseShizuku",
+        "verified": false
+      }
+    ]
+  }
+}

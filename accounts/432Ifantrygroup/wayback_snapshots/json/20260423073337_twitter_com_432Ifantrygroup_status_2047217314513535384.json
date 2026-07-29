@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047157874691068121",
+    "created_at": "2026-04-23T07:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047217314513535384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "853024229960187905",
+          "start": 0,
+          "username": "Nineyinnnnnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047217314513535384",
+    "in_reply_to_user_id": "853024229960187905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047217058438578241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nineyinnnnnnnn 绝育是肯定的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047217314513535384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "853024229960187905",
+              "start": 0,
+              "username": "Nineyinnnnnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047217314513535384",
+        "in_reply_to_user_id": "853024229960187905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047217058438578241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nineyinnnnnnnn 绝育是肯定的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853024229960187905",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T07:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047217058438578241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047217058438578241",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047157874691068121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我也觉得这个说法有失妥当。参考日语中通常叫做野良猫，指的是没有主人的猫，不一定是被弃养的。采取的措施一般是TNR控制数量，以免泛滥抓鸟，而不是安乐死。另外也有法律防止弃养，规定责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 3159,
+          "like_count": 26613,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 6984
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-14T23:16:39.000Z",
+        "description": "Poemcore🌙文學\n無律閣主 先鋒蛋黃派🥮\n黑塞 紀德 榮格 八維自判infp🪽\n多和田葉子\n💒@NineAndDouble",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "NineAndDouble"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluerabbitandrea.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://bluerabbitandrea.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/2jGYazjcVs"
+              }
+            ]
+          }
+        },
+        "id": "853024229960187905",
+        "location": "商务合作请联系：lxqm222@gmail.com",
+        "name": "九隱🌱牧者鴿於途",
+        "pinned_tweet_id": "1975804335234949163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021300803097722880/mj_4J2Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 809,
+          "like_count": 35656,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 7464
+        },
+        "url": "https://t.co/2jGYazjcVs",
+        "username": "Nineyinnnnnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

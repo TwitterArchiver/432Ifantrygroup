@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048399165324242944"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048388060451336385",
+    "created_at": "2026-04-26T13:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048399172794257457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qYfmYOrW8",
+          "end": 33,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2048399172794257457/photo/1",
+          "media_key": "3_2048399165324242944",
+          "start": 10,
+          "url": "https://t.co/4qYfmYOrW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048399172794257457",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048388060451336385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 https://t.co/4qYfmYOrW8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048399165324242944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1gMB9bsAA-H-v.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048399165324242944"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048388060451336385",
+        "created_at": "2026-04-26T13:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048399172794257457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qYfmYOrW8",
+              "end": 33,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2048399172794257457/photo/1",
+              "media_key": "3_2048399165324242944",
+              "start": 10,
+              "url": "https://t.co/4qYfmYOrW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048399172794257457",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388060451336385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 https://t.co/4qYfmYOrW8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2048388060451336385",
+        "created_at": "2026-04-26T13:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048388060451336385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048388060451336385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 656,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到此条推文的精神病们，我是糯米！\n\n请问大家有搬去bluesky的吗，或者搬去其他什么地方了呢！(๑'ᵕ'๑)⸝*\n有的话请甩账号糯米和你在那边互关！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048392707098530262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 3331,
+          "like_count": 28455,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 7555
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 关注限制只能一批批回\n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 287,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

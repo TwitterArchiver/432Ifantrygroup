@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2024470224813322431",
+    "created_at": "2026-02-19T15:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024504427668008969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024504427668008969",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024470224813322431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 六代机这种东西是没法对付革命军的。\n比如叙利亚那种政变，反贼都开皮卡，哪有指挥中心给你炸？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2024470224813322431",
+        "created_at": "2026-02-19T15:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024504427668008969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024504427668008969",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024470224813322431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 六代机这种东西是没法对付革命军的。\n比如叙利亚那种政变，反贼都开皮卡，哪有指挥中心给你炸？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2024470224813322431",
+        "created_at": "2026-02-19T13:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024470224813322431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanzeiwocaonim…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/fanzeiwocaonima/status/2024468360592035852",
+              "start": 107,
+              "url": "https://t.co/6QRzLEUCBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024470224813322431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 439,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024468360592035852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你自己想想哪天中国爆发社会主义革命，有人发动武装起义占领了几个省份，官僚资产阶级难道不会用飞机轰炸革命军队吗？你不会觉得他们会随便就会放弃权力吧？国家所有的资本不应该由官僚资产阶级政权管理，而是由无产阶级政权管理 https://t.co/6QRzLEUCBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2021185568856551730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1673,
+          "like_count": 2987,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 360
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 519,
+          "like_count": 1877,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 2657
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041022348393066788",
+    "created_at": "2026-04-06T06:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041035503575978264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007492544016556032",
+          "start": 0,
+          "username": "lingtingyu0830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041035503575978264",
+    "in_reply_to_user_id": "2007492544016556032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041024617599660502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingtingyu0830 已全部摄入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041022348393066788",
+        "created_at": "2026-04-06T06:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041035503575978264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007492544016556032",
+              "start": 0,
+              "username": "lingtingyu0830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041035503575978264",
+        "in_reply_to_user_id": "2007492544016556032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041024617599660502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingtingyu0830 已全部摄入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007492544016556032",
+        "conversation_id": "2041022348393066788",
+        "created_at": "2026-04-06T05:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041024617599660502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041024617599660502",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041022348393066788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 看饿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041035008966893828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 2782,
+          "like_count": 19414,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5069
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T16:41:57.000Z",
+        "description": "集美，我们只是网友，你把手机摔了我就死了，不要为难我，放过彼此OK?放下手里的屠刀，佛在救你。",
+        "id": "2007492544016556032",
+        "location": "宁城",
+        "name": "讨厌我的你也非常可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040841620560793600/CZSxhWVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 51,
+          "like_count": 5770,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 131
+        },
+        "username": "lingtingyu0830",
+        "verified": false
+      }
+    ]
+  }
+}

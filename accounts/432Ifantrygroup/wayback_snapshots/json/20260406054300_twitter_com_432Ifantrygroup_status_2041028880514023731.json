@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2027229600372420814",
+    "created_at": "2026-04-06T05:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041028880514023731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2020788827498139648",
+          "start": 0,
+          "username": "ga151515nana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041028880514023731",
+    "in_reply_to_user_id": "2020788827498139648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027229600372420814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ga151515nana 拍个照给他就可以，虽然我也不知道这啥原理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027229590582874112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIqkmjaUAAyeAu.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2027229600372420814",
+        "created_at": "2026-04-06T05:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041028880514023731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2020788827498139648",
+              "start": 0,
+              "username": "ga151515nana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041028880514023731",
+        "in_reply_to_user_id": "2020788827498139648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027229600372420814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ga151515nana 拍个照给他就可以，虽然我也不知道这啥原理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027229590582874112"
+          ]
+        },
+        "author_id": "2020788827498139648",
+        "conversation_id": "2027229600372420814",
+        "created_at": "2026-02-27T03:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027229600372420814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PVCAAaIap",
+              "end": 37,
+              "expanded_url": "https://x.com/ga151515nana/status/2027229600372420814/photo/1",
+              "media_key": "3_2027229590582874112",
+              "start": 14,
+              "url": "https://t.co/4PVCAAaIap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027229600372420814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我这东西怎么解决啊 https://t.co/4PVCAAaIap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041006554632392959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 2779,
+          "like_count": 19382,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5062
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T09:16:34.000Z",
+        "description": "Hi～",
+        "id": "2020788827498139648",
+        "name": "A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021020841476292608/yEufkB3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 106,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 197
+        },
+        "username": "ga151515nana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059329945718141069",
+    "created_at": "2026-05-27T01:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059449262916985055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2038854182686584832",
+          "start": 0,
+          "username": "Kittyyack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059449262916985055",
+    "in_reply_to_user_id": "2038854182686584832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059449157820223733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittyyack 没有就没有吧！指定不是什么好话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059329945718141069",
+        "created_at": "2026-05-27T01:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059449262916985055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2038854182686584832",
+              "start": 0,
+              "username": "Kittyyack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059449262916985055",
+        "in_reply_to_user_id": "2038854182686584832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059449157820223733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittyyack 没有就没有吧！指定不是什么好话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038854182686584832",
+        "conversation_id": "2059329945718141069",
+        "created_at": "2026-05-27T01:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059449157820223733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059449157820223733",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059448983534338500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 那里也没有耶！我的推老是吞消息不知道为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059329945718141069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 3900,
+          "like_count": 38762,
+          "listed_count": 4,
+          "media_count": 426,
+          "tweet_count": 10724
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T05:42:30.000Z",
+        "description": "不约不聊别来烦我",
+        "id": "2038854182686584832",
+        "name": "Kitty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038854559150526464/-Um3nnPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 4,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 193
+        },
+        "username": "Kittyyack",
+        "verified": false
+      }
+    ]
+  }
+}

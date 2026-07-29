@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049749026174812466",
+    "created_at": "2026-04-30T14:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049861735071482259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976980616030662656",
+          "start": 0,
+          "username": "xiaohansex"
+        },
+        {
+          "end": 22,
+          "id": "1986760052955652096",
+          "start": 12,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049861735071482259",
+    "in_reply_to_user_id": "1976980616030662656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049833883214983621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohansex @ZhaXia123 给猫关笼子里扔水下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049749026174812466",
+        "created_at": "2026-04-30T14:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049861735071482259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976980616030662656",
+              "start": 0,
+              "username": "xiaohansex"
+            },
+            {
+              "end": 22,
+              "id": "1986760052955652096",
+              "start": 12,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049861735071482259",
+        "in_reply_to_user_id": "1976980616030662656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049833883214983621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohansex @ZhaXia123 给猫关笼子里扔水下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976980616030662656",
+        "conversation_id": "2049749026174812466",
+        "created_at": "2026-04-30T12:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049833883214983621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049833883214983621",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049749026174812466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 上一次看到用这个东西还是抓到老鼠的时候。这猫干啥了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049826924818825278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 3445,
+          "like_count": 30638,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8167
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:58:24.000Z",
+        "description": "好想抱抱",
+        "id": "1976980616030662656",
+        "location": "杜王町",
+        "name": "郁涵",
+        "pinned_tweet_id": "2048938736772346000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047426507069358081/fVwFMA5h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 15,
+          "like_count": 3728,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2698
+        },
+        "username": "xiaohansex",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "若发言有误请指正 欢迎讨论 但不接受过激",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2048363908189265942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 43,
+          "like_count": 4598,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2211
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

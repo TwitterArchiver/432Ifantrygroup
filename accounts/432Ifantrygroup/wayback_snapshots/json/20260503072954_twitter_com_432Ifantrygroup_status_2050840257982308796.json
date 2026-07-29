@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2050635965723795708",
+    "created_at": "2026-05-03T07:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050840257982308796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        },
+        {
+          "end": 24,
+          "id": "1843623844982206466",
+          "start": 11,
+          "username": "Sledge230282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050840257982308796",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050815874026897863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 @Sledge230282 能听懂中国话不，我看了不舒服是用来指导我自己行动的，不适用于你们。\n另外我什么时候说“因为...所以...”了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2050635965723795708",
+        "created_at": "2026-05-03T07:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050840257982308796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            },
+            {
+              "end": 24,
+              "id": "1843623844982206466",
+              "start": 11,
+              "username": "Sledge230282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050840257982308796",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050815874026897863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 @Sledge230282 能听懂中国话不，我看了不舒服是用来指导我自己行动的，不适用于你们。\n另外我什么时候说“因为...所以...”了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "conversation_id": "2050635965723795708",
+        "created_at": "2026-05-03T05:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050815874026897863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843623844982206466",
+              "start": 0,
+              "username": "Sledge230282"
+            },
+            {
+              "end": 30,
+              "id": "1852895432269234176",
+              "start": 14,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 47,
+              "id": "1852895432269234176",
+              "start": 31,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050815874026897863",
+        "in_reply_to_user_id": "1843623844982206466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050695363443798282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sledge230282 @432Ifantrygroup @432Ifantrygroup 回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2050635965723795708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 3488,
+          "like_count": 30979,
+          "listed_count": 4,
+          "media_count": 340,
+          "tweet_count": 8304
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "若发言有误请指正 欢迎讨论 但不接受过激 说不过就屏蔽的弱智滚开呀",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2048363908189265942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 48,
+          "like_count": 4875,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2349
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T12:06:04.000Z",
+        "description": "🇨🇳\n你好👋",
+        "id": "1843623844982206466",
+        "name": "雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048847687492231168/5sBErWam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 137
+        },
+        "username": "Sledge230282",
+        "verified": false
+      }
+    ]
+  }
+}

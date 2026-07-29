@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047157874691068121",
+    "created_at": "2026-04-23T03:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047159587082805623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000777716132667392",
+          "start": 0,
+          "username": "ArshadHusa72562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047159587082805623",
+    "in_reply_to_user_id": "2000777716132667392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047159052283900347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArshadHusa72562 城市中野化种群的增长主要来自种群的自我繁殖，这是毫无争议的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T03:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047159587082805623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000777716132667392",
+              "start": 0,
+              "username": "ArshadHusa72562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047159587082805623",
+        "in_reply_to_user_id": "2000777716132667392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047159052283900347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArshadHusa72562 城市中野化种群的增长主要来自种群的自我繁殖，这是毫无争议的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000777716132667392",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T03:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047159052283900347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047159052283900347",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047157874691068121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 来源不同，老鼠鸟甚至黄鼠狼基于食物残渣聚集繁殖，而猫狗主要来源是人为弃养。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 3155,
+          "like_count": 26493,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 6943
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T03:59:31.000Z",
+        "description": "Biochemist",
+        "id": "2000777716132667392",
+        "name": "Husaib Arshad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025785484191088640/D9_DOyN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 42,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 249
+        },
+        "username": "ArshadHusa72562",
+        "verified": false
+      }
+    ]
+  }
+}

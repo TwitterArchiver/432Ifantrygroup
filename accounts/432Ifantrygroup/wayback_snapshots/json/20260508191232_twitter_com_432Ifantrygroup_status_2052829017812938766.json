@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052827021986709516",
+    "created_at": "2026-05-08T19:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T20:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052829017812938766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985759640328773632",
+          "start": 0,
+          "username": "El_ketchupp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052829017812938766",
+    "in_reply_to_user_id": "1985759640328773632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052827021986709516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@El_ketchupp Were the knife and wound disinfected?🥺🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052825477455196160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0Z5TmWsAApnZW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2052825483000049674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0Z5oQWcAoR2ij.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 131216,
+        "height": 1280,
+        "media_key": "7_2052825773002661889",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052825773002661889/pu/img/C8qkxQObtklXOLxJ.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052825773002661889/pu/vid/avc1/320x568/OhI4Od1_Urmi_Pvh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052825773002661889/pu/vid/avc1/480x852/WmbzGvcMFJvmblJG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052825773002661889/pu/vid/avc1/720x1280/5IR0Qikmn0Z9vNP2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052825773002661889/pu/pl/Ya6_KI7RURwcGlp3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052827021986709516",
+        "created_at": "2026-05-08T19:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052829017812938766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985759640328773632",
+              "start": 0,
+              "username": "El_ketchupp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052829017812938766",
+        "in_reply_to_user_id": "1985759640328773632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052827021986709516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@El_ketchupp Were the knife and wound disinfected?🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052825477455196160",
+            "3_2052825483000049674",
+            "7_2052825773002661889"
+          ]
+        },
+        "author_id": "1985759640328773632",
+        "conversation_id": "2052827021986709516",
+        "created_at": "2026-05-08T19:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052827021986709516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "slittwt"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "998twt"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "shetwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ferngx6dI",
+              "end": 72,
+              "expanded_url": "https://x.com/El_ketchupp/status/2052827021986709516/video/1",
+              "media_key": "3_2052825477455196160",
+              "start": 49,
+              "url": "https://t.co/2Ferngx6dI"
+            },
+            {
+              "display_url": "pic.x.com/2Ferngx6dI",
+              "end": 72,
+              "expanded_url": "https://x.com/El_ketchupp/status/2052827021986709516/video/1",
+              "media_key": "3_2052825483000049674",
+              "start": 49,
+              "url": "https://t.co/2Ferngx6dI"
+            },
+            {
+              "display_url": "pic.x.com/2Ferngx6dI",
+              "end": 72,
+              "expanded_url": "https://x.com/El_ketchupp/status/2052827021986709516/video/1",
+              "media_key": "7_2052825773002661889",
+              "start": 49,
+              "url": "https://t.co/2Ferngx6dI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052827021986709516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Blood lipstick (repost) #slittwt #998twt #shetwt https://t.co/2Ferngx6dI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052692907258450424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 3678,
+          "like_count": 33864,
+          "listed_count": 4,
+          "media_count": 365,
+          "tweet_count": 9060
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T17:24:23.000Z",
+        "description": "aaaaaa I'm dying //\n\nthey/them //\n\nvent/blog //\n\nminor // \n\nDNI: shotacon/lolicon, weirdos, wannabe sugar daddies, fetishizer, normaltwt",
+        "id": "1985759640328773632",
+        "name": "spiteful bitch of the shed",
+        "pinned_tweet_id": "2040904992450650611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040904407324213248/6c9fQH_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 229,
+          "like_count": 5068,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 1972
+        },
+        "username": "El_ketchupp",
+        "verified": false
+      }
+    ]
+  }
+}

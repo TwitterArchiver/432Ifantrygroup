@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054737867327647952",
+    "created_at": "2026-05-14T09:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054854712747602214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972716519126949888",
+          "start": 0,
+          "username": "shiwuyu20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054854712747602214",
+    "in_reply_to_user_id": "1972716519126949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054854087946973510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiwuyu20 我伯父，是这么对待我堂妹的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054737867327647952",
+        "created_at": "2026-05-14T09:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054854712747602214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972716519126949888",
+              "start": 0,
+              "username": "shiwuyu20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054854712747602214",
+        "in_reply_to_user_id": "1972716519126949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054854087946973510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiwuyu20 我伯父，是这么对待我堂妹的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972716519126949888",
+        "conversation_id": "2054737867327647952",
+        "created_at": "2026-05-14T09:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054854087946973510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054854087946973510",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054737867327647952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 然后这种人还会把孩子养的兔子炖了，笑着问香不香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054840778808303831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 3788,
+          "like_count": 36179,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 9722
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T17:34:35.000Z",
+        "description": "",
+        "id": "1972716519126949888",
+        "name": "郁十五",
+        "pinned_tweet_id": "1988659193252061579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973742474184060928/UMNhvXTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 340,
+          "like_count": 49443,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 4632
+        },
+        "username": "shiwuyu20",
+        "verified": false
+      }
+    ]
+  }
+}

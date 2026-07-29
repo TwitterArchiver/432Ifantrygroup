@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1999737386604068972",
+    "created_at": "2026-03-09T17:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T18:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031061517064614276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1837042352764112896",
+          "start": 0,
+          "username": "Lilee0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031061517064614276",
+    "in_reply_to_user_id": "1837042352764112896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000294733982437665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lilee0o 住宿生很多有这种念头，走读的不多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1999737386604068972",
+        "created_at": "2026-03-09T17:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031061517064614276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1837042352764112896",
+              "start": 0,
+              "username": "Lilee0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031061517064614276",
+        "in_reply_to_user_id": "1837042352764112896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000294733982437665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilee0o 住宿生很多有这种念头，走读的不多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837042352764112896",
+        "conversation_id": "1999737386604068972",
+        "created_at": "2025-12-14T20:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T21:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000294733982437665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000294733982437665",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999737386604068972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 想知道中国有几个普高重高生上学时候没想过自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男，汉族。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2030638745322750332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 2095,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 887
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T08:13:33.000Z",
+        "description": "",
+        "id": "1837042352764112896",
+        "location": "Macau",
+        "name": "Lileee00",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837067518235815936/Dl1_Onys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "Lilee0o",
+        "verified": false
+      }
+    ]
+  }
+}

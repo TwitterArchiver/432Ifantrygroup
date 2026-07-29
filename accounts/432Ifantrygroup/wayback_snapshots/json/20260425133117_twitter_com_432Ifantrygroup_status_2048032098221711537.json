@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047921400057647308",
+    "created_at": "2026-04-25T13:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048032098221711537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "853024229960187905",
+          "start": 0,
+          "username": "Nineyinnnnnnnn"
+        },
+        {
+          "end": 24,
+          "id": "1363466678852411397",
+          "start": 16,
+          "username": "fabedv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048032098221711537",
+    "in_reply_to_user_id": "853024229960187905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048031158643077571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nineyinnnnnnnn @fabedv1 也对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047921400057647308",
+        "created_at": "2026-04-25T13:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048032098221711537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "853024229960187905",
+              "start": 0,
+              "username": "Nineyinnnnnnnn"
+            },
+            {
+              "end": 24,
+              "id": "1363466678852411397",
+              "start": 16,
+              "username": "fabedv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048032098221711537",
+        "in_reply_to_user_id": "853024229960187905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048031158643077571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nineyinnnnnnnn @fabedv1 也对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853024229960187905",
+        "conversation_id": "2047921400057647308",
+        "created_at": "2026-04-25T13:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048031158643077571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1363466678852411397",
+              "start": 0,
+              "username": "fabedv1"
+            },
+            {
+              "end": 25,
+              "id": "1852895432269234176",
+              "start": 9,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048031158643077571",
+        "in_reply_to_user_id": "1363466678852411397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047984984405782609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fabedv1 @432Ifantrygroup 那么，出多少钱你愿意迎合老板，放弃自己的立场呢？我觉得它一旦变成可以谈条件的东西，精神独立就不复存在了。没什么人会无条件迎合别人，迎合别人必然是有好处的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047981379359776796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 3261,
+          "like_count": 28023,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 7399
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-14T23:16:39.000Z",
+        "description": "Poemcore🌙文學\n無律閣主 先鋒蛋黃派🥮\n黑塞 紀德 榮格 八維自判infp🪽\n多和田葉子\n💒@NineAndDouble",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "NineAndDouble"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluerabbitandrea.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://bluerabbitandrea.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/2jGYazjcVs"
+              }
+            ]
+          }
+        },
+        "id": "853024229960187905",
+        "location": "商务合作请联系：lxqm222@gmail.com",
+        "name": "九隱🌱牧者鴿於途",
+        "pinned_tweet_id": "1975804335234949163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021300803097722880/mj_4J2Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 813,
+          "like_count": 35816,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 7502
+        },
+        "url": "https://t.co/2jGYazjcVs",
+        "username": "Nineyinnnnnnnn",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T12:32:47.000Z",
+        "description": "",
+        "id": "1363466678852411397",
+        "name": "fabedv",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 66,
+          "like_count": 64689,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 16360
+        },
+        "username": "fabedv1",
+        "verified": false
+      }
+    ]
+  }
+}

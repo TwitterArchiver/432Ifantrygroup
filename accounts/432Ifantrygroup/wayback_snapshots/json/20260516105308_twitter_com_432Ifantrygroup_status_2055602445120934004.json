@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055602445120934004",
+    "created_at": "2026-05-16T10:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055602445120934004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1341386588664676352",
+          "start": 3,
+          "username": "9bi6ix44XjEO57d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055602445120934004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055488513311899939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9bi6ix44XjEO57d: 大头兵是人，妓女也是人。\n都能为社会主义做贡献。\n当兵的不高人一头，妓女也不低人一等。\n大头兵是人，你也是人。\n妓女是人，你也是人。\n人既可以是人、也可以是兵，还可以是妓女。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055602445120934004",
+        "created_at": "2026-05-16T10:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055602445120934004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1341386588664676352",
+              "start": 3,
+              "username": "9bi6ix44XjEO57d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055602445120934004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055488513311899939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9bi6ix44XjEO57d: 大头兵是人，妓女也是人。\n都能为社会主义做贡献。\n当兵的不高人一头，妓女也不低人一等。\n大头兵是人，你也是人。\n妓女是人，你也是人。\n人既可以是人、也可以是兵，还可以是妓女。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341386588664676352",
+        "conversation_id": "2055488513311899939",
+        "created_at": "2026-05-16T03:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055488513311899939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cocoYoyo43957/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/cocoYoyo43957/status/2055438402573479995",
+              "start": 88,
+              "url": "https://t.co/VVh2USsU9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055488513311899939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1011,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055438402573479995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大头兵是人，妓女也是人。\n都能为社会主义做贡献。\n当兵的不高人一头，妓女也不低人一等。\n大头兵是人，你也是人。\n妓女是人，你也是人。\n人既可以是人、也可以是兵，还可以是妓女。 https://t.co/VVh2USsU9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055520955645268179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 3826,
+          "like_count": 36740,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 9880
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T14:14:29.000Z",
+        "description": "病骨犹能在，人间底事无。何须问牛马，抛掷任枭卢。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1723286568683913463",
+                "start": 0,
+                "url": "https://t.co/xyLKPytGwm"
+              }
+            ]
+          }
+        },
+        "id": "1341386588664676352",
+        "location": "doro",
+        "name": "嗨der哥儿",
+        "pinned_tweet_id": "2053459041473745106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049513392172638209/wjJX-fDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 795,
+          "like_count": 169769,
+          "listed_count": 12,
+          "media_count": 21675,
+          "tweet_count": 40405
+        },
+        "url": "https://t.co/xyLKPytGwm",
+        "username": "9bi6ix44XjEO57d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058420772788682852",
+    "created_at": "2026-05-24T05:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058420772788682852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2040791194213441536",
+          "start": 3,
+          "username": "ConatusSun2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058420772788682852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058419355227234748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ConatusSun2222: 我一向讨厌那种掌握某种新技术，随后便迅速将其兑换成道德优越感的符号暴力，仿佛信息差不是处境之别，而是人格高低"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058420772788682852",
+        "created_at": "2026-05-24T05:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058420772788682852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2040791194213441536",
+              "start": 3,
+              "username": "ConatusSun2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058420772788682852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058419355227234748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ConatusSun2222: 我一向讨厌那种掌握某种新技术，随后便迅速将其兑换成道德优越感的符号暴力，仿佛信息差不是处境之别，而是人格高低"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040791194213441536",
+        "conversation_id": "2058419355227234748",
+        "created_at": "2026-05-24T05:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058419355227234748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058419355227234748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一向讨厌那种掌握某种新技术，随后便迅速将其兑换成道德优越感的符号暴力，仿佛信息差不是处境之别，而是人格高低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058030329898967507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 3876,
+          "like_count": 37973,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 10315
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T13:58:35.000Z",
+        "description": "爱我所爱",
+        "id": "2040791194213441536",
+        "name": "ConatusSun",
+        "pinned_tweet_id": "2052601347212747047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054023476781146112/MIz24vKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 654,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 366
+        },
+        "username": "ConatusSun2222",
+        "verified": false
+      }
+    ]
+  }
+}

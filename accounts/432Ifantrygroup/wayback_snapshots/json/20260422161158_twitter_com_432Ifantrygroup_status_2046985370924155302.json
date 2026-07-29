@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046981634390663518",
+    "created_at": "2026-04-22T16:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046985370924155302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779512680178753536",
+          "start": 0,
+          "username": "Gavin_Snape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046985370924155302",
+    "in_reply_to_user_id": "1779512680178753536",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046984710807867489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gavin_Snape 😭😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046981634390663518",
+        "created_at": "2026-04-22T16:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046985370924155302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779512680178753536",
+              "start": 0,
+              "username": "Gavin_Snape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046985370924155302",
+        "in_reply_to_user_id": "1779512680178753536",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046984710807867489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gavin_Snape 😭😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779512680178753536",
+        "conversation_id": "2046981634390663518",
+        "created_at": "2026-04-22T16:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046984710807867489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046984710807867489",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046981634390663518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 前些天被送进医院做了三次🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 3134,
+          "like_count": 26276,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 6894
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T14:11:17.000Z",
+        "description": "平权社民 │未知性别│🇺🇳🇨🇳🇭🇰🇲🇴🇨🇺🇵🇸🇫🇮🇳🇴🇸🇪🇩🇰│友🏳️‍🌈🏳️‍⚧️",
+        "id": "1779512680178753536",
+        "location": "距离您0.26km",
+        "name": "Gavin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779520384066555904/9iehXJZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Gavin_Snape",
+        "verified": false
+      }
+    ]
+  }
+}

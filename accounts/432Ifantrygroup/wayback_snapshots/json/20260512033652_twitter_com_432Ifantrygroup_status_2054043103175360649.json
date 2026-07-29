@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053439385010581894",
+    "created_at": "2026-05-12T03:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054043103175360649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2022091719114993664",
+          "start": 0,
+          "username": "mob_mimi"
+        },
+        {
+          "end": 23,
+          "id": "2036847459864080384",
+          "start": 10,
+          "username": "swallowtai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054043103175360649",
+    "in_reply_to_user_id": "2022091719114993664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054014815916683447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mob_mimi @swallowtai11 服药24h内是，每次都这样你还要考虑一下别的原因"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054014815916683447].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054014815916683447",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054014815916683447"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053439385010581894",
+        "created_at": "2026-05-12T03:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054043103175360649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2022091719114993664",
+              "start": 0,
+              "username": "mob_mimi"
+            },
+            {
+              "end": 23,
+              "id": "2036847459864080384",
+              "start": 10,
+              "username": "swallowtai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054043103175360649",
+        "in_reply_to_user_id": "2022091719114993664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054014815916683447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mob_mimi @swallowtai11 服药24h内是，每次都这样你还要考虑一下别的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053796478179819806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 3758,
+          "like_count": 35583,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 9537
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T23:33:38.000Z",
+        "description": "谈恋爱啦！这个号留下来碎碎念用的",
+        "id": "2022091719114993664",
+        "name": "你又是谁的电子宠物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030694176275550208/dcFzdc4a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 11,
+          "like_count": 5236,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 909
+        },
+        "username": "mob_mimi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:48:49.000Z",
+        "description": "不约不谈别来问我了 05 od 自伤 喜欢画画发呆打游戏 叫我小挞就好了 这里只是堆放一些东西 想认识我可以点我的陪玩 要算的话大概就是🚪88吧送两个小时陪玩 这只是一种筛选方式",
+        "id": "2036847459864080384",
+        "name": "远方天台一跃而下",
+        "pinned_tweet_id": "2046103081759506829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039752838637928449/NLDBp40k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 53,
+          "like_count": 396,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 242
+        },
+        "username": "swallowtai11",
+        "verified": false
+      }
+    ]
+  }
+}

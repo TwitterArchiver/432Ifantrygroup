@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2029949903477367132",
+    "created_at": "2026-03-06T19:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029998756779938036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963682734372798464",
+          "start": 0,
+          "username": "daochuanchen99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029998756779938036",
+    "in_reply_to_user_id": "1963682734372798464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029949903477367132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daochuanchen99 这就是互联网，它会放大观点之间的对立，导致任何对于事物本身的探讨最后都会变成关于存在性的争论。\n你说的对，自己能满足就是好的，没必要非要用自己的标准统一别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2029949903477367132",
+        "created_at": "2026-03-06T19:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029998756779938036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963682734372798464",
+              "start": 0,
+              "username": "daochuanchen99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029998756779938036",
+        "in_reply_to_user_id": "1963682734372798464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029949903477367132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daochuanchen99 这就是互联网，它会放大观点之间的对立，导致任何对于事物本身的探讨最后都会变成关于存在性的争论。\n你说的对，自己能满足就是好的，没必要非要用自己的标准统一别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963682734372798464",
+        "conversation_id": "2029949903477367132",
+        "created_at": "2026-03-06T15:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029949903477367132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029949903477367132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5213,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也不懂为什么要辩论阴蒂高潮阴道高潮的，能爽就是好身体啊。体外爽就体外，纳入爽就纳入，你管别人怎么爽干嘛。。。真是闲的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 1812,
+          "like_count": 3377,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 501
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T19:18:13.000Z",
+        "description": "偷图给我挡灾",
+        "id": "1963682734372798464",
+        "name": "岛岛",
+        "pinned_tweet_id": "1993288578680680677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017854538972286976/Bp09zBar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5151,
+          "following_count": 21,
+          "like_count": 348,
+          "listed_count": 13,
+          "media_count": 55,
+          "tweet_count": 103
+        },
+        "username": "daochuanchen99",
+        "verified": false
+      }
+    ]
+  }
+}

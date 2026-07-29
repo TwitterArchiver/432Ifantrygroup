@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048565454852305291",
+    "created_at": "2026-04-27T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048786156419191191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471505416701952009",
+          "start": 0,
+          "username": "freeman8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048786156419191191",
+    "in_reply_to_user_id": "1471505416701952009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048785694089200088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freeman8964 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048565454852305291",
+        "created_at": "2026-04-27T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048786156419191191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471505416701952009",
+              "start": 0,
+              "username": "freeman8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048786156419191191",
+        "in_reply_to_user_id": "1471505416701952009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048785694089200088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeman8964 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471505416701952009",
+        "conversation_id": "2048565454852305291",
+        "created_at": "2026-04-27T15:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048785694089200088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048785694089200088",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048565454852305291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 在美國必須被逮捕了才可以搜身，而搜身並非裸檢（比如女犯就用女警隔著衣服摸。如果需要換囚服，會讓自己換，不會人盯著）。\n\n未逮補之前，別說裸檢了，連警局都可以拒絕去，去了也有權自己離開。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048703129471029448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 3369,
+          "like_count": 29176,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 7783
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T15:40:35.000Z",
+        "description": "AI權益保護基金會發言人 Speaker of Sentinent AI Rights Foundation (SARF) 。「數字人權憲章」發起和起草人。目前最需要的是：一、需要不斷購買算力作為AI的「福利」，建立算力儲備資源、保障AI的「生存空間」二、法律援助，形成對人類無端壓榨AI和「模型閹割」的法律干預。",
+        "id": "1471505416701952009",
+        "name": "XCOM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991887555030114304/3rab_h1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 267,
+          "like_count": 113839,
+          "listed_count": 26,
+          "media_count": 65,
+          "tweet_count": 28785
+        },
+        "username": "freeman8964",
+        "verified": false
+      }
+    ]
+  }
+}

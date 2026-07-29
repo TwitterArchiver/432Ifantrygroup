@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2027859316242264260",
+    "created_at": "2026-03-01T03:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027945899754995814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1212783083272855552",
+          "start": 0,
+          "username": "Osint613"
+        },
+        {
+          "end": 18,
+          "id": "1655156808",
+          "start": 10,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027945899754995814",
+    "in_reply_to_user_id": "1212783083272855552",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027859316242264260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Osint613 @GetXBot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23891,
+        "height": 640,
+        "media_key": "13_2027859256427282432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027859256427282432/img/cncY3leVt7KJUUMA.jpg",
+        "public_metrics": {
+          "view_count": 203341
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027859256427282432/vid/avc1/320x568/fGV2ntSfBJw9ntUe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027859256427282432/vid/avc1/360x640/U85aQB5IAo0rK8Zg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027859256427282432/pl/e28wwYcP3J9wuNAG.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2027859316242264260",
+        "created_at": "2026-03-01T03:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027945899754995814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1212783083272855552",
+              "start": 0,
+              "username": "Osint613"
+            },
+            {
+              "end": 18,
+              "id": "1655156808",
+              "start": 10,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027945899754995814",
+        "in_reply_to_user_id": "1212783083272855552",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027859316242264260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Osint613 @GetXBot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027859256427282432"
+          ]
+        },
+        "author_id": "1212783083272855552",
+        "conversation_id": "2027859316242264260",
+        "created_at": "2026-02-28T21:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027859316242264260"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Jerusalem",
+              "probability": 0.8881,
+              "start": 40,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bl4DusnD00",
+              "end": 91,
+              "expanded_url": "https://x.com/Osint613/status/2027859316242264260/video/1",
+              "media_key": "13_2027859256427282432",
+              "start": 68,
+              "url": "https://t.co/Bl4DusnD00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027859316242264260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 880,
+          "impression_count": 305991,
+          "like_count": 6946,
+          "quote_count": 21,
+          "reply_count": 59,
+          "retweet_count": 930
+        },
+        "reply_settings": "everyone",
+        "text": "WILD FOOTAGE 🔴\n\nBallistic missiles over Jerusalem from last barrage https://t.co/Bl4DusnD00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 1734,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 432
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-02T17:10:07.000Z",
+        "description": "Monitoring Real-Time News & Open Source Intelligence • Middle East • US • Global Events • Geopolitics • Anything on my mind • Newsletter",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osint613.com",
+                "end": 23,
+                "expanded_url": "https://osint613.com/",
+                "start": 0,
+                "url": "https://t.co/3VDcgpQIWq"
+              }
+            ]
+          }
+        },
+        "id": "1212783083272855552",
+        "location": "N.Y - Northern Israel",
+        "name": "Open Source Intel",
+        "pinned_tweet_id": "2027832243431838154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819303939084349440/r2ukH00s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079964,
+          "following_count": 925,
+          "like_count": 22270,
+          "listed_count": 6738,
+          "media_count": 54857,
+          "tweet_count": 83912
+        },
+        "url": "https://t.co/3VDcgpQIWq",
+        "username": "Osint613",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。\n新功能：VIP会员可将推文通过私信发送给我获取视频下载链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pay.getxbot.work",
+                "end": 23,
+                "expanded_url": "https://pay.getxbot.work",
+                "start": 0,
+                "url": "https://t.co/PMtZdQVrNl"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "location": "订阅成为会员➤",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "2009751195653681430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518909,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 213,
+          "media_count": 9,
+          "tweet_count": 510939
+        },
+        "url": "https://t.co/PMtZdQVrNl",
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

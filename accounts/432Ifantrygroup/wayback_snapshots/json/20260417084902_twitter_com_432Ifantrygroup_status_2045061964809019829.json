@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2044845280642908257",
+    "created_at": "2026-04-17T08:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045061964809019829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798351011402366976",
+          "start": 0,
+          "username": "s0Ce73yQyx20909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045061964809019829",
+    "in_reply_to_user_id": "1798351011402366976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045061695899574531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0Ce73yQyx20909 教案应该上传人卫平台，而非微信视频号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044845280642908257",
+        "created_at": "2026-04-17T08:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045061964809019829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798351011402366976",
+              "start": 0,
+              "username": "s0Ce73yQyx20909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045061964809019829",
+        "in_reply_to_user_id": "1798351011402366976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045061695899574531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0Ce73yQyx20909 教案应该上传人卫平台，而非微信视频号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798351011402366976",
+        "conversation_id": "2044845280642908257",
+        "created_at": "2026-04-17T08:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045061695899574531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045061695899574531",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044845280642908257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 有没有可能这个视频是要拍给学法医的学生看的，普通人看这个干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045050458717528261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 2933,
+          "like_count": 23353,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 6174
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T13:47:57.000Z",
+        "description": "每天最开心的事就是在X里逗一逗一些智障，精神美国人，自认为独立的女性哈哈哈",
+        "id": "1798351011402366976",
+        "name": "孙浩儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798354025504821248/oCC5TT_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 236,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 223
+        },
+        "username": "s0Ce73yQyx20909",
+        "verified": false
+      }
+    ]
+  }
+}

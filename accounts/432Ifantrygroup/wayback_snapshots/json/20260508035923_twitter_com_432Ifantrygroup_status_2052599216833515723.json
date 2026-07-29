@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052578639254802735",
+    "created_at": "2026-05-08T03:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052599216833515723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873526227979599872",
+          "start": 0,
+          "username": "EvE_ZaKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052599216833515723",
+    "in_reply_to_user_id": "1873526227979599872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052578639254802735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvE_ZaKo 是上次的吗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5200,
+        "height": 1280,
+        "media_key": "13_2052578575333634048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052578575333634048/img/2-yj5PLLqzNpFwRi.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052578575333634048/vid/avc1/320x568/mdVXNmNskCszyQdc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052578575333634048/vid/avc1/480x852/oj-UjuQ-Az3Eq9un.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052578575333634048/vid/avc1/720x1280/rcM6RHJ52sFWjxwT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052578575333634048/pl/-VYSUEpv6HUanKBw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052578639254802735",
+        "created_at": "2026-05-08T03:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052599216833515723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873526227979599872",
+              "start": 0,
+              "username": "EvE_ZaKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052599216833515723",
+        "in_reply_to_user_id": "1873526227979599872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052578639254802735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvE_ZaKo 是上次的吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052578575333634048"
+          ]
+        },
+        "author_id": "1873526227979599872",
+        "conversation_id": "2052578639254802735",
+        "created_at": "2026-05-08T02:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052578639254802735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 15,
+              "start": 9,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiHQ8cGO0c",
+              "end": 55,
+              "expanded_url": "https://x.com/EvE_ZaKo/status/2052578639254802735/video/1",
+              "media_key": "13_2052578575333634048",
+              "start": 32,
+              "url": "https://t.co/EiHQ8cGO0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052578639254802735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#shedtwt #shtwt \nOK啊我在我的手上磕了一条河 https://t.co/EiHQ8cGO0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052427326609387874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 3654,
+          "like_count": 33505,
+          "listed_count": 4,
+          "media_count": 359,
+          "tweet_count": 8977
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T00:27:34.000Z",
+        "description": "同类互fo欢迎｜双相｜不爱不恨国｜智利不详｜外貌像门酱｜爸妈未逃出我带来的原生家庭｜💊｜🈹｜嫌贫仇富｜🈚️学历恋人@jiajunXiao2 弟弟@jiajunXiao2妹妹@jiajunXiao2 徒弟@jiajunXiao2 师傅@jiajunXiao2儿子@jiajunXiao2女儿@jiajunXiao2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "jiajunXiao2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yutan11452",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yutan11452",
+                "start": 0,
+                "url": "https://t.co/cRSX1kZK00"
+              }
+            ]
+          }
+        },
+        "id": "1873526227979599872",
+        "location": "墓地🪦",
+        "name": "再哭大声点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034049415556583424/-7PVx9b-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 180,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/cRSX1kZK00",
+        "username": "EvE_ZaKo",
+        "verified": false
+      }
+    ]
+  }
+}

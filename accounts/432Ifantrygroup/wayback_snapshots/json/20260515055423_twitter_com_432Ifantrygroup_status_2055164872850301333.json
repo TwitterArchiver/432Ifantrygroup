@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055156685136884032",
+    "created_at": "2026-05-15T05:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055164872850301333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20551…",
+          "end": 34,
+          "expanded_url": "https://x.com/i/status/2055162170795843744",
+          "start": 11,
+          "url": "https://t.co/Hqv10SxDil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055164872850301333",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055162170795843744",
+        "type": "quoted"
+      },
+      {
+        "id": "2055156685136884032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 https://t.co/Hqv10SxDil"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055156676840599552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIViG-DbMAAcwjj.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055156676849000448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIViG-FbYAAcX2h.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055156685136884032",
+        "created_at": "2026-05-15T05:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055164872850301333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20551…",
+              "end": 34,
+              "expanded_url": "https://x.com/i/status/2055162170795843744",
+              "start": 11,
+              "url": "https://t.co/Hqv10SxDil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055164872850301333",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055162170795843744",
+            "type": "quoted"
+          },
+          {
+            "id": "2055156685136884032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 https://t.co/Hqv10SxDil"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055161612609454231",
+        "created_at": "2026-05-15T05:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055162170795843744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055162170795843744",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055161612609454231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈又犯了什么罪就该死呢？我无法回答你，但我就是觉得既然这个孩子注定没法活，那你凭什么活呢？你正常生活的代价如果是这个“孽种”去死，那你就也给我去死吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055156676840599552",
+            "3_2055156676849000448"
+          ]
+        },
+        "author_id": "1986760052955652096",
+        "conversation_id": "2055156685136884032",
+        "created_at": "2026-05-15T05:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055156685136884032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W66ilKG349",
+              "end": 102,
+              "expanded_url": "https://x.com/ZhaXia123/status/2055156685136884032/photo/1",
+              "media_key": "3_2055156676840599552",
+              "start": 79,
+              "url": "https://t.co/W66ilKG349"
+            },
+            {
+              "display_url": "pic.x.com/W66ilKG349",
+              "end": 102,
+              "expanded_url": "https://x.com/ZhaXia123/status/2055156685136884032/photo/1",
+              "media_key": "3_2055156676849000448",
+              "start": 79,
+              "url": "https://t.co/W66ilKG349"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055156685136884032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这帮人是不是疯了都傻逼啊？就因为给他生下来了没给他掐死就算好的了，我操，这边人都傻逼吧，这孩子做错啥了？评论区全是指责孩子帮妈妈说话的的你们都去4️⃣吧我操 https://t.co/W66ilKG349"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055161612609454231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 3810,
+          "like_count": 36481,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 9791
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2053800442086494499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 51,
+          "like_count": 6092,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 2905
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

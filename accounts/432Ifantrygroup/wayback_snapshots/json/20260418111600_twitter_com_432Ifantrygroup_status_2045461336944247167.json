@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045461328559833089"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "2045461336944247167",
+    "created_at": "2026-04-18T11:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045461336944247167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ifiRbnXBjO",
+          "end": 168,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2045461336944247167/photo/1",
+          "media_key": "3_2045461328559833089",
+          "start": 145,
+          "url": "https://t.co/ifiRbnXBjO"
+        },
+        {
+          "display_url": "x.com/Iris1208dzqIri…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/Iris1208dzqIris/status/2045452777556705374",
+          "start": 169,
+          "url": "https://t.co/MSgTVxZiVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045461336944247167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045452777556705374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "部分中国网友的性压抑已经达到了骇人听闻的地步。例如这视频中的女学生大概是在为哈萨克斯坦国防教育课的枪械拆装比赛做练习，她拆装的是一把AK-74M，用时40秒，对于一个学生来说这已经是非常惊人的表现了，在任何国家的国防教育比赛中都绝对是金牌水准\n然而评论区却出现了如此一幕，实在让我难以理解 https://t.co/ifiRbnXBjO https://t.co/MSgTVxZiVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045461328559833089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLwPbKbgAEdsMs.jpg",
+        "width": 1057
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045452756224561153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLoccub0AEc2v5.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045452756190973953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLoccmbUAEnbWh.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045461328559833089"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2045461336944247167",
+        "created_at": "2026-04-18T11:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045461336944247167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifiRbnXBjO",
+              "end": 168,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2045461336944247167/photo/1",
+              "media_key": "3_2045461328559833089",
+              "start": 145,
+              "url": "https://t.co/ifiRbnXBjO"
+            },
+            {
+              "display_url": "x.com/Iris1208dzqIri…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/Iris1208dzqIris/status/2045452777556705374",
+              "start": 169,
+              "url": "https://t.co/MSgTVxZiVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045461336944247167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045452777556705374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "部分中国网友的性压抑已经达到了骇人听闻的地步。例如这视频中的女学生大概是在为哈萨克斯坦国防教育课的枪械拆装比赛做练习，她拆装的是一把AK-74M，用时40秒，对于一个学生来说这已经是非常惊人的表现了，在任何国家的国防教育比赛中都绝对是金牌水准\n然而评论区却出现了如此一幕，实在让我难以理解 https://t.co/ifiRbnXBjO https://t.co/MSgTVxZiVb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045452756224561153",
+            "3_2045452756190973953"
+          ]
+        },
+        "author_id": "1969076990952275968",
+        "conversation_id": "2045452777556705374",
+        "created_at": "2026-04-18T10:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045452777556705374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8oLxJmLCJ",
+              "end": 95,
+              "expanded_url": "https://x.com/Iris1208dzqIris/status/2045452777556705374/photo/1",
+              "media_key": "3_2045452756224561153",
+              "start": 72,
+              "url": "https://t.co/S8oLxJmLCJ"
+            },
+            {
+              "display_url": "pic.x.com/S8oLxJmLCJ",
+              "end": 95,
+              "expanded_url": "https://x.com/Iris1208dzqIris/status/2045452777556705374/photo/1",
+              "media_key": "3_2045452756190973953",
+              "start": 72,
+              "url": "https://t.co/S8oLxJmLCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045452777556705374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一见短袖子，立刻想到白臂膊，立刻想到全裸体，立刻想到生殖器，立刻想到性交，立刻想到杂交，立刻想到私生子。\n中国人的想像惟在这一层能够如此跃进。 https://t.co/S8oLxJmLCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045192579353027051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 2962,
+          "like_count": 23774,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 6301
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T16:32:07.000Z",
+        "description": "08｜我女神是我自己｜ Iris’：@Sovereign_Iriss｜ 匿名提问↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "Sovereign_Iriss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris39495",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris39495",
+                "start": 0,
+                "url": "https://t.co/tRCWqg0Xsl"
+              }
+            ]
+          }
+        },
+        "id": "1969076990952275968",
+        "location": "地狱",
+        "name": "Iris",
+        "pinned_tweet_id": "2023461391441797486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038644540345884672/_FUcgm_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 29,
+          "like_count": 880,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 1170
+        },
+        "url": "https://t.co/tRCWqg0Xsl",
+        "username": "Iris1208dzqIris",
+        "verified": false
+      }
+    ]
+  }
+}

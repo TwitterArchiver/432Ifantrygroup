@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061318181088809347",
+    "created_at": "2026-06-01T05:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061318181088809347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1357592934321778688",
+          "start": 3,
+          "username": "iya_iya_iya_180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061318181088809347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061316682766041524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iya_iya_iya_180: 狗狗治愈一切😐🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061318181088809347",
+        "created_at": "2026-06-01T05:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061318181088809347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1357592934321778688",
+              "start": 3,
+              "username": "iya_iya_iya_180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061318181088809347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061316682766041524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iya_iya_iya_180: 狗狗治愈一切😐🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357592934321778688",
+        "conversation_id": "2061316682766041524",
+        "created_at": "2026-06-01T05:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061316682766041524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bubi_Hartmann_…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Bubi_Hartmann_/status/2060994000178569472",
+              "start": 9,
+              "url": "https://t.co/UfS5eJwgdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061316682766041524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060994000178569472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狗狗治愈一切😐🙏 https://t.co/UfS5eJwgdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 3997,
+          "like_count": 41071,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 11444
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T07:32:40.000Z",
+        "description": "致自由 | 本账号推文内容：80%转贴/引用 10%鉴证（随机嘴一些小粉红） 9%超怪xp碎碎念 1%既不超绝也不可爱更不少女的日常",
+        "id": "1357592934321778688",
+        "location": "People's Republic of China",
+        "name": "液氯消毒",
+        "pinned_tweet_id": "1992195777742135771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011777898785751041/R0zQB2aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 205,
+          "like_count": 48679,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 10668
+        },
+        "username": "iya_iya_iya_180",
+        "verified": false
+      }
+    ]
+  }
+}

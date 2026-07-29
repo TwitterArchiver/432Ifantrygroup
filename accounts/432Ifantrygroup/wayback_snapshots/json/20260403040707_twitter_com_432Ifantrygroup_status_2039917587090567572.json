@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2039568777621500255",
+    "created_at": "2026-04-03T04:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039917587090567572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2916917561",
+          "start": 0,
+          "username": "SamYangAus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039917587090567572",
+    "in_reply_to_user_id": "2916917561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039917250107609427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamYangAus 那..谢谢你的鼓励吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2039568777621500255",
+        "created_at": "2026-04-03T04:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039917587090567572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2916917561",
+              "start": 0,
+              "username": "SamYangAus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039917587090567572",
+        "in_reply_to_user_id": "2916917561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039917250107609427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamYangAus 那..谢谢你的鼓励吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916917561",
+        "conversation_id": "2039568777621500255",
+        "created_at": "2026-04-03T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039917250107609427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039917250107609427",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039916035684643132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 嗯。至少我觉得我们沟通了两句话，就有很明显的收获。\n一个是，你我都能看到有一些观点上的矛盾是你有条件在自身这个范围内去寻找解决或者调和办法的。我把你那个顶帖视为你处于心理矛盾中自发的呼声，我给你一个回应。\n另一个是，你有对社会对身边人的同情心，但你现在无能为力。那就自己强大起来先。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2039150831120130134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 2714,
+          "like_count": 17739,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4618
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 7,
+          "like_count": 2,
+          "listed_count": 16,
+          "media_count": 167,
+          "tweet_count": 16863
+        },
+        "username": "SamYangAus",
+        "verified": false
+      }
+    ]
+  }
+}

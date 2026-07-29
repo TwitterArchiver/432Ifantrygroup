@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054777229239009425",
+    "created_at": "2026-05-14T07:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054824588471849209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800384669428703232",
+          "start": 0,
+          "username": "yimissyoui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054824588471849209",
+    "in_reply_to_user_id": "1800384669428703232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054822788876374502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yimissyoui 一个未成年女孩和陌生男性住一起啊,就算人家不在乎，你敢这么干吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054777229239009425",
+        "created_at": "2026-05-14T07:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054824588471849209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800384669428703232",
+              "start": 0,
+              "username": "yimissyoui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054824588471849209",
+        "in_reply_to_user_id": "1800384669428703232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054822788876374502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yimissyoui 一个未成年女孩和陌生男性住一起啊,就算人家不在乎，你敢这么干吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800384669428703232",
+        "conversation_id": "2054777229239009425",
+        "created_at": "2026-05-14T07:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054822788876374502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054822788876374502",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054777229239009425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 找个男的收留不就解决了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054717815387734305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 3787,
+          "like_count": 36152,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 9709
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T04:29:11.000Z",
+        "description": "",
+        "id": "1800384669428703232",
+        "name": "思雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838595021064527872/4DXYgGYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 132,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1117
+        },
+        "username": "yimissyoui",
+        "verified": false
+      }
+    ]
+  }
+}

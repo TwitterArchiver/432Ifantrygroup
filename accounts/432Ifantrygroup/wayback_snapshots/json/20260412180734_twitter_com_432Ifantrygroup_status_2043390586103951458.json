@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043386687917568351",
+    "created_at": "2026-04-12T18:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043390586103951458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995336408547082240",
+          "start": 0,
+          "username": "qi_dang23244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043390586103951458",
+    "in_reply_to_user_id": "1995336408547082240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043386687917568351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_dang23244 😢🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043386687917568351",
+        "created_at": "2026-04-12T18:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043390586103951458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995336408547082240",
+              "start": 0,
+              "username": "qi_dang23244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043390586103951458",
+        "in_reply_to_user_id": "1995336408547082240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043386687917568351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_dang23244 😢🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995336408547082240",
+        "conversation_id": "2043386687917568351",
+        "created_at": "2026-04-12T17:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043386687917568351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043386687917568351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么下牙龈上会长溃疡，疼的我好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042939446417596722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 2879,
+          "like_count": 21882,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 5726
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T03:38:30.000Z",
+        "description": "好想成为外星人",
+        "id": "1995336408547082240",
+        "name": "鲫鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995351258941493249/0Qj-1MyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 3936,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 159
+        },
+        "username": "qi_dang23244",
+        "verified": false
+      }
+    ]
+  }
+}

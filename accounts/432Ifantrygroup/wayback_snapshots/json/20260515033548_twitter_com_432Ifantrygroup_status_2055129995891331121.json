@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054934483967844352"
+      ],
+      "media_source_tweet_id": [
+        "2054934486736114017"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055129995891331121",
+    "created_at": "2026-05-15T03:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055129995891331121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047499889094123520",
+          "start": 3,
+          "username": "yn_xxxjkjk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVmvrWVdvh",
+          "end": 70,
+          "expanded_url": "https://x.com/yn_xxxjkjk/status/2054934486736114017/photo/1",
+          "media_key": "3_2054934483967844352",
+          "start": 47,
+          "url": "https://t.co/WVmvrWVdvh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055129995891331121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054934486736114017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yn_xxxjkjk: 救命啊，我的帖子被删了，还被封了7天，马斯克，你好冷血无情。 https://t.co/WVmvrWVdvh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2224,
+        "media_key": "3_2054934483967844352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISYBpGaoAAx7Ql.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054934483967844352"
+          ],
+          "media_source_tweet_id": [
+            "2054934486736114017"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055129995891331121",
+        "created_at": "2026-05-15T03:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055129995891331121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047499889094123520",
+              "start": 3,
+              "username": "yn_xxxjkjk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVmvrWVdvh",
+              "end": 70,
+              "expanded_url": "https://x.com/yn_xxxjkjk/status/2054934486736114017/photo/1",
+              "media_key": "3_2054934483967844352",
+              "start": 47,
+              "url": "https://t.co/WVmvrWVdvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055129995891331121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054934486736114017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yn_xxxjkjk: 救命啊，我的帖子被删了，还被封了7天，马斯克，你好冷血无情。 https://t.co/WVmvrWVdvh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054934483967844352"
+          ]
+        },
+        "author_id": "2047499889094123520",
+        "conversation_id": "2054934486736114017",
+        "created_at": "2026-05-14T14:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054934486736114017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVmvrWVdvh",
+              "end": 54,
+              "expanded_url": "https://x.com/yn_xxxjkjk/status/2054934486736114017/photo/1",
+              "media_key": "3_2054934483967844352",
+              "start": 31,
+              "url": "https://t.co/WVmvrWVdvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054934486736114017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "救命啊，我的帖子被删了，还被封了7天，马斯克，你好冷血无情。 https://t.co/WVmvrWVdvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054990845003395177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 3807,
+          "like_count": 36435,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 9779
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "YN2.0",
+        "pinned_tweet_id": "2054935095430254613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 86,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 19
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

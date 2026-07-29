@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2026348286089789693",
+    "created_at": "2026-03-06T19:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029995882540900826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1848727176041865217",
+          "start": 0,
+          "username": "lww1228678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029995882540900826",
+    "in_reply_to_user_id": "1848727176041865217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026348286089789693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lww1228678 怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2026348286089789693",
+        "created_at": "2026-03-06T19:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029995882540900826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1848727176041865217",
+              "start": 0,
+              "username": "lww1228678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029995882540900826",
+        "in_reply_to_user_id": "1848727176041865217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026348286089789693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lww1228678 怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848727176041865217",
+        "conversation_id": "2026348286089789693",
+        "created_at": "2026-02-24T17:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026348286089789693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026348286089789693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年后跟学校申请休学了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 1807,
+          "like_count": 3370,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 496
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T14:04:52.000Z",
+        "description": "你好，我喜欢很多东西，明日方舟，mma等\n比较内向，不善于聊天\n欢迎交流\n我性不染",
+        "id": "1848727176041865217",
+        "location": "君士坦丁堡，距离你114514公里",
+        "name": "海平ee线",
+        "pinned_tweet_id": "1999090491527405705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937553436339494912/CrFQAns9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 925,
+          "like_count": 26517,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 8866
+        },
+        "username": "lww1228678",
+        "verified": false
+      }
+    ]
+  }
+}

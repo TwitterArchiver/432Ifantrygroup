@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051569387006771532",
+    "created_at": "2026-05-05T10:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051608224256897464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1466992710846406659",
+          "start": 0,
+          "username": "elonmusk8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20446…",
+          "end": 47,
+          "expanded_url": "https://x.com/i/status/2044653306409283729",
+          "start": 24,
+          "url": "https://t.co/L3sPmv6hNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051608224256897464",
+    "in_reply_to_user_id": "1466992710846406659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044653306409283729",
+        "type": "quoted"
+      },
+      {
+        "id": "2051606844993638890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elonmusk8964 我应该把这句话置顶\nhttps://t.co/L3sPmv6hNN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051569387006771532",
+        "created_at": "2026-05-05T10:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051608224256897464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466992710846406659",
+              "start": 0,
+              "username": "elonmusk8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20446…",
+              "end": 47,
+              "expanded_url": "https://x.com/i/status/2044653306409283729",
+              "start": 24,
+              "url": "https://t.co/L3sPmv6hNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051608224256897464",
+        "in_reply_to_user_id": "1466992710846406659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044653306409283729",
+            "type": "quoted"
+          },
+          {
+            "id": "2051606844993638890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elonmusk8964 我应该把这句话置顶\nhttps://t.co/L3sPmv6hNN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044643257347686763",
+        "created_at": "2026-04-16T05:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044653306409283729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990507506423283713",
+              "start": 0,
+              "username": "katon53615"
+            },
+            {
+              "end": 25,
+              "id": "1887019946145959936",
+              "start": 12,
+              "username": "YanShi279137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044653306409283729",
+        "in_reply_to_user_id": "1990507506423283713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044652869937484208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@katon53615 @YanShi279137 哦不不不，我不研究方法论，我只喜欢批判，其他的我一概不论。我用独属于我自己的理论去看待事物，并对其进行批判或者赞扬，你要是看不惯，可以把我ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466992710846406659",
+        "conversation_id": "2051569387006771532",
+        "created_at": "2026-05-05T10:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051606844993638890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051606844993638890",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051605232539549832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 你这回归分析里面不会只有社会环境因素这一个变量吧😅你又在拿身边样本推总体结论，你是智障吗？你这样本数据代表性、随机性、样本量和来源多样性吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 3537,
+          "like_count": 31893,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 8542
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T04:48:31.000Z",
+        "description": "An idiot and a Wanderer",
+        "id": "1466992710846406659",
+        "location": "New York",
+        "name": "Ethan Van",
+        "pinned_tweet_id": "2006396564361929033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993855232451989506/j7d6dNYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 326,
+          "like_count": 10904,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 915
+        },
+        "username": "elonmusk8964",
+        "verified": false
+      }
+    ]
+  }
+}

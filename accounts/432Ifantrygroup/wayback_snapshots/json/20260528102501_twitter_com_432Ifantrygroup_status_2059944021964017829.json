@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059944021964017829",
+    "created_at": "2026-05-28T10:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059944021964017829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1437318145673502727",
+          "start": 3,
+          "username": "yz4317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059944021964017829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059859247144558910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yz4317: 自从更新自动翻译后，感觉世界人民都一样，努力生活的，娱乐搞笑的，现实的，还有傻逼的人依旧是傻逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059944021964017829",
+        "created_at": "2026-05-28T10:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059944021964017829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1437318145673502727",
+              "start": 3,
+              "username": "yz4317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059944021964017829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059859247144558910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yz4317: 自从更新自动翻译后，感觉世界人民都一样，努力生活的，娱乐搞笑的，现实的，还有傻逼的人依旧是傻逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437318145673502727",
+        "conversation_id": "2059859247144558910",
+        "created_at": "2026-05-28T04:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059859247144558910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059859247144558910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19324,
+          "like_count": 597,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "自从更新自动翻译后，感觉世界人民都一样，努力生活的，娱乐搞笑的，现实的，还有傻逼的人依旧是傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059891680699117741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 3954,
+          "like_count": 39866,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 11051
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T07:32:20.000Z",
+        "description": "只是个社畜罢了",
+        "id": "1437318145673502727",
+        "location": "地球",
+        "name": "法典",
+        "pinned_tweet_id": "2058891782319227366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058895951847436288/3MdIt6yZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7976,
+          "following_count": 284,
+          "like_count": 3960,
+          "listed_count": 23,
+          "media_count": 485,
+          "tweet_count": 1060
+        },
+        "username": "yz4317",
+        "verified": false
+      }
+    ]
+  }
+}

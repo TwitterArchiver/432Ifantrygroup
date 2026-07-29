@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059822464688107977",
+    "created_at": "2026-05-30T04:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060574453583737025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929614208481767424",
+          "start": 0,
+          "username": "julibwun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060574453583737025",
+    "in_reply_to_user_id": "1929614208481767424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060569260020334967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@julibwun 谁不想拥有一个玩偶工厂呢，你说是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059822464688107977",
+        "created_at": "2026-05-30T04:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060574453583737025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929614208481767424",
+              "start": 0,
+              "username": "julibwun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060574453583737025",
+        "in_reply_to_user_id": "1929614208481767424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060569260020334967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@julibwun 谁不想拥有一个玩偶工厂呢，你说是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929614208481767424",
+        "conversation_id": "2059822464688107977",
+        "created_at": "2026-05-30T03:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060569260020334967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060569260020334967",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060375680177881509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 天啊，我全都想抱回家！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060427736322351606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 3989,
+          "like_count": 40549,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 11281
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T19:01:34.000Z",
+        "description": "lyshco",
+        "id": "1929614208481767424",
+        "name": "ًً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060331182920024064/IC7gsBNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 79,
+          "like_count": 27009,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 309
+        },
+        "username": "julibwun",
+        "verified": false
+      }
+    ]
+  }
+}

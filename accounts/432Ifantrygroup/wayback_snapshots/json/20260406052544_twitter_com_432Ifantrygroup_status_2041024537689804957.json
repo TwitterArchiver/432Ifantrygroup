@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041024530915966976"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041024537689804957",
+    "created_at": "2026-04-06T05:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041024537689804957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBBnyx3AJG",
+          "end": 74,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2041024537689804957/photo/1",
+          "media_key": "3_2041024530915966976",
+          "start": 51,
+          "url": "https://t.co/PBBnyx3AJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041024537689804957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有鼻炎，橙子在宿舍的时候一直在折磨我的鼻子，一出来我就流鼻涕，讨厌死了。但它走了之后我反而不习惯了 https://t.co/PBBnyx3AJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041024530915966976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMs_z8awAAfs98.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041024530915966976"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041024537689804957",
+        "created_at": "2026-04-06T05:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041024537689804957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBBnyx3AJG",
+              "end": 74,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2041024537689804957/photo/1",
+              "media_key": "3_2041024530915966976",
+              "start": 51,
+              "url": "https://t.co/PBBnyx3AJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041024537689804957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有鼻炎，橙子在宿舍的时候一直在折磨我的鼻子，一出来我就流鼻涕，讨厌死了。但它走了之后我反而不习惯了 https://t.co/PBBnyx3AJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041006554632392959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 2777,
+          "like_count": 19344,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 5054
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

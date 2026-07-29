@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045480667031429483",
+    "created_at": "2026-04-18T12:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045480817733022103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1292071635072061440",
+          "start": 0,
+          "username": "aeiQ5NP3CdaHpLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045480817733022103",
+    "in_reply_to_user_id": "1292071635072061440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045480667031429483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aeiQ5NP3CdaHpLW 难道不会吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045480667031429483",
+        "created_at": "2026-04-18T12:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045480817733022103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1292071635072061440",
+              "start": 0,
+              "username": "aeiQ5NP3CdaHpLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045480817733022103",
+        "in_reply_to_user_id": "1292071635072061440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045480667031429483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aeiQ5NP3CdaHpLW 难道不会吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1292071635072061440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2045480667031429483",
+        "created_at": "2026-04-18T12:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045480667031429483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2045461336944247167",
+              "start": 44,
+              "url": "https://t.co/KNAULPS9NS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045480667031429483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045461336944247167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得跟性压抑倒没什么关系，尊重不尊重的事了\n\n换成美国人开这种玩笑你会不会说性压抑？ https://t.co/KNAULPS9NS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045461336944247167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 2968,
+          "like_count": 23821,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 6319
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T12:14:25.000Z",
+        "description": "科研人员（习近平新时代思想研究方向）上网是为了看各国短发妹\n\n我们能取得一切成果的原因，在于习近平总书记领航掌舵，在于习近平新时代思想的科学指引——李强总理🥺",
+        "id": "1292071635072061440",
+        "location": "酒精依赖与药物滥用成瘾治疗中心",
+        "name": "🇺🇦🇨🇳网友新鲜的冻鱼🥺",
+        "pinned_tweet_id": "2001881005737808130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677643931851554817/rt9c3J6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 2197,
+          "like_count": 32681,
+          "listed_count": 30,
+          "media_count": 6866,
+          "tweet_count": 44500
+        },
+        "username": "aeiQ5NP3CdaHpLW",
+        "verified": false
+      }
+    ]
+  }
+}

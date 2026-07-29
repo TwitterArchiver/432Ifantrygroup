@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2031394472656052248",
+    "created_at": "2026-03-10T17:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031423139121664274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687683090133778432",
+          "start": 0,
+          "username": "nonsense_778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031423139121664274",
+    "in_reply_to_user_id": "1687683090133778432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031394472656052248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsense_778 地理上看，河北还有个东北大学秦皇岛分校。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2031394472656052248",
+        "created_at": "2026-03-10T17:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031423139121664274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687683090133778432",
+              "start": 0,
+              "username": "nonsense_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031423139121664274",
+        "in_reply_to_user_id": "1687683090133778432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031394472656052248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsense_778 地理上看，河北还有个东北大学秦皇岛分校。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687683090133778432",
+        "conversation_id": "2031394472656052248",
+        "created_at": "2026-03-10T15:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031394472656052248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031394472656052248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4854,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大学生周末去当家教不是一种很普遍而且时薪最高的赚外快方式嘛，我以为全国各地都有这样的模式。直到认识了一个河北的同学，她说河北人从来不请大学生家教。我大惊 问她为什么，她说一 河北小孩不一定有周末；二 河北只有石家庄有大学，其他地方只能请到大专生；三 河北唯一211在天津"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男，汉族。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 2150,
+          "like_count": 4697,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 982
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T04:33:43.000Z",
+        "description": "世界第一清纯女大^_^什么都发👅   自用🪜：https://t.co/kxVuKcyEE9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=nCPSbLW6",
+                "start": 23,
+                "url": "https://t.co/kxVuKcyEE9"
+              }
+            ]
+          }
+        },
+        "id": "1687683090133778432",
+        "location": "Norway",
+        "name": "floating ice🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910967605361336320/A4fpw_S-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29314,
+          "following_count": 96,
+          "like_count": 20775,
+          "listed_count": 79,
+          "media_count": 224,
+          "tweet_count": 4539
+        },
+        "username": "nonsense_778",
+        "verified": true
+      }
+    ]
+  }
+}

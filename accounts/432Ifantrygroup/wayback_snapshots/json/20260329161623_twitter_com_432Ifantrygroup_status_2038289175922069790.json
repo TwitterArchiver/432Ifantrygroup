@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038289175922069790",
+    "created_at": "2026-03-29T16:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038289175922069790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851166889655091202",
+          "start": 3,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038289175922069790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037935400661266736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEERJU2024: 不是？支持性少数和支持无产阶级群众，怎么就非a既b了。就有没有一种可能，性少数的绝大多数人是与无产阶级群众是同一的。因为无产阶级群众、劳动人民占了整个社会的绝大多数。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038289175922069790",
+        "created_at": "2026-03-29T16:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038289175922069790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851166889655091202",
+              "start": 3,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038289175922069790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037935400661266736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEERJU2024: 不是？支持性少数和支持无产阶级群众，怎么就非a既b了。就有没有一种可能，性少数的绝大多数人是与无产阶级群众是同一的。因为无产阶级群众、劳动人民占了整个社会的绝大多数。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851166889655091202",
+        "conversation_id": "2037935400661266736",
+        "created_at": "2026-03-28T16:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037935400661266736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tonghua_me/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/tonghua_me/status/2020773183591534664",
+              "start": 84,
+              "url": "https://t.co/cYQbmk957y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037935400661266736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1577,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020773183591534664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是？支持性少数和支持无产阶级群众，怎么就非a既b了。就有没有一种可能，性少数的绝大多数人是与无产阶级群众是同一的。因为无产阶级群众、劳动人民占了整个社会的绝大多数。 https://t.co/cYQbmk957y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 2654,
+          "like_count": 15086,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3993
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则/\n我在他中直观到作为自我的我自己，然而在他中又直观到一个直接现存着的、作为自我而与我对立的、绝对独立的另一个客体。——黑格尔\n\n/要么是列宁主义，要么不是马克思主义。/Carry the revolution through the end.",
+        "id": "1851166889655091202",
+        "name": "Durkey德耳击（奶龙布莱尔主义）",
+        "pinned_tweet_id": "2005364586413998209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 58,
+          "like_count": 638,
+          "listed_count": 14,
+          "media_count": 580,
+          "tweet_count": 8662
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

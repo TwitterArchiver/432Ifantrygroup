@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046755034113970637",
+    "created_at": "2026-04-22T01:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046769661791060404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559220452467560448",
+          "start": 0,
+          "username": "DanChen81808925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046769661791060404",
+    "in_reply_to_user_id": "1559220452467560448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046769231862370713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanChen81808925 这我知道，不过谢谢你提醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046755034113970637",
+        "created_at": "2026-04-22T01:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046769661791060404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559220452467560448",
+              "start": 0,
+              "username": "DanChen81808925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046769661791060404",
+        "in_reply_to_user_id": "1559220452467560448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046769231862370713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanChen81808925 这我知道，不过谢谢你提醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559220452467560448",
+        "conversation_id": "2046755034113970637",
+        "created_at": "2026-04-22T01:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046769231862370713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046769231862370713",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046755034113970637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这次能醒，之后ta会不会想打500单位，600单位，直到把自己作死?\n你关心ta，还甚至拿上🚪给钱来想办法联系。ta自己不爱自己，怎么办?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046592811408277934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 3112,
+          "like_count": 25765,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 6774
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T16:48:51.000Z",
+        "description": "",
+        "id": "1559220452467560448",
+        "name": "Dan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559220588614647808/afZwwvtl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "DanChen81808925",
+        "verified": false
+      }
+    ]
+  }
+}

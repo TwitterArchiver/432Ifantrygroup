@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036368617659658591",
+    "created_at": "2026-03-24T09:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036374270797029503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773714073676652544",
+          "start": 0,
+          "username": "9jy6op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036374270797029503",
+    "in_reply_to_user_id": "1773714073676652544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036368617659658591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9jy6op 咪咪！😽😽😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25700,
+        "height": 720,
+        "media_key": "13_2036368544292806656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036368544292806656/img/RdbHz26SfVERfZ8P.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036368544292806656/vid/avc1/278x270/Y_FXo7Yo3Y6qsknB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036368544292806656/vid/avc1/370x360/KUXmQg5rX4wYLwkT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036368544292806656/vid/avc1/742x720/vDNWyOYHIvX9vTAY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036368544292806656/pl/yNCC3LKj34i9D-Nh.m3u8"
+          }
+        ],
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036368617659658591",
+        "created_at": "2026-03-24T09:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036374270797029503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773714073676652544",
+              "start": 0,
+              "username": "9jy6op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036374270797029503",
+        "in_reply_to_user_id": "1773714073676652544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036368617659658591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9jy6op 咪咪！😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036368544292806656"
+          ]
+        },
+        "author_id": "1773714073676652544",
+        "conversation_id": "2036368617659658591",
+        "created_at": "2026-03-24T09:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036368617659658591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iaKCx0DmfP",
+              "end": 25,
+              "expanded_url": "https://x.com/9jy6op/status/2036368617659658591/video/1",
+              "media_key": "13_2036368544292806656",
+              "start": 2,
+              "url": "https://t.co/iaKCx0DmfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036368617659658591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫 https://t.co/iaKCx0DmfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2705,
+          "like_count": 11734,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3116
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T14:09:39.000Z",
+        "description": "长发les\n对不起我抽象是因为我的职业",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%91%9C%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%91%9C%E5%91%9C%E5%91%9C%E5%91%9C",
+                "start": 0,
+                "url": "https://t.co/7tBacyXZsD"
+              }
+            ]
+          }
+        },
+        "id": "1773714073676652544",
+        "location": "不认同你的观点但是维护你说话的权力",
+        "name": "甜美商务猫",
+        "pinned_tweet_id": "2031918534767554833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 661,
+          "like_count": 8092,
+          "listed_count": 4,
+          "media_count": 1158,
+          "tweet_count": 24129
+        },
+        "url": "https://t.co/7tBacyXZsD",
+        "username": "9jy6op",
+        "verified": false
+      }
+    ]
+  }
+}

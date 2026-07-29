@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1890339341198659677",
+    "created_at": "2025-02-14T18:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T19:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890468984950075782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "898886325390106625",
+          "start": 0,
+          "username": "Lady_of_Luna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890468984950075782",
+    "in_reply_to_user_id": "898886325390106625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890339341198659677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lady_of_Luna 魔法师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1890339341198659677",
+        "created_at": "2025-02-14T18:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890468984950075782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "898886325390106625",
+              "start": 0,
+              "username": "Lady_of_Luna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890468984950075782",
+        "in_reply_to_user_id": "898886325390106625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890339341198659677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lady_of_Luna 魔法师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890339325352767489"
+          ]
+        },
+        "author_id": "898886325390106625",
+        "conversation_id": "1890339341198659677",
+        "created_at": "2025-02-14T09:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T10:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890339341198659677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RsUAa9G89",
+              "end": 35,
+              "expanded_url": "https://x.com/Lady_of_Luna/status/1890339341198659677/photo/1",
+              "media_key": "3_1890339325352767489",
+              "start": 12,
+              "url": "https://t.co/3RsUAa9G89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890339341198659677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 25307,
+          "like_count": 583,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本人穿衣一向是装逼主义 https://t.co/3RsUAa9G89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 845,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T12:36:15.000Z",
+        "description": "💜这里只有1%的我💟\n不用辛苦翻了，没有黄色。",
+        "id": "898886325390106625",
+        "location": "N109區",
+        "name": "死眠蟲",
+        "pinned_tweet_id": "1440705306732859401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829593556509401088/CuKz2do0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15610,
+          "following_count": 316,
+          "like_count": 198,
+          "listed_count": 59,
+          "media_count": 105,
+          "tweet_count": 257
+        },
+        "username": "Lady_of_Luna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068335092666351616"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068210171206312142",
+    "created_at": "2026-06-20T14:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068335107765858462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787149306740510720",
+          "start": 0,
+          "username": "freeindx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZKulZKCvo5",
+          "end": 52,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2068335107765858462/photo/1",
+          "media_key": "3_2068335092666351616",
+          "start": 29,
+          "url": "https://t.co/ZKulZKCvo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068335107765858462",
+    "in_reply_to_user_id": "1787149306740510720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068210171206312142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freeindx 对于应该如何对付这些人，我的建议是： https://t.co/ZKulZKCvo5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2068335092666351616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQzzuraQAAM9qH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068210156907925504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPCLgtaEAA10UR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068335092666351616"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068210171206312142",
+        "created_at": "2026-06-20T14:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068335107765858462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKulZKCvo5",
+              "end": 52,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2068335107765858462/photo/1",
+              "media_key": "3_2068335092666351616",
+              "start": 29,
+              "url": "https://t.co/ZKulZKCvo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068335107765858462",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068210171206312142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeindx 对于应该如何对付这些人，我的建议是： https://t.co/ZKulZKCvo5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068210156907925504"
+          ]
+        },
+        "author_id": "1787149306740510720",
+        "conversation_id": "2068210171206312142",
+        "created_at": "2026-06-20T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068210171206312142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVnVFr3cgh",
+              "end": 38,
+              "expanded_url": "https://x.com/freeindx/status/2068210171206312142/photo/1",
+              "media_key": "3_2068210156907925504",
+              "start": 15,
+              "url": "https://t.co/mVnVFr3cgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068210171206312142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8692,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支那猪是不是特别司马好绝😂😂 https://t.co/mVnVFr3cgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 4171,
+          "like_count": 43130,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 12192
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061474767157575680/f0WrDFXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 817,
+          "like_count": 7447,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3483
+        },
+        "url": "",
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

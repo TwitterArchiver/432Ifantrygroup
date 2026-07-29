@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+          "id": "955547826368344064",
+          "name": "Violence & safety in Brazil"
+        }
+      }
+    ],
+    "conversation_id": "2062237907193327689",
+    "created_at": "2026-06-03T18:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062237907193327689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "59150875",
+          "start": 3,
+          "username": "reporterenato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062237907193327689",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 653
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061997303313858849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reporterenato: O Senado obriga vítimas de estupro a manterem a gravidez, ao mesmo tempo, trava a votação da PEC 6X1 e quer criar a jorn…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062237907193327689",
+        "created_at": "2026-06-03T18:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062237907193327689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "59150875",
+              "start": 3,
+              "username": "reporterenato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062237907193327689",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 653
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061997303313858849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reporterenato: O Senado obriga vítimas de estupro a manterem a gravidez, ao mesmo tempo, trava a votação da PEC 6X1 e quer criar a jorn…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "59150875",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Os presidentes da Câmara, Arthur Lira (PP-AL), e do Senado, Rodrigo Pacheco (PSD-MG), anunciaram um acordo sobre como será a nova tramitação da Proposta de Emenda Constitucional (PEC) 23/2021. A PEC modifica a regra de pagamento dos precatórios, altera o prazo de correção do IPCA sobre o teto dos gastos e abre espaço para o pagamento de R$ 400 aos beneficiários do Auxílio Brasil (antigo Bolsa Família).\n\nAcompanhe abaixo os Tweets de veículos de imprensa, jornalistas e congressistas. Os Tweets são detectados por algoritmo:",
+              "id": "1468367710786506753",
+              "name": "Congresso chega a acordo e PEC dos Precatórios será promulgada"
+            }
+          }
+        ],
+        "conversation_id": "2061997303313858849",
+        "created_at": "2026-06-03T02:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061997303313858849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061997303313858849",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "O Senado obriga vítimas de estupro a manterem a gravidez, ao mesmo tempo, trava a votação da PEC 6X1 e quer criar a jornada 7X0. É necessário que os senadores sintam o peso da força do povo. Se mantiverem esse comportamento, é necessário que tenham seus mandatos enterrados pelo eleitor."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 24844,
+          "like_count": 3275,
+          "quote_count": 13,
+          "reply_count": 47,
+          "retweet_count": 653
+        },
+        "reply_settings": "everyone",
+        "text": "O Senado obriga vítimas de estupro a manterem a gravidez, ao mesmo tempo, trava a votação da PEC 6X1 e quer criar a jornada 7X0. É necessário que os senadores sintam o peso da força do povo. Se mantiverem esse comportamento, é necessário que tenham seus mandatos enterrados pelo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 42001,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11723
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-22T15:13:57.000Z",
+        "description": "Repórter de política, em Brasília. Setorista de Judiciário. Pós-graduando em perícia cibernética.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/reporterenato?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/reporterenato?igsh=MWtteTZrY2RwYTVubg==",
+                "start": 0,
+                "url": "https://t.co/EFFNRRXMcy"
+              }
+            ]
+          }
+        },
+        "id": "59150875",
+        "location": "Brasília, Brazil",
+        "name": "Renato Souza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251957093168529414/Y_Q_66is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150913,
+          "following_count": 3439,
+          "like_count": 176497,
+          "listed_count": 592,
+          "media_count": 5669,
+          "tweet_count": 65372
+        },
+        "url": "https://t.co/EFFNRRXMcy",
+        "username": "reporterenato",
+        "verified": true
+      }
+    ]
+  }
+}

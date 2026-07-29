@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2029488676384932324",
+    "created_at": "2026-03-06T10:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029862017138565535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017977830093860864",
+          "start": 0,
+          "username": "finoa0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029862017138565535",
+    "in_reply_to_user_id": "2017977830093860864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029488676384932324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finoa0726 没毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2029488676384932324",
+        "created_at": "2026-03-06T10:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029862017138565535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017977830093860864",
+              "start": 0,
+              "username": "finoa0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029862017138565535",
+        "in_reply_to_user_id": "2017977830093860864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029488676384932324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finoa0726 没毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017977830093860864",
+        "conversation_id": "2029488676384932324",
+        "created_at": "2026-03-05T09:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029488676384932324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029488676384932324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 97821,
+          "like_count": 1189,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "老师站在讲台上得意洋洋的说自己吃到了时代红利，说我们吃不到了。哦哦哦，你看我教评给不给你打低分就完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 1793,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 480
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T15:06:43.000Z",
+        "description": "嘴比刀利，少惹我。\n搬我文案默认献祭九族，穷一辈子。\n匿名信箱：https://t.co/uZtwuOhmAj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finoa0726",
+                "end": 55,
+                "expanded_url": "https://ngl.link/finoa0726",
+                "start": 32,
+                "url": "https://t.co/uZtwuOhmAj"
+              }
+            ]
+          }
+        },
+        "id": "2017977830093860864",
+        "name": "就把祝福别在襟上吧。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017990376460800000/FgPb_TqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 89,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1411
+        },
+        "username": "finoa0726",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2032852429092565172",
+    "created_at": "2026-03-14T16:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032852429092565172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1808903457929412608",
+          "start": 3,
+          "username": "serdocardu2986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032852429092565172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032532030584487957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @serdocardu2986: 关于现在年轻女孩天天纠结母女关系、讲什么“恨海情天”，拯救者情结发作……我在想：\n\n中国人有哪吒情结——总是想要剔骨还肉，“偿还”母父的“恩情”。好像身上背着很重的债务，不能做自己，必须打碎骨血脱掉一层皮，好像这样才能够得到大赦去做自己。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2032852429092565172",
+        "created_at": "2026-03-14T16:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032852429092565172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1808903457929412608",
+              "start": 3,
+              "username": "serdocardu2986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032852429092565172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032532030584487957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @serdocardu2986: 关于现在年轻女孩天天纠结母女关系、讲什么“恨海情天”，拯救者情结发作……我在想：\n\n中国人有哪吒情结——总是想要剔骨还肉，“偿还”母父的“恩情”。好像身上背着很重的债务，不能做自己，必须打碎骨血脱掉一层皮，好像这样才能够得到大赦去做自己。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808903457929412608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2032532030584487957",
+        "created_at": "2026-03-13T18:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032532030584487957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032532030584487957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1595,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于现在年轻女孩天天纠结母女关系、讲什么“恨海情天”，拯救者情结发作……我在想：\n\n中国人有哪吒情结——总是想要剔骨还肉，“偿还”母父的“恩情”。好像身上背着很重的债务，不能做自己，必须打碎骨血脱掉一层皮，好像这样才能够得到大赦去做自己。\n\n但是你都搞女权了啊，你应该知道：你就该直接做自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 2287,
+          "like_count": 6578,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1634
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T16:39:38.000Z",
+        "description": "",
+        "id": "1808903457929412608",
+        "name": "serdocardu",
+        "pinned_tweet_id": "2027479635634598003",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 8,
+          "like_count": 2054,
+          "listed_count": 9,
+          "media_count": 11,
+          "tweet_count": 1664
+        },
+        "username": "serdocardu2986",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068212284481241303",
+    "created_at": "2026-06-20T06:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068212284481241303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/biologia_braba…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/biologia_braba/status/2067913693665374229",
+          "start": 5,
+          "url": "https://t.co/ivZu3kJsZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068212284481241303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067913693665374229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/ivZu3kJsZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5803,
+        "height": 756,
+        "media_key": "13_2067913684676919296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067913684676919296/img/07EHeHVHJS7_i1Y4.jpg",
+        "public_metrics": {
+          "view_count": 1295161
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067913684676919296/vid/avc1/320x336/e0jN5l-sAg3f_dNr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067913684676919296/vid/avc1/480x504/lkP3vYBlqBjrul30.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067913684676919296/vid/avc1/720x756/v92hZOAeSpWYMg5w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067913684676919296/pl/l1bZZgtjOUW7f4BP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068212284481241303",
+        "created_at": "2026-06-20T06:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068212284481241303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/biologia_braba…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/biologia_braba/status/2067913693665374229",
+              "start": 5,
+              "url": "https://t.co/ivZu3kJsZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068212284481241303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067913693665374229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/ivZu3kJsZH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067913684676919296"
+          ]
+        },
+        "author_id": "1337528834078470144",
+        "conversation_id": "2067913693665374229",
+        "created_at": "2026-06-19T10:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067913693665374229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyzI7fMWg0",
+              "end": 85,
+              "expanded_url": "https://x.com/biologia_braba/status/2067913693665374229/video/1",
+              "media_key": "13_2067913684676919296",
+              "start": 62,
+              "url": "https://t.co/eyzI7fMWg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067913693665374229",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9036,
+          "impression_count": 3543047,
+          "like_count": 51935,
+          "quote_count": 1110,
+          "reply_count": 1148,
+          "retweet_count": 5904
+        },
+        "reply_settings": "everyone",
+        "text": "Filho da puta sabe muito, pé nas costas e tapa na bunda FODA! https://t.co/eyzI7fMWg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 4162,
+          "like_count": 43045,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 12164
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T22:45:06.000Z",
+        "description": "Socar conhecimento no seu cu é meu entretenimento . . . ㅤ ㅤㅤ contato comercial: contato.biologiabraba@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bio_braba/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bio_braba/",
+                "start": 0,
+                "url": "https://t.co/ts0tMJPAog"
+              }
+            ]
+          }
+        },
+        "id": "1337528834078470144",
+        "location": "Brasil",
+        "name": "Biologia Braba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578161764310470656/WsVrxpHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699604,
+          "following_count": 324,
+          "like_count": 1943,
+          "listed_count": 252,
+          "media_count": 2099,
+          "tweet_count": 6249
+        },
+        "url": "https://t.co/ts0tMJPAog",
+        "username": "biologia_braba",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047511704754667520"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047511715248755150",
+    "created_at": "2026-04-24T03:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047511715248755150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrLf5S8gzI",
+          "end": 54,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2047511715248755150/photo/1",
+          "media_key": "3_2047511704754667520",
+          "start": 31,
+          "url": "https://t.co/yrLf5S8gzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047511715248755150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马斯克更新了个啥？2.8k查看是什么意思，那不是2.8万吗？ https://t.co/yrLf5S8gzI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047511704754667520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo5DBtbQAABoSq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047511704754667520"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047511715248755150",
+        "created_at": "2026-04-24T03:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047511715248755150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrLf5S8gzI",
+              "end": 54,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2047511715248755150/photo/1",
+              "media_key": "3_2047511704754667520",
+              "start": 31,
+              "url": "https://t.co/yrLf5S8gzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047511715248755150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克更新了个啥？2.8k查看是什么意思，那不是2.8万吗？ https://t.co/yrLf5S8gzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 3184,
+          "like_count": 26969,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 7088
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

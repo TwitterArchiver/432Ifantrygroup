@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046784632344183049",
+    "created_at": "2026-04-22T02:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046784632344183049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chuanle124172/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/chuanle124172/status/2046784341661888876",
+          "start": 15,
+          "url": "https://t.co/kVICzRUJwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046784632344183049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046784341661888876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种我认为已经不能称之为人了 https://t.co/kVICzRUJwr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046784632344183049",
+        "created_at": "2026-04-22T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046784632344183049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chuanle124172/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/chuanle124172/status/2046784341661888876",
+              "start": 15,
+              "url": "https://t.co/kVICzRUJwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046784632344183049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046784341661888876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种我认为已经不能称之为人了 https://t.co/kVICzRUJwr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899070065305325568",
+        "conversation_id": "2046594930265801077",
+        "created_at": "2026-04-22T02:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046784341661888876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046784341661888876",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046594930265801077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 好似喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046592811408277934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 3113,
+          "like_count": 25787,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 6781
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:09:31.000Z",
+        "description": "",
+        "id": "1899070065305325568",
+        "name": "chuanle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977212461150343168/50G3xI1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 161
+        },
+        "username": "chuanle124172",
+        "verified": false
+      }
+    ]
+  }
+}

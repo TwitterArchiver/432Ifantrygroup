@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043695126544060417",
+        "3_2043695125604528128"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043695138355179834",
+    "created_at": "2026-04-13T14:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043695138355179834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3jJMbLgftX",
+          "end": 48,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2043695138355179834/photo/1",
+          "media_key": "3_2043695126544060417",
+          "start": 25,
+          "url": "https://t.co/3jJMbLgftX"
+        },
+        {
+          "display_url": "pic.x.com/3jJMbLgftX",
+          "end": 48,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2043695138355179834/photo/1",
+          "media_key": "3_2043695125604528128",
+          "start": 25,
+          "url": "https://t.co/3jJMbLgftX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043695138355179834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是抖音你他妈卖什么呢？这玩意都能摆到明面上了？ https://t.co/3jJMbLgftX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043695126544060417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyp477bEAEIh6w.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043695125604528128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyp44ba8AA6rPv.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043695126544060417",
+            "3_2043695125604528128"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043695138355179834",
+        "created_at": "2026-04-13T14:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043695138355179834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jJMbLgftX",
+              "end": 48,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043695138355179834/photo/1",
+              "media_key": "3_2043695126544060417",
+              "start": 25,
+              "url": "https://t.co/3jJMbLgftX"
+            },
+            {
+              "display_url": "pic.x.com/3jJMbLgftX",
+              "end": 48,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2043695138355179834/photo/1",
+              "media_key": "3_2043695125604528128",
+              "start": 25,
+              "url": "https://t.co/3jJMbLgftX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043695138355179834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是抖音你他妈卖什么呢？这玩意都能摆到明面上了？ https://t.co/3jJMbLgftX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2043608747449500052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 2900,
+          "like_count": 22186,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 5797
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

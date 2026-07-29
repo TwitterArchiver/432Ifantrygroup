@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2028040475354026118",
+    "created_at": "2026-03-01T10:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028060090084003927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "724707287596732416",
+          "start": 0,
+          "username": "RupprechtDeino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028060090084003927",
+    "in_reply_to_user_id": "724707287596732416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028040475354026118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RupprechtDeino 对于中国陆军的体量来说，130架还差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2028039123559124993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUK1n5WEAEhvXw.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2028040475354026118",
+        "created_at": "2026-03-01T10:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028060090084003927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "724707287596732416",
+              "start": 0,
+              "username": "RupprechtDeino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028060090084003927",
+        "in_reply_to_user_id": "724707287596732416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028040475354026118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RupprechtDeino 对于中国陆军的体量来说，130架还差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028039123559124993"
+          ]
+        },
+        "author_id": "724707287596732416",
+        "conversation_id": "2028040475354026118",
+        "created_at": "2026-03-01T09:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028040475354026118"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "Transport Division",
+              "probability": 0.5436,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "37th Air Regiment",
+              "probability": 0.518,
+              "start": 94,
+              "type": "Other"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Kaifeng",
+              "probability": 0.5169,
+              "start": 126,
+              "type": "Place"
+            },
+            {
+              "end": 156,
+              "normalized_text": "MRTT",
+              "probability": 0.5047,
+              "start": 153,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZY2K0NoDfX",
+              "end": 241,
+              "expanded_url": "https://x.com/RupprechtDeino/status/2028040475354026118/photo/1",
+              "media_key": "3_2028039123559124993",
+              "start": 218,
+              "url": "https://t.co/ZY2K0NoDfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028040475354026118",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3367,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Another Y-20B MRTT is confirmed! Serial number 20441 assigned to the 13th Transport Division, 37th Air Regiment(CTC) based at Kaifeng.\n\nOverall the 10th MRTT confirmed from likely already at least 13 within this unit. https://t.co/ZY2K0NoDfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 1739,
+          "like_count": 3165,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 435
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-25T21:10:56.000Z",
+        "description": "China military aviation researcher, news writers, book author and OSINT analyst. \n#PLAAF #PLAN Naval Aviation #PLA #ArmyAviation",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 82,
+                "tag": "PLAAF"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "PLAN"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "PLA"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "tag": "ArmyAviation"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/Modern-Chinese…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/Modern-Chinese-Warplanes-611223845748378/?fref=ts",
+                "start": 0,
+                "url": "https://t.co/obmdWPcHSg"
+              }
+            ]
+          }
+        },
+        "id": "724707287596732416",
+        "location": "Germany / Deutschland",
+        "name": "@Rupprecht_A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230483738271764486/Vm2jFA8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82460,
+          "following_count": 674,
+          "like_count": 25680,
+          "listed_count": 985,
+          "media_count": 10842,
+          "tweet_count": 32960
+        },
+        "url": "https://t.co/obmdWPcHSg",
+        "username": "RupprechtDeino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1836746353986220495",
+    "created_at": "2025-03-14T16:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T17:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900589624206274980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694956030176927745",
+          "start": 0,
+          "username": "Blacked157004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900589624206274980",
+    "in_reply_to_user_id": "1694956030176927745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836746353986220495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blacked157004 有没有好的牌子可以推荐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1836746353986220495",
+        "created_at": "2025-03-14T16:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T17:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900589624206274980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1694956030176927745",
+              "start": 0,
+              "username": "Blacked157004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900589624206274980",
+        "in_reply_to_user_id": "1694956030176927745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836746353986220495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blacked157004 有没有好的牌子可以推荐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694956030176927745",
+        "conversation_id": "1836746353986220495",
+        "created_at": "2024-09-19T12:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T13:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836746353986220495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836746353986220495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢喝椰子水！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "Sun and Moon ，Mountain and eternity will live forever；the Ming Empire will live forever ！",
+        "id": "1852895432269234176",
+        "name": "日月山河永在",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892816036246016003/ZEOoGSRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 976,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T06:13:09.000Z",
+        "description": "",
+        "id": "1694956030176927745",
+        "name": "缘为冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857750533676908544/Teza-5wV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 20,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "username": "Blacked157004",
+        "verified": false
+      }
+    ]
+  }
+}

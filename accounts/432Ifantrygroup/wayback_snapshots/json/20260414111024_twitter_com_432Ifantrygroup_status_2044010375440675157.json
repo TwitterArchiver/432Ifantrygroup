@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044010366976528384",
+        "3_2044010366523617280"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2044010375440675157",
+    "created_at": "2026-04-14T11:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044010375440675157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6p1mTIo0S",
+          "end": 35,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2044010375440675157/photo/1",
+          "media_key": "3_2044010366976528384",
+          "start": 12,
+          "url": "https://t.co/a6p1mTIo0S"
+        },
+        {
+          "display_url": "pic.x.com/a6p1mTIo0S",
+          "end": 35,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2044010375440675157/photo/1",
+          "media_key": "3_2044010366523617280",
+          "start": 12,
+          "url": "https://t.co/a6p1mTIo0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044010375440675157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操啊这种应该怎么办啊 https://t.co/a6p1mTIo0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044010366976528384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3ImWDaEAAnctC.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044010366523617280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3ImUXbMAACtYq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044010366976528384",
+            "3_2044010366523617280"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044010375440675157",
+        "created_at": "2026-04-14T11:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044010375440675157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6p1mTIo0S",
+              "end": 35,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2044010375440675157/photo/1",
+              "media_key": "3_2044010366976528384",
+              "start": 12,
+              "url": "https://t.co/a6p1mTIo0S"
+            },
+            {
+              "display_url": "pic.x.com/a6p1mTIo0S",
+              "end": 35,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2044010375440675157/photo/1",
+              "media_key": "3_2044010366523617280",
+              "start": 12,
+              "url": "https://t.co/a6p1mTIo0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044010375440675157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操啊这种应该怎么办啊 https://t.co/a6p1mTIo0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2044008081106055514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 2909,
+          "like_count": 22350,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 5832
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

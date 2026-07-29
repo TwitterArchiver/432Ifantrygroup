@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041711088560218294",
+    "created_at": "2026-04-08T02:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041711276733427975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634143760690057216",
+          "start": 0,
+          "username": "Akiscara_6484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041711276733427975",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041711088560218294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_6484 你爸逮谁打谁啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2568,
+        "height": 960,
+        "media_key": "7_2041711071036370946",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041711071036370946/pu/img/2Llj8jX345Rcqzl3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041711071036370946/pu/vid/avc1/320x426/EXpdaqsZhn7YR6-0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041711071036370946/pu/vid/avc1/480x640/DFNMw44dxVvJ-FUq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041711071036370946/pu/vid/avc1/720x960/6N_J1p5wEQ7uTJjE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041711071036370946/pu/pl/sQalSgiKBNWi7kmM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2744,
+        "height": 960,
+        "media_key": "7_2041711072651161600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041711072651161600/pu/img/JAOqPSEiq6SL9NDC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041711072651161600/pu/vid/avc1/320x426/VSNQd8q9jC41WfTp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041711072651161600/pu/vid/avc1/480x640/rNUMw5t7b8YWSRUk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041711072651161600/pu/vid/avc1/720x960/AxjgKUhtIxFSf3Yy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041711072651161600/pu/pl/EDDIEDydsVaRn7Tg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041711088560218294",
+        "created_at": "2026-04-08T02:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041711276733427975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041711276733427975",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041711088560218294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 你爸逮谁打谁啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041711071036370946",
+            "7_2041711072651161600"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "conversation_id": "2041711088560218294",
+        "created_at": "2026-04-08T02:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041711088560218294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8XsbFlFUi",
+              "end": 64,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2041711088560218294/video/1",
+              "media_key": "7_2041711071036370946",
+              "start": 41,
+              "url": "https://t.co/c8XsbFlFUi"
+            },
+            {
+              "display_url": "pic.x.com/c8XsbFlFUi",
+              "end": 64,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2041711088560218294/video/1",
+              "media_key": "7_2041711072651161600",
+              "start": 41,
+              "url": "https://t.co/c8XsbFlFUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041711088560218294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离开家几天了之后给我当杂物间了，还给我把房间弄得好乱。弟弟房间的桌子也被踹坏了。 https://t.co/c8XsbFlFUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041499030333919302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 2859,
+          "like_count": 20479,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 5376
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/负能量/坏小孩/抽烟/阴暗扭曲的爬行（家有男友）\n//@Akiscara_3405姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "1998487633635455337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037558583244787712/HZswp8BH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 93,
+          "like_count": 6042,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1458
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

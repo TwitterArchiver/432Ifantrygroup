@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2067332332017861074",
+    "created_at": "2026-06-26T08:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070422982879801587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066192052552134656",
+          "start": 0,
+          "username": "Victor585j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070422982879801587",
+    "in_reply_to_user_id": "2066192052552134656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068001271077097891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor585j 我是瘦子来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2067332332017861074",
+        "created_at": "2026-06-26T08:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070422982879801587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066192052552134656",
+              "start": 0,
+              "username": "Victor585j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070422982879801587",
+        "in_reply_to_user_id": "2066192052552134656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068001271077097891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor585j 我是瘦子来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066192052552134656",
+        "conversation_id": "2067332332017861074",
+        "created_at": "2026-06-19T16:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068001271077097891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068001271077097891",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067332332017861074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这么壮？！我只有180出头，体重140斤-，相比之下跟个男娘似的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 4203,
+          "like_count": 44048,
+          "listed_count": 4,
+          "media_count": 526,
+          "tweet_count": 12497
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T16:13:26.000Z",
+        "description": "亲共？没问题！反共？没问题！支持LGBT？没问题！反LGBT？没问题！左？没问题！右？没问题！你支持什么和反对什么都没问题！如果你反对我，那么你是对的👍上网都是图乐子的你让让我😭😭😭",
+        "id": "2066192052552134656",
+        "location": "东京 台东区",
+        "name": "大ULC帝国陆军-G11",
+        "pinned_tweet_id": "2066911933975113745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066193161089888256/7wJMJ5tO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 176,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "Victor585j",
+        "verified": false
+      }
+    ]
+  }
+}

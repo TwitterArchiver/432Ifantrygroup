@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1934510730746974480",
+    "created_at": "2025-08-09T12:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954151987907359129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "393469257",
+          "start": 0,
+          "username": "hujiaozi366"
+        },
+        {
+          "end": 24,
+          "id": "1526018966707179520",
+          "start": 13,
+          "username": "SexytoBaby"
+        },
+        {
+          "end": 36,
+          "id": "1651581863851610112",
+          "start": 25,
+          "username": "SexytoLady"
+        },
+        {
+          "end": 48,
+          "id": "1692492982187114497",
+          "start": 37,
+          "username": "SexytoDoll"
+        },
+        {
+          "end": 60,
+          "id": "1757780025032802304",
+          "start": 49,
+          "username": "SexytoGirl"
+        },
+        {
+          "end": 69,
+          "id": "1655156808",
+          "start": 61,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954151987907359129",
+    "in_reply_to_user_id": "393469257",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934510730746974480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hujiaozi366 @SexytoBaby @SexytoLady @SexytoDoll @SexytoGirl @GetXBot"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [SexytoLady].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "SexytoLady",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "SexytoLady"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68452,
+        "height": 1280,
+        "media_key": "13_1934510618100559872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934510618100559872/img/FxpQteIS0K4JJ40x.jpg",
+        "public_metrics": {
+          "view_count": 1226809
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934510618100559872/vid/avc1/320x568/qJunl2_oN4K6LhPS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934510618100559872/vid/avc1/480x852/nv14KS_XH9I_CK3l.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934510618100559872/vid/avc1/720x1280/VH1GVg_IW3Q1i8DY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934510618100559872/pl/EF3OaZRL2WcqlbIB.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1934510730746974480",
+        "created_at": "2025-08-09T12:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954151987907359129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "393469257",
+              "start": 0,
+              "username": "hujiaozi366"
+            },
+            {
+              "end": 24,
+              "id": "1526018966707179520",
+              "start": 13,
+              "username": "SexytoBaby"
+            },
+            {
+              "end": 36,
+              "id": "1651581863851610112",
+              "start": 25,
+              "username": "SexytoLady"
+            },
+            {
+              "end": 48,
+              "id": "1692492982187114497",
+              "start": 37,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 60,
+              "id": "1757780025032802304",
+              "start": 49,
+              "username": "SexytoGirl"
+            },
+            {
+              "end": 69,
+              "id": "1655156808",
+              "start": 61,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954151987907359129",
+        "in_reply_to_user_id": "393469257",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934510730746974480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hujiaozi366 @SexytoBaby @SexytoLady @SexytoDoll @SexytoGirl @GetXBot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934510618100559872"
+          ]
+        },
+        "author_id": "393469257",
+        "conversation_id": "1934510730746974480",
+        "created_at": "2025-06-16T07:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T08:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934510730746974480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1526018966707179520",
+              "start": 8,
+              "username": "SexytoBaby"
+            },
+            {
+              "end": 31,
+              "id": "1651581863851610112",
+              "start": 20,
+              "username": "SexytoLady"
+            },
+            {
+              "end": 43,
+              "id": "1692492982187114497",
+              "start": 32,
+              "username": "SexytoDoll"
+            },
+            {
+              "end": 55,
+              "id": "1757780025032802304",
+              "start": 44,
+              "username": "SexytoGirl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PvFd611WHz",
+              "end": 79,
+              "expanded_url": "https://x.com/hujiaozi366/status/1934510730746974480/video/1",
+              "media_key": "13_1934510618100559872",
+              "start": 56,
+              "url": "https://t.co/PvFd611WHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934510730746974480",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 26867,
+          "impression_count": 4437014,
+          "like_count": 78599,
+          "quote_count": 26,
+          "reply_count": 208,
+          "retweet_count": 10542
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai💦\n@SexytoBaby\n@SexytoLady\n@SexytoDoll\n@SexytoGirl https://t.co/PvFd611WHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1171,
+          "like_count": 2663,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 135
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-18T15:47:04.000Z",
+        "description": "大号冻结，唯一账号\n已过日理万姬认证\nVX有🚪",
+        "id": "393469257",
+        "name": "胡椒籽✨",
+        "pinned_tweet_id": "1954068069992870110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925418768312000512/WGKq2VsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90441,
+          "following_count": 1,
+          "like_count": 55,
+          "listed_count": 189,
+          "media_count": 47,
+          "tweet_count": 68
+        },
+        "username": "hujiaozi366",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T01:57:41.000Z",
+        "description": "全球cos外围找梵高👉 @FanGao2019｜Cos圈Ww真人真照@niuniucos1｜C圈外围质量最高找@XinYiCos00｜全球定制约会竹心👉@ZhuCosWW｜推特最佳Cos外围找👉🏻@tzcos｜全网粉丝最高外围找👉@chacoser01｜推特最佳Cos外围中介@tuanCosWW01｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "FanGao2019"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 104,
+                "start": 98,
+                "username": "tzcos"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "chacoser01"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "tuanCosWW01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/JY9ehlw7Tn"
+              }
+            ]
+          }
+        },
+        "id": "1526018966707179520",
+        "location": "👇🏻日理万姬验证100%原创福利姬tg社区 - 💜",
+        "name": "日理万姬💕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629420639093391361/xzUvlZ-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885001,
+          "following_count": 1883,
+          "like_count": 5411,
+          "listed_count": 2445,
+          "media_count": 276,
+          "tweet_count": 78719
+        },
+        "url": "https://t.co/JY9ehlw7Tn",
+        "username": "SexytoBaby",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-08-18T11:05:58.000Z",
+        "description": "推特最佳Cos外围中介@tuanCosWW01｜全网粉丝最高外围找@chacoser01｜Cos圈Ww真人真照@niuniucos1｜全球定制约会找竹心👉@ZhuCosWW｜玩高端外围真人真照找@kkcosww888｜C圈外围质量最高找🕵🏻‍♂️@XinYiCos00｜全球cos外围找梵@fangao2019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "chacoser01"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "kkcosww888"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 155,
+                "start": 144,
+                "username": "fangao2019"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/FPT7vGPnwS"
+              }
+            ]
+          }
+        },
+        "id": "1692492982187114497",
+        "location": "👇🏻佳丽三千验证100%原创福利姬tg社区 - 💜",
+        "name": "佳丽三千💕",
+        "pinned_tweet_id": "1950818897491370248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868707800966406144/WjRspQZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021118,
+          "following_count": 23,
+          "like_count": 133,
+          "listed_count": 1843,
+          "media_count": 9,
+          "tweet_count": 37029
+        },
+        "url": "https://t.co/FPT7vGPnwS",
+        "username": "SexytoDoll",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T14:53:19.000Z",
+        "description": "推特最佳Cos外围中介@tuanCosWW01｜全网粉丝最高外围找@chacoser01｜Cos圈Ww真人真照@niuniucos1｜全球定制约会找竹心👉@ZhuCosWW｜玩高端外围真人真照找@kkcosww888｜C圈外围质量最高找🕵🏻‍♂️@XinYiCos00｜全球cos外围找梵高@FanGao2019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "chacoser01"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "niuniucos1"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "ZhuCosWW"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "kkcosww888"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "FanGao2019"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Sextobaby7",
+                "end": 23,
+                "expanded_url": "https://t.me/Sextobaby7",
+                "start": 0,
+                "url": "https://t.co/mBM5kM9vLc"
+              }
+            ]
+          }
+        },
+        "id": "1757780025032802304",
+        "location": "👇🏻千娇百媚验证100%原创福利姬tg社区 - 💜",
+        "name": "千娇百媚💕",
+        "pinned_tweet_id": "1950818851660439635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868404081565499392/uRXweOTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025703,
+          "following_count": 24,
+          "like_count": 220,
+          "listed_count": 2167,
+          "media_count": 0,
+          "tweet_count": 35976
+        },
+        "url": "https://t.co/mBM5kM9vLc",
+        "username": "SexytoGirl",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "1926122359926223224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83091,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 39,
+          "media_count": 1,
+          "tweet_count": 108823
+        },
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

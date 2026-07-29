@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1846901974299770970",
+    "created_at": "2024-12-12T16:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T17:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867244344908083555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818615851693867008",
+          "start": 0,
+          "username": "jing555509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867244344908083555",
+    "in_reply_to_user_id": "1818615851693867008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846901974299770970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jing555509 学物化生的就没这个烦恼，9331你就算去吧😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1846901974299770970",
+        "created_at": "2024-12-12T16:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T17:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867244344908083555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818615851693867008",
+              "start": 0,
+              "username": "jing555509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867244344908083555",
+        "in_reply_to_user_id": "1818615851693867008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846901974299770970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jing555509 学物化生的就没这个烦恼，9331你就算去吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1846901961087729664"
+          ]
+        },
+        "author_id": "1818615851693867008",
+        "conversation_id": "1846901974299770970",
+        "created_at": "2024-10-17T13:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T14:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846901974299770970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSl3mn2lai",
+              "end": 32,
+              "expanded_url": "https://x.com/jing555509/status/1846901974299770970/photo/1",
+              "media_key": "3_1846901961087729664",
+              "start": 9,
+              "url": "https://t.co/qSl3mn2lai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846901974299770970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 256363,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是谁的DNA动了 https://t.co/qSl3mn2lai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 325,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T11:53:13.000Z",
+        "description": "是infp 不定时发骚 喜欢有礼貌的 本人无电报推广自辩！！！！！19.9加q 私信支付宝口令🚪 只回口令",
+        "id": "1818615851693867008",
+        "name": "江江江",
+        "pinned_tweet_id": "1867194166540997109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818616145047605248/zbzaSQ_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20278,
+          "following_count": 53,
+          "like_count": 1,
+          "listed_count": 31,
+          "media_count": 12,
+          "tweet_count": 244
+        },
+        "username": "jing555509",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2031787346920948080",
+    "created_at": "2026-03-11T17:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031788326999769185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472640761397010432",
+          "start": 0,
+          "username": "anianiu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031788326999769185",
+    "in_reply_to_user_id": "1472640761397010432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031787498356252811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anianiu1 deepseek这个可视化思考过程真的很有人情味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2031787346920948080",
+        "created_at": "2026-03-11T17:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031788326999769185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472640761397010432",
+              "start": 0,
+              "username": "anianiu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031788326999769185",
+        "in_reply_to_user_id": "1472640761397010432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031787498356252811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anianiu1 deepseek这个可视化思考过程真的很有人情味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472640761397010432",
+        "conversation_id": "2031787346920948080",
+        "created_at": "2026-03-11T17:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031787498356252811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031787498356252811",
+        "in_reply_to_user_id": "1472640761397010432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031787346920948080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我离不开deepseek了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 2199,
+          "like_count": 5172,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1164
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T18:51:47.000Z",
+        "description": "看到简介的人每天都开心^ω^",
+        "id": "1472640761397010432",
+        "name": "六角龙",
+        "pinned_tweet_id": "2024122861305384992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833455168538742787/e2tNeN5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11409,
+          "following_count": 516,
+          "like_count": 6675,
+          "listed_count": 26,
+          "media_count": 310,
+          "tweet_count": 7699
+        },
+        "username": "anianiu1",
+        "verified": false
+      }
+    ]
+  }
+}

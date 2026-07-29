@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2031209647978455176",
+    "created_at": "2026-03-10T11:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T12:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031327313435226521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005276268145868800",
+          "start": 0,
+          "username": "NanyL_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031327313435226521",
+    "in_reply_to_user_id": "2005276268145868800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031209647978455176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@NanyL_1 贵，如果是秋装夏装的话，三四百的羽绒服没法穿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2031209647978455176",
+        "created_at": "2026-03-10T11:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031327313435226521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005276268145868800",
+              "start": 0,
+              "username": "NanyL_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031327313435226521",
+        "in_reply_to_user_id": "2005276268145868800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031209647978455176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@NanyL_1 贵，如果是秋装夏装的话，三四百的羽绒服没法穿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005276268145868800",
+        "conversation_id": "2031209647978455176",
+        "created_at": "2026-03-10T03:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031209647978455176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031209647978455176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 533,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我很好奇，大家觉得三四百的上衣和两三百的裙装裤装价格合理吗。或许是我太穷了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男，汉族。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2030638745322750332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 2138,
+          "like_count": 4588,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 930
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T13:55:03.000Z",
+        "description": "我恨君生早｜不混圈 只围观 很好说话，王梦王粉快来和我互fo 在我底下骂王洪文的你们全家都死了💗",
+        "id": "2005276268145868800",
+        "name": "難",
+        "pinned_tweet_id": "2011856362792476776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015412429434540032/70nzx_TS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 265,
+          "like_count": 9824,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 2565
+        },
+        "username": "NanyL_1",
+        "verified": false
+      }
+    ]
+  }
+}

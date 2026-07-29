@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068314780650332487",
+    "created_at": "2026-06-20T15:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068359025822187939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846949815755984897",
+          "start": 0,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068359025822187939",
+    "in_reply_to_user_id": "1846949815755984897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068314780650332487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miller239374 我从来没听说过有什么权利是能在不争取权力的前提下就能得到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068314780650332487",
+        "created_at": "2026-06-20T15:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068359025822187939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846949815755984897",
+              "start": 0,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068359025822187939",
+        "in_reply_to_user_id": "1846949815755984897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068314780650332487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miller239374 我从来没听说过有什么权利是能在不争取权力的前提下就能得到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846949815755984897",
+        "conversation_id": "2068314780650332487",
+        "created_at": "2026-06-20T12:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068314780650332487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shiraishiwatar…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/Shiraishiwatari/status/2068270893004927193",
+              "start": 90,
+              "url": "https://t.co/L7TrFPqGsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068314780650332487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068270893004927193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然很耳目一新，但容我提出这一主张：\n女权的“权”是权力和权力意志的“权”。\n如果不知道什么是“权力”请翻《规训与惩罚》《性史》，如果不知道什么是“权力意志”请翻《尼采与哲学》。 https://t.co/L7TrFPqGsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 4171,
+          "like_count": 43176,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 12214
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "“当下时间的每一瞬光阴，都是弥赛亚侧身而入的窄门。”|\n左翼尼采主义 | 交叉性女权主义 | 自由意志社会主义 |\n用 伊/伊等 取代 他/她/他们/她们 作为全性别中立的中文第三人称代词",
+        "id": "1846949815755984897",
+        "location": "柠檬汁海洋",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 377,
+          "like_count": 11995,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2334
+        },
+        "url": "",
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

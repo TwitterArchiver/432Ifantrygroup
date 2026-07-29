@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072964758270255104"
+      ],
+      "media_source_tweet_id": [
+        "2073009861076615527"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2073324796277043553",
+    "created_at": "2026-07-04T08:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073324796277043553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664742004423794688",
+          "start": 3,
+          "username": "rwayne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAqbJvYu7Z",
+          "end": 48,
+          "expanded_url": "https://x.com/rwayne/status/2073009861076615527/photo/1",
+          "media_key": "3_2072964758270255104",
+          "start": 25,
+          "url": "https://t.co/HAqbJvYu7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073324796277043553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073009861076615527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rwayne: 为什么中国人不用浴缸泡澡 https://t.co/HAqbJvYu7Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2072964758270255104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSmdvCaIAA733V.png",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072964758270255104"
+          ],
+          "media_source_tweet_id": [
+            "2073009861076615527"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2073324796277043553",
+        "created_at": "2026-07-04T08:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073324796277043553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664742004423794688",
+              "start": 3,
+              "username": "rwayne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAqbJvYu7Z",
+              "end": 48,
+              "expanded_url": "https://x.com/rwayne/status/2073009861076615527/photo/1",
+              "media_key": "3_2072964758270255104",
+              "start": 25,
+              "url": "https://t.co/HAqbJvYu7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073324796277043553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073009861076615527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rwayne: 为什么中国人不用浴缸泡澡 https://t.co/HAqbJvYu7Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072964758270255104"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2073009861076615527",
+        "created_at": "2026-07-03T11:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073009861076615527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAqbJvYu7Z",
+              "end": 36,
+              "expanded_url": "https://x.com/rwayne/status/2073009861076615527/photo/1",
+              "media_key": "3_2072964758270255104",
+              "start": 13,
+              "url": "https://t.co/HAqbJvYu7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073009861076615527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4573,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国人不用浴缸泡澡 https://t.co/HAqbJvYu7Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 4231,
+          "like_count": 45213,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13072
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n正在研发能发顶刊的AI Research Workflow👋\n后续会陆续开源😁\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2071575641951252490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52193,
+          "following_count": 762,
+          "like_count": 38371,
+          "listed_count": 269,
+          "media_count": 5632,
+          "tweet_count": 19856
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

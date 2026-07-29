@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048121673518661871",
+    "created_at": "2026-04-25T19:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T20:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048122895524921477"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048122895524921477",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048121673518661871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你凭什么认为我的“万千宠爱在你一身”？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048121673518661871",
+        "created_at": "2026-04-25T19:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048122895524921477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048122895524921477",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048121673518661871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你凭什么认为我的“万千宠爱在你一身”？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048121673518661871",
+        "created_at": "2026-04-25T19:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048121673518661871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SV_IVF_Nomad/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/SV_IVF_Nomad/status/2048117562391867731",
+              "start": 143,
+              "url": "https://t.co/jBjmwvzlOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048121673518661871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048117562391867731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你咋这么好意思给自己脸上贴金？我主张、支持的内容有：未成年权利主义（主要主张是停止将未成年视为不完全民事行为能力人，终结监护人的主宰地位）、LGBTQ+、反种族主义/世界主义、自由意志主义、女性权利主义、男性权利主义（例如反对新加坡那种男性强制兵役）、动物保护主义，当然还有共产主义。 https://t.co/jBjmwvzlOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048109562285502849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 3274,
+          "like_count": 28145,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 7463
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

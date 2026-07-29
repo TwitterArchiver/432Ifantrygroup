@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046792460345786766",
+    "created_at": "2026-04-22T03:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046792460345786766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AllYayop/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/AllYayop/status/2046604255445037213",
+          "start": 30,
+          "url": "https://t.co/h3K7hOKLAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046792460345786766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046604255445037213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我身份证是114514115414198964，有线下的吗 https://t.co/h3K7hOKLAi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046792460345786766",
+        "created_at": "2026-04-22T03:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046792460345786766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AllYayop/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/AllYayop/status/2046604255445037213",
+              "start": 30,
+              "url": "https://t.co/h3K7hOKLAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046792460345786766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046604255445037213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身份证是114514115414198964，有线下的吗 https://t.co/h3K7hOKLAi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546884275085094912",
+        "conversation_id": "2046603245666308162",
+        "created_at": "2026-04-21T14:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046604255445037213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046604255445037213",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5091,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046603245666308162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 我的身份证是110101195306153019，有线下的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046592811408277934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 3111,
+          "like_count": 25801,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 6787
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T15:48:55.000Z",
+        "description": "网警❌魔怔人🚫\n习主席万岁",
+        "id": "1546884275085094912",
+        "location": "中南海",
+        "name": "otiyal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867631438700720129/HeGLHbxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 276
+        },
+        "username": "AllYayop",
+        "verified": false
+      }
+    ]
+  }
+}

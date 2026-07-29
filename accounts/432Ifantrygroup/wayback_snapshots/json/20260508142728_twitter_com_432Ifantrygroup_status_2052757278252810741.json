@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049034583560401335",
+    "created_at": "2026-05-08T14:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052757278252810741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1723527413617856512",
+          "start": 0,
+          "username": "11I1018"
+        },
+        {
+          "end": 24,
+          "id": "1594766970372722688",
+          "start": 9,
+          "username": "naijiangovo522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052757278252810741",
+    "in_reply_to_user_id": "1723527413617856512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052756894335529186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11I1018 @naijiangovo522 我好像想起来了，这人被好几个人捶过了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052756880594968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzbgcYaIAATqJp.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049034583560401335",
+        "created_at": "2026-05-08T14:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052757278252810741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1723527413617856512",
+              "start": 0,
+              "username": "11I1018"
+            },
+            {
+              "end": 24,
+              "id": "1594766970372722688",
+              "start": 9,
+              "username": "naijiangovo522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052757278252810741",
+        "in_reply_to_user_id": "1723527413617856512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052756894335529186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11I1018 @naijiangovo522 我好像想起来了，这人被好几个人捶过了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052756880594968576"
+          ]
+        },
+        "author_id": "1723527413617856512",
+        "conversation_id": "2049034583560401335",
+        "created_at": "2026-05-08T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052756894335529186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 32,
+              "id": "1594766970372722688",
+              "start": 17,
+              "username": "naijiangovo522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRhuCjdAsM",
+              "end": 69,
+              "expanded_url": "https://x.com/11I1018/status/2052756894335529186/photo/1",
+              "media_key": "3_2052756880594968576",
+              "start": 46,
+              "url": "https://t.co/cRhuCjdAsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052756894335529186",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052756468181733835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @naijiangovo522 她偷照片我就一直追着她打 https://t.co/cRhuCjdAsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052692907258450424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 3678,
+          "like_count": 33785,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 9038
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:25:52.000Z",
+        "description": "入门私信我好不好🥺",
+        "id": "1723527413617856512",
+        "name": "给我安眠药",
+        "pinned_tweet_id": "2007144743944499695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024165503632363522/CoEq1_Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 137,
+          "like_count": 1002,
+          "listed_count": 7,
+          "media_count": 401,
+          "tweet_count": 1124
+        },
+        "username": "11I1018",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T18:57:44.000Z",
+        "description": "身高163 体重45kg 问坐标口令20( ˃̶̤́ ꒳ ˂̶̤̀ )",
+        "id": "1594766970372722688",
+        "location": "🚪188/520/1314",
+        "name": "莎莎酱",
+        "pinned_tweet_id": "2051513603736637790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051149408260288512/7OQAPymz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 0,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 38
+        },
+        "username": "naijiangovo522",
+        "verified": false
+      }
+    ]
+  }
+}

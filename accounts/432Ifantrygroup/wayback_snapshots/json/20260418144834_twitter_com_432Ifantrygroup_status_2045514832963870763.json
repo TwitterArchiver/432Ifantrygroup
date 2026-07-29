@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045461336944247167",
+    "created_at": "2026-04-18T14:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045514832963870763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587529520558456832",
+          "start": 0,
+          "username": "Proletar1anView"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045514832963870763",
+    "in_reply_to_user_id": "1587529520558456832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045514265856295017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Proletar1anView 我是去年9月报的兵役，新兵都是在民兵基地训练的，不过我最后没去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045461336944247167",
+        "created_at": "2026-04-18T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045514832963870763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587529520558456832",
+              "start": 0,
+              "username": "Proletar1anView"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045514832963870763",
+        "in_reply_to_user_id": "1587529520558456832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045514265856295017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Proletar1anView 我是去年9月报的兵役，新兵都是在民兵基地训练的，不过我最后没去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587529520558456832",
+        "conversation_id": "2045461336944247167",
+        "created_at": "2026-04-18T14:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045514265856295017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045514265856295017",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045513764632691074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 你去过个j8民兵训练基地 不会是初中生军训吧 笑嘻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045461336944247167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 2971,
+          "like_count": 23873,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 6328
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T19:38:45.000Z",
+        "description": "马克思主义的道理千言万絮 归根结底就是一句话 造反有理",
+        "id": "1587529520558456832",
+        "location": "Perth, Western Australia",
+        "name": "杀不死的造反派",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020661590614478848/Sab_oR-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 137,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1961
+        },
+        "username": "Proletar1anView",
+        "verified": false
+      }
+    ]
+  }
+}

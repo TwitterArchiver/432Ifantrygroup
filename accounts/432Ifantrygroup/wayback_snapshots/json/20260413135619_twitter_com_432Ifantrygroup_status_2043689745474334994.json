@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043681137638465634",
+    "created_at": "2026-04-13T13:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043689745474334994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921935866114756608",
+          "start": 0,
+          "username": "MomoneChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043689745474334994",
+    "in_reply_to_user_id": "1921935866114756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043681137638465634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoneChino 不🥺....\n有什么不开心的事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043681137638465634",
+        "created_at": "2026-04-13T13:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043689745474334994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921935866114756608",
+              "start": 0,
+              "username": "MomoneChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043689745474334994",
+        "in_reply_to_user_id": "1921935866114756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043681137638465634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoneChino 不🥺....\n有什么不开心的事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921935866114756608",
+        "conversation_id": "2043681137638465634",
+        "created_at": "2026-04-13T13:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043681137638465634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2043523745500000569",
+              "start": 44,
+              "url": "https://t.co/O7L88nGj2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043681137638465634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043523745500000569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父母对我很好但我还是抑郁了……\n在吃抗抑郁类精神药物，已经半年了，前几天一直想自杀…… https://t.co/O7L88nGj2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2043608747449500052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 2899,
+          "like_count": 22154,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 5788
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T14:30:06.000Z",
+        "description": "aka. 深柠",
+        "id": "1921935866114756608",
+        "location": "China",
+        "name": "智乃",
+        "pinned_tweet_id": "2043663819843743749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029565022121435136/-Hhf4UKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 202,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 818
+        },
+        "username": "MomoneChino",
+        "verified": false
+      }
+    ]
+  }
+}

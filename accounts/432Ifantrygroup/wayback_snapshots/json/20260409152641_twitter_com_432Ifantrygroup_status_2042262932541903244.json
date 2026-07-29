@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041892826594910451",
+    "created_at": "2026-04-09T15:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042262932541903244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847512375135784960",
+          "start": 0,
+          "username": "Gulan9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042262932541903244",
+    "in_reply_to_user_id": "1847512375135784960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042257544719262186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gulan9724 😢🫂\n不哭不哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041892826594910451",
+        "created_at": "2026-04-09T15:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042262932541903244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847512375135784960",
+              "start": 0,
+              "username": "Gulan9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042262932541903244",
+        "in_reply_to_user_id": "1847512375135784960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042257544719262186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gulan9724 😢🫂\n不哭不哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847512375135784960",
+        "conversation_id": "2041892826594910451",
+        "created_at": "2026-04-09T15:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042257544719262186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042257544719262186",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041892826594910451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 再说我要哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042110335428202840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 2880,
+          "like_count": 21176,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 5542
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T05:37:38.000Z",
+        "description": "",
+        "id": "1847512375135784960",
+        "name": "Gulan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036236097072799744/kmjEdR_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 254,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 273
+        },
+        "username": "Gulan9724",
+        "verified": false
+      }
+    ]
+  }
+}

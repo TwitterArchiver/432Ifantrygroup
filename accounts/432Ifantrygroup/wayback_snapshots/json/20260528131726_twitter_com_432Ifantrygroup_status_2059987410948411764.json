@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040368416511738068",
+    "created_at": "2026-05-28T13:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059987410948411764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779413353125081088",
+          "start": 0,
+          "username": "Kenny_MLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059987410948411764",
+    "in_reply_to_user_id": "1779413353125081088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059987136275988674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenny_MLH 这是我自己家买的，都不知道哪百年的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040368416511738068",
+        "created_at": "2026-05-28T13:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059987410948411764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779413353125081088",
+              "start": 0,
+              "username": "Kenny_MLH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059987410948411764",
+        "in_reply_to_user_id": "1779413353125081088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059987136275988674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenny_MLH 这是我自己家买的，都不知道哪百年的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779413353125081088",
+        "conversation_id": "2040368416511738068",
+        "created_at": "2026-05-28T13:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059987136275988674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059987136275988674",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040368416511738068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 怎么止咳会开甘草片呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059960193107271724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 3959,
+          "like_count": 39975,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 11098
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T07:36:32.000Z",
+        "description": "这是时代的凯歌，这是中国人民的新风尚，让我们喝令三山五岳开道，牛鬼蛇神让路。中国人民将乘东风破万里浪永远前进！",
+        "id": "1779413353125081088",
+        "location": "China Grove, NC",
+        "name": "严肃的Kenny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792455913418432512/9FHYF35E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 524,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "Kenny_MLH",
+        "verified": false
+      }
+    ]
+  }
+}

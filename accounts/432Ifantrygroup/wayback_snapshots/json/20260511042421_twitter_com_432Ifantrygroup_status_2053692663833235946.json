@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053692663833235946",
+    "created_at": "2026-05-11T04:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053692663833235946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Talloran4869/s…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Talloran4869/status/2053690739117396144",
+          "start": 53,
+          "url": "https://t.co/8S8guOVbrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053692663833235946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053690739117396144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我谢谢你喔，圣人这顶帽子我就带着了，我就是互联网圣人，你应该向我学习，以我的标准为标准要求你自己的行为 https://t.co/8S8guOVbrT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053692663833235946",
+        "created_at": "2026-05-11T04:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053692663833235946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Talloran4869/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Talloran4869/status/2053690739117396144",
+              "start": 53,
+              "url": "https://t.co/8S8guOVbrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053692663833235946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053690739117396144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我谢谢你喔，圣人这顶帽子我就带着了，我就是互联网圣人，你应该向我学习，以我的标准为标准要求你自己的行为 https://t.co/8S8guOVbrT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118160765200920576",
+        "conversation_id": "2053382195381960956",
+        "created_at": "2026-05-11T04:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053690739117396144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 25,
+              "id": "981495576410800129",
+              "start": 17,
+              "username": "ArCe7an"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053690739117396144",
+        "in_reply_to_user_id": "1118160765200920576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053688573770321920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @ArCe7an 很难想像和朋友互送礼物(就算按这位圣人的标准来说，我也是和对方商量而没有强行要求对方接纳，无论是物理意义上的手段还是社交压力层面的手段)会被认为是冒犯的人生活在什么环境\n这下破案了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 3750,
+          "like_count": 35244,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 9450
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-16T14:34:35.000Z",
+        "description": "",
+        "id": "1118160765200920576",
+        "location": "黑洞",
+        "name": "塔罗兰Talloran🍥(上班上傻了版)",
+        "pinned_tweet_id": "2048080910155981140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030656307410485248/uoGWF1uC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 2078,
+          "like_count": 328575,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 8611
+        },
+        "username": "Talloran4869",
+        "verified": false
+      }
+    ]
+  }
+}

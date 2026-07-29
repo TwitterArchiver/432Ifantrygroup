@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1872207504807272541",
+    "created_at": "2024-12-26T16:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T17:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872320672762106337"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "BVR",
+          "probability": 0.6362,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1329003529315381249",
+          "start": 0,
+          "username": "PityPityman5"
+        },
+        {
+          "end": 29,
+          "id": "724707287596732416",
+          "start": 14,
+          "username": "RupprechtDeino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872320672762106337",
+    "in_reply_to_user_id": "1329003529315381249",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872244704441704898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PityPityman5 @RupprechtDeino yes，I believe it is prepared for BVR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1872207504807272541",
+        "created_at": "2024-12-26T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872320672762106337"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "BVR",
+              "probability": 0.6362,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1329003529315381249",
+              "start": 0,
+              "username": "PityPityman5"
+            },
+            {
+              "end": 29,
+              "id": "724707287596732416",
+              "start": 14,
+              "username": "RupprechtDeino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872320672762106337",
+        "in_reply_to_user_id": "1329003529315381249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872244704441704898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PityPityman5 @RupprechtDeino yes，I believe it is prepared for BVR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329003529315381249",
+        "conversation_id": "1872207504807272541",
+        "created_at": "2024-12-26T11:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872244704441704898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "724707287596732416",
+              "start": 0,
+              "username": "RupprechtDeino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872244704441704898",
+        "in_reply_to_user_id": "724707287596732416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10164,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872207504807272541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RupprechtDeino definitely not built for dog fight"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 452,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-18T10:08:43.000Z",
+        "description": "SDR HF VHF UHF P25",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qx8kxg-vs.myshopify.com",
+                "end": 23,
+                "expanded_url": "https://qx8kxg-vs.myshopify.com/",
+                "start": 0,
+                "url": "https://t.co/5pT1o1EKs6"
+              }
+            ]
+          }
+        },
+        "id": "1329003529315381249",
+        "location": "The moon",
+        "name": "Pity man",
+        "pinned_tweet_id": "1537974996345454592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496895603020038144/nAvbkzgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 257,
+          "like_count": 10571,
+          "listed_count": 19,
+          "media_count": 1691,
+          "tweet_count": 9145
+        },
+        "url": "https://t.co/5pT1o1EKs6",
+        "username": "PityPityman5",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-25T21:10:56.000Z",
+        "description": "China military aviation researcher, book author and China military news reporter. \n#PLAAF #PLAN #PLA #ArmyAviation",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "PLAAF"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "PLAN"
+              },
+              {
+                "end": 100,
+                "start": 96,
+                "tag": "PLA"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "tag": "ArmyAviation"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/Modern-Chinese…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/Modern-Chinese-Warplanes-611223845748378/?fref=ts",
+                "start": 0,
+                "url": "https://t.co/obmdWPcHSg"
+              }
+            ]
+          }
+        },
+        "id": "724707287596732416",
+        "location": "Germany / Deutschland",
+        "name": "@Rupprecht_A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230483738271764486/Vm2jFA8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64039,
+          "following_count": 595,
+          "like_count": 20718,
+          "listed_count": 830,
+          "media_count": 9233,
+          "tweet_count": 28353
+        },
+        "url": "https://t.co/obmdWPcHSg",
+        "username": "RupprechtDeino",
+        "verified": false
+      }
+    ]
+  }
+}

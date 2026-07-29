@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034426901062881567",
+    "created_at": "2026-03-19T00:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T01:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034426901062881567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2034116187953762633",
+          "start": 23,
+          "url": "https://t.co/ORhXRAqgOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034426901062881567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034116187953762633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这有什么好赞了，莫名其妙的话而已。逆天msk https://t.co/ORhXRAqgOx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034426901062881567",
+        "created_at": "2026-03-19T00:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T01:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034426901062881567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2034116187953762633",
+              "start": 23,
+              "url": "https://t.co/ORhXRAqgOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034426901062881567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034116187953762633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这有什么好赞了，莫名其妙的话而已。逆天msk https://t.co/ORhXRAqgOx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034115184374227046",
+        "created_at": "2026-03-18T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034116187953762633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034116187953762633",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4570,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034115184374227046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@xxx_jjkk 而且这种尺码算法完全不考虑瘦高个和大骨架的人😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2034297714905944180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 2394,
+          "like_count": 8153,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2090
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

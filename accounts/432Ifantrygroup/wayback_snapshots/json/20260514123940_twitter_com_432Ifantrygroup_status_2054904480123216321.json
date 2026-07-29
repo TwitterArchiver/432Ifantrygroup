@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054900841287700649",
+    "created_at": "2026-05-14T12:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054904480123216321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037516161051447296",
+          "start": 0,
+          "username": "AzideChen57041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054904480123216321",
+    "in_reply_to_user_id": "2037516161051447296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054903524518195526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzideChen57041 理解不了你就把嘴给我闭上，不要出现在我这里伤害其他人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054900841287700649",
+        "created_at": "2026-05-14T12:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054904480123216321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037516161051447296",
+              "start": 0,
+              "username": "AzideChen57041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054904480123216321",
+        "in_reply_to_user_id": "2037516161051447296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054903524518195526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzideChen57041 理解不了你就把嘴给我闭上，不要出现在我这里伤害其他人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037516161051447296",
+        "conversation_id": "2054900841287700649",
+        "created_at": "2026-05-14T12:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054903524518195526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054903524518195526",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054900841287700649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 那能咋办 跟我16岁一模一样 我连手机都没有纯硬扛的 所以理解不了一点 我16岁的时候已经重度躯体化了别人跟我说话我都听不懂在说什么 也没朋友家长更是觉得矫情 感受就是绝对的孤立无援只能自己硬扛 一点办法么有🤷🏼‍♀️现在小孩有手机幸福多了，好歹有出口可以了解这些，网上也能发泄，以前纯憋 真羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054256320266788960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 3790,
+          "like_count": 36279,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 9735
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T13:05:11.000Z",
+        "description": "les 男拳和男拳坐骑互动看主页即刻全家暴毙喵😉",
+        "id": "2037516161051447296",
+        "name": "Azide_17",
+        "pinned_tweet_id": "2054502749400903804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054527862410182658/sPmSV7R7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 77,
+          "like_count": 3571,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2310
+        },
+        "username": "AzideChen57041",
+        "verified": false
+      }
+    ]
+  }
+}

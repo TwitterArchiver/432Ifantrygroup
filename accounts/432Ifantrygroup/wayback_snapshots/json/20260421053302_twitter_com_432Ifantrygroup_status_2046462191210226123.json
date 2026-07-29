@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046409652993413120"
+      ],
+      "media_source_tweet_id": [
+        "2046409655820398699"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046462191210226123",
+    "created_at": "2026-04-21T05:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046462191210226123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lWvAWjjcIG",
+          "end": 95,
+          "expanded_url": "https://x.com/Rococo90933671/status/2046409655820398699/photo/1",
+          "media_key": "3_2046409652993413120",
+          "start": 72,
+          "url": "https://t.co/lWvAWjjcIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046462191210226123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046409655820398699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 2010年5月29日，南阳30名小学生在卧龙岗前齐诵《出师表》，抗议新《三国》。\n\n你拒看我们吃什么😭 https://t.co/lWvAWjjcIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_2046409652993413120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZOvK-aUAAAf1o.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046409652993413120"
+          ],
+          "media_source_tweet_id": [
+            "2046409655820398699"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046462191210226123",
+        "created_at": "2026-04-21T05:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046462191210226123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWvAWjjcIG",
+              "end": 95,
+              "expanded_url": "https://x.com/Rococo90933671/status/2046409655820398699/photo/1",
+              "media_key": "3_2046409652993413120",
+              "start": 72,
+              "url": "https://t.co/lWvAWjjcIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046462191210226123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046409655820398699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 2010年5月29日，南阳30名小学生在卧龙岗前齐诵《出师表》，抗议新《三国》。\n\n你拒看我们吃什么😭 https://t.co/lWvAWjjcIG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046409652993413120"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2046409655820398699",
+        "created_at": "2026-04-21T02:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046409655820398699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWvAWjjcIG",
+              "end": 75,
+              "expanded_url": "https://x.com/Rococo90933671/status/2046409655820398699/photo/1",
+              "media_key": "3_2046409652993413120",
+              "start": 52,
+              "url": "https://t.co/lWvAWjjcIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046409655820398699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1380,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2010年5月29日，南阳30名小学生在卧龙岗前齐诵《出师表》，抗议新《三国》。\n\n你拒看我们吃什么😭 https://t.co/lWvAWjjcIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046155626104098949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 3095,
+          "like_count": 25461,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 6685
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10306,
+          "following_count": 2932,
+          "like_count": 35687,
+          "listed_count": 30,
+          "media_count": 3732,
+          "tweet_count": 20727
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

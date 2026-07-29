@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1826507471558770750",
+    "created_at": "2025-08-09T13:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T14:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954166150595768449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417884292017901576",
+          "start": 0,
+          "username": "TaurusTt77"
+        },
+        {
+          "end": 25,
+          "id": "1341329111906586624",
+          "start": 12,
+          "username": "saharaoasis_"
+        },
+        {
+          "end": 34,
+          "id": "1655156808",
+          "start": 26,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954166150595768449",
+    "in_reply_to_user_id": "1417884292017901576",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826507471558770750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaurusTt77 @saharaoasis_ @GetXBot 6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2084,
+        "media_key": "3_1826507109933928448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVkOigtWUAAYkeW.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 89977,
+        "height": 1280,
+        "media_key": "7_1826507105685127168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1826507105685127168/pu/img/UyBjOSvD-xYWOGU9.jpg",
+        "public_metrics": {
+          "view_count": 51950
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826507105685127168/pu/vid/avc1/320x568/Xq8P_cEYAgi2l39D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826507105685127168/pu/vid/avc1/480x852/q1kufz3kwaHj3ZBx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1826507105685127168/pu/vid/avc1/720x1280/_cIBC5SnXCdJhxO7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1826507105685127168/pu/pl/-KYieoNqL3VJ9PAq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1826507471558770750",
+        "created_at": "2025-08-09T13:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954166150595768449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417884292017901576",
+              "start": 0,
+              "username": "TaurusTt77"
+            },
+            {
+              "end": 25,
+              "id": "1341329111906586624",
+              "start": 12,
+              "username": "saharaoasis_"
+            },
+            {
+              "end": 34,
+              "id": "1655156808",
+              "start": 26,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954166150595768449",
+        "in_reply_to_user_id": "1417884292017901576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826507471558770750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaurusTt77 @saharaoasis_ @GetXBot 6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826507109933928448",
+            "7_1826507105685127168"
+          ]
+        },
+        "author_id": "1417884292017901576",
+        "conversation_id": "1826507471558770750",
+        "created_at": "2024-08-22T06:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T07:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826507471558770750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1341329111906586624",
+              "start": 9,
+              "username": "saharaoasis_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gVl25q5QNR",
+              "end": 161,
+              "expanded_url": "https://x.com/TaurusTt77/status/1826507471558770750/video/1",
+              "media_key": "3_1826507109933928448",
+              "start": 138,
+              "url": "https://t.co/gVl25q5QNR"
+            },
+            {
+              "display_url": "pic.x.com/gVl25q5QNR",
+              "end": 161,
+              "expanded_url": "https://x.com/TaurusTt77/status/1826507471558770750/video/1",
+              "media_key": "7_1826507105685127168",
+              "start": 138,
+              "url": "https://t.co/gVl25q5QNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826507471558770750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 186593,
+          "like_count": 759,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "G点神器，卯哥家 @saharaoasis_ 淘宝店铺:撒哈拉绿洲 \n自己住太爽了，肆无忌惮的脱掉衣服自慰，把头埋在抱枕里，窒息感和快感一起，小逼好爽太久不玩了，一点点震动都要让我缓不过来，潮喷，水一直在流，好想有人吸我的奶。\n就是这个G点神器得手动好累，下次我要拿炮机玩！ https://t.co/gVl25q5QNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1174,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 174
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T16:29:02.000Z",
+        "description": "上海 /🚪168   好友位 无福利",
+        "id": "1417884292017901576",
+        "location": "上海",
+        "name": "南枫学姐(不接推广！",
+        "pinned_tweet_id": "1919511450336559277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482866129408184321/L0GD9laP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347177,
+          "following_count": 24,
+          "like_count": 6433,
+          "listed_count": 515,
+          "media_count": 258,
+          "tweet_count": 2899
+        },
+        "username": "TaurusTt77",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T10:26:06.000Z",
+        "description": "⬇️玩偶姐姐链接⬇️ /🍑tb：撒哈拉绿洲/vx小程序：卯哥的晚间杂货铺/备用机：@akqqq53056",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "akqqq53056"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.5LiR1jdMSu2R…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.5LiR1jdMSu2RcK6",
+                "start": 0,
+                "url": "https://t.co/VFQtZ1pVVZ"
+              }
+            ]
+          }
+        },
+        "id": "1341329111906586624",
+        "location": "香港",
+        "name": "番茄罐头（主页长期抽奖）",
+        "pinned_tweet_id": "1950011644291002462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753070373820891136/4R3k0MHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347370,
+          "following_count": 575,
+          "like_count": 2761,
+          "listed_count": 583,
+          "media_count": 1097,
+          "tweet_count": 6119
+        },
+        "url": "https://t.co/VFQtZ1pVVZ",
+        "username": "saharaoasis_",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "1926122359926223224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83149,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 40,
+          "media_count": 1,
+          "tweet_count": 108980
+        },
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

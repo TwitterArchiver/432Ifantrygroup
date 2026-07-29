@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046822750090650023",
+    "created_at": "2026-04-22T05:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046825658257727592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591344896757026821",
+          "start": 0,
+          "username": "xng328460971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046825658257727592",
+    "in_reply_to_user_id": "1591344896757026821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046822750090650023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xng328460971 不要挠🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046822520532213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfGPOaXoAAQhgR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046822520494407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfGPORWwAAZwf3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046822750090650023",
+        "created_at": "2026-04-22T05:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046825658257727592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046825658257727592",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046822750090650023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 不要挠🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046822520532213760",
+            "3_2046822520494407680"
+          ]
+        },
+        "author_id": "1591344896757026821",
+        "conversation_id": "2046822750090650023",
+        "created_at": "2026-04-22T05:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046822750090650023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHo3G9g6jc",
+              "end": 38,
+              "expanded_url": "https://x.com/xng328460971/status/2046822750090650023/photo/1",
+              "media_key": "3_2046822520532213760",
+              "start": 15,
+              "url": "https://t.co/VHo3G9g6jc"
+            },
+            {
+              "display_url": "pic.x.com/VHo3G9g6jc",
+              "end": 38,
+              "expanded_url": "https://x.com/xng328460971/status/2046822750090650023/photo/1",
+              "media_key": "3_2046822520494407680",
+              "start": 15,
+              "url": "https://t.co/VHo3G9g6jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046822750090650023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的疤像小虫子…爬呀爬…🐜🐜 https://t.co/VHo3G9g6jc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046755034113970637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 3119,
+          "like_count": 25888,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 6779
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "我只是一个路人…｜自伤｜od｜同类互fo｜私信会回｜不加墙内联系方式｜不吵架不站队立场是关我屁事",
+        "id": "1591344896757026821",
+        "name": "小人",
+        "pinned_tweet_id": "2023430666915029059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 162,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 325
+        },
+        "username": "xng328460971",
+        "verified": false
+      }
+    ]
+  }
+}

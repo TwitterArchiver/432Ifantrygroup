@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046918335766593656",
+    "created_at": "2026-04-22T11:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046918335766593656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aw6kdOrfLY86ML…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/aw6kdOrfLY86MLr/status/2046709877964513691",
+          "start": 50,
+          "url": "https://t.co/14hYEZu6ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046918335766593656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046709877964513691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既然是待发弹药哑火在退弹时爆炸，那幸存的人必然是唯一一个不在炮塔吊篮里的，即驾驶员。你说在干嘛呢？ https://t.co/14hYEZu6ym"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046918335766593656",
+        "created_at": "2026-04-22T11:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046918335766593656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aw6kdOrfLY86ML…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/aw6kdOrfLY86MLr/status/2046709877964513691",
+              "start": 50,
+              "url": "https://t.co/14hYEZu6ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046918335766593656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046709877964513691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然是待发弹药哑火在退弹时爆炸，那幸存的人必然是唯一一个不在炮塔吊篮里的，即驾驶员。你说在干嘛呢？ https://t.co/14hYEZu6ym"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543897567439855617",
+        "conversation_id": "2046560381511106813",
+        "created_at": "2026-04-21T21:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046709877964513691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1221824882582753280",
+              "start": 0,
+              "username": "kinglinzhuhui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046709877964513691",
+        "in_reply_to_user_id": "1221824882582753280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1741,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046560381511106813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinglinzhuhui 女兵在坦克里干嘛呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 3130,
+          "like_count": 26097,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 6836
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T10:01:07.000Z",
+        "description": "事能知足心常乐~\n人到无求品自高~",
+        "id": "1543897567439855617",
+        "name": "草鉴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594695328959078400/fCi_Bpwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 153,
+          "like_count": 6614,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 4160
+        },
+        "username": "aw6kdOrfLY86MLr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035042262506459256",
+    "created_at": "2026-03-21T14:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035370178138280178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920159806859718657",
+          "start": 0,
+          "username": "kissxiaoran77"
+        },
+        {
+          "end": 29,
+          "id": "1968205301410304002",
+          "start": 15,
+          "username": "lingyang01444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035370178138280178",
+    "in_reply_to_user_id": "1920159806859718657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035079089556431205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kissxiaoran77 @lingyang01444 lsd的药效很持久的，最好不要再尝试了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035042262506459256",
+        "created_at": "2026-03-21T14:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035370178138280178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920159806859718657",
+              "start": 0,
+              "username": "kissxiaoran77"
+            },
+            {
+              "end": 29,
+              "id": "1968205301410304002",
+              "start": 15,
+              "username": "lingyang01444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035370178138280178",
+        "in_reply_to_user_id": "1920159806859718657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035079089556431205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kissxiaoran77 @lingyang01444 lsd的药效很持久的，最好不要再尝试了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920159806859718657",
+        "conversation_id": "2035042262506459256",
+        "created_at": "2026-03-20T19:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T20:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035079089556431205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968205301410304002",
+              "start": 0,
+              "username": "lingyang01444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035079089556431205",
+        "in_reply_to_user_id": "1968205301410304002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035042262506459256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyang01444 看来我是坏旅程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 2530,
+          "like_count": 9637,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2569
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T16:52:41.000Z",
+        "description": "痛苦把我包围",
+        "id": "1920159806859718657",
+        "name": "小然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964790465376686080/vFSiR-H__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "kissxiaoran77",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T06:48:20.000Z",
+        "description": "BlackSheep-血羊｜武汉轻工本科｜以身入局药物实验",
+        "id": "1968205301410304002",
+        "location": "日本 東京",
+        "name": "⛧羚羊⛧ antelope ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028684641281150977/nalkhB6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 1019,
+          "like_count": 1011,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 85
+        },
+        "username": "lingyang01444",
+        "verified": false
+      }
+    ]
+  }
+}

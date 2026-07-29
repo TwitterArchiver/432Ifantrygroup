@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036446974636064852",
+    "created_at": "2026-03-24T14:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036447601923613101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859476521087533056",
+          "start": 0,
+          "username": "BeatrisEls90340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036447601923613101",
+    "in_reply_to_user_id": "1859476521087533056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036446974636064852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeatrisEls90340 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036446974636064852",
+        "created_at": "2026-03-24T14:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036447601923613101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859476521087533056",
+              "start": 0,
+              "username": "BeatrisEls90340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036447601923613101",
+        "in_reply_to_user_id": "1859476521087533056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036446974636064852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeatrisEls90340 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859476521087533056",
+        "conversation_id": "2036446974636064852",
+        "created_at": "2026-03-24T14:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036446974636064852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036446974636064852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我蒙了，一放学打开各大社交软件全是关于张雪峰老师进ICU的新闻，还有人造谣说已经去世了，这是真事？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2722,
+          "like_count": 12000,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 3182
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T05:58:56.000Z",
+        "description": "理想型:@fcbf8858 当做记事本罢了，记录我日常不为人知的秘密，欢迎来到我癫狂的内心世界，跟我走吧！Let's go",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "fcbf8858"
+              }
+            ]
+          }
+        },
+        "id": "1859476521087533056",
+        "name": "挺色一女的",
+        "pinned_tweet_id": "2036389886841008430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010780673465044992/XhIwo6dw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79028,
+          "following_count": 18,
+          "like_count": 610,
+          "listed_count": 110,
+          "media_count": 462,
+          "tweet_count": 2638
+        },
+        "username": "BeatrisEls90340",
+        "verified": false
+      }
+    ]
+  }
+}

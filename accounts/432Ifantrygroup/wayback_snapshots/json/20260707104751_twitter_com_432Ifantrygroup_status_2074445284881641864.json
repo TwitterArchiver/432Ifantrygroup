@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074321921785876480"
+      ],
+      "media_source_tweet_id": [
+        "2074322163541422394"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2074445284881641864",
+    "created_at": "2026-07-07T10:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074445284881641864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1841306675674075136",
+          "start": 3,
+          "username": "suishoucrystal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EnUHVlWgIm",
+          "end": 86,
+          "expanded_url": "https://x.com/suishoucrystal/status/2074322163541422394/photo/1",
+          "media_key": "3_2074321921785876480",
+          "start": 63,
+          "url": "https://t.co/EnUHVlWgIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074445284881641864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074322163541422394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suishoucrystal: 新时代跨性别皇汉主义男娘用二次元日语BGM跳舞宣传大明优秀文化，看完这集吊死在煤山了 https://t.co/EnUHVlWgIm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1718,
+        "media_key": "3_2074321921785876480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl4zDHaUAA6JTM.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074321921785876480"
+          ],
+          "media_source_tweet_id": [
+            "2074322163541422394"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2074445284881641864",
+        "created_at": "2026-07-07T10:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074445284881641864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1841306675674075136",
+              "start": 3,
+              "username": "suishoucrystal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnUHVlWgIm",
+              "end": 86,
+              "expanded_url": "https://x.com/suishoucrystal/status/2074322163541422394/photo/1",
+              "media_key": "3_2074321921785876480",
+              "start": 63,
+              "url": "https://t.co/EnUHVlWgIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074445284881641864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074322163541422394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suishoucrystal: 新时代跨性别皇汉主义男娘用二次元日语BGM跳舞宣传大明优秀文化，看完这集吊死在煤山了 https://t.co/EnUHVlWgIm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074321921785876480"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2074322163541422394",
+        "created_at": "2026-07-07T02:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074322163541422394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnUHVlWgIm",
+              "end": 66,
+              "expanded_url": "https://x.com/suishoucrystal/status/2074322163541422394/photo/1",
+              "media_key": "3_2074321921785876480",
+              "start": 43,
+              "url": "https://t.co/EnUHVlWgIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074322163541422394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2678,
+          "like_count": 60,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新时代跨性别皇汉主义男娘用二次元日语BGM跳舞宣传大明优秀文化，看完这集吊死在煤山了 https://t.co/EnUHVlWgIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 4228,
+          "like_count": 45351,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13136
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 1582,
+          "like_count": 3172,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 5256
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

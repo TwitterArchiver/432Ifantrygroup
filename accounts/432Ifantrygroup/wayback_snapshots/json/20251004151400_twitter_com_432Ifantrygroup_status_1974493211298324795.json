@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1963969744513761322",
+    "created_at": "2025-10-04T15:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974493211298324795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "756743549215879168",
+          "start": 0,
+          "username": "Derail777_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974493211298324795",
+    "in_reply_to_user_id": "756743549215879168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963969744513761322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Derail777_ 我说老师，你把视频都发x上了，哪还有人入你门呐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1121033,
+        "height": 720,
+        "media_key": "13_1963968526039097344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963968526039097344/img/PgMJNHkFfVbyU9yQ.jpg",
+        "public_metrics": {
+          "view_count": 49173
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963968526039097344/vid/avc1/480x270/3j9qdvfHIuFSLkcE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963968526039097344/vid/avc1/640x360/dvJgpK1ZfHWg56mg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963968526039097344/vid/avc1/1280x720/1Bywc-owWFbSQj5G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963968526039097344/pl/dSjyLzdzvNIGsgop.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1963969744513761322",
+        "created_at": "2025-10-04T15:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974493211298324795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756743549215879168",
+              "start": 0,
+              "username": "Derail777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974493211298324795",
+        "in_reply_to_user_id": "756743549215879168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963969744513761322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Derail777_ 我说老师，你把视频都发x上了，哪还有人入你门呐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963968526039097344"
+          ]
+        },
+        "author_id": "756743549215879168",
+        "conversation_id": "1963969744513761322",
+        "created_at": "2025-09-05T14:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T15:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963969744513761322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRUgEoDyt1",
+              "end": 27,
+              "expanded_url": "https://x.com/Derail777_/status/1963969744513761322/video/1",
+              "media_key": "13_1963968526039097344",
+              "start": 4,
+              "url": "https://t.co/wRUgEoDyt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963969744513761322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 374599,
+          "like_count": 1894,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "图书馆 https://t.co/wRUgEoDyt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1215,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 183
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T06:51:36.000Z",
+        "description": "hi，还是原来的小D",
+        "id": "756743549215879168",
+        "location": "上海",
+        "name": "小D老师",
+        "pinned_tweet_id": "1904567412101726432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799142645119471616/I31UOq0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81738,
+          "following_count": 0,
+          "like_count": 17,
+          "listed_count": 159,
+          "media_count": 51,
+          "tweet_count": 72
+        },
+        "username": "Derail777_",
+        "verified": true
+      }
+    ]
+  }
+}

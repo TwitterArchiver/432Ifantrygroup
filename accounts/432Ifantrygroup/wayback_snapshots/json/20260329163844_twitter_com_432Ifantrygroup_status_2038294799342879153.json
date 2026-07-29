@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038272842740191249",
+    "created_at": "2026-03-29T16:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038294799342879153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824119613162139648",
+          "start": 0,
+          "username": "void__empress"
+        },
+        {
+          "end": 26,
+          "id": "1757616332240224256",
+          "start": 15,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038294799342879153",
+    "in_reply_to_user_id": "1824119613162139648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038294716157178094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@void__empress @B_cat38324 没错，意识形态的问题"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038294716157178094].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038294716157178094",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038294716157178094"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038272842740191249",
+        "created_at": "2026-03-29T16:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038294799342879153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824119613162139648",
+              "start": 0,
+              "username": "void__empress"
+            },
+            {
+              "end": 26,
+              "id": "1757616332240224256",
+              "start": 15,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038294799342879153",
+        "in_reply_to_user_id": "1824119613162139648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038294716157178094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@void__empress @B_cat38324 没错，意识形态的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 2653,
+          "like_count": 15118,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 4007
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:23:09.000Z",
+        "description": "成分:呆萌的小顺男喵/泛性恋/基本上对谁都友好，只要你不惹我/专业:CS/前男友是卡尔·施密特，现任老公是黑格尔，费希特是我爹，突然喜欢cp德勒兹瓜塔莉，恩格斯是谁我不认识，齐泽克是马戏团小丑/高素质人群，争取做到对线不骂人/转发不代表同意/生产决定论/黑暗启蒙你崛起罢/舍斯托夫-黑格尔主义",
+        "id": "1824119613162139648",
+        "name": "Ungrund",
+        "pinned_tweet_id": "2036490208204693681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018390961861316608/qnNAT5t8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 569,
+          "like_count": 6279,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2905
+        },
+        "username": "void__empress",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22275,
+          "following_count": 197,
+          "like_count": 709,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22807
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

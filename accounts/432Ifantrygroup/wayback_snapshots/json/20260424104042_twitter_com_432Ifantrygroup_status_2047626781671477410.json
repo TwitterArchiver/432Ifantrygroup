@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047367401952751965",
+    "created_at": "2026-04-24T10:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047626781671477410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1473671689171095554",
+          "start": 0,
+          "username": "tree_lemmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047626781671477410",
+    "in_reply_to_user_id": "1473671689171095554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047625340596433234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tree_lemmon 这话也挺傲慢的，“由不得”，事实上人家就是占了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047367401952751965",
+        "created_at": "2026-04-24T10:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047626781671477410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1473671689171095554",
+              "start": 0,
+              "username": "tree_lemmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047626781671477410",
+        "in_reply_to_user_id": "1473671689171095554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047625340596433234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tree_lemmon 这话也挺傲慢的，“由不得”，事实上人家就是占了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473671689171095554",
+        "conversation_id": "2047367401952751965",
+        "created_at": "2026-04-24T10:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047625340596433234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047625340596433234",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047367401952751965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 虽然但是，宠物狗猫确实在挤占本土猫科动物和狼的生态，还有基因库污染（欧洲这边也一样）\n\n宠物最初就不是为了作为城市生态填充物而诞生的，自然也由不得他们占据这个生态位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047588634040357233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 3209,
+          "like_count": 27338,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 7207
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T15:08:41.000Z",
+        "description": "",
+        "id": "1473671689171095554",
+        "location": "Copenhagen, Denmark",
+        "name": "lemmon tree",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972602265149091840/9A3-hWO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 64,
+          "like_count": 27552,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1410
+        },
+        "username": "tree_lemmon",
+        "verified": false
+      }
+    ]
+  }
+}

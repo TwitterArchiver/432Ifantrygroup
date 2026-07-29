@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046683132334883119",
+    "created_at": "2026-04-22T00:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046742369714975220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030832351656493056",
+          "start": 0,
+          "username": "Suintouhea2t"
+        },
+        {
+          "end": 25,
+          "id": "1791880748485779456",
+          "start": 14,
+          "username": "Painful303"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20467…",
+          "end": 62,
+          "expanded_url": "https://x.com/i/status/2046724065646530728",
+          "start": 39,
+          "url": "https://t.co/aPgtg5wh0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046742369714975220",
+    "in_reply_to_user_id": "2030832351656493056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046724065646530728",
+        "type": "quoted"
+      },
+      {
+        "id": "2046683132334883119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suintouhea2t @Painful303 有没有抢救成功我还不清楚\nhttps://t.co/aPgtg5wh0G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046683132334883119",
+        "created_at": "2026-04-22T00:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046742369714975220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030832351656493056",
+              "start": 0,
+              "username": "Suintouhea2t"
+            },
+            {
+              "end": 25,
+              "id": "1791880748485779456",
+              "start": 14,
+              "username": "Painful303"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20467…",
+              "end": 62,
+              "expanded_url": "https://x.com/i/status/2046724065646530728",
+              "start": 39,
+              "url": "https://t.co/aPgtg5wh0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046742369714975220",
+        "in_reply_to_user_id": "2030832351656493056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046724065646530728",
+            "type": "quoted"
+          },
+          {
+            "id": "2046683132334883119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suintouhea2t @Painful303 有没有抢救成功我还不清楚\nhttps://t.co/aPgtg5wh0G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594280404504444931",
+        "conversation_id": "2046724065646530728",
+        "created_at": "2026-04-21T22:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T23:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046724065646530728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Painful303/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Painful303/status/2046556241540096032",
+              "start": 68,
+              "url": "https://t.co/ZWfqNlS4xw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046724065646530728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046556241540096032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "oh 嗯\n只是讲一下昨晚发生的事情\n墙内的亲友报警了，现在人在抢救室里\n这位亲友推特号刚被马斯克封了，所以让我代为传达一下\n祝各位平安 https://t.co/ZWfqNlS4xw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030832351656493056",
+        "conversation_id": "2046683132334883119",
+        "created_at": "2026-04-21T20:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046683132334883119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1791880748485779456",
+              "start": 16,
+              "username": "Painful303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046683132334883119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1766,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n \n2026年4月21日，@Painful303  因双相情感障碍发作在极度痛苦中选择过量注射胰岛素结束生命，希望下辈子幸福牙…特别漂亮的女孩子，才20岁…愿天堂没有痛苦(｡ ́︿ ̀｡)，尊重选择。🪦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046592811408277934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 3111,
+          "like_count": 25738,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 6773
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 请不要对我说哦，我不是很喜欢这个词，@rinii165892 我爱你老公 cnRinly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 83,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 60,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2043268852448928043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 422,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1972
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T17:17:41.000Z",
+        "description": "🚪52 128 泛性恋 sw 4i 1i 喜欢边控 sp",
+        "id": "1791880748485779456",
+        "name": "水母灯",
+        "pinned_tweet_id": "2013409196998287633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013405166918156288/Dm0Y_TBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 94,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1043
+        },
+        "username": "Painful303",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "name": "Lich🍺🐱阿提拉的神圣手雷",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 2601,
+          "like_count": 27790,
+          "listed_count": 6,
+          "media_count": 1212,
+          "tweet_count": 9228
+        },
+        "username": "LichitLich",
+        "verified": false
+      }
+    ]
+  }
+}

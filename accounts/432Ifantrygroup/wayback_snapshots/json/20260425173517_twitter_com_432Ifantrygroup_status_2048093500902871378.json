@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047972111340404859",
+    "created_at": "2026-04-25T17:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048093500902871378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031468992205041666",
+          "start": 0,
+          "username": "DesWhaDesU"
+        },
+        {
+          "end": 19,
+          "id": "1861074016787988480",
+          "start": 12,
+          "username": "Ww998_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20480…",
+          "end": 43,
+          "expanded_url": "https://x.com/i/status/2048092797438431722",
+          "start": 20,
+          "url": "https://t.co/sY6gcMmf9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048093500902871378",
+    "in_reply_to_user_id": "2031468992205041666",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048092797438431722",
+        "type": "quoted"
+      },
+      {
+        "id": "2048092572636320030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DesWhaDesU @Ww998_ https://t.co/sY6gcMmf9e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047972111340404859",
+        "created_at": "2026-04-25T17:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048093500902871378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031468992205041666",
+              "start": 0,
+              "username": "DesWhaDesU"
+            },
+            {
+              "end": 19,
+              "id": "1861074016787988480",
+              "start": 12,
+              "username": "Ww998_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20480…",
+              "end": 43,
+              "expanded_url": "https://x.com/i/status/2048092797438431722",
+              "start": 20,
+              "url": "https://t.co/sY6gcMmf9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048093500902871378",
+        "in_reply_to_user_id": "2031468992205041666",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048092797438431722",
+            "type": "quoted"
+          },
+          {
+            "id": "2048092572636320030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DesWhaDesU @Ww998_ https://t.co/sY6gcMmf9e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047972111340404859",
+        "created_at": "2026-04-25T17:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048092797438431722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1861074016787988480",
+              "start": 0,
+              "username": "Ww998_"
+            },
+            {
+              "end": 23,
+              "id": "2003562997604823040",
+              "start": 8,
+              "username": "chengorange777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048092797438431722",
+        "in_reply_to_user_id": "1861074016787988480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048089562015220112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ww998_ @chengorange777 如果是这样的话那首先你可以光明正大的关心她的伤口了，可以问问她还疼不疼，有没有消毒，建议她买点祛疤的药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031468992205041666",
+        "conversation_id": "2047972111340404859",
+        "created_at": "2026-04-25T17:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048092572636320030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 24,
+              "id": "1861074016787988480",
+              "start": 17,
+              "username": "Ww998_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048092572636320030",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048092256209612878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @Ww998_ 老师请讲，我遇到的就是这种情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047981379359776796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 3271,
+          "like_count": 28088,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 7443
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T20:35:39.000Z",
+        "description": "真的吗？",
+        "id": "2031468992205041666",
+        "location": "Seattle, WA",
+        "name": "DestroyWhatDestroysU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040768955959406592/ddH8T6-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 187,
+          "like_count": 5191,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 689
+        },
+        "username": "DesWhaDesU",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T15:46:49.000Z",
+        "description": "@BelikeOOO\n🐖🐖🐖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "BelikeOOO"
+              }
+            ]
+          }
+        },
+        "id": "1861074016787988480",
+        "name": "f for fulfilment",
+        "pinned_tweet_id": "2002411575106486443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910370328389574657/35y-rzDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 0,
+          "like_count": 2786,
+          "listed_count": 2,
+          "media_count": 643,
+          "tweet_count": 4869
+        },
+        "username": "Ww998_",
+        "verified": false
+      }
+    ]
+  }
+}

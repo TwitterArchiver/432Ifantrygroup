@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1879071747858936051",
+    "created_at": "2025-02-11T09:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T10:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889244240225648893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1370394848952512512",
+          "start": 0,
+          "username": "DianaWangJiaRan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889244240225648893",
+    "in_reply_to_user_id": "1370394848952512512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879071747858936051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaWangJiaRan 我靠，雷友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1879071747858936051",
+        "created_at": "2025-02-11T09:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889244240225648893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1370394848952512512",
+              "start": 0,
+              "username": "DianaWangJiaRan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889244240225648893",
+        "in_reply_to_user_id": "1370394848952512512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879071747858936051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaWangJiaRan 我靠，雷友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879071744188641280",
+            "3_1879071739591680000"
+          ]
+        },
+        "author_id": "1370394848952512512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1879071747858936051",
+        "created_at": "2025-01-14T07:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T08:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879071747858936051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XomDH80N3S",
+              "end": 32,
+              "expanded_url": "https://x.com/DianaWangJiaRan/status/1879071747858936051/photo/1",
+              "media_key": "3_1879071744188641280",
+              "start": 9,
+              "url": "https://t.co/XomDH80N3S"
+            },
+            {
+              "display_url": "pic.x.com/XomDH80N3S",
+              "end": 32,
+              "expanded_url": "https://x.com/DianaWangJiaRan/status/1879071747858936051/photo/1",
+              "media_key": "3_1879071739591680000",
+              "start": 9,
+              "url": "https://t.co/XomDH80N3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879071747858936051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 617,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鹅族，你崛起吧！ https://t.co/XomDH80N3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 813,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T15:23:01.000Z",
+        "description": "★无产阶级文化大革命，开创了马列主义新篇章！革命人民朝气蓬勃，一代新人茁壮成长！跟着毛主席当革命闯将，红彤彤的世界由我们开创！★\nA-SOUL的造反担当，枝江工人革命造反总司令部司令、枝江共产党中央委员会副主席、枝江中央政治局委员、枝江中央军事委员会常务委员，目前与向晚、贝拉、乃琳组成4F",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/672328094",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/672328094",
+                "start": 0,
+                "url": "https://t.co/MdO4CEp2mt"
+              }
+            ]
+          }
+        },
+        "id": "1370394848952512512",
+        "location": "枝江人民公社",
+        "name": "枝江人民公社副主任王嘉然",
+        "pinned_tweet_id": "1680194565993795585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684526997379108865/HdLHmAnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 249,
+          "like_count": 1512,
+          "listed_count": 15,
+          "media_count": 393,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/MdO4CEp2mt",
+        "username": "DianaWangJiaRan",
+        "verified": false
+      }
+    ]
+  }
+}

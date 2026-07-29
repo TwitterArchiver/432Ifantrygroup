@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2044644919038693638",
+    "created_at": "2026-04-16T15:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044801984503632158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "894196657578889216",
+          "start": 0,
+          "username": "frnky_prsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044801984503632158",
+    "in_reply_to_user_id": "894196657578889216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044798617228349743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frnky_prsy 服务员是服务业中的一部分，也是目前中国第三产业的主要组成部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044644919038693638",
+        "created_at": "2026-04-16T15:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044801984503632158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "894196657578889216",
+              "start": 0,
+              "username": "frnky_prsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044801984503632158",
+        "in_reply_to_user_id": "894196657578889216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044798617228349743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frnky_prsy 服务员是服务业中的一部分，也是目前中国第三产业的主要组成部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "894196657578889216",
+        "conversation_id": "2044644919038693638",
+        "created_at": "2026-04-16T15:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044798617228349743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044798617228349743",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044644919038693638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 服务行业不是服务员的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 2926,
+          "like_count": 23124,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 6096
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-06T14:01:11.000Z",
+        "description": "",
+        "id": "894196657578889216",
+        "name": "Palm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799041438220693504/Ia51Zzjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 160,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 594
+        },
+        "username": "frnky_prsy",
+        "verified": false
+      }
+    ]
+  }
+}

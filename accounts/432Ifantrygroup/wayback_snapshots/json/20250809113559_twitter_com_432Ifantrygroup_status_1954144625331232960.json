@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1939141449662243285",
+    "created_at": "2025-08-09T11:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954144625331232960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1618588644230705152",
+          "start": 0,
+          "username": "Cherry1224Li"
+        },
+        {
+          "end": 23,
+          "id": "715183792697303041",
+          "start": 14,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954144625331232960",
+    "in_reply_to_user_id": "1618588644230705152",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939141449662243285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherry1224Li @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 284733,
+        "height": 1222,
+        "media_key": "13_1939140744490487808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939140744490487808/img/0_HCEtVRlutsYQ5P.jpg",
+        "public_metrics": {
+          "view_count": 36214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939140744490487808/vid/avc1/320x542/SJIrDcsZuYWxm4Hc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939140744490487808/vid/avc1/480x814/yYLiQRb3EyurqBo8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939140744490487808/vid/avc1/720x1222/1KAS64wmtteLHVGn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939140744490487808/pl/zZiDzFBCh9-aOdPK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1939141449662243285",
+        "created_at": "2025-08-09T11:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954144625331232960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1618588644230705152",
+              "start": 0,
+              "username": "Cherry1224Li"
+            },
+            {
+              "end": 23,
+              "id": "715183792697303041",
+              "start": 14,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954144625331232960",
+        "in_reply_to_user_id": "1618588644230705152",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939141449662243285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherry1224Li @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939140744490487808"
+          ]
+        },
+        "author_id": "1618588644230705152",
+        "conversation_id": "1939141449662243285",
+        "created_at": "2025-06-29T01:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939141449662243285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "发骚日记"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "发骚"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "反差"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "反差婊"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "母狗"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "自慰"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "高潮"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "发情"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "骚货"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "臀控集合"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "微胖"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "肉腿"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "骚货的日常"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "海鳗"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "剑三"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "万花谷"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "花姐"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "无畏契约"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "社死"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "郑州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfpcizXL9W",
+              "end": 122,
+              "expanded_url": "https://x.com/Cherry1224Li/status/1939141449662243285/video/1",
+              "media_key": "13_1939140744490487808",
+              "start": 99,
+              "url": "https://t.co/cfpcizXL9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939141449662243285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 425,
+          "impression_count": 147219,
+          "like_count": 1274,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "长假开始咯\n\n#发骚日记 #发骚 #反差 #反差婊 #母狗 \n#自慰 #高潮 ＃发情 ＃骚货 #臀控集合 #微胖 #肉腿 #骚货的日常 #海鳗 #剑三 #万花谷 #花姐 #无畏契约 #社死 #郑州 https://t.co/cfpcizXL9W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1168,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 108
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T12:36:33.000Z",
+        "description": "推是色欲存放站，现实只是普通人，求不开盒。\n没有门，不约啪，别问了",
+        "id": "1618588644230705152",
+        "location": "郑州",
+        "name": "Cherry",
+        "pinned_tweet_id": "1941927660181180588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913707656453529600/UybOASmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 20,
+          "like_count": 18,
+          "listed_count": 15,
+          "media_count": 32,
+          "tweet_count": 87
+        },
+        "username": "Cherry1224Li",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195950,
+          "following_count": 116,
+          "like_count": 25,
+          "listed_count": 614,
+          "media_count": 1,
+          "tweet_count": 757491
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048279695201112343",
+    "created_at": "2026-04-26T06:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048281937534718116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1231434335737110528",
+          "start": 0,
+          "username": "GMREDOFFICIAL60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048281937534718116",
+    "in_reply_to_user_id": "1231434335737110528",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048280999524770011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GMREDOFFICIAL60 yes！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048279695201112343",
+        "created_at": "2026-04-26T06:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048281937534718116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1231434335737110528",
+              "start": 0,
+              "username": "GMREDOFFICIAL60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048281937534718116",
+        "in_reply_to_user_id": "1231434335737110528",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048280999524770011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GMREDOFFICIAL60 yes！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1231434335737110528",
+        "conversation_id": "2048279695201112343",
+        "created_at": "2026-04-26T06:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048280999524770011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048280999524770011",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048279695201112343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我正好是第九百个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048262891355394513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 3291,
+          "like_count": 28284,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 7502
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-23T04:23:58.000Z",
+        "description": "已过气四年的人，删除了23年12月前所有推文｜思想变化:粉红→自由派→网左→存在主义→卫理公会(想加但是还没有加入) ｜大三政治学系，希望考到哲学院｜渴望交流学习",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/GMREDOFFICIAL60",
+                "end": 23,
+                "expanded_url": "https://x.com/GMREDOFFICIAL60",
+                "start": 0,
+                "url": "https://t.co/yl26pe3olu"
+              }
+            ]
+          }
+        },
+        "id": "1231434335737110528",
+        "location": "✠",
+        "name": "一般通过R2D2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036486211309883392/-eEn6_BU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 179,
+          "like_count": 2118,
+          "listed_count": 13,
+          "media_count": 37,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/yl26pe3olu",
+        "username": "GMREDOFFICIAL60",
+        "verified": false
+      }
+    ]
+  }
+}

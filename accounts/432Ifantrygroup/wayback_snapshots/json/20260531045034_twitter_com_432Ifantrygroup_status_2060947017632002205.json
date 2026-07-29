@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060747312520139049",
+    "created_at": "2026-05-31T04:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060947017632002205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2038854182686584832",
+          "start": 0,
+          "username": "Kittyyack"
+        },
+        {
+          "end": 20,
+          "id": "1240612754584526849",
+          "start": 11,
+          "username": "SeenuriR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060947017632002205",
+    "in_reply_to_user_id": "2038854182686584832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060942839987814834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittyyack @SeenuriR 这是机器人，起号的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060747312520139049",
+        "created_at": "2026-05-31T04:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060947017632002205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2038854182686584832",
+              "start": 0,
+              "username": "Kittyyack"
+            },
+            {
+              "end": 20,
+              "id": "1240612754584526849",
+              "start": 11,
+              "username": "SeenuriR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060947017632002205",
+        "in_reply_to_user_id": "2038854182686584832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060942839987814834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittyyack @SeenuriR 这是机器人，起号的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038854182686584832",
+        "conversation_id": "2060747312520139049",
+        "created_at": "2026-05-31T04:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060942839987814834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1240612754584526849",
+              "start": 0,
+              "username": "SeenuriR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060942839987814834",
+        "in_reply_to_user_id": "1240612754584526849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060747312520139049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeenuriR 你干啥学我说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 3994,
+          "like_count": 40823,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 11355
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T05:42:30.000Z",
+        "description": "不约不聊别来烦我",
+        "id": "2038854182686584832",
+        "name": "Kitty",
+        "pinned_tweet_id": "2059475866363814280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038854559150526464/-Um3nnPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 8,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 574
+        },
+        "username": "Kittyyack",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T12:15:19.000Z",
+        "description": "女s喜欢高跟鞋的狗狗来",
+        "id": "1240612754584526849",
+        "name": "晓柔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058207999785861120/x9uhWg2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 18,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "SeenuriR",
+        "verified": false
+      }
+    ]
+  }
+}

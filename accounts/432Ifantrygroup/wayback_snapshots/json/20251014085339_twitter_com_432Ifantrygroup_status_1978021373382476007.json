@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1977864860793999380",
+    "created_at": "2025-10-14T08:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978021373382476007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1194305042578362368",
+          "start": 0,
+          "username": "Jam79922967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978021373382476007",
+    "in_reply_to_user_id": "1194305042578362368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977864860793999380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jam79922967 严格的温度要求是指拿测温枪对着测？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 213333,
+        "height": 894,
+        "media_key": "13_1977864738601062400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977864738601062400/img/XeKPfMJG35cbXn-q.jpg",
+        "public_metrics": {
+          "view_count": 115005
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977864738601062400/vid/avc1/320x322/McCNGKLBFs4s0XDt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977864738601062400/pl/S82C3M6CZaok9-Bz.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977864738601062400/vid/avc1/480x484/FS2H3ASYYCUdQdEu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977864738601062400/vid/avc1/886x894/MDX8Vw6RPkxIPqd1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977864738601062400/vid/avc1/720x726/peLSYOMxUOmYNSca.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1977864860793999380",
+        "created_at": "2025-10-14T08:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978021373382476007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194305042578362368",
+              "start": 0,
+              "username": "Jam79922967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978021373382476007",
+        "in_reply_to_user_id": "1194305042578362368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977864860793999380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jam79922967 严格的温度要求是指拿测温枪对着测？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977864738601062400"
+          ]
+        },
+        "author_id": "1194305042578362368",
+        "conversation_id": "1977864860793999380",
+        "created_at": "2025-10-13T22:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T23:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977864860793999380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XG7YaZP2Ef",
+              "end": 146,
+              "expanded_url": "https://x.com/Jam79922967/status/1977864860793999380/video/1",
+              "media_key": "13_1977864738601062400",
+              "start": 123,
+              "url": "https://t.co/XG7YaZP2Ef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977864860793999380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨天一大堆为了减刑的五毛水军在我推文后面发帖：“美国日本一堆院士，有毛用， 汽车，家电，钢铁，船舶不都被中国打趴下了吗？””造了六代机，世界上最聪明的美爹五代机都没法复刻出来了”；“中国的风洞、六代机、电磁弹射、东风61/5C是谁研制出来的？”\n\n这些家伙科学素质实在太差，他们不知道中外科技差别。 先不说基础科学研究，就是制造业，欧美日是能用自动化机器就不用人，而中国是能用人就不用机器，因为就此太廉价了，工资低。大家看视频吧，那么高温危险的工作依旧靠人工，出事故要死人的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 172873,
+          "like_count": 437,
+          "quote_count": 5,
+          "reply_count": 138,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "昨天一大堆为了减刑的五毛水军在我推文后面发帖：“美国日本一堆院士，有毛用， 汽车，家电，钢铁，船舶不都被中国打趴下了吗？””造了六代机，世界上最聪明的美爹五代机都没法复刻出来了”；“中国的风洞、六代机、电磁弹射、东风61/5C是谁研制出来的？” https://t.co/XG7YaZP2Ef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1238,
+          "like_count": 2788,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 207
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T17:25:09.000Z",
+        "description": "專業人士，人格獨立。無論批評或褒揚什麽，皆基於事實，而非出於個人恩怨。",
+        "id": "1194305042578362368",
+        "location": "Taiwan",
+        "name": "Petrichor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555428587083366400/Ao7hhUWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629204,
+          "following_count": 1179,
+          "like_count": 2227,
+          "listed_count": 1184,
+          "media_count": 18575,
+          "tweet_count": 30115
+        },
+        "username": "Jam79922967",
+        "verified": true
+      }
+    ]
+  }
+}

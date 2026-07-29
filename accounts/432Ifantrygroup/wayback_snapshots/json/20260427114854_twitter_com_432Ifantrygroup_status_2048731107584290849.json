@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048656713625313291",
+    "created_at": "2026-04-27T11:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048731107584290849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1854885195604017153",
+          "start": 0,
+          "username": "Buchiniurou666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048731107584290849",
+    "in_reply_to_user_id": "1854885195604017153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048659116110053481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Buchiniurou666 我基本退游了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048656713625313291",
+        "created_at": "2026-04-27T11:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048731107584290849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1854885195604017153",
+              "start": 0,
+              "username": "Buchiniurou666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048731107584290849",
+        "in_reply_to_user_id": "1854885195604017153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048659116110053481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Buchiniurou666 我基本退游了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854885195604017153",
+        "conversation_id": "2048656713625313291",
+        "created_at": "2026-04-27T07:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048659116110053481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048659116110053481",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048656713625313291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 号主号主想不想跟我来一场紧张刺激的卡兹对战"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048703129471029448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 3365,
+          "like_count": 29016,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 7729
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T13:54:59.000Z",
+        "description": "😁",
+        "id": "1854885195604017153",
+        "name": "翻斗花园刘爷爷",
+        "pinned_tweet_id": "2030268240203784409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029558397558018048/55Sejjo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 143,
+          "like_count": 3548,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1199
+        },
+        "username": "Buchiniurou666",
+        "verified": false
+      }
+    ]
+  }
+}

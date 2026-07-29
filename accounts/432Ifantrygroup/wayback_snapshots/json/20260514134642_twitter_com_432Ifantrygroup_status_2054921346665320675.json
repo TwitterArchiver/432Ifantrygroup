@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054921346665320675",
+    "created_at": "2026-05-14T13:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054921346665320675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905881881255477248",
+          "start": 3,
+          "username": "jia52765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054921346665320675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054918027238601061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jia52765: 各位不要对心理医生报有任何幻想。心理医生存在的目的就是为符号秩序或者说再生产服务的，是为了把你塞回到既定的标准差中，看千万遍心理医生也不会改变你的处境。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054921346665320675",
+        "created_at": "2026-05-14T13:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054921346665320675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905881881255477248",
+              "start": 3,
+              "username": "jia52765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054921346665320675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054918027238601061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jia52765: 各位不要对心理医生报有任何幻想。心理医生存在的目的就是为符号秩序或者说再生产服务的，是为了把你塞回到既定的标准差中，看千万遍心理医生也不会改变你的处境。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905881881255477248",
+        "conversation_id": "2054918027238601061",
+        "created_at": "2026-05-14T13:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054918027238601061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054918027238601061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位不要对心理医生报有任何幻想。心理医生存在的目的就是为符号秩序或者说再生产服务的，是为了把你塞回到既定的标准差中，看千万遍心理医生也不会改变你的处境。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054256320266788960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 3791,
+          "like_count": 36313,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 9749
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T07:17:52.000Z",
+        "description": "多喜乐，常安宁，所愿皆所成. | 高三在读 |  🌈友好 | 🈲键政、🈲NSFW .希望可以求同存异、友好交流，欢迎私信.",
+        "id": "1905881881255477248",
+        "location": "墨尔本",
+        "name": "hujle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052399868107497472/NeEayGvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 573,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 223
+        },
+        "username": "jia52765",
+        "verified": false
+      }
+    ]
+  }
+}

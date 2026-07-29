@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041706858004844834",
+    "created_at": "2026-04-08T04:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041730518686036297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030250921402535938",
+          "start": 0,
+          "username": "Yepwithyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041730518686036297",
+    "in_reply_to_user_id": "2030250921402535938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041706858004844834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yepwithyou 怎么了老师🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041706858004844834",
+        "created_at": "2026-04-08T04:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041730518686036297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030250921402535938",
+              "start": 0,
+              "username": "Yepwithyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041730518686036297",
+        "in_reply_to_user_id": "2030250921402535938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041706858004844834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yepwithyou 怎么了老师🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030250921402535938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2041706858004844834",
+        "created_at": "2026-04-08T02:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041706858004844834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041706858004844834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把所有钱都给我爸妈了，我做不到割肉还父，剔骨还母，但是这一点钱远远不够，如果要还一辈子，到底要还多少钱才合适。\n为何爱我，还让我以痛苦为食…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041499030333919302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 2861,
+          "like_count": 20512,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 5387
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:56:02.000Z",
+        "description": "心里总是下小雨",
+        "id": "2030250921402535938",
+        "location": "always by your side",
+        "name": "椰",
+        "pinned_tweet_id": "2040201177053233387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031992162141999104/aGlsuHS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 64,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 289
+        },
+        "username": "Yepwithyou",
+        "verified": false
+      }
+    ]
+  }
+}

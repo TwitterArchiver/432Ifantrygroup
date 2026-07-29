@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051315915153637659",
+    "created_at": "2026-05-04T15:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T16:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051324088048906255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626378841760452608",
+          "start": 0,
+          "username": "Dnsks_JKbsnad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051324088048906255",
+    "in_reply_to_user_id": "1626378841760452608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051315915153637659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dnsks_JKbsnad 防开盒是什么意思？你被下药了和你被开盒之间的联系是什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051315915153637659",
+        "created_at": "2026-05-04T15:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051324088048906255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626378841760452608",
+              "start": 0,
+              "username": "Dnsks_JKbsnad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051324088048906255",
+        "in_reply_to_user_id": "1626378841760452608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051315915153637659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dnsks_JKbsnad 防开盒是什么意思？你被下药了和你被开盒之间的联系是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626378841760452608",
+        "conversation_id": "2051315915153637659",
+        "created_at": "2026-05-04T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051315915153637659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051315915153637659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是要吸引注意，求个人告诉我第一时间微信怎么防开盒    拜托了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051017076677190084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 3522,
+          "like_count": 31404,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 8415
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T00:32:19.000Z",
+        "description": "",
+        "id": "1626378841760452608",
+        "name": "比大妈",
+        "pinned_tweet_id": "1995996637932462586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841458782909677568/74BmK-g__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 58,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 80
+        },
+        "username": "Dnsks_JKbsnad",
+        "verified": false
+      }
+    ]
+  }
+}

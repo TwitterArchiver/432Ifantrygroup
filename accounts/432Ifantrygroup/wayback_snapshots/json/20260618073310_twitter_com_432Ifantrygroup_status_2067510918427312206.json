@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2067510918427312206",
+    "created_at": "2026-06-18T07:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067510918427312206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deriniko9/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/deriniko9/status/2067210942455140829",
+          "start": 31,
+          "url": "https://t.co/yQWgbX25N3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067510918427312206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067210942455140829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2\n我家的屋子就是我床正对着门导致我睡觉的时候有点没有安全感 https://t.co/yQWgbX25N3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2067210937648517120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA1ZS5XkAAEXy0.jpg",
+        "width": 880
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2067210937719816192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA1ZTKXgAAgJgD.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2067510918427312206",
+        "created_at": "2026-06-18T07:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067510918427312206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deriniko9/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/deriniko9/status/2067210942455140829",
+              "start": 31,
+              "url": "https://t.co/yQWgbX25N3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067510918427312206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067210942455140829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2\n我家的屋子就是我床正对着门导致我睡觉的时候有点没有安全感 https://t.co/yQWgbX25N3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067210937648517120",
+            "3_2067210937719816192"
+          ]
+        },
+        "author_id": "89478500",
+        "conversation_id": "2067210942455140829",
+        "created_at": "2026-06-17T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067210942455140829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPHRdUJFQD",
+              "end": 73,
+              "expanded_url": "https://x.com/deriniko9/status/2067210942455140829/photo/1",
+              "media_key": "3_2067210937648517120",
+              "start": 50,
+              "url": "https://t.co/CPHRdUJFQD"
+            },
+            {
+              "display_url": "pic.x.com/CPHRdUJFQD",
+              "end": 73,
+              "expanded_url": "https://x.com/deriniko9/status/2067210942455140829/photo/1",
+              "media_key": "3_2067210937719816192",
+              "start": 50,
+              "url": "https://t.co/CPHRdUJFQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067210942455140829",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2018,
+          "impression_count": 4938745,
+          "like_count": 7450,
+          "quote_count": 574,
+          "reply_count": 1211,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "Psikolojik test ⁉️\nHangi odayı tercih ederdiniz?? https://t.co/CPHRdUJFQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 4116,
+          "like_count": 42546,
+          "listed_count": 4,
+          "media_count": 487,
+          "tweet_count": 12059
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T16:14:33.000Z",
+        "description": "🌼",
+        "id": "89478500",
+        "name": "DERİN",
+        "pinned_tweet_id": "2067301705478226383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032924806786510848/_H4fQ4cq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10611,
+          "following_count": 9685,
+          "like_count": 37069,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 20835
+        },
+        "username": "deriniko9",
+        "verified": true
+      }
+    ]
+  }
+}

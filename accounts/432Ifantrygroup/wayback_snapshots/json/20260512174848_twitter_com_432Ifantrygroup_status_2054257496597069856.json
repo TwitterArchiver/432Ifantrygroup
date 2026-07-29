@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054257496597069856",
+    "created_at": "2026-05-12T17:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T18:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054257496597069856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054257496597069856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054256320266788960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 有时候人要有坚定的立场，该说“绝不能”的时候不说最好别；该说“不应该”的时候不说没必要；该说“这不对”的时候不说不合适；该说“我要求”的时候不说我觉得，该说“我拒绝”的时候不说不方便....\n我们习惯了用模糊的词汇为自己和对方留“后路”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054257496597069856",
+        "created_at": "2026-05-12T17:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054257496597069856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054257496597069856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054256320266788960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 有时候人要有坚定的立场，该说“绝不能”的时候不说最好别；该说“不应该”的时候不说没必要；该说“这不对”的时候不说不合适；该说“我要求”的时候不说我觉得，该说“我拒绝”的时候不说不方便....\n我们习惯了用模糊的词汇为自己和对方留“后路”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054256320266788960",
+        "created_at": "2026-05-12T17:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054256320266788960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054256320266788960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有时候人要有坚定的立场，该说“绝不能”的时候不说最好别；该说“不应该”的时候不说没必要；该说“这不对”的时候不说不合适；该说“我要求”的时候不说我觉得，该说“我拒绝”的时候不说不方便....\n我们习惯了用模糊的词汇为自己和对方留“后路”，但有时我们也要记住我们的初衷，坚定自己的立场。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054256320266788960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 3778,
+          "like_count": 35821,
+          "listed_count": 4,
+          "media_count": 388,
+          "tweet_count": 9608
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

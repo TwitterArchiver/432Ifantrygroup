@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048439986287235228",
+    "created_at": "2026-04-26T16:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048439986287235228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fabedv1/status…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/fabedv1/status/2048439609814929867",
+          "start": 89,
+          "url": "https://t.co/2oewgmS4EE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048439986287235228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048439609814929867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经说过无数次了：我们共产党人从不向任何人许诺胜利，那是纳粹才会说的话。斗争的意义不在于胜利，而在于死亡，它向压迫者宣布：妄想奴役我们，那么你除了我们的尸体之外什么也得不到！ https://t.co/2oewgmS4EE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048439986287235228",
+        "created_at": "2026-04-26T16:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048439986287235228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fabedv1/status…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/fabedv1/status/2048439609814929867",
+              "start": 89,
+              "url": "https://t.co/2oewgmS4EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048439986287235228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048439609814929867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经说过无数次了：我们共产党人从不向任何人许诺胜利，那是纳粹才会说的话。斗争的意义不在于胜利，而在于死亡，它向压迫者宣布：妄想奴役我们，那么你除了我们的尸体之外什么也得不到！ https://t.co/2oewgmS4EE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363466678852411397",
+        "conversation_id": "2048106983941980408",
+        "created_at": "2026-04-26T16:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048439609814929867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048439609814929867",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048106983941980408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 斗争的结果不是必然有更多的权利，也可能是失业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048417768069050394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 3337,
+          "like_count": 28550,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 7593
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T12:32:47.000Z",
+        "description": "",
+        "id": "1363466678852411397",
+        "name": "fabedv",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 66,
+          "like_count": 64804,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 16384
+        },
+        "username": "fabedv1",
+        "verified": false
+      }
+    ]
+  }
+}

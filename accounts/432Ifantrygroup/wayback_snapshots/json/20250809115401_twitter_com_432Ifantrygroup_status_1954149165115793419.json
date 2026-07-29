@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1914347974676922439",
+    "created_at": "2025-08-09T11:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954149165115793419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "251996954",
+          "start": 0,
+          "username": "CHNBDSMPORN"
+        },
+        {
+          "end": 22,
+          "id": "715183792697303041",
+          "start": 13,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954149165115793419",
+    "in_reply_to_user_id": "251996954",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914347974676922439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHNBDSMPORN @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65639,
+        "height": 1280,
+        "media_key": "13_1914347691204866048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914347691204866048/img/G3hJEW7dCGOr2PSy.jpg",
+        "public_metrics": {
+          "view_count": 20172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914347691204866048/vid/avc1/320x568/3H7muOdOpCKPkuh5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914347691204866048/vid/avc1/480x852/vg4zGEoX4u6-i1Vj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914347691204866048/vid/avc1/720x1280/VdMSY4sAxRF9HNYO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914347691204866048/pl/iBxRitKmTXtg_w1g.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1914347974676922439",
+        "created_at": "2025-08-09T11:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954149165115793419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "251996954",
+              "start": 0,
+              "username": "CHNBDSMPORN"
+            },
+            {
+              "end": 22,
+              "id": "715183792697303041",
+              "start": 13,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954149165115793419",
+        "in_reply_to_user_id": "251996954",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914347974676922439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHNBDSMPORN @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914347691204866048"
+          ]
+        },
+        "author_id": "251996954",
+        "conversation_id": "1914347974676922439",
+        "created_at": "2025-04-21T15:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914347974676922439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwtfV3Sdto",
+              "end": 51,
+              "expanded_url": "https://x.com/CHNBDSMPORN/status/1914347974676922439/video/1",
+              "media_key": "13_1914347691204866048",
+              "start": 28,
+              "url": "https://t.co/iwtfV3Sdto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914347974676922439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 104693,
+          "like_count": 293,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "炮机自慰\n\n完整版在telegram群\n2504213 https://t.co/iwtfV3Sdto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1168,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 128
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-14T08:07:49.000Z",
+        "description": "BDSM |虐待 |捆绑 | 窒息 | sm |放置 | 露出 | bondage |乳胶 |炮机| 窒息 |紧缚| 捆绑|折磨 | 变态      侵权请私信，马上删除        推特发的所有完整版都在电报群 telegram 想进群的可以私信我https://t.co/6tpdJCXXbi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Chinesebdsm123",
+                "end": 149,
+                "expanded_url": "http://t.me/Chinesebdsm123",
+                "start": 126,
+                "url": "https://t.co/6tpdJCXXbi"
+              }
+            ]
+          }
+        },
+        "id": "251996954",
+        "name": "CHN BDSM PORN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773713002145177601/DhIZoin7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45485,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 159,
+          "media_count": 1140,
+          "tweet_count": 1140
+        },
+        "username": "CHNBDSMPORN",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195832,
+          "following_count": 116,
+          "like_count": 25,
+          "listed_count": 614,
+          "media_count": 1,
+          "tweet_count": 757508
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

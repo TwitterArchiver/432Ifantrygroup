@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870404747561447424"
+      ],
+      "media_source_tweet_id": [
+        "1870404947235455209"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "1870644157334933668",
+    "created_at": "2024-12-22T01:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T02:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870644157334933668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/31uBhCe1sv",
+          "end": 113,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1870404947235455209/photo/1",
+          "media_key": "3_1870404747561447424",
+          "start": 90,
+          "url": "https://t.co/31uBhCe1sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870644157334933668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870404947235455209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 12月20日(发布) 一名学生写的《停止英语课倡议书》称中国曾被多国列强侵略，呼吁不要学习敌人的语言，并将英语改成中医教学，传承中国文化。 https://t.co/31uBhCe1sv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1870404747561447424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfUDNUSasAAXIBC.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870404747561447424"
+          ],
+          "media_source_tweet_id": [
+            "1870404947235455209"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "1870644157334933668",
+        "created_at": "2024-12-22T01:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T02:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870644157334933668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/31uBhCe1sv",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1870404947235455209/photo/1",
+              "media_key": "3_1870404747561447424",
+              "start": 90,
+              "url": "https://t.co/31uBhCe1sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870644157334933668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870404947235455209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 12月20日(发布) 一名学生写的《停止英语课倡议书》称中国曾被多国列强侵略，呼吁不要学习敌人的语言，并将英语改成中医教学，传承中国文化。 https://t.co/31uBhCe1sv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870404747561447424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1870404947235455209",
+        "created_at": "2024-12-21T09:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T10:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870404947235455209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31uBhCe1sv",
+              "end": 93,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1870404947235455209/photo/1",
+              "media_key": "3_1870404747561447424",
+              "start": 70,
+              "url": "https://t.co/31uBhCe1sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870404947235455209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 322686,
+          "like_count": 1051,
+          "quote_count": 25,
+          "reply_count": 328,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "12月20日(发布) 一名学生写的《停止英语课倡议书》称中国曾被多国列强侵略，呼吁不要学习敌人的语言，并将英语改成中医教学，传承中国文化。 https://t.co/31uBhCe1sv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 431,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1869409838121521363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878594,
+          "following_count": 929,
+          "like_count": 5519,
+          "listed_count": 8016,
+          "media_count": 20705,
+          "tweet_count": 26942
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

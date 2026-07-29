@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053381609320239276",
+    "created_at": "2026-05-10T08:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053390331086008612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988164478706610180",
+          "start": 0,
+          "username": "meifeitaya1978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053390331086008612",
+    "in_reply_to_user_id": "1988164478706610180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053389485845741648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meifeitaya1978 哦，反正我会努力向着这个方向去做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053381609320239276",
+        "created_at": "2026-05-10T08:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053390331086008612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988164478706610180",
+              "start": 0,
+              "username": "meifeitaya1978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053390331086008612",
+        "in_reply_to_user_id": "1988164478706610180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053389485845741648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meifeitaya1978 哦，反正我会努力向着这个方向去做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988164478706610180",
+        "conversation_id": "2053381609320239276",
+        "created_at": "2026-05-10T08:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053389485845741648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053389485845741648",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053382774816657650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这世界不以你的个人意志为转移。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 3715,
+          "like_count": 34700,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9257
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T08:38:51.000Z",
+        "description": "或重于泰山，或轻于鸿毛",
+        "id": "1988164478706610180",
+        "name": "亚当",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053383377802452992/YAbsWTkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 378,
+          "like_count": 5929,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1518
+        },
+        "username": "meifeitaya1978",
+        "verified": false
+      }
+    ]
+  }
+}

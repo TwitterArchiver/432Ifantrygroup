@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071654907812159490"
+      ],
+      "media_source_tweet_id": [
+        "2071654912715272667"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071833406846177693",
+    "created_at": "2026-06-30T05:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071833406846177693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984316739363209216",
+          "start": 3,
+          "username": "Ouiwops"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nVv7XCIjBl",
+          "end": 67,
+          "expanded_url": "https://x.com/Ouiwops/status/2071654912715272667/photo/1",
+          "media_key": "3_2071654907812159490",
+          "start": 44,
+          "url": "https://t.co/nVv7XCIjBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071833406846177693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071654912715272667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ouiwops: 一个歧视其他民族的人你觉得算真正支持革命吗？性少数也是同理啊 https://t.co/nVv7XCIjBl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 216,
+        "media_key": "3_2071654907812159490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL__KZ1WoAIbpQK.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071654907812159490"
+          ],
+          "media_source_tweet_id": [
+            "2071654912715272667"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071833406846177693",
+        "created_at": "2026-06-30T05:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071833406846177693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984316739363209216",
+              "start": 3,
+              "username": "Ouiwops"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVv7XCIjBl",
+              "end": 67,
+              "expanded_url": "https://x.com/Ouiwops/status/2071654912715272667/photo/1",
+              "media_key": "3_2071654907812159490",
+              "start": 44,
+              "url": "https://t.co/nVv7XCIjBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071833406846177693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071654912715272667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ouiwops: 一个歧视其他民族的人你觉得算真正支持革命吗？性少数也是同理啊 https://t.co/nVv7XCIjBl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071654907812159490"
+          ]
+        },
+        "author_id": "1984316739363209216",
+        "conversation_id": "2071654912715272667",
+        "created_at": "2026-06-29T17:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071654912715272667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVv7XCIjBl",
+              "end": 54,
+              "expanded_url": "https://x.com/Ouiwops/status/2071654912715272667/photo/1",
+              "media_key": "3_2071654907812159490",
+              "start": 31,
+              "url": "https://t.co/nVv7XCIjBl"
+            },
+            {
+              "display_url": "x.com/TheLongMarchAI…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/TheLongMarchAI/status/2071653851443454087",
+              "start": 55,
+              "url": "https://t.co/MPqD8mnxGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071654912715272667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 695,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071653851443454087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个歧视其他民族的人你觉得算真正支持革命吗？性少数也是同理啊 https://t.co/nVv7XCIjBl https://t.co/MPqD8mnxGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 4213,
+          "like_count": 44468,
+          "listed_count": 4,
+          "media_count": 532,
+          "tweet_count": 12737
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "一个无可救药的理想主义者\n\n老婆：@nvdlaamdmag114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "nvdlaamdmag114"
+              }
+            ]
+          }
+        },
+        "id": "1984316739363209216",
+        "location": "乌托邦",
+        "name": "阳🇵🇸🇺🇦🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071219189331992576/qeduwppF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 708,
+          "like_count": 5343,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "Ouiwops",
+        "verified": false
+      }
+    ]
+  }
+}

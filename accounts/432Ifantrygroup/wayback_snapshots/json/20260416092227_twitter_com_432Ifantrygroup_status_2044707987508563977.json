@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2044687197635551729",
+    "created_at": "2026-04-16T09:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T10:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044707987508563977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017977830093860864",
+          "start": 0,
+          "username": "finoa0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044707987508563977",
+    "in_reply_to_user_id": "2017977830093860864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044687197635551729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finoa0726 牛逼，点评李清照的都来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2044687197635551729",
+        "created_at": "2026-04-16T09:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T10:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044707987508563977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017977830093860864",
+              "start": 0,
+              "username": "finoa0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044707987508563977",
+        "in_reply_to_user_id": "2017977830093860864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044687197635551729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finoa0726 牛逼，点评李清照的都来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017977830093860864",
+        "conversation_id": "2044687197635551729",
+        "created_at": "2026-04-16T07:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T08:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044687197635551729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044687197635551729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上个网还能看到说李清照词写的不好的。大哥你上过语文课没？《醉花阴》《一剪梅》学猪脑子里去了吗？仄仄平平仄分的清吗？还点评上李清照了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 2925,
+          "like_count": 23025,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 6049
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T15:06:43.000Z",
+        "description": "请你今天也过好。文案不可搬运。匿名信箱：https://t.co/skJ8ugHMdR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finoa072611457",
+                "end": 43,
+                "expanded_url": "https://ngl.link/finoa072611457",
+                "start": 20,
+                "url": "https://t.co/skJ8ugHMdR"
+              }
+            ]
+          }
+        },
+        "id": "2017977830093860864",
+        "name": "就把祝福别在襟上吧。",
+        "pinned_tweet_id": "2029484661173543224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017990376460800000/FgPb_TqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 107,
+          "like_count": 2708,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3352
+        },
+        "username": "finoa0726",
+        "verified": false
+      }
+    ]
+  }
+}

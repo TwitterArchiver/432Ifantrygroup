@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038316361546653777",
+    "created_at": "2026-03-29T18:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038317179838648667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632084187053424640",
+          "start": 0,
+          "username": "4280401cdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038317179838648667",
+    "in_reply_to_user_id": "1632084187053424640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038316361546653777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4280401cdb 我求你们能不能不要老是把实然当成应然？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038316361546653777",
+        "created_at": "2026-03-29T18:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038317179838648667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632084187053424640",
+              "start": 0,
+              "username": "4280401cdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038317179838648667",
+        "in_reply_to_user_id": "1632084187053424640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038316361546653777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4280401cdb 我求你们能不能不要老是把实然当成应然？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632084187053424640",
+        "conversation_id": "2038316361546653777",
+        "created_at": "2026-03-29T18:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038316361546653777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2038315704584478993",
+              "start": 38,
+              "url": "https://t.co/XvqiCkUnMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038316361546653777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038315704584478993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你能对资本社会无知到这种程度，那也就随你去吧。我想我不应该对牛弹琴的。 https://t.co/XvqiCkUnMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 2662,
+          "like_count": 15232,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 4036
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:23:10.000Z",
+        "description": "这位推友很懒，没有留下任何简介",
+        "id": "1632084187053424640",
+        "name": "-江南風光-🇹🇼",
+        "pinned_tweet_id": "1977409308993434107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979465419065831424/4ah5CqFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 27,
+          "like_count": 3559,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 2010
+        },
+        "username": "4280401cdb",
+        "verified": false
+      }
+    ]
+  }
+}

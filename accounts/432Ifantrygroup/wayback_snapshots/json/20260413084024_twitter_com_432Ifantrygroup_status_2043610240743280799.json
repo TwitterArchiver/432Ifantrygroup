@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043610240743280799",
+    "created_at": "2026-04-13T08:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043610240743280799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925129997922263040",
+          "start": 3,
+          "username": "shiyousana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043610240743280799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043295394256556312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyousana: 感觉好多人被规训的好狠\n在最好的年华被灌入最卑鄙的事物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043610240743280799",
+        "created_at": "2026-04-13T08:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043610240743280799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925129997922263040",
+              "start": 3,
+              "username": "shiyousana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043610240743280799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043295394256556312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyousana: 感觉好多人被规训的好狠\n在最好的年华被灌入最卑鄙的事物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925129997922263040",
+        "conversation_id": "2043295394256556312",
+        "created_at": "2026-04-12T11:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043295394256556312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043295394256556312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好多人被规训的好狠\n在最好的年华被灌入最卑鄙的事物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2043608747449500052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 2898,
+          "like_count": 22108,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 5776
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T10:02:26.000Z",
+        "description": "一个无名幽灵罢了",
+        "id": "1925129997922263040",
+        "location": "第？层梦境",
+        "name": "白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925130324675309568/Hv6FyNKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 143,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 290
+        },
+        "username": "shiyousana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+          "id": "955547826368344064",
+          "name": "Violence & safety in Brazil"
+        }
+      }
+    ],
+    "conversation_id": "2062236658867867663",
+    "created_at": "2026-06-03T18:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062236658867867663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2446267182",
+          "start": 3,
+          "username": "_Stalinspears_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062236658867867663",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 343
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062102383820206116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Stalinspears_: Menos de dois minutos para dificultar um direito garantido a crianças e adolescentes estuprados.\n\nAnos para discutir o…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062236658867867663",
+        "created_at": "2026-06-03T18:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062236658867867663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2446267182",
+              "start": 3,
+              "username": "_Stalinspears_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062236658867867663",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062102383820206116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Stalinspears_: Menos de dois minutos para dificultar um direito garantido a crianças e adolescentes estuprados.\n\nAnos para discutir o…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2446267182",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062102383820206116",
+        "created_at": "2026-06-03T09:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062102383820206116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/g1/status/2061…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/g1/status/2061945275044778451",
+              "start": 276,
+              "url": "https://t.co/pZc2rTM2Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062102383820206116",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "Menos de dois minutos para dificultar um direito garantido a crianças e adolescentes estuprados.\n\nAnos para discutir o fim de uma escala de trabalho que adoece milhões de pessoas.\n\nCurioso como a máquina pública é extremamente eficiente quando o objetivo é retirar direitos e extraordinariamente lenta quando o assunto é concedê-los. A burocracia brasileira parece sofrer de uma doença misteriosa: ela só desaparece quando os interesses dos mais vulneráveis precisam ser atacados."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 18265,
+          "like_count": 1464,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061945275044778451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Menos de dois minutos para dificultar um direito garantido a crianças e adolescentes estuprados.\n\nAnos para discutir o fim de uma escala de trabalho que adoece milhões de pessoas.\n\nCurioso como a máquina pública é extremamente eficiente quando o objetivo é retirar direitos e https://t.co/pZc2rTM2Dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 41991,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11704
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-16T00:32:22.000Z",
+        "description": "Psicólogo Junguiano 🇧🇷🇷🇺 | Mestre em Psicologia Social | ML 🇵🇸🇰🇵🇨🇺 | Membro do Instituto Soyuz e do Comitê Rússia-Brasil de Integração. 🏳️‍🌈",
+        "id": "2446267182",
+        "location": "Volgograd, Russia",
+        "name": "🇵🇸 ☭ Gui Jong Un ☭ 🇵🇸",
+        "pinned_tweet_id": "1819096301969027468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981074674667683840/s5PtEAna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26636,
+          "following_count": 1482,
+          "like_count": 70870,
+          "listed_count": 90,
+          "media_count": 6828,
+          "tweet_count": 86407
+        },
+        "username": "_Stalinspears_",
+        "verified": true
+      }
+    ]
+  }
+}

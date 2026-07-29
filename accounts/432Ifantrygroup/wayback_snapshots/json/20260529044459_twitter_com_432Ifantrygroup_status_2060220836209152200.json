@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060220836209152200",
+    "created_at": "2026-05-29T04:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060220836209152200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "727187536527810560",
+          "start": 3,
+          "username": "nxstypxet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060220836209152200",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060057311809302728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nxstypxet: Todo el mundo habla de no querer niños en fiestas de adultos, pero nadie habla de no querer borrachos en fiestas infantiles."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060220836209152200",
+        "created_at": "2026-05-29T04:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060220836209152200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "727187536527810560",
+              "start": 3,
+              "username": "nxstypxet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060220836209152200",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060057311809302728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nxstypxet: Todo el mundo habla de no querer niños en fiestas de adultos, pero nadie habla de no querer borrachos en fiestas infantiles."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "727187536527810560",
+        "conversation_id": "2060057311809302728",
+        "created_at": "2026-05-28T17:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060057311809302728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060057311809302728",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 138970,
+          "like_count": 10412,
+          "quote_count": 54,
+          "reply_count": 76,
+          "retweet_count": 1176
+        },
+        "reply_settings": "everyone",
+        "text": "Todo el mundo habla de no querer niños en fiestas de adultos, pero nadie habla de no querer borrachos en fiestas infantiles."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060039923676397927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 3959,
+          "like_count": 40233,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 11179
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-02T17:26:34.000Z",
+        "description": "escribo sad shit pa' poder vivir feliz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nxstypxet",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nxstypxet",
+                "start": 0,
+                "url": "https://t.co/VZpYwMtsqM"
+              }
+            ]
+          }
+        },
+        "id": "727187536527810560",
+        "location": "en tu cama no :(",
+        "name": "Nasty Poet",
+        "pinned_tweet_id": "733152083050827776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1169399192219000832/CtmmEXjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245641,
+          "following_count": 97,
+          "like_count": 9359,
+          "listed_count": 445,
+          "media_count": 16968,
+          "tweet_count": 207690
+        },
+        "url": "https://t.co/VZpYwMtsqM",
+        "username": "nxstypxet",
+        "verified": true
+      }
+    ]
+  }
+}

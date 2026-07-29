@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054210989042860073",
+    "created_at": "2026-05-14T10:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054875407263191058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823049276102266881",
+          "start": 0,
+          "username": "a2p3py9644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054875407263191058",
+    "in_reply_to_user_id": "1823049276102266881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054210989042860073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2p3py9644 整个西服也挺恶的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054210989042860073",
+        "created_at": "2026-05-14T10:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054875407263191058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823049276102266881",
+              "start": 0,
+              "username": "a2p3py9644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054875407263191058",
+        "in_reply_to_user_id": "1823049276102266881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054210989042860073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2p3py9644 整个西服也挺恶的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823049276102266881",
+        "conversation_id": "2054210989042860073",
+        "created_at": "2026-05-12T14:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054210989042860073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054210989042860073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3995,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成人礼这种垃圾也是西方糟粕，女的成年了就必须性化性感，很多中学成人礼女的穿抹胸礼服，男的严严实实。有时候想西方衰落也有一些好处，不然永远不反思这套基督教糟粕，用这套没逻辑的垃圾霸凌全球，东方也跟着无脑学习。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054256320266788960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 3791,
+          "like_count": 36235,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 9730
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T17:31:54.000Z",
+        "description": "",
+        "id": "1823049276102266881",
+        "name": "Marga",
+        "pinned_tweet_id": "2044182431750860942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935635642936926208/E-D8B7Qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 219,
+          "like_count": 6802,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 718
+        },
+        "username": "a2p3py9644",
+        "verified": false
+      }
+    ]
+  }
+}

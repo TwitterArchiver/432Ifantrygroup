@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1882012927773004070",
+    "created_at": "2025-08-09T12:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954154949710885347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331513959904538624",
+          "start": 0,
+          "username": "Glichen56789"
+        },
+        {
+          "end": 22,
+          "id": "1655156808",
+          "start": 14,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954154949710885347",
+    "in_reply_to_user_id": "1331513959904538624",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882012927773004070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glichen56789 @GetXBot 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128987,
+        "height": 2160,
+        "media_key": "7_1882011004554661889",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1882011004554661889/pu/img/ll04gtqN3SiUOx6E.jpg",
+        "public_metrics": {
+          "view_count": 960
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882011004554661889/pu/vid/avc1/480x270/7_TZIEwnDIytKv9z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882011004554661889/pu/vid/avc1/640x360/mvW0_s_pqR6EfrHF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1882011004554661889/pu/vid/avc1/1280x720/VdeIgRL7tWtK4TPP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1882011004554661889/pu/pl/8cuivHaB8abLkCYl.m3u8?tag=12"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1882012927773004070",
+        "created_at": "2025-08-09T12:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954154949710885347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331513959904538624",
+              "start": 0,
+              "username": "Glichen56789"
+            },
+            {
+              "end": 22,
+              "id": "1655156808",
+              "start": 14,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954154949710885347",
+        "in_reply_to_user_id": "1331513959904538624",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882012927773004070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glichen56789 @GetXBot 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1882011004554661889"
+          ]
+        },
+        "author_id": "1331513959904538624",
+        "conversation_id": "1882012927773004070",
+        "created_at": "2025-01-22T10:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T11:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882012927773004070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXTjJcExfU",
+              "end": 71,
+              "expanded_url": "https://x.com/Glichen56789/status/1882012927773004070/video/1",
+              "media_key": "7_1882011004554661889",
+              "start": 48,
+              "url": "https://t.co/NXTjJcExfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882012927773004070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4164,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新买的棒子，快递刚到就马上回屋用\n（麻烦，拍的视频还是最多上传2分钟，有谁可以告诉我为什么？） https://t.co/NXTjJcExfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1172,
+          "like_count": 2664,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 152
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T08:24:11.000Z",
+        "description": "闲散人员，不转推，有什么话可以随便说，不加联系/不加绿泡泡/不加企鹅/不露脸",
+        "id": "1331513959904538624",
+        "location": "Guangdong",
+        "name": "果粒陈",
+        "pinned_tweet_id": "1888560271410757988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853003096420663296/hdz8uJYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 482,
+          "like_count": 750,
+          "listed_count": 14,
+          "media_count": 21,
+          "tweet_count": 40
+        },
+        "username": "Glichen56789",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "1926122359926223224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83082,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 39,
+          "media_count": 1,
+          "tweet_count": 108856
+        },
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

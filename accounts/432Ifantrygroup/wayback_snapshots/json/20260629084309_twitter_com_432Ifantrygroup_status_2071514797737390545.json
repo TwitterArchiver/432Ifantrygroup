@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071513442331353563",
+    "created_at": "2026-06-29T08:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071514797737390545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022652917606682630",
+          "start": 0,
+          "username": "hitochousub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071514797737390545",
+    "in_reply_to_user_id": "2022652917606682630",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071513442331353563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hitochousub 😔🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071513442331353563",
+        "created_at": "2026-06-29T08:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071514797737390545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022652917606682630",
+              "start": 0,
+              "username": "hitochousub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071514797737390545",
+        "in_reply_to_user_id": "2022652917606682630",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071513442331353563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hitochousub 😔🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022652917606682630",
+        "conversation_id": "2071513442331353563",
+        "created_at": "2026-06-29T08:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071513442331353563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071513442331353563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉虽然不是谈恋爱但是确实是和很要好的朋友分手了然后看到有人说这个过程堪比戒毒我就只能释怀了 如果30天内释怀不了还是去自杀吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 4208,
+          "like_count": 44342,
+          "listed_count": 4,
+          "media_count": 530,
+          "tweet_count": 12614
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T12:43:38.000Z",
+        "description": "壁打ち",
+        "id": "2022652917606682630",
+        "name": "返事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046055821365403648/GPxFbjMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "hitochousub",
+        "verified": false
+      }
+    ]
+  }
+}

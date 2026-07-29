@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045092659103170872",
+    "created_at": "2026-04-17T11:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045104957637234883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573173649917485058",
+          "start": 0,
+          "username": "shnzhnzgnwchul1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045104957637234883",
+    "in_reply_to_user_id": "1573173649917485058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045104337131848073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shnzhnzgnwchul1 你的意思是，为了保障多数人安全不受可能的威胁，就有理由侵害少部分人的安全了是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045092659103170872",
+        "created_at": "2026-04-17T11:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045104957637234883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573173649917485058",
+              "start": 0,
+              "username": "shnzhnzgnwchul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045104957637234883",
+        "in_reply_to_user_id": "1573173649917485058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045104337131848073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shnzhnzgnwchul1 你的意思是，为了保障多数人安全不受可能的威胁，就有理由侵害少部分人的安全了是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573173649917485058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045092659103170872",
+        "created_at": "2026-04-17T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045104337131848073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045104337131848073",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045092659103170872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 哦，把精神病放大街上那肯定很有利于精神病人的健康了，就是不知道有不有利于其他人的健康"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045092659103170872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 2938,
+          "like_count": 23445,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 6200
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:53:31.000Z",
+        "description": "",
+        "id": "1573173649917485058",
+        "name": "深圳自干五-臭脸传媒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573173696197533696/gwpuK9fO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1100
+        },
+        "username": "shnzhnzgnwchul1",
+        "verified": false
+      }
+    ]
+  }
+}

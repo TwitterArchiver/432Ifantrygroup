@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062249824830083420",
+    "created_at": "2026-06-04T02:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062362718221504774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1950521090910146560",
+          "start": 0,
+          "username": "W_FJ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062362718221504774",
+    "in_reply_to_user_id": "1950521090910146560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062362602689515692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@W_FJ_ 还没有啦不过也快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062249824830083420",
+        "created_at": "2026-06-04T02:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062362718221504774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1950521090910146560",
+              "start": 0,
+              "username": "W_FJ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062362718221504774",
+        "in_reply_to_user_id": "1950521090910146560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062362602689515692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@W_FJ_ 还没有啦不过也快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950521090910146560",
+        "conversation_id": "2062249824830083420",
+        "created_at": "2026-06-04T02:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062362602689515692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062362602689515692",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062249824830083420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062240095227592980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 4024,
+          "like_count": 42050,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 11759
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:37:35.000Z",
+        "description": "",
+        "id": "1950521090910146560",
+        "name": "WFJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021286751516692480/3_H4v3EI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 598,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 438
+        },
+        "username": "W_FJ_",
+        "verified": false
+      }
+    ]
+  }
+}

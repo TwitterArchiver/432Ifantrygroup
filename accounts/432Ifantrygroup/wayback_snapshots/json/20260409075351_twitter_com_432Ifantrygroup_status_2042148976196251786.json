@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2042148976196251786",
+    "created_at": "2026-04-09T07:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042148976196251786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974865605204586498",
+          "start": 3,
+          "username": "Krktmk_8964"
+        },
+        {
+          "end": 33,
+          "id": "1852895432269234176",
+          "start": 17,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 45,
+          "id": "2028899853716320256",
+          "start": 34,
+          "username": "zzz1043903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042148976196251786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042147961237598248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krktmk_8964: @432Ifantrygroup @zzz1043903 在红旗与黑旗交织的风中，自由自在地奔跑！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2042148976196251786",
+        "created_at": "2026-04-09T07:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042148976196251786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974865605204586498",
+              "start": 3,
+              "username": "Krktmk_8964"
+            },
+            {
+              "end": 33,
+              "id": "1852895432269234176",
+              "start": 17,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 45,
+              "id": "2028899853716320256",
+              "start": 34,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042148976196251786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042147961237598248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krktmk_8964: @432Ifantrygroup @zzz1043903 在红旗与黑旗交织的风中，自由自在地奔跑！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2042063464932503832",
+        "created_at": "2026-04-09T07:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042147961237598248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 28,
+              "id": "2028899853716320256",
+              "start": 17,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042147961237598248",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042110774576083376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @zzz1043903 在红旗与黑旗交织的风中，自由自在地奔跑！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042110335428202840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 2871,
+          "like_count": 20975,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 5485
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2039426492791509083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 2259,
+          "like_count": 36231,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 3700
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨|无证含糖 MTF 10.11.2025 重抑\n休学在家偶尔上学玩玩 规律含糖3.6.2026\n严重社恐长期宅家|建制-改良自由派\n除侮辱和谣言外欢迎键政\nOverdose|Pr 玉米 晚安\n5.24.2010出厂|172cm 60.5kg 42码😭\n家长略支持",
+        "id": "2028899853716320256",
+        "location": "中华人民共和国 台湾省 台北市",
+        "name": "许的什么愿🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 44,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 191
+        },
+        "username": "zzz1043903",
+        "verified": false
+      }
+    ]
+  }
+}

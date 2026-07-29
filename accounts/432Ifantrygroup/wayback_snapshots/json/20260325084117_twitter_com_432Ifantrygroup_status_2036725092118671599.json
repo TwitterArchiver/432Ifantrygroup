@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036666654604902467",
+    "created_at": "2026-03-25T08:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T09:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036725092118671599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1510269880477822976",
+          "start": 0,
+          "username": "JackSparrowCCP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036725092118671599",
+    "in_reply_to_user_id": "1510269880477822976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036666654604902467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JackSparrowCCP1 空军勤务"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2036665918126977027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOw3KAacAM6UBT.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036666654604902467",
+        "created_at": "2026-03-25T08:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036725092118671599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510269880477822976",
+              "start": 0,
+              "username": "JackSparrowCCP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036725092118671599",
+        "in_reply_to_user_id": "1510269880477822976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036666654604902467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackSparrowCCP1 空军勤务"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036665918126977027"
+          ]
+        },
+        "author_id": "1510269880477822976",
+        "conversation_id": "2036666654604902467",
+        "created_at": "2026-03-25T04:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036666654604902467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "革命家庭老照片"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Og4lnsKEWg",
+              "end": 92,
+              "expanded_url": "https://x.com/JackSparrowCCP1/status/2036666654604902467/photo/1",
+              "media_key": "3_2036665918126977027",
+              "start": 69,
+              "url": "https://t.co/Og4lnsKEWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036666654604902467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5019,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#革命家庭老照片 快清明节了，刚刚帮老爸收拾杂物做卫生，偶然翻到父母相册里过世舅爷的军装照，好帅气！懂行的大咖，你们看看他是什么军兵种？ https://t.co/Og4lnsKEWg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036518135612973442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 2719,
+          "like_count": 12765,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3370
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T14:56:27.000Z",
+        "description": "ex-PLA Navy officer🌊 |  Chinese Patriot | 🌏 Global Citizen |🚫 No to Hegemony & Fake Democracy | Snapshots of Life’s Beauty  | 🚀 Follow for Awesome Updates!",
+        "id": "1510269880477822976",
+        "location": "Tianjin  China",
+        "name": "Jack Sparrow 张梓太太",
+        "pinned_tweet_id": "2031212782717419881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517340129102565376/24FRnvVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25168,
+          "following_count": 8873,
+          "like_count": 12881,
+          "listed_count": 160,
+          "media_count": 5066,
+          "tweet_count": 12810
+        },
+        "username": "JackSparrowCCP1",
+        "verified": true
+      }
+    ]
+  }
+}

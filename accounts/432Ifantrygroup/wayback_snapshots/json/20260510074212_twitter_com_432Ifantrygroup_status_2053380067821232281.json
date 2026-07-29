@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "london",
+          "id": "855412191050121217",
+          "name": "London"
+        }
+      }
+    ],
+    "conversation_id": "2053380067821232281",
+    "created_at": "2026-05-10T07:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053380067821232281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "158950024",
+          "start": 3,
+          "username": "applepiehouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053380067821232281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053163338507677868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @applepiehouse: 【殘酷的真相】\n對某些孩子而言，家從來不是避風港，而是每天都必須求生的戰場。\n最新研究指出，在虐待、衝突與恐懼中長大的孩子，大腦會出現與戰地士兵相似的變化。\n\n■ 令人震驚的研究結果\n倫敦大學（UCL）曾針對約 12 歲的兒童進行研究。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2053380067821232281",
+        "created_at": "2026-05-10T07:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053380067821232281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "158950024",
+              "start": 3,
+              "username": "applepiehouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053380067821232281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053163338507677868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @applepiehouse: 【殘酷的真相】\n對某些孩子而言，家從來不是避風港，而是每天都必須求生的戰場。\n最新研究指出，在虐待、衝突與恐懼中長大的孩子，大腦會出現與戰地士兵相似的變化。\n\n■ 令人震驚的研究結果\n倫敦大學（UCL）曾針對約 12 歲的兒童進行研究。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "158950024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2053163338507677868",
+        "created_at": "2026-05-09T17:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053163338507677868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/street99fight2…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/street99fight2/status/2052979296755716312",
+              "start": 119,
+              "url": "https://t.co/OYYrB6YNDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053163338507677868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【殘酷的真相】\n對某些孩子而言，家從來不是避風港，而是每天都必須求生的戰場。\n最新研究指出，在虐待、衝突與恐懼中長大的孩子，大腦會出現與戰地士兵相似的變化。\n\n■ 令人震驚的研究結果\n倫敦大學（UCL）曾針對約 12 歲的兒童進行研究。\n研究人員掃描了那些在虐待與激烈爭吵不斷的環境中成長的孩子的大腦。\n結果發現，他們的大腦反應模式，與剛完成戰鬥任務的士兵有著相似之處。\n\n■ 長期開啟的「戰鬥模式」\n負責情緒與威脅偵測的大腦區域，會長時間處於過度警戒狀態。\n一個細微的表情變化、一點突然的聲響，都可能被大腦解讀成攻擊。\n這是孩子為了在危險環境中活下來而形成的生存機制。\n但也因此，即使危險暫時不存在，他們的大腦依然無法真正休息。\n\n■ 看不見、卻深刻的傷\n這些改變可能延續到成年，並提高憂鬱症、焦慮症等心理困擾的風險。\n以「管教」為名的辱罵，以「冷處理」包裝的忽視，\n對孩子而言，並不只是幾句難聽話，而可能是足以烙印進大腦的創傷。\n\n在「家庭」這個外界難以窺見的密閉空間裡，發生的或許正是一場沒有硝煙的戰爭。\n為了不再讓孩子背負一生難以癒合的「大腦傷痕」，我們能做的第一步，就是停止把暴力稱為管教。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 12921,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052979296755716312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【殘酷的真相】\n對某些孩子而言，家從來不是避風港，而是每天都必須求生的戰場。\n最新研究指出，在虐待、衝突與恐懼中長大的孩子，大腦會出現與戰地士兵相似的變化。\n\n■ 令人震驚的研究結果\n倫敦大學（UCL）曾針對約 12 歲的兒童進行研究。 https://t.co/OYYrB6YNDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 3715,
+          "like_count": 34684,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9246
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-24T02:25:16.000Z",
+        "description": "#女性主義 #Feminism #블루레이디\n🇹🇼 中文（#Taiwan #대만）｜한국어 OK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "女性主義"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "Feminism"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "블루레이디"
+              },
+              {
+                "end": 36,
+                "start": 29,
+                "tag": "Taiwan"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "대만"
+              }
+            ]
+          }
+        },
+        "id": "158950024",
+        "location": "Taiwan",
+        "name": "蘋果派 애플파이 ❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595386729204416513/gVGHFfEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 1625,
+          "like_count": 118180,
+          "listed_count": 28,
+          "media_count": 5989,
+          "tweet_count": 75814
+        },
+        "username": "applepiehouse",
+        "verified": true
+      }
+    ]
+  }
+}

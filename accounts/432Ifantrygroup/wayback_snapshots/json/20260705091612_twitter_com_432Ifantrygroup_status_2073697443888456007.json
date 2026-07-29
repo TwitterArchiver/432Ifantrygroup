@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2073697443888456007",
+    "created_at": "2026-07-05T09:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073697443888456007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393800020688658434",
+          "start": 3,
+          "username": "lea87334402"
+        },
+        {
+          "end": 26,
+          "id": "1681599902307196934",
+          "start": 17,
+          "username": "Allya10X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073697443888456007",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073637624858693718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lea87334402: @Allya10X The eminent monk is still doing these things, and he dares to tongue-kiss a little boy in front of the media. Wh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073637621524283392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcKbh_XQAA_G1m.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2073697443888456007",
+        "created_at": "2026-07-05T09:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073697443888456007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393800020688658434",
+              "start": 3,
+              "username": "lea87334402"
+            },
+            {
+              "end": 26,
+              "id": "1681599902307196934",
+              "start": 17,
+              "username": "Allya10X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073697443888456007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073637624858693718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lea87334402: @Allya10X The eminent monk is still doing these things, and he dares to tongue-kiss a little boy in front of the media. Wh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073637621524283392"
+          ]
+        },
+        "author_id": "1393800020688658434",
+        "conversation_id": "2073528486091014354",
+        "created_at": "2026-07-05T05:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073637624858693718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1681599902307196934",
+              "start": 0,
+              "username": "Allya10X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vL3VwvuhF1",
+              "end": 252,
+              "expanded_url": "https://x.com/lea87334402/status/2073637624858693718/photo/1",
+              "media_key": "3_2073637621524283392",
+              "start": 229,
+              "url": "https://t.co/vL3VwvuhF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073637624858693718",
+        "in_reply_to_user_id": "1681599902307196934",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1680,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073528486091014354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allya10X The eminent monk is still doing these things, and he dares to tongue-kiss a little boy in front of the media. Who knows what he has done in private? Moreover, evidence shows that he has met with Epstein multiple times. https://t.co/vL3VwvuhF1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 4231,
+          "like_count": 45258,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13102
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T05:26:43.000Z",
+        "description": "近田力丸毒唯，坚持一个中国🇨🇳",
+        "id": "1393800020688658434",
+        "name": "lea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591316709147049984/5xazyM92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 28,
+          "like_count": 13843,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 6476
+        },
+        "url": "",
+        "username": "lea87334402",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T09:40:56.000Z",
+        "description": "The Block Button Was My Muse! 🛑DM",
+        "id": "1681599902307196934",
+        "name": "LittlePinkie",
+        "pinned_tweet_id": "1978223453338558701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064411933705691136/_YlSfw6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 505,
+          "like_count": 20742,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 3308
+        },
+        "url": "",
+        "username": "Allya10X",
+        "verified": false
+      }
+    ]
+  }
+}

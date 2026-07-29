@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047367391634714624"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047367401952751965",
+    "created_at": "2026-04-23T17:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047367401952751965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PW3B7mfI7T",
+          "end": 72,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2047367401952751965/photo/1",
+          "media_key": "3_2047367391634714624",
+          "start": 49,
+          "url": "https://t.co/PW3B7mfI7T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047367401952751965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你既然懒得喷，为什么还要在我这里留下一滩赛博大便？显得狗主人非常没素质，遛狗不牵绳，还不捡狗粪便 https://t.co/PW3B7mfI7T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047367391634714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm1y5ca8AA5JXN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047367391634714624"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047367401952751965",
+        "created_at": "2026-04-23T17:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047367401952751965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PW3B7mfI7T",
+              "end": 72,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2047367401952751965/photo/1",
+              "media_key": "3_2047367391634714624",
+              "start": 49,
+              "url": "https://t.co/PW3B7mfI7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047367401952751965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你既然懒得喷，为什么还要在我这里留下一滩赛博大便？显得狗主人非常没素质，遛狗不牵绳，还不捡狗粪便 https://t.co/PW3B7mfI7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 3181,
+          "like_count": 26870,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 7071
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

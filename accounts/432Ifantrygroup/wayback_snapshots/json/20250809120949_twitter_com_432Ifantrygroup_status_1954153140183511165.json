@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1915359668920033554",
+    "created_at": "2025-08-09T12:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954153140183511165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331513959904538624",
+          "start": 0,
+          "username": "Glichen56789"
+        },
+        {
+          "end": 22,
+          "id": "1655156808",
+          "start": 14,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954153140183511165",
+    "in_reply_to_user_id": "1331513959904538624",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915359668920033554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glichen56789 @GetXBot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121881,
+        "height": 720,
+        "media_key": "7_1915358964650565633",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915358964650565633/pu/img/2ig__QB1fOPopvwk.jpg",
+        "public_metrics": {
+          "view_count": 2224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915358964650565633/pu/vid/avc1/480x270/-alOGf4Iob05lLjq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915358964650565633/pu/vid/avc1/640x360/adwfOx0qPn63f-4_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915358964650565633/pu/vid/avc1/1280x720/E3XtQQtLmremQ8g4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915358964650565633/pu/pl/9z_fmSt9XzGeBj7b.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 119141,
+        "height": 720,
+        "media_key": "7_1915359163116642304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915359163116642304/pu/img/cfq7ruf8qV0Y9IE5.jpg",
+        "public_metrics": {
+          "view_count": 159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359163116642304/pu/vid/avc1/480x270/CPa5xY_RE0sY6M5J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359163116642304/pu/vid/avc1/640x360/kPbSX_-aqdNQek1s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359163116642304/pu/vid/avc1/1280x720/pxd1RcrNQ_Adr8mm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915359163116642304/pu/pl/zRECQUch0YFsg7P7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 76393,
+        "height": 720,
+        "media_key": "7_1915359315172745221",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915359315172745221/pu/img/6iQYO91sV5f4itdF.jpg",
+        "public_metrics": {
+          "view_count": 190
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359315172745221/pu/vid/avc1/480x270/gjnRGm-pp_BJbu6n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359315172745221/pu/vid/avc1/640x360/wUkoNbuOsSwyNAi_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359315172745221/pu/vid/avc1/1280x720/RvDut4BSu6wy0pVa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915359315172745221/pu/pl/cS5pK0HA9PKSgNVC.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 120372,
+        "height": 720,
+        "media_key": "7_1915359463915290624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915359463915290624/pu/img/7nB1IIsgd2ytE2IE.jpg",
+        "public_metrics": {
+          "view_count": 500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359463915290624/pu/vid/avc1/480x270/mIR7gU0ikn7Y4NxT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359463915290624/pu/vid/avc1/640x360/XC_QbOt8Qiut-WWV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359463915290624/pu/vid/avc1/1280x720/9N_A6FDjDWUcQZ2v.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915359463915290624/pu/pl/Qn0AWBkYaxmxW_rO.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1915359668920033554",
+        "created_at": "2025-08-09T12:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954153140183511165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331513959904538624",
+              "start": 0,
+              "username": "Glichen56789"
+            },
+            {
+              "end": 22,
+              "id": "1655156808",
+              "start": 14,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954153140183511165",
+        "in_reply_to_user_id": "1331513959904538624",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915359668920033554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glichen56789 @GetXBot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1915358964650565633",
+            "7_1915359163116642304",
+            "7_1915359315172745221",
+            "7_1915359463915290624"
+          ]
+        },
+        "author_id": "1331513959904538624",
+        "conversation_id": "1915359668920033554",
+        "created_at": "2025-04-24T10:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T11:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915359668920033554"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "反差"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "自慰"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "母狗"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "发情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2pKGCt9N0",
+              "end": 62,
+              "expanded_url": "https://x.com/Glichen56789/status/1915359668920033554/video/1",
+              "media_key": "7_1915358964650565633",
+              "start": 39,
+              "url": "https://t.co/J2pKGCt9N0"
+            },
+            {
+              "display_url": "pic.x.com/J2pKGCt9N0",
+              "end": 62,
+              "expanded_url": "https://x.com/Glichen56789/status/1915359668920033554/video/1",
+              "media_key": "7_1915359163116642304",
+              "start": 39,
+              "url": "https://t.co/J2pKGCt9N0"
+            },
+            {
+              "display_url": "pic.x.com/J2pKGCt9N0",
+              "end": 62,
+              "expanded_url": "https://x.com/Glichen56789/status/1915359668920033554/video/1",
+              "media_key": "7_1915359315172745221",
+              "start": 39,
+              "url": "https://t.co/J2pKGCt9N0"
+            },
+            {
+              "display_url": "pic.x.com/J2pKGCt9N0",
+              "end": 62,
+              "expanded_url": "https://x.com/Glichen56789/status/1915359668920033554/video/1",
+              "media_key": "7_1915359463915290624",
+              "start": 39,
+              "url": "https://t.co/J2pKGCt9N0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915359668920033554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 9880,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "痒了，禁欲有段时间没碰鸡巴了，都是自慰慢慢抠\n#反差 #自慰 #母狗 #发情 https://t.co/J2pKGCt9N0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1172,
+          "like_count": 2663,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 147
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T08:24:11.000Z",
+        "description": "闲散人员，不转推，有什么话可以随便说，不加联系/不加绿泡泡/不加企鹅/不露脸",
+        "id": "1331513959904538624",
+        "location": "Guangdong",
+        "name": "果粒陈",
+        "pinned_tweet_id": "1888560271410757988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853003096420663296/hdz8uJYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 482,
+          "like_count": 750,
+          "listed_count": 14,
+          "media_count": 21,
+          "tweet_count": 40
+        },
+        "username": "Glichen56789",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "1926122359926223224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83075,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 39,
+          "media_count": 1,
+          "tweet_count": 108837
+        },
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

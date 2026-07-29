@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062226480948809920",
+    "created_at": "2026-06-03T17:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062230219944288390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1947287158148288513",
+          "start": 0,
+          "username": "hanhanmi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062230219944288390",
+    "in_reply_to_user_id": "1947287158148288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062226480948809920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanhanmi_ 好可爱哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2933,
+        "height": 1280,
+        "media_key": "13_2062226466742607872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062226466742607872/img/Kmd2pBYd6UsyDAEM.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062226466742607872/vid/avc1/320x568/OETdLvWkmvApJH_E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062226466742607872/vid/avc1/480x852/FbbtTs4M1RuRpwv_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062226466742607872/vid/avc1/720x1280/RpD2h7a-_ceeYXN2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062226466742607872/pl/Wz5fX1eEwnxC4U6r.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062226480948809920",
+        "created_at": "2026-06-03T17:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062230219944288390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1947287158148288513",
+              "start": 0,
+              "username": "hanhanmi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062230219944288390",
+        "in_reply_to_user_id": "1947287158148288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062226480948809920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanhanmi_ 好可爱哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062226466742607872"
+          ]
+        },
+        "author_id": "1947287158148288513",
+        "conversation_id": "2062226480948809920",
+        "created_at": "2026-06-03T17:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062226480948809920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/moxgRUZeHB",
+              "end": 23,
+              "expanded_url": "https://x.com/hanhanmi_/status/2062226480948809920/video/1",
+              "media_key": "13_2062226466742607872",
+              "start": 0,
+              "url": "https://t.co/moxgRUZeHB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062226480948809920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/moxgRUZeHB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4014,
+          "like_count": 41969,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 11691
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T13:27:00.000Z",
+        "description": "有时候很想辩驳什么 但又觉得这样会让一切绵延不断 算了吧 只看到我坏的一面也行",
+        "id": "1947287158148288513",
+        "location": "我的心已经等你好多年",
+        "name": "恋虐",
+        "pinned_tweet_id": "2001622577190707499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031214284517289986/QTd9tE8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 127,
+          "like_count": 12822,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 287
+        },
+        "username": "hanhanmi_",
+        "verified": false
+      }
+    ]
+  }
+}

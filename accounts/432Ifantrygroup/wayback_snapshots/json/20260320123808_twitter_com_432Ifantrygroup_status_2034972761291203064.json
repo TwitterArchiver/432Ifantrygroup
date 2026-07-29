@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034494117443682522",
+    "created_at": "2026-03-20T12:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T13:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034972761291203064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906714014299865088",
+          "start": 0,
+          "username": "makiisyourgod"
+        },
+        {
+          "end": 24,
+          "id": "1994082935696461824",
+          "start": 15,
+          "username": "ssicakyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034972761291203064",
+    "in_reply_to_user_id": "1906714014299865088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034962336600268971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makiisyourgod @ssicakyl 爱骂就骂，我是无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034494117443682522",
+        "created_at": "2026-03-20T12:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034972761291203064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906714014299865088",
+              "start": 0,
+              "username": "makiisyourgod"
+            },
+            {
+              "end": 24,
+              "id": "1994082935696461824",
+              "start": 15,
+              "username": "ssicakyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034972761291203064",
+        "in_reply_to_user_id": "1906714014299865088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034962336600268971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makiisyourgod @ssicakyl 爱骂就骂，我是无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906714014299865088",
+        "conversation_id": "2034494117443682522",
+        "created_at": "2026-03-20T11:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034962336600268971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994082935696461824",
+              "start": 0,
+              "username": "ssicakyl"
+            },
+            {
+              "end": 26,
+              "id": "1852895432269234176",
+              "start": 10,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034962336600268971",
+        "in_reply_to_user_id": "1994082935696461824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034807994081583340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssicakyl @432Ifantrygroup 不要骂人好不好嘛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033033113862025410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 2471,
+          "like_count": 8862,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2334
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T14:24:00.000Z",
+        "description": "自吾出世之日，天地初分，混沌自崩。黑白之辨，本为凡尘杞人忧天之妄念，何须劳神？吾一言既出，即为乾坤定律；吾一念所指，便是万物真谛。吾说黑，则日月无光，群星黯淡；吾说白，则山河生辉，众生沐恩。黑即黑，白即白，皆随吾口而定，何来是非之扰？何来善恶之争？众生但听吾号令，便得永恒清明，杞忧尽散，唯吾独尊！",
+        "id": "1906714014299865088",
+        "location": "=maki | adhd | asd | infp",
+        "name": "巻比",
+        "pinned_tweet_id": "2018923717989187620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033961224204079104/YSSkUPc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 341,
+          "like_count": 41898,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 3903
+        },
+        "username": "makiisyourgod",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T16:36:56.000Z",
+        "description": "",
+        "id": "1994082935696461824",
+        "name": "hx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996625025080905728/sbvqR75k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 93,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 994
+        },
+        "username": "ssicakyl",
+        "verified": false
+      }
+    ]
+  }
+}

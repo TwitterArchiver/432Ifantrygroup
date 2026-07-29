@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1369797118517420032",
+          "name": "The Legend of Hei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1369797118517420032",
+          "name": "The Legend of Hei"
+        }
+      }
+    ],
+    "conversation_id": "2069461731664072882",
+    "created_at": "2026-06-23T19:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T20:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069500315825733884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047970398654889984",
+          "start": 0,
+          "username": "zhang_7891"
+        },
+        {
+          "end": 23,
+          "id": "836533158669500416",
+          "start": 12,
+          "username": "AnimexTwts"
+        },
+        {
+          "end": 29,
+          "id": "1720665183188922368",
+          "start": 24,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069500315825733884",
+    "in_reply_to_user_id": "2047970398654889984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069496150252826674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang_7891 @AnimexTwts @grok 这不罗小黑战记吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1369797118517420032",
+              "name": "The Legend of Hei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1369797118517420032",
+              "name": "The Legend of Hei"
+            }
+          }
+        ],
+        "conversation_id": "2069461731664072882",
+        "created_at": "2026-06-23T19:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069500315825733884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047970398654889984",
+              "start": 0,
+              "username": "zhang_7891"
+            },
+            {
+              "end": 23,
+              "id": "836533158669500416",
+              "start": 12,
+              "username": "AnimexTwts"
+            },
+            {
+              "end": 29,
+              "id": "1720665183188922368",
+              "start": 24,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069500315825733884",
+        "in_reply_to_user_id": "2047970398654889984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069496150252826674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_7891 @AnimexTwts @grok 这不罗小黑战记吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047970398654889984",
+        "conversation_id": "2069461731664072882",
+        "created_at": "2026-06-23T19:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069496150252826674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "836533158669500416",
+              "start": 0,
+              "username": "AnimexTwts"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069496150252826674",
+        "in_reply_to_user_id": "836533158669500416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069461731664072882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnimexTwts @grok 这个是什么动漫？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 4199,
+          "like_count": 43937,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 12444
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T09:26:59.000Z",
+        "description": "不是我强你是菜",
+        "id": "2047970398654889984",
+        "location": "New York, USA",
+        "name": "仙水叶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049556411601063936/Lo1LA5qu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 1263,
+          "like_count": 823,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "zhang_7891",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-28T11:07:01.000Z",
+        "description": "Daily Anime Tweets 🕊️",
+        "id": "836533158669500416",
+        "location": "アニメ",
+        "name": "Anime Tweets",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542000599050334208/eMyobmGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617326,
+          "following_count": 20,
+          "like_count": 42594,
+          "listed_count": 947,
+          "media_count": 10424,
+          "tweet_count": 10452
+        },
+        "url": "",
+        "username": "AnimexTwts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8821574,
+          "following_count": 5,
+          "like_count": 109,
+          "listed_count": 7047,
+          "media_count": 9081457,
+          "tweet_count": 129674739
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

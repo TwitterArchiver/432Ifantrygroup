@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059363406243942493",
+    "created_at": "2026-05-27T12:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059611217388528015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057875108442877952",
+          "start": 0,
+          "username": "Amaris9574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059611217388528015",
+    "in_reply_to_user_id": "2057875108442877952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059363406243942493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amaris9574 好诶好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059363387377852416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRUFwAaIAAnl34.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2059363390393630720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRUF7PbQAAXbkZ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2059363389663744000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRUF4haEAAO0zV.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059363406243942493",
+        "created_at": "2026-05-27T12:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059611217388528015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057875108442877952",
+              "start": 0,
+              "username": "Amaris9574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059611217388528015",
+        "in_reply_to_user_id": "2057875108442877952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059363406243942493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amaris9574 好诶好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059363387377852416",
+            "3_2059363390393630720",
+            "3_2059363389663744000"
+          ]
+        },
+        "author_id": "2057875108442877952",
+        "conversation_id": "2059363406243942493",
+        "created_at": "2026-05-26T19:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059363406243942493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gourC2lwa",
+              "end": 32,
+              "expanded_url": "https://x.com/Amaris9574/status/2059363406243942493/photo/1",
+              "media_key": "3_2059363387377852416",
+              "start": 9,
+              "url": "https://t.co/2gourC2lwa"
+            },
+            {
+              "display_url": "pic.x.com/2gourC2lwa",
+              "end": 32,
+              "expanded_url": "https://x.com/Amaris9574/status/2059363406243942493/photo/1",
+              "media_key": "3_2059363390393630720",
+              "start": 9,
+              "url": "https://t.co/2gourC2lwa"
+            },
+            {
+              "display_url": "pic.x.com/2gourC2lwa",
+              "end": 32,
+              "expanded_url": "https://x.com/Amaris9574/status/2059363406243942493/photo/1",
+              "media_key": "3_2059363389663744000",
+              "start": 9,
+              "url": "https://t.co/2gourC2lwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059363406243942493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 650,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "快要可以拆線了！ https://t.co/2gourC2lwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059548405635153933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 3921,
+          "like_count": 39158,
+          "listed_count": 4,
+          "media_count": 433,
+          "tweet_count": 10842
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T17:25:07.000Z",
+        "description": "🩷地雷女🖤",
+        "id": "2057875108442877952",
+        "location": "˚₊‧꒰ა天堂໒꒱ ‧₊˚",
+        "name": "殤殤",
+        "pinned_tweet_id": "2059353911899943001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059338471467339776/Y9Ui0L6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 13,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "Amaris9574",
+        "verified": false
+      }
+    ]
+  }
+}

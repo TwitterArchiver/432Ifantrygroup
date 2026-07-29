@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046530835420184911",
+    "created_at": "2026-04-22T06:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046833045165293661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715380059278831619",
+          "start": 0,
+          "username": "Killer_Haruhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046833045165293661",
+    "in_reply_to_user_id": "1715380059278831619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046530835420184911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Killer_Haruhi 200万日元..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046530835420184911",
+        "created_at": "2026-04-22T06:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046833045165293661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715380059278831619",
+              "start": 0,
+              "username": "Killer_Haruhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046833045165293661",
+        "in_reply_to_user_id": "1715380059278831619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046530835420184911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Killer_Haruhi 200万日元..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715380059278831619",
+        "conversation_id": "2046530835420184911",
+        "created_at": "2026-04-21T10:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046530835420184911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunwudaimu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mengtunwudaimu/status/2046422652194320759",
+              "start": 33,
+              "url": "https://t.co/Jitri0ZUpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046530835420184911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8403,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046422652194320759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包圣上台之后猪圈的非遗是越来越水，估计过几年烤淀粉肠也是非遗了。 https://t.co/Jitri0ZUpI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046755034113970637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 3119,
+          "like_count": 25936,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 6791
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T14:51:03.000Z",
+        "description": "哭泣并不会使你得到自由。",
+        "id": "1715380059278831619",
+        "location": "Nakano City, Tokyo",
+        "name": "はるひ",
+        "pinned_tweet_id": "1796937239974625518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762474898814062592/wXU5QQn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 545,
+          "like_count": 47399,
+          "listed_count": 22,
+          "media_count": 901,
+          "tweet_count": 14207
+        },
+        "username": "Killer_Haruhi",
+        "verified": false
+      }
+    ]
+  }
+}

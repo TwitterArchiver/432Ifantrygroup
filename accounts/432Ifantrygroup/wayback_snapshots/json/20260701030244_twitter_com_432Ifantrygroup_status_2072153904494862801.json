@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071955075795152896"
+      ],
+      "media_source_tweet_id": [
+        "2071955082183332302"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2072153904494862801",
+    "created_at": "2026-07-01T03:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072153904494862801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1799961465044258816",
+          "start": 3,
+          "username": "hHDD8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VIXpsilQXg",
+          "end": 42,
+          "expanded_url": "https://x.com/hHDD8964/status/2071955082183332302/photo/1",
+          "media_key": "3_2071955075795152896",
+          "start": 19,
+          "url": "https://t.co/VIXpsilQXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072153904494862801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071955082183332302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hHDD8964: 今日推特 https://t.co/VIXpsilQXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2071955075795152896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEQKetWcAARivn.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071955075795152896"
+          ],
+          "media_source_tweet_id": [
+            "2071955082183332302"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2072153904494862801",
+        "created_at": "2026-07-01T03:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072153904494862801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1799961465044258816",
+              "start": 3,
+              "username": "hHDD8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIXpsilQXg",
+              "end": 42,
+              "expanded_url": "https://x.com/hHDD8964/status/2071955082183332302/photo/1",
+              "media_key": "3_2071955075795152896",
+              "start": 19,
+              "url": "https://t.co/VIXpsilQXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072153904494862801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071955082183332302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hHDD8964: 今日推特 https://t.co/VIXpsilQXg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071955075795152896"
+          ]
+        },
+        "author_id": "1799961465044258816",
+        "conversation_id": "2071955082183332302",
+        "created_at": "2026-06-30T13:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071955082183332302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIXpsilQXg",
+              "end": 28,
+              "expanded_url": "https://x.com/hHDD8964/status/2071955082183332302/photo/1",
+              "media_key": "3_2071955075795152896",
+              "start": 5,
+              "url": "https://t.co/VIXpsilQXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071955082183332302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 122229,
+          "like_count": 2189,
+          "quote_count": 10,
+          "reply_count": 67,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "今日推特 https://t.co/VIXpsilQXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 4215,
+          "like_count": 44734,
+          "listed_count": 4,
+          "media_count": 537,
+          "tweet_count": 12873
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T00:27:26.000Z",
+        "description": "中国スパイ N1 /漢奸 6级/ MAGA 8.0/勃学家🔰/當你開始抽象，這個世界就不再抽象/當你開始支持習主席，坦克就不曾存在/",
+        "id": "1799961465044258816",
+        "location": "臺北市",
+        "name": "習門金瓶大官人👿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810996792278069248/eqd0nY8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 197,
+          "like_count": 80659,
+          "listed_count": 19,
+          "media_count": 1199,
+          "tweet_count": 17818
+        },
+        "url": "",
+        "username": "hHDD8964",
+        "verified": true
+      }
+    ]
+  }
+}

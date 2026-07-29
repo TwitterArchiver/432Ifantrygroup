@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061680209599050148",
+    "created_at": "2026-06-02T05:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T06:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061680209599050148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 32,
+          "id": "1802931191848529920",
+          "start": 21,
+          "username": "guguderiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061680209599050148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061679144317206788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: @guguderiji 只准你们煽动，不准人家煽动？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061680209599050148",
+        "created_at": "2026-06-02T05:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061680209599050148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 32,
+              "id": "1802931191848529920",
+              "start": 21,
+              "username": "guguderiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061680209599050148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061679144317206788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: @guguderiji 只准你们煽动，不准人家煽动？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061676881297162533",
+        "created_at": "2026-06-02T05:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061679144317206788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802931191848529920",
+              "start": 0,
+              "username": "guguderiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061679144317206788",
+        "in_reply_to_user_id": "1802931191848529920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061678431994348022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guguderiji 只准你们煽动，不准人家煽动？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 3991,
+          "like_count": 41350,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 11519
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T05:10:11.000Z",
+        "description": "成年女‖个人电子日记‖会发一些碎碎念和吐槽/脑洞存档/乙女短打/女性向repo‖🚫bl/墙壁党‖背景教堂驱邪用的",
+        "id": "1802931191848529920",
+        "name": "我都是狗了骂你怎么了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031974048683737092/EtPX1LiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 26,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 579
+        },
+        "username": "guguderiji",
+        "verified": false
+      }
+    ]
+  }
+}

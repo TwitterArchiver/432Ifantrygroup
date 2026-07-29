@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058801186720108704",
+    "created_at": "2026-05-25T15:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058936645844713832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551775232733499398",
+          "start": 0,
+          "username": "zuoalian1010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058936645844713832",
+    "in_reply_to_user_id": "1551775232733499398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058936501287997792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuoalian1010 那要是按你这么说，图片里批判的压根也不对啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058801186720108704",
+        "created_at": "2026-05-25T15:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058936645844713832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551775232733499398",
+              "start": 0,
+              "username": "zuoalian1010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058936645844713832",
+        "in_reply_to_user_id": "1551775232733499398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058936501287997792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuoalian1010 那要是按你这么说，图片里批判的压根也不对啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551775232733499398",
+        "conversation_id": "2058801186720108704",
+        "created_at": "2026-05-25T15:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058936501287997792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058936501287997792",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058801186720108704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 去雄化的本质与阴柔或刚猛无关，看的层次还是太低了，去雄本质是去冲突化，男人的荷尔蒙是社会最不稳定因素，是永远悬在统治阶级头顶的剑，去冲突就像把社会上的一切事物都灌进工业糖精，让人们放弃思考，放弃冲突，放弃为自己争夺权利的机会，做永世的奴才"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058794876662374831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 3890,
+          "like_count": 38423,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 10508
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T03:43:49.000Z",
+        "description": "破幻",
+        "id": "1551775232733499398",
+        "name": "郡望昌黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874147651803111429/3jCgxwHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 390,
+          "like_count": 5718,
+          "listed_count": 7,
+          "media_count": 289,
+          "tweet_count": 2917
+        },
+        "username": "zuoalian1010",
+        "verified": false
+      }
+    ]
+  }
+}

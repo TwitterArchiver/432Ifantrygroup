@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032120387425939778",
+    "created_at": "2026-03-12T15:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032122955573113011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032122955573113011",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120387425939778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 不od为什么手抖啊姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15300,
+        "height": 1280,
+        "media_key": "13_2032120220769533954",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032120220769533954/img/PxhE3Gu7xjoWPIua.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120220769533954/vid/avc1/320x568/w7STPPbw3GraxP_P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120220769533954/vid/avc1/480x852/vb_AUQr1x7gWveVZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120220769533954/vid/avc1/720x1280/C3QmDi16PcxzbLr3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032120220769533954/pl/OmeZhuQ7KkP08Sik.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032120387425939778",
+        "created_at": "2026-03-12T15:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032122955573113011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032122955573113011",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120387425939778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 不od为什么手抖啊姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032120220769533954"
+          ]
+        },
+        "author_id": "1893580687200157696",
+        "conversation_id": "2032120387425939778",
+        "created_at": "2026-03-12T15:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032120387425939778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiMV5OZyJN",
+              "end": 32,
+              "expanded_url": "https://x.com/kittsayes/status/2032120387425939778/video/1",
+              "media_key": "13_2032120220769533954",
+              "start": 9,
+              "url": "https://t.co/WiMV5OZyJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120387425939778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的手一直在抖。 https://t.co/WiMV5OZyJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2215,
+          "like_count": 5486,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1312
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "我就随便发发｜恋痛偏m\n同类和萌妹子能不能跟我互fo🤤。。。\n（萌弟子也可以。。。）\n不聊黄 性压抑别来",
+        "id": "1893580687200157696",
+        "name": "Croissant",
+        "pinned_tweet_id": "2031061052646109493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030706865601122304/j7M7aVEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 352,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 607
+        },
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040480158122119593",
+    "created_at": "2026-04-05T15:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040820608704086088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034789079888666625",
+          "start": 0,
+          "username": "Jammesavj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040820608704086088",
+    "in_reply_to_user_id": "2034789079888666625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040819022753914891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jammesavj 杀人犯不进集中营，而是一般监狱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040480158122119593",
+        "created_at": "2026-04-05T15:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040820608704086088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034789079888666625",
+              "start": 0,
+              "username": "Jammesavj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040820608704086088",
+        "in_reply_to_user_id": "2034789079888666625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040819022753914891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jammesavj 杀人犯不进集中营，而是一般监狱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034789079888666625",
+        "conversation_id": "2040480158122119593",
+        "created_at": "2026-04-05T15:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040819022753914891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040819022753914891",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040480197926117813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 逻辑上没问题，不然杀人犯强奸犯不也一起被放出来了吗，时代的局限性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 2767,
+          "like_count": 19080,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 4969
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T00:29:15.000Z",
+        "description": "🇺🇦 🇮🇱 🇸🇾 🇮🇷 🇹🇼",
+        "id": "2034789079888666625",
+        "name": "Jamme🇺🇦 ꑭ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034804214015430656/1NQDCf_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 108,
+          "like_count": 1351,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 715
+        },
+        "username": "Jammesavj",
+        "verified": false
+      }
+    ]
+  }
+}

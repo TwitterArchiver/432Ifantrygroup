@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041192752898318729",
+    "created_at": "2026-04-06T16:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041192752898318729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/endless_37/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/endless_37/status/2041118057482068330",
+          "start": 2,
+          "url": "https://t.co/sJs47Rj4rY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041192752898318729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041118057482068330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接 https://t.co/sJs47Rj4rY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12305,
+        "height": 1280,
+        "media_key": "13_2041117978847236096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041117978847236096/img/yA5UVYONFVZq62mU.jpg",
+        "public_metrics": {
+          "view_count": 556
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041117978847236096/vid/avc1/320x568/aUA_54nvvrPamRPv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041117978847236096/vid/avc1/480x852/yD7Z6Ql9esC9mD1Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041117978847236096/vid/avc1/720x1280/upPOtlew1e1T3vXG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041117978847236096/pl/MAciuply8bXqDNps.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041192752898318729",
+        "created_at": "2026-04-06T16:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041192752898318729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/endless_37/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/endless_37/status/2041118057482068330",
+              "start": 2,
+              "url": "https://t.co/sJs47Rj4rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041192752898318729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041118057482068330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/sJs47Rj4rY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041117978847236096"
+          ]
+        },
+        "author_id": "1882013113949855744",
+        "conversation_id": "2041118057482068330",
+        "created_at": "2026-04-06T11:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041118057482068330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xH0RWXLAuy",
+              "end": 53,
+              "expanded_url": "https://x.com/endless_37/status/2041118057482068330/video/1",
+              "media_key": "13_2041117978847236096",
+              "start": 30,
+              "url": "https://t.co/xH0RWXLAuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041118057482068330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2455,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吸猫体质就是这样，我一坐下来就有小猫来找我玩了(*≧ω≦) https://t.co/xH0RWXLAuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 2814,
+          "like_count": 19811,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 5180
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2032735833246364147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 187,
+          "like_count": 2457,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1502
+        },
+        "username": "endless_37",
+        "verified": false
+      }
+    ]
+  }
+}

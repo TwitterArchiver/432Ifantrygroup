@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068314780650332487",
+    "created_at": "2026-06-20T18:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068399326410498339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014216293705187328",
+          "start": 0,
+          "username": "Mandykwko"
+        },
+        {
+          "end": 24,
+          "id": "1846949815755984897",
+          "start": 11,
+          "username": "Miller239374"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20683…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/status/2068398309660836328",
+          "start": 25,
+          "url": "https://t.co/fmxBJcueYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068399326410498339",
+    "in_reply_to_user_id": "2014216293705187328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068398309660836328",
+        "type": "quoted"
+      },
+      {
+        "id": "2068365783928078412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandykwko @Miller239374 https://t.co/fmxBJcueYY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068314780650332487",
+        "created_at": "2026-06-20T18:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068399326410498339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014216293705187328",
+              "start": 0,
+              "username": "Mandykwko"
+            },
+            {
+              "end": 24,
+              "id": "1846949815755984897",
+              "start": 11,
+              "username": "Miller239374"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20683…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/status/2068398309660836328",
+              "start": 25,
+              "url": "https://t.co/fmxBJcueYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068399326410498339",
+        "in_reply_to_user_id": "2014216293705187328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068398309660836328",
+            "type": "quoted"
+          },
+          {
+            "id": "2068365783928078412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandykwko @Miller239374 https://t.co/fmxBJcueYY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675901578480582656",
+        "conversation_id": "2068314780650332487",
+        "created_at": "2026-06-20T18:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068398309660836328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 30,
+              "id": "1846949815755984897",
+              "start": 17,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068398309660836328",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068359025822187939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @Miller239374 不改变权力结构的情况下，权利注定只是一张空头支票。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014216293705187328",
+        "conversation_id": "2068314780650332487",
+        "created_at": "2026-06-20T16:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068365783928078412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 30,
+              "id": "1846949815755984897",
+              "start": 17,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068365783928078412",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068359025822187939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @Miller239374 中国的所谓女权运动已经异化成一个非常扭曲的东西，和争取平等的权利这个初衷早已相去甚远，我个人觉得是由于中国的男性公民也从未有过人权，导致在争取平权的时候并不知道什么是人权导致的…。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 4174,
+          "like_count": 43221,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 12234
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-22T06:00:22.000Z",
+        "description": "=Gwen，在这个宇宙不是蜘蛛侠。\n对象叫Ame，不是人类。@Amegwenforever\nAnd nobody, in all of Oz, no wizard that there is or was, is ever gonna bring me down.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "Amegwenforever"
+              }
+            ]
+          }
+        },
+        "id": "2014216293705187328",
+        "name": "倘若不可相约在和平地方",
+        "pinned_tweet_id": "2064904342755549408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068330021400555520/ZaFlgo71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 84,
+          "like_count": 4773,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "Mandykwko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "“当下时间的每一瞬光阴，都是弥赛亚侧身而入的窄门。”|\n左翼尼采主义 | 交叉性女权主义 | 自由意志社会主义 |\n用 伊/伊等 取代 他/她/他们/她们 作为全性别中立的中文第三人称代词",
+        "id": "1846949815755984897",
+        "location": "柠檬汁海洋",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 377,
+          "like_count": 11996,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2334
+        },
+        "url": "",
+        "username": "Miller239374",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T16:18:01.000Z",
+        "description": "❖@X_User_404;↵\n❖@X_User_303;↵\n❖反建制派✊;↵\n❖共产主义☭🚩;↵\n❖支持 #𝐋𝐆𝐁𝐓𝐐+权利⚧️🏳️‍🌈🏳️‍⚧️;↵\n❖🍀;↵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 53,
+                "tag": "𝐋𝐆𝐁𝐓𝐐"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "X_User_404"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "X_User_303"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/X_User_404",
+                "end": 23,
+                "expanded_url": "http://www.telegram.me/X_User_404",
+                "start": 0,
+                "url": "https://t.co/GuXcJ2HH1X"
+              }
+            ]
+          }
+        },
+        "id": "1675901578480582656",
+        "location": "🌏🇨🇳中国(China)｜🕗🗺️UTC+08:00",
+        "name": "密涅瓦的猫头鹰❀𝓞𝔀𝓵 𝓸𝓯 𝓜𝓲𝓷𝓮𝓻𝓿𝓪☭📕🚩",
+        "pinned_tweet_id": "2031720621848322307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984611577136660480/OZeEOTd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1366,
+          "like_count": 267449,
+          "listed_count": 9,
+          "media_count": 380,
+          "tweet_count": 1581
+        },
+        "url": "https://t.co/GuXcJ2HH1X",
+        "username": "X_User_404",
+        "verified": false
+      }
+    ]
+  }
+}

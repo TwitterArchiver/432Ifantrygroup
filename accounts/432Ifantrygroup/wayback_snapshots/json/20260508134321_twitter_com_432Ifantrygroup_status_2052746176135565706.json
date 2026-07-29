@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052465325128733031",
+    "created_at": "2026-05-08T13:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052746176135565706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "931822189325643776",
+          "start": 0,
+          "username": "Yukinarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052746176135565706",
+    "in_reply_to_user_id": "931822189325643776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052744652554682787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukinarine 😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052465325128733031",
+        "created_at": "2026-05-08T13:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052746176135565706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "931822189325643776",
+              "start": 0,
+              "username": "Yukinarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746176135565706",
+        "in_reply_to_user_id": "931822189325643776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052744652554682787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukinarine 😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931822189325643776",
+        "conversation_id": "2052465325128733031",
+        "created_at": "2026-05-08T13:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052744652554682787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052744652554682787",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052465325128733031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 陆战之王不是FPV吗，装甲集群是什么东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052692907258450424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 3676,
+          "like_count": 33756,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 9032
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T09:51:37.000Z",
+        "description": "いいよ、恋よ",
+        "id": "931822189325643776",
+        "location": "Tribeca, Manhattan",
+        "name": "吟游诗人德哈卡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690374435197399040/UtpMMhgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 49,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 304
+        },
+        "username": "Yukinarine",
+        "verified": false
+      }
+    ]
+  }
+}

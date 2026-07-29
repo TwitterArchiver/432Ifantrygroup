@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036077929151770896",
+    "created_at": "2026-03-23T13:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036079156296045028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027798393050066944",
+          "start": 0,
+          "username": "imsorry4ueris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036079156296045028",
+    "in_reply_to_user_id": "2027798393050066944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036077929151770896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imsorry4ueris 可能割到静脉了。取一块无菌辅料按在伤口上，中等力度按压十分钟以上。如果还不奏效，那就去缝针好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036077929151770896",
+        "created_at": "2026-03-23T13:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036079156296045028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027798393050066944",
+              "start": 0,
+              "username": "imsorry4ueris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036079156296045028",
+        "in_reply_to_user_id": "2027798393050066944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036077929151770896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imsorry4ueris 可能割到静脉了。取一块无菌辅料按在伤口上，中等力度按压十分钟以上。如果还不奏效，那就去缝针好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027798393050066944",
+        "conversation_id": "2036077929151770896",
+        "created_at": "2026-03-23T13:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036077929151770896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036077929151770896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手臂咋了割完一小时了刚刚一拆绷带发现还在流血"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 2665,
+          "like_count": 11097,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2952
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T17:29:56.000Z",
+        "description": "只是一块寿司在碎碎念 讨厌我请屏蔽我 互fo请私信｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erisnya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erisnya",
+                "start": 0,
+                "url": "https://t.co/DOhxhLWAvb"
+              }
+            ]
+          }
+        },
+        "id": "2027798393050066944",
+        "location": "0.1km",
+        "name": "你等着寿司吧",
+        "pinned_tweet_id": "2033432201728024667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430781125853185/a34pX41y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 43,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/DOhxhLWAvb",
+        "username": "imsorry4ueris",
+        "verified": false
+      }
+    ]
+  }
+}

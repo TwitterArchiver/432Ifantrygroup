@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058030329898967507",
+    "created_at": "2026-05-23T15:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058215942942015552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1933207755537723392",
+          "start": 0,
+          "username": "wngwitng494198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058215942942015552",
+    "in_reply_to_user_id": "1933207755537723392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058214987223720395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngwitng494198 我就是这样勤劳😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058030329898967507",
+        "created_at": "2026-05-23T15:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058215942942015552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1933207755537723392",
+              "start": 0,
+              "username": "wngwitng494198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058215942942015552",
+        "in_reply_to_user_id": "1933207755537723392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058214987223720395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngwitng494198 我就是这样勤劳😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933207755537723392",
+        "conversation_id": "2058030329898967507",
+        "created_at": "2026-05-23T15:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058214987223720395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058214987223720395",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058030329898967507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 刚在知乎刷到，人昨天刚发你就转过来了啊🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058030329898967507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 3868,
+          "like_count": 37906,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 10294
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:00:42.000Z",
+        "description": "高中｜美术生｜INTP｜万智牌｜羽毛球｜写作",
+        "id": "1933207755537723392",
+        "location": "重庆",
+        "name": "梧堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047636572393336832/Njdz3H1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "wngwitng494198",
+        "verified": false
+      }
+    ]
+  }
+}

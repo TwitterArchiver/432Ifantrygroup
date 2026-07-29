@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2027915840407146995",
+    "created_at": "2026-03-01T02:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027941209025745280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1408728834799673351",
+          "start": 0,
+          "username": "KELMAND1"
+        },
+        {
+          "end": 18,
+          "id": "1655156808",
+          "start": 10,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027941209025745280",
+    "in_reply_to_user_id": "1408728834799673351",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027915840407146995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KELMAND1 @GetXBot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73630,
+        "height": 1262,
+        "media_key": "13_2027915591898808320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027915591898808320/img/XiYc1TYMNgMhgFa3.jpg",
+        "public_metrics": {
+          "view_count": 8304
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027915591898808320/vid/avc1/320x536/s3kYwPaIcAN6cUxj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027915591898808320/vid/avc1/480x804/B6JuwUID2UrZrGo8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027915591898808320/vid/avc1/752x1262/Gpz--LyFh6FOJgvR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027915591898808320/pl/PcqJ-1DR8WqMy4fP.m3u8"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2027915840407146995",
+        "created_at": "2026-03-01T02:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027941209025745280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1408728834799673351",
+              "start": 0,
+              "username": "KELMAND1"
+            },
+            {
+              "end": 18,
+              "id": "1655156808",
+              "start": 10,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027941209025745280",
+        "in_reply_to_user_id": "1408728834799673351",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027915840407146995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KELMAND1 @GetXBot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027915591898808320"
+          ]
+        },
+        "author_id": "1408728834799673351",
+        "conversation_id": "2027915840407146995",
+        "created_at": "2026-03-01T01:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027915840407146995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnJIdIIvr4",
+              "end": 75,
+              "expanded_url": "https://x.com/KELMAND1/status/2027915840407146995/video/1",
+              "media_key": "13_2027915591898808320",
+              "start": 52,
+              "url": "https://t.co/xnJIdIIvr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027915840407146995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14435,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "夜空中的史诗级战斗：爱国者导弹系统两次尝试拦截伊朗导弹均告失败，目标地点位于卡塔尔乌代德空军基地上空。 https://t.co/xnJIdIIvr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 1734,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 430
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T10:08:30.000Z",
+        "description": "古今多少事\n都付笑谈中",
+        "id": "1408728834799673351",
+        "location": "Abgrund",
+        "name": "Eason Mao☢",
+        "pinned_tweet_id": "1439835269469859844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015655180155355136/KOuv-jjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107745,
+          "following_count": 4153,
+          "like_count": 199768,
+          "listed_count": 590,
+          "media_count": 27165,
+          "tweet_count": 153208
+        },
+        "username": "KELMAND1",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。\n新功能：VIP会员可将推文通过私信发送给我获取视频下载链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pay.getxbot.work",
+                "end": 23,
+                "expanded_url": "https://pay.getxbot.work",
+                "start": 0,
+                "url": "https://t.co/PMtZdQVrNl"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "location": "订阅成为会员➤",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "2009751195653681430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518916,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 213,
+          "media_count": 9,
+          "tweet_count": 510922
+        },
+        "url": "https://t.co/PMtZdQVrNl",
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

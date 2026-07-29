@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1780596092943667612",
+    "created_at": "2026-02-04T17:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T18:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019097237729755392"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Palestine",
+          "probability": 0.8724,
+          "start": 29,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1423714309205479426",
+          "start": 0,
+          "username": "USA_Silly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019097237729755392",
+    "in_reply_to_user_id": "1423714309205479426",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1780596092943667612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USA_Silly From River to Sea,Palestine will be Free"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_1780596072127385600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLXysY-b0AAM6A7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1780596082713767936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GLXytAabMAAdxKT.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1780596092943667612",
+        "created_at": "2026-02-04T17:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T18:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019097237729755392"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Palestine",
+              "probability": 0.8724,
+              "start": 29,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1423714309205479426",
+              "start": 0,
+              "username": "USA_Silly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019097237729755392",
+        "in_reply_to_user_id": "1423714309205479426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1780596092943667612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USA_Silly From River to Sea,Palestine will be Free"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1780596072127385600",
+            "3_1780596082713767936"
+          ]
+        },
+        "author_id": "1423714309205479426",
+        "conversation_id": "1780596092943667612",
+        "created_at": "2024-04-17T13:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-17T14:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1780596092943667612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIeKSqacly",
+              "end": 149,
+              "expanded_url": "https://x.com/USA_Silly/status/1780596092943667612/photo/1",
+              "media_key": "3_1780596072127385600",
+              "start": 126,
+              "url": "https://t.co/EIeKSqacly"
+            },
+            {
+              "display_url": "pic.x.com/EIeKSqacly",
+              "end": 149,
+              "expanded_url": "https://x.com/USA_Silly/status/1780596092943667612/photo/1",
+              "media_key": "3_1780596082713767936",
+              "start": 126,
+              "url": "https://t.co/EIeKSqacly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1780596092943667612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13355,
+          "like_count": 206,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "美国众议院通过一项决议，把 From the river to the sea , Palestine will be free (从江河到大海，自由巴勒斯坦)口号被视为“反犹太主义”，任何喊出该口号的人将会被定罪。\n\n美国的纳粹文字狱越来越强大了！ https://t.co/EIeKSqacly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1558,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 311
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T18:35:28.000Z",
+        "description": "小时候以为，那自由的灯塔，会指引人类走向光明。长大后才知道，那自由的灯塔，是堆砌的白骨；那灯塔的火光，是燃烧的人脂。",
+        "id": "1423714309205479426",
+        "location": "IP属地: 北美盐碱地",
+        "name": "「米日🔞糗事」",
+        "pinned_tweet_id": "1880429894456492039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849355090244816896/iHrOTn-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130274,
+          "following_count": 433,
+          "like_count": 62677,
+          "listed_count": 194,
+          "media_count": 3642,
+          "tweet_count": 8463
+        },
+        "username": "USA_Silly",
+        "verified": false
+      }
+    ]
+  }
+}

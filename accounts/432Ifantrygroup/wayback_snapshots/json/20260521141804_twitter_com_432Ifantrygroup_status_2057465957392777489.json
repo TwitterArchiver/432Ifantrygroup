@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2057127917155737721",
+    "created_at": "2026-05-21T14:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057465957392777489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1251124343528022017",
+          "start": 0,
+          "username": "GonGraph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057465957392777489",
+    "in_reply_to_user_id": "1251124343528022017",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057446215688548578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GonGraph 😅？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057127917155737721",
+        "created_at": "2026-05-21T14:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057465957392777489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1251124343528022017",
+              "start": 0,
+              "username": "GonGraph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057465957392777489",
+        "in_reply_to_user_id": "1251124343528022017",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057446215688548578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GonGraph 😅？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251124343528022017",
+        "conversation_id": "2057127917155737721",
+        "created_at": "2026-05-21T12:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057446215688548578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057446215688548578",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057444100203573627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 盐巴也不是哪国独有的啊。他说中餐拼命放盐巴来增味都算美化中餐了，应该说亚硝酸盐卤的猪脚饭就足以满足一些人中餐天下无敌的心境了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057093487007609026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 3856,
+          "like_count": 37624,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 10183
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T12:24:30.000Z",
+        "description": "",
+        "id": "1251124343528022017",
+        "location": "南极",
+        "name": "Polaiw❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694743404335566848/ISyKV2DC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 152
+        },
+        "username": "GonGraph",
+        "verified": false
+      }
+    ]
+  }
+}

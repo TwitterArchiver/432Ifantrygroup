@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2040375623450075333",
+    "created_at": "2026-04-04T10:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040375623450075333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2194211701",
+          "start": 3,
+          "username": "inari_oji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040375623450075333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22668
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039492410854768856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inari_oji: 昨夜､娘から衝撃的な発言があり急遽家族会議をしました…。\n娘曰く「日本人に見られるのが恥ずかしい…」と…。\nなぜなのか問いましたら「歴史の授業で南京大虐殺を知った」と。\n\n娘はインターナショナルスクールですので､私は「それは日本人の先生から教わった…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2039492406228484096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE27iatbAAAteh4.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2040375623450075333",
+        "created_at": "2026-04-04T10:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040375623450075333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2194211701",
+              "start": 3,
+              "username": "inari_oji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040375623450075333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22668
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039492410854768856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inari_oji: 昨夜､娘から衝撃的な発言があり急遽家族会議をしました…。\n娘曰く「日本人に見られるのが恥ずかしい…」と…。\nなぜなのか問いましたら「歴史の授業で南京大虐殺を知った」と。\n\n娘はインターナショナルスクールですので､私は「それは日本人の先生から教わった…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039492406228484096"
+          ]
+        },
+        "author_id": "2194211701",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2039492410854768856",
+        "created_at": "2026-04-01T23:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T00:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039492410854768856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQN8M1fGDu",
+              "end": 158,
+              "expanded_url": "https://x.com/inari_oji/status/2039492410854768856/photo/1",
+              "media_key": "3_2039492406228484096",
+              "start": 135,
+              "url": "https://t.co/hQN8M1fGDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039492410854768856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨夜､娘から衝撃的な発言があり急遽家族会議をしました…。\n娘曰く「日本人に見られるのが恥ずかしい…」と…。\nなぜなのか問いましたら「歴史の授業で南京大虐殺を知った」と。\n\n娘はインターナショナルスクールですので､私は「それは日本人の先生から教わったの？」と訊きました。\nすると､「IGCSEのカリキュラムの中でイギリス人の先生から教わった」と…。\n\n※IGCSE（Cambridge IGCSE）とは、14〜16歳（日本の中学〜高校1年）を対象とした世界的に認められた中等教育修了資格です。\nイギリスが中心で､この後にIBやAPなどに進みます。\n\n家内が「そんなこと､していないのよ！」と言いますと､「ママやパパの頃は事実が分からなかったのよ」と…\n\n私から､「1985年に南京大虐殺記念館が中国でオープンするまでは､南京事件って言って中国も騒いでいなかったんだよ」と言っても「それは日本の視点で､世界からは違うよ」と…。\n\n衝撃を受けました私は､添付の記事（日本のメディアではなくNYタイムズ）を見せて､冷静に虐殺する合理的なメリットがないことや､中国のプロパガンダの特性などを話しました。\n蒋介石の行動や､南京での日本軍と現地の方のスナップ写真なども見せました。\n\n娘はまだ半信半疑のようです。\n私が心配しているのは､上記の内容を海外の教育プログラムに入っていること…。何とかできないか模索中です。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6118,
+          "impression_count": 10608493,
+          "like_count": 66663,
+          "quote_count": 2421,
+          "reply_count": 3882,
+          "retweet_count": 22668
+        },
+        "reply_settings": "everyone",
+        "text": "昨夜､娘から衝撃的な発言があり急遽家族会議をしました…。\n娘曰く「日本人に見られるのが恥ずかしい…」と…。\nなぜなのか問いましたら「歴史の授業で南京大虐殺を知った」と。\n\n娘はインターナショナルスクールですので､私は「それは日本人の先生から教わったの？」と訊きました。 https://t.co/hQN8M1fGDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040147011979407800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 2722,
+          "like_count": 18274,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 4734
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-14T13:37:15.000Z",
+        "description": "化粧品トレンド予報士､いなり寿司の伝道師、いなり王子として活動中。日テレ『有吉反省会』でカミングアウト済み。出演 『マツコの知らない世界』『たけしのニッポンのミカタ！』『開運！なんでも鑑定団』『チャンハウス』他。美容家としてシャンプー､スキンケア､香水が得意技です！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/inari-oji",
+                "end": 23,
+                "expanded_url": "http://ameblo.jp/inari-oji",
+                "start": 0,
+                "url": "https://t.co/YIq9IKvSaN"
+              }
+            ]
+          }
+        },
+        "id": "2194211701",
+        "location": "日本",
+        "name": "いなり王子・坂梨カズ",
+        "pinned_tweet_id": "2039492410854768856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909132024713297920/WJvppdZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13696,
+          "following_count": 1345,
+          "like_count": 519809,
+          "listed_count": 219,
+          "media_count": 6194,
+          "tweet_count": 59242
+        },
+        "url": "https://t.co/YIq9IKvSaN",
+        "username": "inari_oji",
+        "verified": true
+      }
+    ]
+  }
+}

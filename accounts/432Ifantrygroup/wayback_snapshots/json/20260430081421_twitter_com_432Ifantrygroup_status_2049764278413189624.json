@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049678631623090504",
+    "created_at": "2026-04-30T08:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049764278413189624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049764278413189624",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049678631623090504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 菱角"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 872,
+        "media_key": "3_2049678614497763328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHr1xjaoAAIqt9.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049678631623090504",
+        "created_at": "2026-04-30T08:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764278413189624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764278413189624",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049678631623090504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 菱角"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049678614497763328"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2049678631623090504",
+        "created_at": "2026-04-30T02:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049678631623090504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ILE3mIOAS",
+              "end": 34,
+              "expanded_url": "https://x.com/GeBiubiu/status/2049678631623090504/photo/1",
+              "media_key": "3_2049678614497763328",
+              "start": 11,
+              "url": "https://t.co/5ILE3mIOAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049678631623090504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13257,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 109,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我敢打赌没人知道这个 https://t.co/5ILE3mIOAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 3437,
+          "like_count": 30407,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 8117
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11575,
+          "following_count": 6051,
+          "like_count": 381302,
+          "listed_count": 36,
+          "media_count": 1061,
+          "tweet_count": 18344
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}

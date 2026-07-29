@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057673736292290560"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2057673746056687790",
+    "created_at": "2026-05-22T04:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057673746056687790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ros6t09Di",
+          "end": 42,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2057673746056687790/photo/1",
+          "media_key": "3_2057673736292290560",
+          "start": 19,
+          "url": "https://t.co/3ros6t09Di"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057673746056687790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bro是不是觉得自己老勇敢老清醒了😅 https://t.co/3ros6t09Di"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1281,
+        "media_key": "3_2057673736292290560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5TXHNaUAAt-l1.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057673736292290560"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057673746056687790",
+        "created_at": "2026-05-22T04:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057673746056687790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ros6t09Di",
+              "end": 42,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2057673746056687790/photo/1",
+              "media_key": "3_2057673736292290560",
+              "start": 19,
+              "url": "https://t.co/3ros6t09Di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057673746056687790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bro是不是觉得自己老勇敢老清醒了😅 https://t.co/3ros6t09Di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057663540010651754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 3856,
+          "like_count": 37653,
+          "listed_count": 4,
+          "media_count": 406,
+          "tweet_count": 10205
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

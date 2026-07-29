@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036429451605712896",
+        "3_2036429451786067969"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036429461713985798",
+    "created_at": "2026-03-24T13:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036429461713985798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsfEr679k9",
+          "end": 63,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2036429461713985798/photo/1",
+          "media_key": "3_2036429451605712896",
+          "start": 40,
+          "url": "https://t.co/nsfEr679k9"
+        },
+        {
+          "display_url": "pic.x.com/nsfEr679k9",
+          "end": 63,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2036429461713985798/photo/1",
+          "media_key": "3_2036429451786067969",
+          "start": 40,
+          "url": "https://t.co/nsfEr679k9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036429461713985798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以此为鉴吧朋友们。生命真的比我们想象中脆弱，张雪峰也算是正当壮年吧，说没就没了 https://t.co/nsfEr679k9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2036429451605712896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELZy_kaIAA2umZ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036429451786067969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELZzAPaIAEXiRk.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036429451605712896",
+            "3_2036429451786067969"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036429461713985798",
+        "created_at": "2026-03-24T13:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036429461713985798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsfEr679k9",
+              "end": 63,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2036429461713985798/photo/1",
+              "media_key": "3_2036429451605712896",
+              "start": 40,
+              "url": "https://t.co/nsfEr679k9"
+            },
+            {
+              "display_url": "pic.x.com/nsfEr679k9",
+              "end": 63,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2036429461713985798/photo/1",
+              "media_key": "3_2036429451786067969",
+              "start": 40,
+              "url": "https://t.co/nsfEr679k9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036429461713985798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以此为鉴吧朋友们。生命真的比我们想象中脆弱，张雪峰也算是正当壮年吧，说没就没了 https://t.co/nsfEr679k9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2715,
+          "like_count": 11906,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 3166
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051635445046603977",
+    "created_at": "2026-05-06T16:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052063431638004011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629869215812296704",
+          "start": 0,
+          "username": "Asuka_Rivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052063431638004011",
+    "in_reply_to_user_id": "1629869215812296704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052063214121451800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka_Rivers 按他的意思，抽烟喝酒的才是纯正工人阶级"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051635445046603977",
+        "created_at": "2026-05-06T16:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052063431638004011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1629869215812296704",
+              "start": 0,
+              "username": "Asuka_Rivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052063431638004011",
+        "in_reply_to_user_id": "1629869215812296704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052063214121451800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_Rivers 按他的意思，抽烟喝酒的才是纯正工人阶级"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629869215812296704",
+        "conversation_id": "2051635445046603977",
+        "created_at": "2026-05-06T16:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052063214121451800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052063214121451800",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051635445046603977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 工人阶级里不抽烟的一秒被打成小资了🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051824257039282403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 3621,
+          "like_count": 32912,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8814
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T15:41:28.000Z",
+        "description": "天若有情天亦老，人间正道是沧桑",
+        "id": "1629869215812296704",
+        "location": "怀仁堂 北京",
+        "name": "Asuka_",
+        "pinned_tweet_id": "1991303411460112549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998164765127106560/fUyg94Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 955,
+          "like_count": 27186,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 3208
+        },
+        "username": "Asuka_Rivers",
+        "verified": false
+      }
+    ]
+  }
+}

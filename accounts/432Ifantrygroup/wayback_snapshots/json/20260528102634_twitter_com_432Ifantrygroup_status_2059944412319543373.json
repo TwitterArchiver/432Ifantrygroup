@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059944412319543373",
+    "created_at": "2026-05-28T10:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059944412319543373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896628523512557570",
+          "start": 3,
+          "username": "qamrlight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059944412319543373",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2415
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059715984118714607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qamrlight: if ur 19 or 23 i promise u life will get better"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059944412319543373",
+        "created_at": "2026-05-28T10:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059944412319543373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896628523512557570",
+              "start": 3,
+              "username": "qamrlight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059944412319543373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2415
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059715984118714607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qamrlight: if ur 19 or 23 i promise u life will get better"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896628523512557570",
+        "conversation_id": "2059715984118714607",
+        "created_at": "2026-05-27T19:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059715984118714607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059715984118714607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1689,
+          "impression_count": 531290,
+          "like_count": 32555,
+          "quote_count": 1264,
+          "reply_count": 494,
+          "retweet_count": 2415
+        },
+        "reply_settings": "everyone",
+        "text": "if ur 19 or 23 i promise u life will get better"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059891680699117741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 3954,
+          "like_count": 39869,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 11053
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T18:27:41.000Z",
+        "description": "aspiring grandma",
+        "id": "1896628523512557570",
+        "name": "✥",
+        "pinned_tweet_id": "2048139072502145433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018698837754253312/OGeYjppI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 69,
+          "like_count": 11256,
+          "listed_count": 8,
+          "media_count": 151,
+          "tweet_count": 1543
+        },
+        "username": "qamrlight",
+        "verified": false
+      }
+    ]
+  }
+}

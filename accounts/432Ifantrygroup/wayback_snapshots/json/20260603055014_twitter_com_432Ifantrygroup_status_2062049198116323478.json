@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2062049198116323478",
+    "created_at": "2026-06-03T05:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062049198116323478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1422567543940677634",
+          "start": 3,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062049198116323478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062040211203457143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UraOlt: plq论证逻辑很搞笑，先射箭后画靶。男的看百合作品是男凝，是把女性物化，咋女的看耽美作品就是自恨了？女的反过来把男的作为欲望载体，，把男性客体化，物化，投射欲望，这不是女凝吗？不是主体性，是女性力量吗？\n\n不敢直视性，反性缘，反对男女/女女恋，觉得女的沾…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2062049198116323478",
+        "created_at": "2026-06-03T05:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062049198116323478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1422567543940677634",
+              "start": 3,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049198116323478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062040211203457143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UraOlt: plq论证逻辑很搞笑，先射箭后画靶。男的看百合作品是男凝，是把女性物化，咋女的看耽美作品就是自恨了？女的反过来把男的作为欲望载体，，把男性客体化，物化，投射欲望，这不是女凝吗？不是主体性，是女性力量吗？\n\n不敢直视性，反性缘，反对男女/女女恋，觉得女的沾…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2062040211203457143",
+        "created_at": "2026-06-03T05:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062040211203457143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coffee__milkte…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/coffee__milktea/status/2061790667412808182",
+              "start": 144,
+              "url": "https://t.co/NBSfon6Eq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062040211203457143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061790667412808182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "plq论证逻辑很搞笑，先射箭后画靶。男的看百合作品是男凝，是把女性物化，咋女的看耽美作品就是自恨了？女的反过来把男的作为欲望载体，，把男性客体化，物化，投射欲望，这不是女凝吗？不是主体性，是女性力量吗？\n\n不敢直视性，反性缘，反对男女/女女恋，觉得女的沾上男的/恋爱就完蛋了的才是真自恨 https://t.co/NBSfon6Eq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061792207141781708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 4008,
+          "like_count": 41664,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 11611
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "他骑着格拉尼，他的骏马，穿过迷雾与地狱的业火。/风湿/火热/✒️✏️🖌️🎨/🏳️‍⚧️",
+        "id": "1422567543940677634",
+        "location": "0.1km",
+        "name": "cthugha🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060944742486274048/XFk2oB01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 428,
+          "like_count": 215828,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 13775
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

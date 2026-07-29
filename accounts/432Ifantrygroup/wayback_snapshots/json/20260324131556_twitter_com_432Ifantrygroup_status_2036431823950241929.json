@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036382075704782927",
+    "created_at": "2026-03-24T13:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036431823950241929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971586240693825536",
+          "start": 0,
+          "username": "dotdoitlikebrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036431823950241929",
+    "in_reply_to_user_id": "1971586240693825536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036382075704782927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dotdoitlikebrat 这么直接水煮不腥吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036382066208808960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKuszNaIAA06rK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2036382066213015552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEKuszOaUAA1Qdd.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036382075704782927",
+        "created_at": "2026-03-24T13:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036431823950241929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971586240693825536",
+              "start": 0,
+              "username": "dotdoitlikebrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036431823950241929",
+        "in_reply_to_user_id": "1971586240693825536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036382075704782927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotdoitlikebrat 这么直接水煮不腥吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036382066208808960",
+            "3_2036382066213015552"
+          ]
+        },
+        "author_id": "1971586240693825536",
+        "conversation_id": "2036382075704782927",
+        "created_at": "2026-03-24T09:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036382075704782927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKg6gi8pxm",
+              "end": 40,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2036382075704782927/photo/1",
+              "media_key": "3_2036382066208808960",
+              "start": 17,
+              "url": "https://t.co/hKg6gi8pxm"
+            },
+            {
+              "display_url": "pic.x.com/hKg6gi8pxm",
+              "end": 40,
+              "expanded_url": "https://x.com/dotdoitlikebrat/status/2036382075704782927/photo/1",
+              "media_key": "3_2036382066213015552",
+              "start": 17,
+              "url": "https://t.co/hKg6gi8pxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036382075704782927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1788,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果全世界都否定你，来我家吃鹅荡 https://t.co/hKg6gi8pxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036352495233155074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2716,
+          "like_count": 11917,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 3168
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T14:43:08.000Z",
+        "description": "屁事分享家！嘴馋区博主？！想到啥说啥！四季豆型人格（油盐不进，不熟的时候有毒）可以找我闲聊💬 #不聊骚不线下不私联（私联互关除外） #ddlg#ENFP小狗puppy（可以提问1️⃣⬇️🦭）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 47,
+                "tag": "不聊骚不线下不私联"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wybie21836",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wybie21836",
+                "start": 0,
+                "url": "https://t.co/UQm2Nl8My0"
+              }
+            ]
+          }
+        },
+        "id": "1971586240693825536",
+        "location": "幸福路",
+        "name": "香辛料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971586994351288320/AI4RVD1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 103,
+          "like_count": 5543,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/UQm2Nl8My0",
+        "username": "dotdoitlikebrat",
+        "verified": false
+      }
+    ]
+  }
+}

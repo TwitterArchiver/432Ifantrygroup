@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1355177515921276929",
+          "name": "Marathon running"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Running",
+          "id": "917496899715788801",
+          "name": "Running"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1355177515921276929",
+          "name": "Marathon running"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Cardio",
+          "id": "920389340571754496",
+          "name": "Cardio"
+        }
+      }
+    ],
+    "conversation_id": "2062038611693019454",
+    "created_at": "2026-06-03T05:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062038611693019454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "160092171",
+          "start": 3,
+          "username": "la123pormi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062038611693019454",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061860756925067534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @la123pormi: Mi amiga acaba de fallecer. Estoy desvastada."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Running",
+              "id": "917496899715788801",
+              "name": "Running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "2062038611693019454",
+        "created_at": "2026-06-03T05:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062038611693019454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "160092171",
+              "start": 3,
+              "username": "la123pormi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062038611693019454",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061860756925067534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @la123pormi: Mi amiga acaba de fallecer. Estoy desvastada."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "160092171",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Running",
+              "id": "917496899715788801",
+              "name": "Running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "2061860756925067534",
+        "created_at": "2026-06-02T17:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061860756925067534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/la123pormi/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/la123pormi/status/2046651572344569914",
+              "start": 46,
+              "url": "https://t.co/X9hvScBAry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061860756925067534",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 1846085,
+          "like_count": 18660,
+          "quote_count": 25,
+          "reply_count": 654,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046651572344569914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Mi amiga acaba de fallecer. Estoy desvastada. https://t.co/X9hvScBAry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061792207141781708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 4008,
+          "like_count": 41645,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 11606
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-27T04:51:10.000Z",
+        "description": "De oposición. Colo Colo es mi pastor.",
+        "id": "160092171",
+        "location": "Chile,donde comienza el mundo.",
+        "name": "M a r i t z a 🌳",
+        "pinned_tweet_id": "1677735421814398976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053999020964495360/RuayJtqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16645,
+          "following_count": 6796,
+          "like_count": 7637,
+          "listed_count": 23,
+          "media_count": 5262,
+          "tweet_count": 236043
+        },
+        "username": "la123pormi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2039729535491662325",
+    "created_at": "2026-04-04T18:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040490450528964679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1653278595719081986",
+          "start": 0,
+          "username": "QuanLujun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040490450528964679",
+    "in_reply_to_user_id": "1653278595719081986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039729535491662325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuanLujun 反贼后期配音闹麻了😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35528,
+        "height": 2062,
+        "media_key": "13_2039729361771962368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039729361771962368/img/jB3ltRQ7bh3g4lHZ.jpg",
+        "public_metrics": {
+          "view_count": 78670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039729361771962368/vid/avc1/480x852/3WhFl0kaPx_ms9dk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039729361771962368/pl/0hq6JWfDccYLjn4w.m3u8?v=7b4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039729361771962368/vid/avc1/320x568/fqau9hVTk4oLpDQ3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039729361771962368/vid/avc1/720x1278/fJxRqinXM3Jdbm3b.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039729361771962368/vid/avc1/1160x2062/UaHgXdRjS7ifaoAq.mp4"
+          }
+        ],
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2039729535491662325",
+        "created_at": "2026-04-04T18:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040490450528964679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1653278595719081986",
+              "start": 0,
+              "username": "QuanLujun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040490450528964679",
+        "in_reply_to_user_id": "1653278595719081986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039729535491662325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuanLujun 反贼后期配音闹麻了😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039729361771962368"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "conversation_id": "2039729535491662325",
+        "created_at": "2026-04-02T15:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039729535491662325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGafdlf4Ro",
+              "end": 64,
+              "expanded_url": "https://x.com/QuanLujun/status/2039729535491662325/video/1",
+              "media_key": "13_2039729361771962368",
+              "start": 41,
+              "url": "https://t.co/wGafdlf4Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039729535491662325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 137303,
+          "like_count": 584,
+          "quote_count": 9,
+          "reply_count": 143,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "中国人民由于对共产党不满高呼共产党下台，视频画面显示人数不少，来自一个广场聚会。 https://t.co/wGafdlf4Ro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040480158122119593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 2733,
+          "like_count": 18587,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 4809
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾，台湾独立；守护台湾就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平中共恐怖主义独裁纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK3DNT】基督✝️文明世界必将战胜邪恶撒旦；台独顽固分子/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 110,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 87,
+                "url": "https://t.co/xxJHoK3DNT"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "location": "California, USA",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2026402702964699449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18717,
+          "following_count": 6810,
+          "like_count": 34473,
+          "listed_count": 109,
+          "media_count": 2087,
+          "tweet_count": 17596
+        },
+        "username": "QuanLujun",
+        "verified": true
+      }
+    ]
+  }
+}

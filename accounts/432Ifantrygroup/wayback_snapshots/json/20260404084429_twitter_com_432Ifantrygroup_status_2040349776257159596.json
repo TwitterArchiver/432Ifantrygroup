@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040090401340875130",
+    "created_at": "2026-04-04T08:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040349776257159596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1975616199284379648",
+          "start": 0,
+          "username": "thisismuslima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040349776257159596",
+    "in_reply_to_user_id": "1975616199284379648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040090401340875130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisismuslima 算是一种免责声明吧，虽然无济于事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040090401340875130",
+        "created_at": "2026-04-04T08:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040349776257159596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1975616199284379648",
+              "start": 0,
+              "username": "thisismuslima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040349776257159596",
+        "in_reply_to_user_id": "1975616199284379648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040090401340875130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisismuslima 算是一种免责声明吧，虽然无济于事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975616199284379648",
+        "conversation_id": "2040090401340875130",
+        "created_at": "2026-04-03T15:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040090401340875130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040090401340875130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 963,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要把“我翻墙就是为了看黄的”挂在嘴边，这是一件值得自豪的事吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040274741509124208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 2719,
+          "like_count": 18198,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 4713
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T17:37:23.000Z",
+        "description": "A simple Muslim girl",
+        "id": "1975616199284379648",
+        "location": " ۋەتەن   ",
+        "name": "مۇسلىمە",
+        "pinned_tweet_id": "2039734596368285910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981254576712916993/8I_YOqJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 401,
+          "like_count": 4693,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1012
+        },
+        "username": "thisismuslima",
+        "verified": true
+      }
+    ]
+  }
+}

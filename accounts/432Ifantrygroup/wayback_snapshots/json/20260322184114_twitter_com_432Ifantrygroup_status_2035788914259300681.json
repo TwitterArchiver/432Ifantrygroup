@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035546804042035706",
+    "created_at": "2026-03-22T18:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035788914259300681"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "很漂亮",
+          "probability": 0.3805,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028804117586690048",
+          "start": 0,
+          "username": "Auxiiqtfna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035788914259300681",
+    "in_reply_to_user_id": "2028804117586690048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035546804042035706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auxiiqtfna 鼻子很漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2035546794088943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-3BkFbUAAJP6q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035546804042035706",
+        "created_at": "2026-03-22T18:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035788914259300681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "很漂亮",
+              "probability": 0.3805,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028804117586690048",
+              "start": 0,
+              "username": "Auxiiqtfna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035788914259300681",
+        "in_reply_to_user_id": "2028804117586690048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035546804042035706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auxiiqtfna 鼻子很漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035546794088943616"
+          ]
+        },
+        "author_id": "2028804117586690048",
+        "conversation_id": "2035546804042035706",
+        "created_at": "2026-03-22T02:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035546804042035706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSJWIJE46h",
+              "end": 29,
+              "expanded_url": "https://x.com/Auxiiqtfna/status/2035546804042035706/photo/1",
+              "media_key": "3_2035546794088943616",
+              "start": 6,
+              "url": "https://t.co/HSJWIJE46h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035546804042035706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4867,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我皮肤好差 https://t.co/HSJWIJE46h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 2645,
+          "like_count": 10580,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2820
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:07:10.000Z",
+        "description": "盗图死妈 🚪111软妹币 赞赏码私 不支持白嫖 偶尔掉落福利 纯绿 主要提供情绪价值 过🚪不退",
+        "id": "2028804117586690048",
+        "name": "Auxiiq",
+        "pinned_tweet_id": "2035434179580842484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029560372324417537/u77t3S1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12800,
+          "following_count": 33,
+          "like_count": 172,
+          "listed_count": 31,
+          "media_count": 63,
+          "tweet_count": 218
+        },
+        "username": "Auxiiqtfna",
+        "verified": false
+      }
+    ]
+  }
+}

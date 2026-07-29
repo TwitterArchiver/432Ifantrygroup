@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059666875009925462",
+    "created_at": "2026-05-27T16:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059668207297056992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030100273339977729",
+          "start": 0,
+          "username": "ROSA01506279388"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059668207297056992",
+    "in_reply_to_user_id": "2030100273339977729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059668127236182214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ROSA01506279388 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059666875009925462",
+        "created_at": "2026-05-27T16:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059668207297056992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030100273339977729",
+              "start": 0,
+              "username": "ROSA01506279388"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059668207297056992",
+        "in_reply_to_user_id": "2030100273339977729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059668127236182214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ROSA01506279388 好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030100273339977729",
+        "conversation_id": "2059666875009925462",
+        "created_at": "2026-05-27T16:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059668127236182214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059668127236182214",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059666875009925462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 有幼稚心也沒關係的喔？追尋你自己想要的就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052713217882042684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 3928,
+          "like_count": 39358,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 10905
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T01:56:44.000Z",
+        "description": "",
+        "id": "2030100273339977729",
+        "location": "新人類社會科學人道主義聯盟",
+        "name": "ROSA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031244908791738371/sRCBt1s__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 140,
+          "like_count": 2425,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 254
+        },
+        "username": "ROSA01506279388",
+        "verified": false
+      }
+    ]
+  }
+}

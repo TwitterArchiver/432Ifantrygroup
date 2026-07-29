@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039914310282199040"
+      ],
+      "media_source_tweet_id": [
+        "2039914547264590079"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2039946348720796108",
+    "created_at": "2026-04-03T06:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039946348720796108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgQ0rBYG4N",
+          "end": 76,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/2039914547264590079/photo/1",
+          "media_key": "3_2039914310282199040",
+          "start": 53,
+          "url": "https://t.co/hgQ0rBYG4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039946348720796108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039914547264590079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 网友们把自己人生的不幸归因给原生家庭，对国家难道不是一件好事吗？ https://t.co/hgQ0rBYG4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2039914310282199040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE87QdybQAAY-s9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039914310282199040"
+          ],
+          "media_source_tweet_id": [
+            "2039914547264590079"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2039946348720796108",
+        "created_at": "2026-04-03T06:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039946348720796108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgQ0rBYG4N",
+              "end": 76,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2039914547264590079/photo/1",
+              "media_key": "3_2039914310282199040",
+              "start": 53,
+              "url": "https://t.co/hgQ0rBYG4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039946348720796108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039914547264590079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 网友们把自己人生的不幸归因给原生家庭，对国家难道不是一件好事吗？ https://t.co/hgQ0rBYG4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039914310282199040"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2039914547264590079",
+        "created_at": "2026-04-03T03:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039914547264590079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgQ0rBYG4N",
+              "end": 56,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2039914547264590079/photo/1",
+              "media_key": "3_2039914310282199040",
+              "start": 33,
+              "url": "https://t.co/hgQ0rBYG4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039914547264590079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 15620,
+          "like_count": 405,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "网友们把自己人生的不幸归因给原生家庭，对国家难道不是一件好事吗？ https://t.co/hgQ0rBYG4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2039150831120130134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 2715,
+          "like_count": 17796,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 4629
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236246,
+          "following_count": 1848,
+          "like_count": 189,
+          "listed_count": 1258,
+          "media_count": 28396,
+          "tweet_count": 36247
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

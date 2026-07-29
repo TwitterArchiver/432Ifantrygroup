@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2035584340353257477",
+    "created_at": "2026-03-22T05:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035584340353257477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958561918328643584",
+          "start": 3,
+          "username": "qwq_jihoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035584340353257477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035439771577950316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @qwq_jihoon: 我们不要自残od了我们一起去过正常的生活吧我们手握手一起看电影吧我们闭着眼躺在床上拥抱吧我们在马路上一起逛街不我们去药店买健胃消食片一起去吃自助餐吧我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手一起在幸福的现实享受健康生活吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2035584340353257477",
+        "created_at": "2026-03-22T05:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035584340353257477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958561918328643584",
+              "start": 3,
+              "username": "qwq_jihoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035584340353257477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035439771577950316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @qwq_jihoon: 我们不要自残od了我们一起去过正常的生活吧我们手握手一起看电影吧我们闭着眼躺在床上拥抱吧我们在马路上一起逛街不我们去药店买健胃消食片一起去吃自助餐吧我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手一起在幸福的现实享受健康生活吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958561918328643584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2035439771577950316",
+        "created_at": "2026-03-21T19:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T20:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035439771577950316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035439771577950316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "我们不要自残od了我们一起去过正常的生活吧我们手握手一起看电影吧我们闭着眼躺在床上拥抱吧我们在马路上一起逛街不我们去药店买健胃消食片一起去吃自助餐吧我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手一起在幸福的现实享受健康生活吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 2568,
+          "like_count": 9992,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2663
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:08:55.000Z",
+        "description": "查成分互fo|od自残|加vq门槛52000不给别加|: @IBGDRGN|: @Lilpeep|最爱的蜜: @GD_Aug18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "IBGDRGN"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "Lilpeep"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "GD_Aug18"
+              }
+            ]
+          }
+        },
+        "id": "1958561918328643584",
+        "location": "距离你0.52km",
+        "name": "小犬_824",
+        "pinned_tweet_id": "2034637832522973409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035455155391602688/FdpBvaq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 124,
+          "like_count": 6627,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 468
+        },
+        "username": "qwq_jihoon",
+        "verified": false
+      }
+    ]
+  }
+}

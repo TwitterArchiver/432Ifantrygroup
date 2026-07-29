@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2067972026275704918",
+    "created_at": "2026-06-19T14:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067972794391072995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1303801978624118784",
+          "start": 0,
+          "username": "ChaNgeMiNd67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067972794391072995",
+    "in_reply_to_user_id": "1303801978624118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067972026275704918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaNgeMiNd67 很瘦啦老师，为啥还想更瘦呀？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2067972026275704918",
+        "created_at": "2026-06-19T14:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067972794391072995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1303801978624118784",
+              "start": 0,
+              "username": "ChaNgeMiNd67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067972794391072995",
+        "in_reply_to_user_id": "1303801978624118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067972026275704918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaNgeMiNd67 很瘦啦老师，为啥还想更瘦呀？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303801978624118784",
+        "conversation_id": "2067972026275704918",
+        "created_at": "2026-06-19T14:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067972026275704918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sasamji/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sasamji/status/2067834304684798423",
+              "start": 17,
+              "url": "https://t.co/J2APfFO8iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067972026275704918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067834304684798423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是bmi17对我来说还是不够瘦 https://t.co/J2APfFO8iA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 4136,
+          "like_count": 42856,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 12118
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T21:06:41.000Z",
+        "description": "可爱的婊子",
+        "id": "1303801978624118784",
+        "location": "地府  不聊骚 不卖逼 ",
+        "name": "帶狀皰疹患者",
+        "pinned_tweet_id": "2066019396401995920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067173849209384960/j9UhlUAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "ChaNgeMiNd67",
+        "verified": false
+      }
+    ]
+  }
+}

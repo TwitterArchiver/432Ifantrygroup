@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054717815387734305",
+    "created_at": "2026-05-14T17:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054975163410812992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878790796394053632",
+          "start": 0,
+          "username": "shikinimomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054975163410812992",
+    "in_reply_to_user_id": "1878790796394053632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054974314059911193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikinimomo 😔🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054717815387734305",
+        "created_at": "2026-05-14T17:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054975163410812992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878790796394053632",
+              "start": 0,
+              "username": "shikinimomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054975163410812992",
+        "in_reply_to_user_id": "1878790796394053632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054974314059911193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikinimomo 😔🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878790796394053632",
+        "conversation_id": "2054717815387734305",
+        "created_at": "2026-05-14T17:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054974314059911193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054974314059911193",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054717815387734305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 看哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054924200830509429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 3800,
+          "like_count": 36368,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 9764
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T13:06:57.000Z",
+        "description": "我是momo 希望你幸福",
+        "id": "1878790796394053632",
+        "location": "极乐",
+        "name": "忧",
+        "pinned_tweet_id": "2003408379184840959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939710303601561600/IuE-ovwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 313,
+          "like_count": 1441,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 831
+        },
+        "username": "shikinimomo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1857375388655374460",
+    "created_at": "2024-11-15T15:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T16:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857443692086518185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827256845242920962",
+          "start": 0,
+          "username": "potatoflour_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857443692086518185",
+    "in_reply_to_user_id": "1827256845242920962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857375388655374460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@potatoflour_ 唉，一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1857375388655374460",
+        "created_at": "2024-11-15T15:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T16:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857443692086518185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827256845242920962",
+              "start": 0,
+              "username": "potatoflour_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857443692086518185",
+        "in_reply_to_user_id": "1827256845242920962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857375388655374460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@potatoflour_ 唉，一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827256845242920962",
+        "conversation_id": "1857375388655374460",
+        "created_at": "2024-11-15T10:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T11:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857375388655374460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857375388655374460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学好累…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 54,
+          "like_count": 23,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T08:09:29.000Z",
+        "description": "高中生压力太大发发疯怎么你了？",
+        "id": "1827256845242920962",
+        "name": "爱吃土豆粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827256997059682304/easD3QJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 10,
+          "like_count": 129,
+          "listed_count": 1,
+          "tweet_count": 12
+        },
+        "username": "potatoflour_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046944532978442666",
+    "created_at": "2026-04-22T14:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046965880341635569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897097898539859969",
+          "start": 0,
+          "username": "X0635778528132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046965880341635569",
+    "in_reply_to_user_id": "1897097898539859969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046962556586352728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X0635778528132 很显然，你说的是错的。在土地改革的时候，经常出现农民认为给地主交租是天经地义这种情况，所以我不是“代表”工人的想法，而是代表正确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046944532978442666",
+        "created_at": "2026-04-22T14:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046965880341635569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897097898539859969",
+              "start": 0,
+              "username": "X0635778528132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046965880341635569",
+        "in_reply_to_user_id": "1897097898539859969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046962556586352728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X0635778528132 很显然，你说的是错的。在土地改革的时候，经常出现农民认为给地主交租是天经地义这种情况，所以我不是“代表”工人的想法，而是代表正确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897097898539859969",
+        "conversation_id": "2046944532978442666",
+        "created_at": "2026-04-22T14:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046962556586352728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046962556586352728",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046944532978442666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 你应该去工地问问真正的工人想法，而不是靠你的幻想假装自己能代表工人的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 3134,
+          "like_count": 26193,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 6872
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T01:32:52.000Z",
+        "description": "",
+        "id": "1897097898539859969",
+        "name": "XXX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971361407074717696/IUz8kw5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 105
+        },
+        "username": "X0635778528132",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036759991718474080",
+    "created_at": "2026-03-25T16:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T17:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036843761687552091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "96453272",
+          "start": 0,
+          "username": "oakvale5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036843761687552091",
+    "in_reply_to_user_id": "96453272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036759991718474080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oakvale5 那你是没遇到我这种不跑步，配速5km就是走的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036759991718474080",
+        "created_at": "2026-03-25T16:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036843761687552091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "96453272",
+              "start": 0,
+              "username": "oakvale5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036843761687552091",
+        "in_reply_to_user_id": "96453272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036759991718474080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oakvale5 那你是没遇到我这种不跑步，配速5km就是走的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96453272",
+        "conversation_id": "2036759991718474080",
+        "created_at": "2026-03-25T10:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036759991718474080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 81,
+              "tag": "组间休息三分半"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036759991718474080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 42910,
+          "like_count": 222,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "感谢张雪峰！！！\n今天健身房只有我跟一个医生在跑步😂终于不用排跑步机了！\n张雪峰以一己之力，把跑步提高到继游泳之后第二危险的运动😂😂\n不知道这个趋势能保持几天\n\n#组间休息三分半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036518135612973442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 2721,
+          "like_count": 13038,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3466
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-13T00:51:58.000Z",
+        "description": "Rest at the edge of chaos. \n .... . .-.. .--. -....- -- .\nGod plays dice. Maybe that's a feature, not a bug.\n一切都会好起来。",
+        "id": "96453272",
+        "location": "崩溃边缘 Edge of Chaos",
+        "name": "阿橡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420050931660443649/YbZuFX0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16674,
+          "following_count": 3002,
+          "like_count": 5265,
+          "listed_count": 127,
+          "media_count": 3250,
+          "tweet_count": 92577
+        },
+        "username": "oakvale5",
+        "verified": false
+      }
+    ]
+  }
+}

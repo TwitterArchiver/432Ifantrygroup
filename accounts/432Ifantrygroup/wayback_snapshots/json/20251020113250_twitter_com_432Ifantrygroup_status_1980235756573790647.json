@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1980043098848915910",
+    "created_at": "2025-10-20T11:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980235756573790647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1665763953664835584",
+          "start": 0,
+          "username": "dmnlxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980235756573790647",
+    "in_reply_to_user_id": "1665763953664835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980043098848915910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dmnlxy 有🚪吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980043083346513921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qGsY7WkAEZfN7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1980043098848915910",
+        "created_at": "2025-10-20T11:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980235756573790647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1665763953664835584",
+              "start": 0,
+              "username": "dmnlxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980235756573790647",
+        "in_reply_to_user_id": "1665763953664835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980043098848915910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dmnlxy 有🚪吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980043083346513921"
+          ]
+        },
+        "author_id": "1665763953664835584",
+        "conversation_id": "1980043098848915910",
+        "created_at": "2025-10-19T22:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980043098848915910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/As0BgvPorW",
+              "end": 29,
+              "expanded_url": "https://x.com/dmnlxy/status/1980043098848915910/photo/1",
+              "media_key": "3_1980043083346513921",
+              "start": 6,
+              "url": "https://t.co/As0BgvPorW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980043098848915910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3134,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想撸他？ https://t.co/As0BgvPorW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1267,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 213
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T16:54:17.000Z",
+        "description": "07天蝎 别惹我",
+        "id": "1665763953664835584",
+        "name": "7",
+        "pinned_tweet_id": "1926961167886401658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885229571857158144/RB9en9cT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24767,
+          "following_count": 10,
+          "like_count": 214,
+          "listed_count": 73,
+          "media_count": 124,
+          "tweet_count": 370
+        },
+        "username": "dmnlxy",
+        "verified": false
+      }
+    ]
+  }
+}

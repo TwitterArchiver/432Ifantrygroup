@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2058204741226963372",
+    "created_at": "2026-05-23T15:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058204741226963372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058204741226963372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057962320954011969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 心理学家语出惊人的话：\n「这个世界上混的最惨的孩子，一定来源于一个没有任何家底，却有着严格的家教。」\n\n家里面明明一穷二白，什么资源都没有，但非要把这个孩子教育得规规矩矩，特别懂事，脸皮还特别薄，还特别爱面子，不给别人添麻烦。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2058204741226963372",
+        "created_at": "2026-05-23T15:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058204741226963372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058204741226963372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057962320954011969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 心理学家语出惊人的话：\n「这个世界上混的最惨的孩子，一定来源于一个没有任何家底，却有着严格的家教。」\n\n家里面明明一穷二白，什么资源都没有，但非要把这个孩子教育得规规矩矩，特别懂事，脸皮还特别薄，还特别爱面子，不给别人添麻烦。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2057962320954011969",
+        "created_at": "2026-05-22T23:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057962320954011969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057962320954011969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "心理学家语出惊人的话：\n「这个世界上混的最惨的孩子，一定来源于一个没有任何家底，却有着严格的家教。」\n\n家里面明明一穷二白，什么资源都没有，但非要把这个孩子教育得规规矩矩，特别懂事，脸皮还特别薄，还特别爱面子，不给别人添麻烦。\n\n一说话就有那种不配得感，这样的孩子，早晚会被这个社会吃得干干净净，他混得惨，是必然的事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 24091,
+          "like_count": 385,
+          "quote_count": 10,
+          "reply_count": 19,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "心理学家语出惊人的话：\n「这个世界上混的最惨的孩子，一定来源于一个没有任何家底，却有着严格的家教。」\n\n家里面明明一穷二白，什么资源都没有，但非要把这个孩子教育得规规矩矩，特别懂事，脸皮还特别薄，还特别爱面子，不给别人添麻烦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058030329898967507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 3866,
+          "like_count": 37875,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 10275
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2054948116785410258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9970,
+          "following_count": 1220,
+          "like_count": 11224,
+          "listed_count": 21,
+          "media_count": 2030,
+          "tweet_count": 14865
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

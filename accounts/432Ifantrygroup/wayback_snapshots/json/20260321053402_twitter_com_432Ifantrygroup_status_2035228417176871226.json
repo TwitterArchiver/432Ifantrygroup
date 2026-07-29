@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2035227324090916865"
+      ],
+      "media_source_tweet_id": [
+        "2035227354759667732"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035228417176871226",
+    "created_at": "2026-03-21T05:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035228417176871226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1913595442946023424",
+          "start": 3,
+          "username": "ChenLi391236"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ipZwtkVHgH",
+          "end": 63,
+          "expanded_url": "https://x.com/ChenLi391236/status/2035227354759667732/video/1",
+          "media_key": "7_2035227324090916865",
+          "start": 40,
+          "url": "https://t.co/ipZwtkVHgH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035228417176871226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035227354759667732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenLi391236: 小时候看完这集变成列宁主义者了(°ㅅ°)☝ https://t.co/ipZwtkVHgH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9938,
+        "height": 1280,
+        "media_key": "7_2035227324090916865",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035227324090916865/pu/img/5StFVBfruxxXCSJg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035227324090916865/pu/vid/avc1/320x568/GPHLMTocBED5WIfN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035227324090916865/pu/vid/avc1/480x852/6-1NMHTFiSATvDFU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035227324090916865/pu/vid/avc1/720x1280/Gk0jlj8ZfIQ8wxTP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035227324090916865/pu/pl/1wPGQXxgIfo0prkm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035227324090916865"
+          ],
+          "media_source_tweet_id": [
+            "2035227354759667732"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035228417176871226",
+        "created_at": "2026-03-21T05:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035228417176871226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1913595442946023424",
+              "start": 3,
+              "username": "ChenLi391236"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipZwtkVHgH",
+              "end": 63,
+              "expanded_url": "https://x.com/ChenLi391236/status/2035227354759667732/video/1",
+              "media_key": "7_2035227324090916865",
+              "start": 40,
+              "url": "https://t.co/ipZwtkVHgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035228417176871226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035227354759667732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenLi391236: 小时候看完这集变成列宁主义者了(°ㅅ°)☝ https://t.co/ipZwtkVHgH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035227324090916865"
+          ]
+        },
+        "author_id": "1913595442946023424",
+        "conversation_id": "2035227354759667732",
+        "created_at": "2026-03-21T05:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035227354759667732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipZwtkVHgH",
+              "end": 45,
+              "expanded_url": "https://x.com/ChenLi391236/status/2035227354759667732/video/1",
+              "media_key": "7_2035227324090916865",
+              "start": 22,
+              "url": "https://t.co/ipZwtkVHgH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035227354759667732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小时候看完这集变成列宁主义者了(°ㅅ°)☝ https://t.co/ipZwtkVHgH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2497,
+          "like_count": 9254,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2455
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T14:08:52.000Z",
+        "description": "INTP+ASD，♀，温和的键政人，这里当胡言乱语的手记发。",
+        "id": "1913595442946023424",
+        "location": "Nantes, France",
+        "name": "Chen Li",
+        "pinned_tweet_id": "2029019257091371512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980656361730908160/UuboD3IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 63,
+          "like_count": 2383,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 1008
+        },
+        "username": "ChenLi391236",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2036054475245555712"
+      ],
+      "media_source_tweet_id": [
+        "2036054496057717109"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036301316251853296",
+    "created_at": "2026-03-24T04:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036301316251853296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1273244566959906818",
+          "start": 3,
+          "username": "catwithaura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Al0ql6Nxbc",
+          "end": 61,
+          "expanded_url": "https://x.com/catwithaura/status/2036054496057717109/video/1",
+          "media_key": "7_2036054475245555712",
+          "start": 38,
+          "url": "https://t.co/Al0ql6Nxbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036301316251853296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 492
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036054496057717109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catwithaura: Belly rub. Belly rub https://t.co/Al0ql6Nxbc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10767,
+        "height": 1280,
+        "media_key": "7_2036054475245555712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036054475245555712/pu/img/VbSLCCbrk2ZelfAp.jpg",
+        "public_metrics": {
+          "view_count": 18663
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036054475245555712/pu/vid/avc1/320x568/ZAhiUt_v9sABQ3BG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036054475245555712/pu/vid/avc1/480x852/xOvKAzhQfSl-Xxhk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036054475245555712/pu/vid/avc1/720x1280/4m_s8-DFlsVZufFc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036054475245555712/pu/pl/YDI-NnPFA9Wwsd3F.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036054475245555712"
+          ],
+          "media_source_tweet_id": [
+            "2036054496057717109"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036301316251853296",
+        "created_at": "2026-03-24T04:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036301316251853296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1273244566959906818",
+              "start": 3,
+              "username": "catwithaura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Al0ql6Nxbc",
+              "end": 61,
+              "expanded_url": "https://x.com/catwithaura/status/2036054496057717109/video/1",
+              "media_key": "7_2036054475245555712",
+              "start": 38,
+              "url": "https://t.co/Al0ql6Nxbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036301316251853296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 492
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036054496057717109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catwithaura: Belly rub. Belly rub https://t.co/Al0ql6Nxbc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036054475245555712"
+          ]
+        },
+        "author_id": "1273244566959906818",
+        "conversation_id": "2036054496057717109",
+        "created_at": "2026-03-23T12:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036054496057717109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Al0ql6Nxbc",
+              "end": 44,
+              "expanded_url": "https://x.com/catwithaura/status/2036054496057717109/video/1",
+              "media_key": "7_2036054475245555712",
+              "start": 21,
+              "url": "https://t.co/Al0ql6Nxbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036054496057717109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 63826,
+          "like_count": 7877,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "Belly rub. Belly rub https://t.co/Al0ql6Nxbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 2695,
+          "like_count": 11588,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 3083
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-17T13:22:29.000Z",
+        "description": "just the best collection of cat posts you will find on the internet",
+        "id": "1273244566959906818",
+        "name": "Cats with Aura 😺",
+        "pinned_tweet_id": "2035299307340038616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955875760591323138/Acd6g7Na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51591,
+          "following_count": 3641,
+          "like_count": 259,
+          "listed_count": 165,
+          "media_count": 4235,
+          "tweet_count": 5243
+        },
+        "username": "catwithaura",
+        "verified": true
+      }
+    ]
+  }
+}

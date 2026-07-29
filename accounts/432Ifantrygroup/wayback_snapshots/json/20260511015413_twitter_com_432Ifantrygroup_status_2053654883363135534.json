@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053653383815532751",
+    "created_at": "2026-05-11T01:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053654883363135534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1357592934321778688",
+          "start": 0,
+          "username": "iya_iya_iya_180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053654883363135534",
+    "in_reply_to_user_id": "1357592934321778688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053653383815532751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iya_iya_iya_180 为什么给他打码。我从来不给这种人打码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053653383815532751",
+        "created_at": "2026-05-11T01:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053654883363135534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1357592934321778688",
+              "start": 0,
+              "username": "iya_iya_iya_180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053654883363135534",
+        "in_reply_to_user_id": "1357592934321778688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053653383815532751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iya_iya_iya_180 为什么给他打码。我从来不给这种人打码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357592934321778688",
+        "conversation_id": "2053653383815532751",
+        "created_at": "2026-05-11T01:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053653383815532751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2053423813522510200",
+              "start": 20,
+              "url": "https://t.co/2u0u77xVk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053653383815532751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053423813522510200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这世界疯了\n……算了，也不是一天两天了 https://t.co/2u0u77xVk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 3746,
+          "like_count": 35187,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 9427
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T07:32:40.000Z",
+        "description": "致自由 | 本账号推文内容：80%转贴/引用 10%鉴证（随机嘴一些小粉红） 9%超怪xp碎碎念 1%既不超绝也不可爱更不少女的日常",
+        "id": "1357592934321778688",
+        "location": "People's Republic of China",
+        "name": "脱水碳化",
+        "pinned_tweet_id": "1992195777742135771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011777898785751041/R0zQB2aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 207,
+          "like_count": 46815,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 9628
+        },
+        "username": "iya_iya_iya_180",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1318549962372730880",
+          "name": "Damares Alves"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1318549962372730880",
+          "name": "Damares Alves"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1318549962372730880",
+          "name": "Damares Alves"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "2062237663093223831",
+    "created_at": "2026-06-03T18:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062237663093223831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1240089607951319042",
+          "start": 3,
+          "username": "JFreiress_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062237663093223831",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1923
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061950826352898531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JFreiress_: CRIANÇA NÃO É MÃE. Adriana Araújo criticou a decisão do Senado liderada pela a Damares Alves que é aliada do Flávio Bolsona…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107299,
+        "height": 1280,
+        "media_key": "7_2061950436672765952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061950436672765952/pu/img/slgyD2JEQ_wFVQP8.jpg",
+        "public_metrics": {
+          "view_count": 29682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061950436672765952/pu/vid/avc1/320x568/R9zq2Hy7xfHS6imW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061950436672765952/pu/vid/avc1/480x852/JhcCcF2Ki2yVwlwI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061950436672765952/pu/vid/avc1/720x1280/lKWt-UkgqzVh7Uqq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061950436672765952/pu/pl/GFpoOAn0vwT4TyfJ.m3u8?v=32e"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 656,
+        "media_key": "3_2061950439029915648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2E_-bWwAA6YZS.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1318549962372730880",
+              "name": "Damares Alves"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1318549962372730880",
+              "name": "Damares Alves"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1318549962372730880",
+              "name": "Damares Alves"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          }
+        ],
+        "conversation_id": "2062237663093223831",
+        "created_at": "2026-06-03T18:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062237663093223831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1240089607951319042",
+              "start": 3,
+              "username": "JFreiress_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062237663093223831",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1923
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061950826352898531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JFreiress_: CRIANÇA NÃO É MÃE. Adriana Araújo criticou a decisão do Senado liderada pela a Damares Alves que é aliada do Flávio Bolsona…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061950436672765952",
+            "3_2061950439029915648"
+          ]
+        },
+        "author_id": "1240089607951319042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1318549962372730880",
+              "name": "Damares Alves"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1318549962372730880",
+              "name": "Damares Alves"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Brazil Senate",
+              "id": "922865766688473089",
+              "name": "Brazil Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil Senate",
+              "id": "922865766688473089",
+              "name": "Brazil Senate"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1318549962372730880",
+              "name": "Damares Alves"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488973753274929152",
+              "name": "Political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940800985427968",
+              "name": "Brazil political events"
+            }
+          }
+        ],
+        "conversation_id": "2061950826352898531",
+        "created_at": "2026-06-02T23:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T00:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061950826352898531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a18AQ8Njl",
+              "end": 296,
+              "expanded_url": "https://x.com/JFreiress_/status/2061950826352898531/video/1",
+              "media_key": "7_2061950436672765952",
+              "start": 273,
+              "url": "https://t.co/1a18AQ8Njl"
+            },
+            {
+              "display_url": "pic.x.com/1a18AQ8Njl",
+              "end": 296,
+              "expanded_url": "https://x.com/JFreiress_/status/2061950826352898531/video/1",
+              "media_key": "3_2061950439029915648",
+              "start": 273,
+              "url": "https://t.co/1a18AQ8Njl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061950826352898531",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "CRIANÇA NÃO É MÃE. Adriana Araújo criticou a decisão do Senado liderada pela a Damares Alves que é aliada do Flávio Bolsonaro de impedir que crianças faça aborto em caso de estupro. \n\n💬\"A Damares Alves é a pessoa que em 2020 saiu viajando pelo Brasil fazendo campanha para impedir uma menina de 10 anos estuprada de fazer um aborto\"."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 51499,
+          "like_count": 6510,
+          "quote_count": 51,
+          "reply_count": 96,
+          "retweet_count": 1923
+        },
+        "reply_settings": "everyone",
+        "text": "CRIANÇA NÃO É MÃE. Adriana Araújo criticou a decisão do Senado liderada pela a Damares Alves que é aliada do Flávio Bolsonaro de impedir que crianças faça aborto em caso de estupro. \n\n💬\"A Damares Alves é a pessoa que em 2020 saiu viajando pelo Brasil fazendo campanha para https://t.co/1a18AQ8Njl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 41998,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11717
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T01:36:32.000Z",
+        "description": "Torcedor do São Paulo, Fã de Guns N' Roses, e posto um pouco de tudo...",
+        "id": "1240089607951319042",
+        "name": "Julio Freiress 🇧🇷",
+        "pinned_tweet_id": "2061782528206180631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974523818505908224/iOW8a54r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39543,
+          "following_count": 30629,
+          "like_count": 56697,
+          "listed_count": 29,
+          "media_count": 6993,
+          "tweet_count": 41671
+        },
+        "username": "JFreiress_",
+        "verified": true
+      }
+    ]
+  }
+}

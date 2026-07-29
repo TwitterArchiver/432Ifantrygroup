@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054959821066272816",
+    "created_at": "2026-05-14T16:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054959821066272816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912230252195016704",
+          "start": 3,
+          "username": "hinxngln867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054959821066272816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054765601353298254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hinxngln867: 人类进化了200多万年，不是为了在现代学低等动物玩弱肉强食的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054959821066272816",
+        "created_at": "2026-05-14T16:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054959821066272816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912230252195016704",
+              "start": 3,
+              "username": "hinxngln867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054959821066272816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054765601353298254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hinxngln867: 人类进化了200多万年，不是为了在现代学低等动物玩弱肉强食的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912230252195016704",
+        "conversation_id": "2054765601353298254",
+        "created_at": "2026-05-14T03:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054765601353298254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054765601353298254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类进化了200多万年，不是为了在现代学低等动物玩弱肉强食的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054924200830509429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 3798,
+          "like_count": 36349,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 9756
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T19:43:40.000Z",
+        "description": "如果你特别恨我这个网友，可以低头，看到你的手机了吗？你就狠狠把你的手机往地上一摔，我就死了。",
+        "id": "1912230252195016704",
+        "location": "天堂",
+        "name": "我好想成为神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046138880831991808/njJYpw0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 53,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "username": "hinxngln867",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049776389558358149",
+    "created_at": "2026-04-30T09:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049782365413900343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1637312764921167872",
+          "start": 0,
+          "username": "onolanlll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049782365413900343",
+    "in_reply_to_user_id": "1637312764921167872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049776389558358149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onolanlll 就是病情复杂化了，倒不一定是加重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049776389558358149",
+        "created_at": "2026-04-30T09:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049782365413900343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1637312764921167872",
+              "start": 0,
+              "username": "onolanlll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049782365413900343",
+        "in_reply_to_user_id": "1637312764921167872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049776389558358149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onolanlll 就是病情复杂化了，倒不一定是加重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637312764921167872",
+        "conversation_id": "2049776389558358149",
+        "created_at": "2026-04-30T09:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049776389558358149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049776389558358149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生觉得我转双相了而不是觉得我好了是啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 3438,
+          "like_count": 30468,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 8129
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T04:39:35.000Z",
+        "description": "重生了\nig：mannnam._",
+        "id": "1637312764921167872",
+        "name": "懒",
+        "pinned_tweet_id": "2046820797956993040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044701734174597120/Q-wTQgoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 12,
+          "like_count": 68,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 47
+        },
+        "username": "onolanlll",
+        "verified": false
+      }
+    ]
+  }
+}

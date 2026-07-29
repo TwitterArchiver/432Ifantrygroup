@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068623280072999275",
+    "created_at": "2026-06-21T18:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068770574374154318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1004181919041347584",
+          "start": 0,
+          "username": "QuQ_Tea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068770574374154318",
+    "in_reply_to_user_id": "1004181919041347584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068759119537012892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQ_Tea 好家伙，啥手机啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068623280072999275",
+        "created_at": "2026-06-21T18:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068770574374154318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1004181919041347584",
+              "start": 0,
+              "username": "QuQ_Tea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068770574374154318",
+        "in_reply_to_user_id": "1004181919041347584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068759119537012892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQ_Tea 好家伙，啥手机啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004181919041347584",
+        "conversation_id": "2068623280072999275",
+        "created_at": "2026-06-21T18:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068759119537012892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068759119537012892",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068623280072999275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 可以的 因为室友注册不了所以也是买的 买了还登不上（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 4186,
+          "like_count": 43426,
+          "listed_count": 4,
+          "media_count": 516,
+          "tweet_count": 12319
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T02:03:21.000Z",
+        "description": "不收门，不加联系，不线下，无趣的私信不会回。 如果长时间没回私信没发新推，大概率是不想玩了/有新生活了/没vpn了/账号被迫下线登不上来了",
+        "id": "1004181919041347584",
+        "location": "玫瑰",
+        "name": "茶饼",
+        "pinned_tweet_id": "2047269229951603095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065357697516793856/22UJZkr6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 235,
+          "like_count": 16405,
+          "listed_count": 11,
+          "media_count": 262,
+          "tweet_count": 2840
+        },
+        "url": "",
+        "username": "QuQ_Tea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2037959721114910765",
+    "created_at": "2026-03-28T18:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037962108340445212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1995495746901245952",
+          "start": 0,
+          "username": "QyueL17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/19754…",
+          "end": 46,
+          "expanded_url": "https://x.com/i/status/1975420400755745251",
+          "start": 23,
+          "url": "https://t.co/8kawz8GZSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037962108340445212",
+    "in_reply_to_user_id": "1995495746901245952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975420400755745251",
+        "type": "quoted"
+      },
+      {
+        "id": "2037959721114910765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QyueL17 在推特上这种信息一搜就有的\nhttps://t.co/8kawz8GZSw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 522033,
+        "height": 1080,
+        "media_key": "13_1975418130592849921",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975418130592849921/img/DI2hitqXiyVsbMlu.jpg",
+        "public_metrics": {
+          "view_count": 112747
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975418130592849921/vid/avc1/1280x720/p3aDfDr26Sy9qZj_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975418130592849921/vid/avc1/1920x1080/1DF0NpG_hXPpEwIC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975418130592849921/pl/mp7Tpnx1tkuQLIw5.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975418130592849921/vid/avc1/640x360/MTVKJmG2bFPsRzDx.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975418130592849921/vid/avc1/480x270/n1jczxXptkd7tXvf.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2037959721114910765",
+        "created_at": "2026-03-28T18:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037962108340445212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1995495746901245952",
+              "start": 0,
+              "username": "QyueL17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/19754…",
+              "end": 46,
+              "expanded_url": "https://x.com/i/status/1975420400755745251",
+              "start": 23,
+              "url": "https://t.co/8kawz8GZSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037962108340445212",
+        "in_reply_to_user_id": "1995495746901245952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975420400755745251",
+            "type": "quoted"
+          },
+          {
+            "id": "2037959721114910765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QyueL17 在推特上这种信息一搜就有的\nhttps://t.co/8kawz8GZSw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975418130592849921"
+          ]
+        },
+        "author_id": "1550583309708808193",
+        "conversation_id": "1975420400755745251",
+        "created_at": "2025-10-07T04:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T05:37:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975420089018294768",
+          "1975420400755745251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djYFgJ9Lp6",
+              "end": 151,
+              "expanded_url": "https://x.com/MissMafiana/status/1975420400755745251/video/1",
+              "media_key": "13_1975418130592849921",
+              "start": 128,
+              "url": "https://t.co/djYFgJ9Lp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975420400755745251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2147,
+          "impression_count": 540116,
+          "like_count": 4274,
+          "quote_count": 11,
+          "reply_count": 31,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "教学来啦‼️【G点玩具怎么玩】\n\n🌟主要内容⭐️怎么找、如何激活这种感觉、玩具怎么玩更舒服（更容易有感觉\n\n并非所有女性G区都有感觉（生理结构/体质感受决定），但生理+心理的充分刺激，能有效提升入体玩具的舒适感+性快感💖\n\nps.教具是仿真外阴，介意慎点 https://t.co/djYFgJ9Lp6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995495746901245952",
+        "conversation_id": "2037959721114910765",
+        "created_at": "2026-03-28T18:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037959721114910765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037959721114910765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体外高潮和体内高潮到底有什么区别？我真的很好奇体内高潮是什么感觉，以及会不会比体外更容易到？\n而且用入体的小玩具是不是还得自己扩张，我感觉好麻烦，但是我又很好奇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 2654,
+          "like_count": 14647,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3874
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-01T14:10:52.000Z",
+        "description": "Orgasm or Death\n回避型/性单恋 sw偏m\n幸福不耐受/被爱无能\n也许我爱上的只是那层纱",
+        "id": "1995495746901245952",
+        "location": "♡",
+        "name": "纱",
+        "pinned_tweet_id": "2037531682539286564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037921063636754432/VtmJaytC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 44,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1544
+        },
+        "username": "QyueL17",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T20:47:33.000Z",
+        "description": "希望你享受接纳性的一切 ✿ AASECT受训性教育咨询师/性教练｜备用 @msmafiana｜订阅👉🏼 https://t.co/yrmgk9plX8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "msmafiana"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mafiana.org/membership/",
+                "end": 75,
+                "expanded_url": "https://www.mafiana.org/membership/",
+                "start": 52,
+                "url": "https://t.co/yrmgk9plX8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mafiana.org",
+                "end": 23,
+                "expanded_url": "https://www.mafiana.org",
+                "start": 0,
+                "url": "https://t.co/tI9egHRMIS"
+              }
+            ]
+          }
+        },
+        "id": "1550583309708808193",
+        "location": "成人性社区👉🏼",
+        "name": "Señorita Mafiana",
+        "pinned_tweet_id": "2019412835135263036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644479630642933760/7eBfV8W-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354421,
+          "following_count": 104,
+          "like_count": 1784,
+          "listed_count": 786,
+          "media_count": 155,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/tI9egHRMIS",
+        "username": "MissMafiana",
+        "verified": true
+      }
+    ]
+  }
+}

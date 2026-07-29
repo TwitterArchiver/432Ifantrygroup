@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+          "id": "955547826368344064",
+          "name": "Violence & safety in Brazil"
+        }
+      }
+    ],
+    "conversation_id": "2062238055478792695",
+    "created_at": "2026-06-03T18:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062238055478792695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500993994028982274",
+          "start": 3,
+          "username": "lehnnaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062238055478792695",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062192039513518155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lehnnaz: incrivel que um feto, que nem vida tem, que não é legalmente visto como cidadão, tem mais direitos que uma CRIANÇA ou uma mulh…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062238055478792695",
+        "created_at": "2026-06-03T18:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062238055478792695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500993994028982274",
+              "start": 3,
+              "username": "lehnnaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062238055478792695",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062192039513518155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lehnnaz: incrivel que um feto, que nem vida tem, que não é legalmente visto como cidadão, tem mais direitos que uma CRIANÇA ou uma mulh…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500993994028982274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Violence and Safety in Brazil inside the political world.",
+              "id": "955547826368344064",
+              "name": "Violence & safety in Brazil"
+            }
+          }
+        ],
+        "conversation_id": "2062192039513518155",
+        "created_at": "2026-06-03T15:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062192039513518155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/analise2025/st…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/analise2025/status/2061947762048917718",
+              "start": 157,
+              "url": "https://t.co/wRLxP99Owd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062192039513518155",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 855,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061947762048917718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "incrivel que um feto, que nem vida tem, que não é legalmente visto como cidadão, tem mais direitos que uma CRIANÇA ou uma mulher que foi abusada sexualmente https://t.co/wRLxP99Owd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 42001,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11725
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T00:37:22.000Z",
+        "description": "͏ ͏ ͏˙ . ͏ ͏ ͏ ͏thinking about ͏ordem paranormal & sabrina crp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/cellbit",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/cellbit",
+                "start": 0,
+                "url": "https://t.co/DpNPjTAgQ9"
+              }
+            ]
+          }
+        },
+        "id": "1500993994028982274",
+        "location": "any pronouns",
+        "name": "lehna",
+        "pinned_tweet_id": "2050294042039042230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005353032414789632/u5epFIXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6918,
+          "following_count": 2114,
+          "like_count": 33329,
+          "listed_count": 18,
+          "media_count": 1654,
+          "tweet_count": 17128
+        },
+        "url": "https://t.co/DpNPjTAgQ9",
+        "username": "lehnnaz",
+        "verified": false
+      }
+    ]
+  }
+}

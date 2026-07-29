@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058719941382279171",
+    "created_at": "2026-05-25T02:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058730387556446359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1956660593089478656",
+          "start": 0,
+          "username": "redKitty343"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058730387556446359",
+    "in_reply_to_user_id": "1956660593089478656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058719941382279171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redKitty343 太卷，不依附建制根本没有出路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058719941382279171",
+        "created_at": "2026-05-25T02:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058730387556446359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1956660593089478656",
+              "start": 0,
+              "username": "redKitty343"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058730387556446359",
+        "in_reply_to_user_id": "1956660593089478656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058719941382279171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redKitty343 太卷，不依附建制根本没有出路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956660593089478656",
+        "conversation_id": "2058719941382279171",
+        "created_at": "2026-05-25T01:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058719941382279171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058719941382279171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现河南河北山东人出品率最高，这啥意思，斯德哥尔摩综合征吗还是抖m属性大爆发😂不亚于犹太人支持洗头乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058583791841710585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 3877,
+          "like_count": 38134,
+          "listed_count": 4,
+          "media_count": 413,
+          "tweet_count": 10386
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T10:15:13.000Z",
+        "description": "电子日记本",
+        "id": "1956660593089478656",
+        "name": "Darkless",
+        "pinned_tweet_id": "1958982481534996697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057030634305118208/Z77HwVol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 138,
+          "like_count": 21263,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 655
+        },
+        "username": "redKitty343",
+        "verified": false
+      }
+    ]
+  }
+}

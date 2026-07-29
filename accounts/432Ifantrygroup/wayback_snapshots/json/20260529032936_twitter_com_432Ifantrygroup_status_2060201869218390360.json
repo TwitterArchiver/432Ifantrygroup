@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060062698843283463",
+        "3_2060062699019444230"
+      ],
+      "media_source_tweet_id": [
+        "2060062707978563749",
+        "2060062707978563749"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2060201869218390360",
+    "created_at": "2026-05-29T03:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060201869218390360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1166265514399883264",
+          "start": 3,
+          "username": "dogukuss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lnvl54wC5M",
+          "end": 137,
+          "expanded_url": "https://x.com/dogukuss/status/2060062707978563749/photo/1",
+          "media_key": "3_2060062698843283463",
+          "start": 114,
+          "url": "https://t.co/Lnvl54wC5M"
+        },
+        {
+          "display_url": "pic.x.com/Lnvl54wC5M",
+          "end": 137,
+          "expanded_url": "https://x.com/dogukuss/status/2060062707978563749/photo/1",
+          "media_key": "3_2060062699019444230",
+          "start": 114,
+          "url": "https://t.co/Lnvl54wC5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060201869218390360",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2978
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060062707978563749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dogukuss: tarihte bugun: annem bozuk ipad'imi yıkayıp DOĞRAMA TAHTASI olarak kullanmaya baslayalı 2 yıl oldu. https://t.co/Lnvl54wC5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2060062698843283463",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbQHCOWIAc8Aed.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2060062699019444230",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbQHC4WIAYk9pM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060062698843283463",
+            "3_2060062699019444230"
+          ],
+          "media_source_tweet_id": [
+            "2060062707978563749",
+            "2060062707978563749"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2060201869218390360",
+        "created_at": "2026-05-29T03:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060201869218390360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1166265514399883264",
+              "start": 3,
+              "username": "dogukuss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lnvl54wC5M",
+              "end": 137,
+              "expanded_url": "https://x.com/dogukuss/status/2060062707978563749/photo/1",
+              "media_key": "3_2060062698843283463",
+              "start": 114,
+              "url": "https://t.co/Lnvl54wC5M"
+            },
+            {
+              "display_url": "pic.x.com/Lnvl54wC5M",
+              "end": 137,
+              "expanded_url": "https://x.com/dogukuss/status/2060062707978563749/photo/1",
+              "media_key": "3_2060062699019444230",
+              "start": 114,
+              "url": "https://t.co/Lnvl54wC5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060201869218390360",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2978
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060062707978563749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dogukuss: tarihte bugun: annem bozuk ipad'imi yıkayıp DOĞRAMA TAHTASI olarak kullanmaya baslayalı 2 yıl oldu. https://t.co/Lnvl54wC5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060062698843283463",
+            "3_2060062699019444230"
+          ]
+        },
+        "author_id": "1166265514399883264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2060062707978563749",
+        "created_at": "2026-05-28T18:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060062707978563749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lnvl54wC5M",
+              "end": 123,
+              "expanded_url": "https://x.com/dogukuss/status/2060062707978563749/photo/1",
+              "media_key": "3_2060062698843283463",
+              "start": 100,
+              "url": "https://t.co/Lnvl54wC5M"
+            },
+            {
+              "display_url": "pic.x.com/Lnvl54wC5M",
+              "end": 123,
+              "expanded_url": "https://x.com/dogukuss/status/2060062707978563749/photo/1",
+              "media_key": "3_2060062699019444230",
+              "start": 100,
+              "url": "https://t.co/Lnvl54wC5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060062707978563749",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1693,
+          "impression_count": 1855097,
+          "like_count": 70831,
+          "quote_count": 184,
+          "reply_count": 194,
+          "retweet_count": 2978
+        },
+        "reply_settings": "everyone",
+        "text": "tarihte bugun: annem bozuk ipad'imi yıkayıp DOĞRAMA TAHTASI olarak kullanmaya baslayalı 2 yıl oldu. https://t.co/Lnvl54wC5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060039923676397927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 3959,
+          "like_count": 40129,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 11154
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-27T08:25:49.000Z",
+        "description": "konya selçuk üniversitesi güzel sanatlar fakültesi yetenek sınavı 1. si",
+        "id": "1166265514399883264",
+        "location": "odtü eee",
+        "name": "doğukan karacehennem",
+        "pinned_tweet_id": "2058299650503844098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045891477176233984/lvk2ipgr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 145,
+          "like_count": 2453,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1494
+        },
+        "username": "dogukuss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2038562523356786772",
+    "created_at": "2026-03-30T10:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038562523356786772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038562523356786772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038542835922641186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 小猫喜欢听课就让小猫听嘛！\n\n我对小猫学生和人类学生一视同仁，只要不影响课堂上课秩序，安静地听就安静地听。\n\n但是小猫如果一直喵喵叫，那就会被我赶出去——因为人类学生这样，也会被我警告+赶出教室"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2038562523356786772",
+        "created_at": "2026-03-30T10:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038562523356786772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038562523356786772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038542835922641186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 小猫喜欢听课就让小猫听嘛！\n\n我对小猫学生和人类学生一视同仁，只要不影响课堂上课秩序，安静地听就安静地听。\n\n但是小猫如果一直喵喵叫，那就会被我赶出去——因为人类学生这样，也会被我警告+赶出教室"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2038542835922641186",
+        "created_at": "2026-03-30T09:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038542835922641186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amazingcatss/s…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/amazingcatss/status/2038511867224637651",
+              "start": 98,
+              "url": "https://t.co/T9FS6uBtqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038542835922641186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1794,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038511867224637651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小猫喜欢听课就让小猫听嘛！\n\n我对小猫学生和人类学生一视同仁，只要不影响课堂上课秩序，安静地听就安静地听。\n\n但是小猫如果一直喵喵叫，那就会被我赶出去——因为人类学生这样，也会被我警告+赶出教室 https://t.co/T9FS6uBtqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2038508298413240481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 2672,
+          "like_count": 15636,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 4115
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31533,
+          "following_count": 3665,
+          "like_count": 181587,
+          "listed_count": 106,
+          "media_count": 3854,
+          "tweet_count": 66733
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

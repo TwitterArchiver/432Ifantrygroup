@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Special Education",
+          "id": "852273994698956800",
+          "name": "Special Education"
+        }
+      }
+    ],
+    "conversation_id": "2057785623046746339",
+    "created_at": "2026-05-22T11:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057785623046746339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057785623046746339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057778500820451769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月21日，长春特殊教育学院副院长胡轶男，在课堂上对听障学生发表歧视性言论。\n\n胡轶男在课堂上说：“我不会手语！我这辈子都不会学手语！你们自己拿手机翻译昂，我可不会学这破玩意！我们是正常人，用手比比划划非常的不礼貌”… https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 388678,
+        "height": 1920,
+        "media_key": "13_2057737763424743424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057737763424743424/img/ztg9kmF3UpKehywf.jpg",
+        "public_metrics": {
+          "view_count": 4054
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737763424743424/vid/avc1/720x1280/7L4NFaQDYvIlnHfI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737763424743424/vid/avc1/320x568/kXKOC_-zSKmpziem.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737763424743424/vid/avc1/480x852/69xexXEjRBtIZo2N.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737763424743424/vid/avc1/1080x1920/X4_U5USFJZdt8S5P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057737763424743424/pl/FNdl-KiO2WknAiBr.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 28212,
+        "height": 1280,
+        "media_key": "13_2057737771444281344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057737771444281344/img/31FMIZvVUjjVDYTF.jpg",
+        "public_metrics": {
+          "view_count": 143
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737771444281344/vid/avc1/320x710/g2DeuD_w0O5mZcdS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737771444281344/vid/avc1/480x1066/Q6QrNTc8f6SaeyVB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057737771444281344/vid/avc1/576x1280/fAtBgSaFz9zL0Zyu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057737771444281344/pl/JxRU1ZvQIJezoDsR.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 1676,
+        "media_key": "3_2057737783045668864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6NnH9WQAAMI75.jpg",
+        "width": 2566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Special Education",
+              "id": "852273994698956800",
+              "name": "Special Education"
+            }
+          }
+        ],
+        "conversation_id": "2057785623046746339",
+        "created_at": "2026-05-22T11:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057785623046746339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057785623046746339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057778500820451769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月21日，长春特殊教育学院副院长胡轶男，在课堂上对听障学生发表歧视性言论。\n\n胡轶男在课堂上说：“我不会手语！我这辈子都不会学手语！你们自己拿手机翻译昂，我可不会学这破玩意！我们是正常人，用手比比划划非常的不礼貌”… https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057737763424743424",
+            "13_2057737771444281344",
+            "3_2057737783045668864"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Special Education",
+              "id": "852273994698956800",
+              "name": "Special Education"
+            }
+          }
+        ],
+        "conversation_id": "2057778500820451769",
+        "created_at": "2026-05-22T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057778500820451769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TExPUEpd5",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057778500820451769/video/1",
+              "media_key": "13_2057737763424743424",
+              "start": 109,
+              "url": "https://t.co/3TExPUEpd5"
+            },
+            {
+              "display_url": "pic.x.com/3TExPUEpd5",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057778500820451769/video/1",
+              "media_key": "13_2057737771444281344",
+              "start": 109,
+              "url": "https://t.co/3TExPUEpd5"
+            },
+            {
+              "display_url": "pic.x.com/3TExPUEpd5",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057778500820451769/video/1",
+              "media_key": "3_2057737783045668864",
+              "start": 109,
+              "url": "https://t.co/3TExPUEpd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057778500820451769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月21日，长春特殊教育学院副院长胡轶男，在课堂上对听障学生发表歧视性言论。\n\n胡轶男在课堂上说：“我不会手语！我这辈子都不会学手语！你们自己拿手机翻译昂，我可不会学这破玩意！我们是正常人，用手比比划划非常的不礼貌”\n\n因为学生们听不见，所以事发时并不知道老师当时说了什么，还是看了手机上的翻译，才知道老师在课堂上发表了歧视性言论。\n\n一名手语博主表示：“在面向听障学生的课堂上，公开发表歧视聋人侮辱手语的言论，吃聋人饭，砸聋人碗，胡轶男老师必须给全体聋人道歉！”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8555,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "5月21日，长春特殊教育学院副院长胡轶男，在课堂上对听障学生发表歧视性言论。\n\n胡轶男在课堂上说：“我不会手语！我这辈子都不会学手语！你们自己拿手机翻译昂，我可不会学这破玩意！我们是正常人，用手比比划划非常的不礼貌” https://t.co/3TExPUEpd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057782398222479717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 3856,
+          "like_count": 37720,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 10224
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232393,
+          "following_count": 1062,
+          "like_count": 9589,
+          "listed_count": 8759,
+          "media_count": 47248,
+          "tweet_count": 54374
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

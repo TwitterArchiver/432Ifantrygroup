@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059905447847501827"
+      ],
+      "media_source_tweet_id": [
+        "2059905451597197604"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059951237244850688",
+    "created_at": "2026-05-28T10:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059951237244850688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "714829913619099648",
+          "start": 3,
+          "username": "CaronAymericoff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rcY1mKo6UY",
+          "end": 117,
+          "expanded_url": "https://x.com/CaronAymericoff/status/2059905451597197604/photo/1",
+          "media_key": "3_2059905447847501827",
+          "start": 94,
+          "url": "https://t.co/rcY1mKo6UY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059951237244850688",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059905451597197604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CaronAymericoff: Gaza. Hier.\nNe fermez pas les yeux.\nContinuez à en parler et à dénoncer. https://t.co/rcY1mKo6UY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2059905447847501827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZBF0nXoAMIbIU.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059905447847501827"
+          ],
+          "media_source_tweet_id": [
+            "2059905451597197604"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059951237244850688",
+        "created_at": "2026-05-28T10:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059951237244850688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "714829913619099648",
+              "start": 3,
+              "username": "CaronAymericoff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcY1mKo6UY",
+              "end": 117,
+              "expanded_url": "https://x.com/CaronAymericoff/status/2059905451597197604/photo/1",
+              "media_key": "3_2059905447847501827",
+              "start": 94,
+              "url": "https://t.co/rcY1mKo6UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059951237244850688",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059905451597197604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CaronAymericoff: Gaza. Hier.\nNe fermez pas les yeux.\nContinuez à en parler et à dénoncer. https://t.co/rcY1mKo6UY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059905447847501827"
+          ]
+        },
+        "author_id": "714829913619099648",
+        "conversation_id": "2059905451597197604",
+        "created_at": "2026-05-28T07:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059905451597197604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcY1mKo6UY",
+              "end": 96,
+              "expanded_url": "https://x.com/CaronAymericoff/status/2059905451597197604/photo/1",
+              "media_key": "3_2059905447847501827",
+              "start": 73,
+              "url": "https://t.co/rcY1mKo6UY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059905451597197604",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 51278,
+          "like_count": 6461,
+          "quote_count": 41,
+          "reply_count": 77,
+          "retweet_count": 2365
+        },
+        "reply_settings": "everyone",
+        "text": "Gaza. Hier.\nNe fermez pas les yeux.\nContinuez à en parler et à dénoncer. https://t.co/rcY1mKo6UY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059891680699117741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 3956,
+          "like_count": 39892,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 11056
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-29T15:01:47.000Z",
+        "description": "🏛 Député de Paris (18ème circonscription) 🌍 Fondateur de la Révolution Écologique pour le Vivant (REV) @REVPourLeVivant ✒️ «Antispéciste», «Utopia XXI»",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 103,
+                "username": "REVPourLeVivant"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "revolutionecologiquepourlevivant.fr",
+                "end": 23,
+                "expanded_url": "https://revolutionecologiquepourlevivant.fr/",
+                "start": 0,
+                "url": "https://t.co/R6GqbxXdTE"
+              }
+            ]
+          }
+        },
+        "id": "714829913619099648",
+        "location": "Paris, France",
+        "name": "Aymeric Caron",
+        "pinned_tweet_id": "2011129075297820740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990329662828867584/sIz1ux0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187216,
+          "following_count": 852,
+          "like_count": 9872,
+          "listed_count": 604,
+          "media_count": 2108,
+          "tweet_count": 25177
+        },
+        "url": "https://t.co/R6GqbxXdTE",
+        "username": "CaronAymericoff",
+        "verified": true
+      }
+    ]
+  }
+}

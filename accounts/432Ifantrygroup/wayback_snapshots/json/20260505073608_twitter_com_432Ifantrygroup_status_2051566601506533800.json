@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051566195623751826",
+    "created_at": "2026-05-05T07:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T08:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051566601506533800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "331651596",
+          "start": 0,
+          "username": "LightCavalryCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051566601506533800",
+    "in_reply_to_user_id": "331651596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051566195623751826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightCavalryCZ 我愿意和阿拉伯人做邻居，我愿意和以色列人做邻居，我愿意和健全人做邻居，我愿意和精神病患者做邻居，我愿意和基督徒做邻居，我愿意和穆斯林做邻居。总之，巴勒斯坦解放万岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051566195623751826",
+        "created_at": "2026-05-05T07:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051566601506533800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "331651596",
+              "start": 0,
+              "username": "LightCavalryCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051566601506533800",
+        "in_reply_to_user_id": "331651596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051566195623751826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightCavalryCZ 我愿意和阿拉伯人做邻居，我愿意和以色列人做邻居，我愿意和健全人做邻居，我愿意和精神病患者做邻居，我愿意和基督徒做邻居，我愿意和穆斯林做邻居。总之，巴勒斯坦解放万岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "331651596",
+        "conversation_id": "2051566195623751826",
+        "created_at": "2026-05-05T07:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051566195623751826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432ifantrygrou…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/432ifantrygroup/status/2051564602832642054",
+              "start": 74,
+              "url": "https://t.co/TRcjGWmSIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051566195623751826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051564602832642054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看——这就是不肯正面回答问题的表现，把「你想和谁为邻」偷换成「你想成为谁」，本质上就是无法面对讨论对象的外部性，而只敢用本身的生活质量作为替代。 https://t.co/TRcjGWmSIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 3532,
+          "like_count": 31739,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 8480
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-08T14:20:08.000Z",
+        "description": "",
+        "id": "331651596",
+        "name": "曹哲",
+        "pinned_tweet_id": "2022534983781626194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351507883058360321/g94--rth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23495,
+          "following_count": 112,
+          "like_count": 592,
+          "listed_count": 122,
+          "media_count": 501,
+          "tweet_count": 4082
+        },
+        "username": "LightCavalryCZ",
+        "verified": true
+      }
+    ]
+  }
+}

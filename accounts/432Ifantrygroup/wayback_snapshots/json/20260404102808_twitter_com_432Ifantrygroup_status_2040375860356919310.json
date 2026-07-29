@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040114229408366708",
+    "created_at": "2026-04-04T10:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040375860356919310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "708362542561689600",
+          "start": 0,
+          "username": "sheerboy19893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040375860356919310",
+    "in_reply_to_user_id": "708362542561689600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040114229408366708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheerboy19893 中国人爱看的外国文娱内容是毒草，外国人爱看的中国内容也是毒草。\n也许在有些人看来交流就是毒草，应该海禁，自己关起门来过日子就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040114229408366708",
+        "created_at": "2026-04-04T10:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040375860356919310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "708362542561689600",
+              "start": 0,
+              "username": "sheerboy19893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040375860356919310",
+        "in_reply_to_user_id": "708362542561689600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040114229408366708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheerboy19893 中国人爱看的外国文娱内容是毒草，外国人爱看的中国内容也是毒草。\n也许在有些人看来交流就是毒草，应该海禁，自己关起门来过日子就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708362542561689600",
+        "conversation_id": "2040114229408366708",
+        "created_at": "2026-04-03T17:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040114229408366708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QiaoJiaXY/stat…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/QiaoJiaXY/status/2039939189740085402",
+              "start": 119,
+              "url": "https://t.co/9kXmS13CEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040114229408366708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039939189740085402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国外人爱看的中国文娱，不代表他就不是毒草，毒草也分很多种。  \n没有文化输出一说，文化只能基于物质实力溢出。\n粉底将军应该被批，不过更大的毒草没被批，就说明情况依然很复杂。  \n文化广电出版等官僚机构，有其固有之恶，但其本身也深陷困境。 https://t.co/9kXmS13CEf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040147011979407800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 2722,
+          "like_count": 18276,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 4735
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-11T18:42:45.000Z",
+        "description": "discreet\n\n转载如有侵权 告知会删除\n\n兴奋点：真文艺。",
+        "id": "708362542561689600",
+        "name": "BIJIRIHAN",
+        "pinned_tweet_id": "1877562150878679235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128537455060082688/LPKS5lwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 1722,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 3609
+        },
+        "username": "sheerboy19893",
+        "verified": false
+      }
+    ]
+  }
+}

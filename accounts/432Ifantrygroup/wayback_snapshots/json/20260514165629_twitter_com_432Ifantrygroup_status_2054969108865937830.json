@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054818250031296650",
+    "created_at": "2026-05-14T16:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054969108865937830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778789592528982016",
+          "start": 0,
+          "username": "liu_shou55948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054969108865937830",
+    "in_reply_to_user_id": "1778789592528982016",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054968998476058837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_shou55948 😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054818250031296650",
+        "created_at": "2026-05-14T16:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054969108865937830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778789592528982016",
+              "start": 0,
+              "username": "liu_shou55948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054969108865937830",
+        "in_reply_to_user_id": "1778789592528982016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054968998476058837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_shou55948 😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778789592528982016",
+        "conversation_id": "2054818250031296650",
+        "created_at": "2026-05-14T16:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054968998476058837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054968998476058837",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054818250031296650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 何意味？性少数有人反对吗，你们不是早就上桌吃饭了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054924200830509429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 3799,
+          "like_count": 36378,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 9761
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T14:21:10.000Z",
+        "description": "",
+        "id": "1778789592528982016",
+        "name": "六翅兽天下第一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029020651290542086/7jNOXncZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 29,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 168
+        },
+        "username": "liu_shou55948",
+        "verified": false
+      }
+    ]
+  }
+}

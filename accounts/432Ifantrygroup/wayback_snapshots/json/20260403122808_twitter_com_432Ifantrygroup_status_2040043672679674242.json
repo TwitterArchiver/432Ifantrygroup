@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040042110624444806",
+    "created_at": "2026-04-03T12:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040043672679674242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040043672679674242",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040042110624444806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 你妈这种人，一方面希望自己家孩子出人头地，一方面又极度恐惧自己的孩子“与众不同”。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040042100079919104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-vez4bAAAZiwn.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040042100075704320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-vez3asAADr_6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040042110624444806",
+        "created_at": "2026-04-03T12:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040043672679674242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040043672679674242",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040042110624444806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 你妈这种人，一方面希望自己家孩子出人头地，一方面又极度恐惧自己的孩子“与众不同”。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040042100079919104",
+            "3_2040042100075704320"
+          ]
+        },
+        "author_id": "1641968587102621696",
+        "conversation_id": "2040042110624444806",
+        "created_at": "2026-04-03T12:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040042110624444806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QMj6Folzf",
+              "end": 57,
+              "expanded_url": "https://x.com/0voki33Me/status/2040042110624444806/photo/1",
+              "media_key": "3_2040042100079919104",
+              "start": 34,
+              "url": "https://t.co/2QMj6Folzf"
+            },
+            {
+              "display_url": "pic.x.com/2QMj6Folzf",
+              "end": 57,
+              "expanded_url": "https://x.com/0voki33Me/status/2040042110624444806/photo/1",
+              "media_key": "3_2040042100075704320",
+              "start": 34,
+              "url": "https://t.co/2QMj6Folzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040042110624444806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想死呀，一个学期学费就1080让我出去住能怎样呀我操我绝望呀， https://t.co/2QMj6Folzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040027095276118435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 2719,
+          "like_count": 17925,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 4655
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "该账号什么都发不为任何言行负责｜只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 1219,
+          "like_count": 6086,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 5171
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2051664020382601326",
+    "created_at": "2026-05-05T14:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051664020382601326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gyunxioho11/st…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/gyunxioho11/status/2051350252800950384",
+          "start": 79,
+          "url": "https://t.co/DOVYU89948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051664020382601326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051350252800950384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整个国家的官僚体系明显是更加专业化了的，这一点毋庸置疑，贪污合法化也是官僚系统专业化了的表现，很多上世纪末期完全停摆或者形同虚设的部门也逐渐实际运转了起来。 https://t.co/DOVYU89948"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2051664020382601326",
+        "created_at": "2026-05-05T14:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051664020382601326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gyunxioho11/st…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/gyunxioho11/status/2051350252800950384",
+              "start": 79,
+              "url": "https://t.co/DOVYU89948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051664020382601326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051350252800950384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整个国家的官僚体系明显是更加专业化了的，这一点毋庸置疑，贪污合法化也是官僚系统专业化了的表现，很多上世纪末期完全停摆或者形同虚设的部门也逐渐实际运转了起来。 https://t.co/DOVYU89948"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594770865408724992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2051350252800950384",
+        "created_at": "2026-05-04T17:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051350252800950384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051350252800950384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 130013,
+          "like_count": 849,
+          "quote_count": 16,
+          "reply_count": 202,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "在江泽民胡锦涛时期，中国政府的官僚起码是高度专业化的，司法虽称不上独立，但是原则问题不会轻易动摇。习近平上台以后，我才真正见识到了什么叫民粹主义,极端民族主义,集权,政治饭圈化,文字狱,经济上国企和垄断私企彻底抢了底层的饭碗，政治恐怖， 司法不仅能成为工具，而且处于一个谁闹就有理的状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 3544,
+          "like_count": 32041,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 8586
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T19:13:06.000Z",
+        "description": "所有fo我的人都可以私信我要求回fo(不會主動取關)◄古月娜☭►2026(任何未在我主页被艾特的账号都是假的)\n小帐 @4280401cdb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "4280401cdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/gyunxioho11",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/gyunxioho11",
+                "start": 0,
+                "url": "https://t.co/scdYGgtgRf"
+              }
+            ]
+          }
+        },
+        "id": "1594770865408724992",
+        "name": "古月娜☭",
+        "pinned_tweet_id": "2031327201295991223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936860901501759488/ADbiuH20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 319,
+          "like_count": 8871,
+          "listed_count": 5,
+          "media_count": 862,
+          "tweet_count": 17931
+        },
+        "url": "https://t.co/scdYGgtgRf",
+        "username": "gyunxioho11",
+        "verified": false
+      }
+    ]
+  }
+}

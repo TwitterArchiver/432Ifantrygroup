@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045798350218498285",
+    "created_at": "2026-04-19T11:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045827247660319106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045827247660319106",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045798350218498285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 好漂亮的美甲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045798312117444608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQiucvaoAA_yJv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045798312083857408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQiucnaIAAs0Pi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045798350218498285",
+        "created_at": "2026-04-19T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045827247660319106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045827247660319106",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045798350218498285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 好漂亮的美甲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045798312117444608",
+            "3_2045798312083857408"
+          ]
+        },
+        "author_id": "1893580687200157696",
+        "conversation_id": "2045798350218498285",
+        "created_at": "2026-04-19T09:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045798350218498285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bxcAgIfOo",
+              "end": 26,
+              "expanded_url": "https://x.com/kittsayes/status/2045798350218498285/photo/1",
+              "media_key": "3_2045798312117444608",
+              "start": 3,
+              "url": "https://t.co/9bxcAgIfOo"
+            },
+            {
+              "display_url": "pic.x.com/9bxcAgIfOo",
+              "end": 26,
+              "expanded_url": "https://x.com/kittsayes/status/2045798350218498285/photo/1",
+              "media_key": "3_2045798312083857408",
+              "start": 3,
+              "url": "https://t.co/9bxcAgIfOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045798350218498285",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💅🏻 https://t.co/9bxcAgIfOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 3027,
+          "like_count": 24250,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 6435
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜双相｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 ）\n二次深空沈星回高浓度激推梦女 纸性恋已有老公\n加联系过🚪过🚪过🚪我很缺钱我妈不给钱\n所以我还是希望能有点钱。谢谢你们❗️\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/3pRf1TkeZk"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "🚪52纯绿  获得一个碎碎念的我",
+        "name": "Croissant",
+        "pinned_tweet_id": "2044376056078258341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355523835985920/3SvZJ1av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 719,
+          "like_count": 4368,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/3pRf1TkeZk",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

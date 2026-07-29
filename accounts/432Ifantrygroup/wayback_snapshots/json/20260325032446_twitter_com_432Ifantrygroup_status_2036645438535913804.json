@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036629636939993348",
+    "created_at": "2026-03-25T03:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036645438535913804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "84511706",
+          "start": 0,
+          "username": "retardednugly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036645438535913804",
+    "in_reply_to_user_id": "84511706",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036629636939993348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@retardednugly cute"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036629636939993348].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036629636939993348",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036629636939993348"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036629636939993348",
+        "created_at": "2026-03-25T03:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036645438535913804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "84511706",
+              "start": 0,
+              "username": "retardednugly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036645438535913804",
+        "in_reply_to_user_id": "84511706",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036629636939993348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@retardednugly cute"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036518135612973442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 2721,
+          "like_count": 12451,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 3295
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-23T05:19:22.000Z",
+        "description": "https://t.co/hjrxd0X0zJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/hotvirgin",
+                "end": 23,
+                "expanded_url": "http://throne.com/hotvirgin",
+                "start": 0,
+                "url": "https://t.co/hjrxd0X0zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hotvirgin.carrd.co",
+                "end": 23,
+                "expanded_url": "http://hotvirgin.carrd.co",
+                "start": 0,
+                "url": "https://t.co/3R6F9b2qCE"
+              }
+            ]
+          }
+        },
+        "id": "84511706",
+        "location": "$40 dm fee",
+        "name": "peewee",
+        "pinned_tweet_id": "2027250672664445114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029007759346216961/MbQCoah__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 44588,
+          "following_count": 83,
+          "like_count": 18924,
+          "listed_count": 66,
+          "media_count": 758,
+          "tweet_count": 5168
+        },
+        "url": "https://t.co/3R6F9b2qCE",
+        "username": "retardednugly",
+        "verified": false
+      }
+    ]
+  }
+}

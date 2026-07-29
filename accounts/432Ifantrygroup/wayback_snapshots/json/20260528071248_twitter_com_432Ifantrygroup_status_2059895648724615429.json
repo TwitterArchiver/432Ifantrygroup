@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059852794161778688"
+      ],
+      "media_source_tweet_id": [
+        "2059852802277732859"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059895648724615429",
+    "created_at": "2026-05-28T07:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059895648724615429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1611246341728120835",
+          "start": 3,
+          "username": "Aureliax17QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyWin5nNwF",
+          "end": 48,
+          "expanded_url": "https://x.com/Aureliax17QwQ/status/2059852802277732859/photo/1",
+          "media_key": "3_2059852794161778688",
+          "start": 25,
+          "url": "https://t.co/DyWin5nNwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059895648724615429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059852802277732859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aureliax17QwQ: 世事难料啊 https://t.co/DyWin5nNwF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2059852794161778688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYRM-Wb0AAl_aq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059852794161778688"
+          ],
+          "media_source_tweet_id": [
+            "2059852802277732859"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059895648724615429",
+        "created_at": "2026-05-28T07:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059895648724615429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1611246341728120835",
+              "start": 3,
+              "username": "Aureliax17QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyWin5nNwF",
+              "end": 48,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059852802277732859/photo/1",
+              "media_key": "3_2059852794161778688",
+              "start": 25,
+              "url": "https://t.co/DyWin5nNwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059895648724615429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059852802277732859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aureliax17QwQ: 世事难料啊 https://t.co/DyWin5nNwF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059852794161778688"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2059852802277732859",
+        "created_at": "2026-05-28T04:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059852802277732859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyWin5nNwF",
+              "end": 29,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2059852802277732859/photo/1",
+              "media_key": "3_2059852794161778688",
+              "start": 6,
+              "url": "https://t.co/DyWin5nNwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852802277732859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9381,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "世事难料啊 https://t.co/DyWin5nNwF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059891680699117741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 3951,
+          "like_count": 39752,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 11019
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天：https://t.co/kQa2nQ8PrH｜最爱的小孩@dnshu135734｜小号是@18nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "username": "18nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 75,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 52,
+                "url": "https://t.co/kQa2nQ8PrH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshu135734Aureliax17",
+                "start": 0,
+                "url": "https://t.co/C02ir12u7z"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051429251736563712/4Jdu00ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 612,
+          "like_count": 6630,
+          "listed_count": 7,
+          "media_count": 444,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/C02ir12u7z",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

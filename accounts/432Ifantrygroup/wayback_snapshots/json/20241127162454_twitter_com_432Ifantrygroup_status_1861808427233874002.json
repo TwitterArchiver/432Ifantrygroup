@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1860726387256205656",
+    "created_at": "2024-11-27T16:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T17:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861808427233874002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1484146737703157760",
+          "start": 0,
+          "username": "jdndjb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861808427233874002",
+    "in_reply_to_user_id": "1484146737703157760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860726387256205656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdndjb5 有点可爱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1860726387256205656",
+        "created_at": "2024-11-27T16:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861808427233874002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1484146737703157760",
+              "start": 0,
+              "username": "jdndjb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861808427233874002",
+        "in_reply_to_user_id": "1484146737703157760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860726387256205656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdndjb5 有点可爱啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860726356595912704"
+          ]
+        },
+        "author_id": "1484146737703157760",
+        "conversation_id": "1860726387256205656",
+        "created_at": "2024-11-24T16:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T17:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860726387256205656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0PXfh0rr3",
+              "end": 41,
+              "expanded_url": "https://x.com/jdndjb5/status/1860726387256205656/video/1",
+              "media_key": "7_1860726356595912704",
+              "start": 18,
+              "url": "https://t.co/V0PXfh0rr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860726387256205656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 172979,
+          "like_count": 724,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "哼唧几下就要带着自慰的舒服睡觉去喽 https://t.co/V0PXfh0rr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 230,
+          "like_count": 217,
+          "listed_count": 0,
+          "tweet_count": 39
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T12:52:22.000Z",
+        "description": "1234554321\n一只brat\n匿名提问：https://t.co/FtuoIgNrlj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jdndjb5",
+                "end": 46,
+                "expanded_url": "https://ngl.link/jdndjb5",
+                "start": 23,
+                "url": "https://t.co/FtuoIgNrlj"
+              }
+            ]
+          }
+        },
+        "id": "1484146737703157760",
+        "name": "kvggv",
+        "pinned_tweet_id": "1554330106834784257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836415117065621504/hZnuQQQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18325,
+          "following_count": 145,
+          "like_count": 2281,
+          "listed_count": 29,
+          "tweet_count": 640
+        },
+        "username": "jdndjb5",
+        "verified": false
+      }
+    ]
+  }
+}

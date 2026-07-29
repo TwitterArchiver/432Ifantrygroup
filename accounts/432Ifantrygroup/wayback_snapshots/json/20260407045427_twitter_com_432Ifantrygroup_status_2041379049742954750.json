@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041035008966893828",
+    "created_at": "2026-04-07T04:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041379049742954750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2028469142408589312",
+          "start": 0,
+          "username": "ranehaokelian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041379049742954750",
+    "in_reply_to_user_id": "2028469142408589312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041362896362557452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranehaokelian ？\n我主页不是写着我是男的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041035008966893828",
+        "created_at": "2026-04-07T04:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041379049742954750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2028469142408589312",
+              "start": 0,
+              "username": "ranehaokelian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041379049742954750",
+        "in_reply_to_user_id": "2028469142408589312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041362896362557452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranehaokelian ？\n我主页不是写着我是男的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028469142408589312",
+        "conversation_id": "2041035008966893828",
+        "created_at": "2026-04-07T03:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041362896362557452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041362896362557452",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041035008966893828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 感觉这个帖主是皮下男。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 2832,
+          "like_count": 19964,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 5232
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T13:55:16.000Z",
+        "description": "互联网无立/场乐子人 无法选中 辱男辱女辱🌸中",
+        "id": "2028469142408589312",
+        "location": "Seattle",
+        "name": "产后抑郁的母猪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032309343191011329/2LEu_o7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "ranehaokelian",
+        "verified": false
+      }
+    ]
+  }
+}

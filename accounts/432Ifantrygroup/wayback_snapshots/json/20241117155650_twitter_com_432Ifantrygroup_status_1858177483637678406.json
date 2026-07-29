@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1857864176322097602",
+    "created_at": "2024-11-17T15:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T16:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858177483637678406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1670157083512291328",
+          "start": 0,
+          "username": "lnphuto"
+        },
+        {
+          "end": 25,
+          "id": "1699685199863316480",
+          "start": 9,
+          "username": "caomeix04231621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858177483637678406",
+    "in_reply_to_user_id": "1670157083512291328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857866449358041267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnphuto @caomeix04231621 你不理解可以离开嘛，这就没意思了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1857864176322097602",
+        "created_at": "2024-11-17T15:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T16:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858177483637678406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670157083512291328",
+              "start": 0,
+              "username": "lnphuto"
+            },
+            {
+              "end": 25,
+              "id": "1699685199863316480",
+              "start": 9,
+              "username": "caomeix04231621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858177483637678406",
+        "in_reply_to_user_id": "1670157083512291328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857866449358041267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnphuto @caomeix04231621 你不理解可以离开嘛，这就没意思了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670157083512291328",
+        "conversation_id": "1857864176322097602",
+        "created_at": "2024-11-16T19:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T20:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857866449358041267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699685199863316480",
+              "start": 0,
+              "username": "caomeix04231621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857866449358041267",
+        "in_reply_to_user_id": "1699685199863316480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857864176322097602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caomeix04231621 有病就去治！刷一个敏感图片就是自残😅，刷一个就敏感图片就是自残😅，我的时间全浪费在你这了，我就不明白你和我前女友十几岁的女生，为啥要往自己身上割，难以理解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 133,
+          "like_count": 114,
+          "listed_count": 0,
+          "tweet_count": 27
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T19:50:54.000Z",
+        "description": "男",
+        "id": "1670157083512291328",
+        "name": "ln",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677592018976141315/a5CeuDnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 134,
+          "like_count": 2752,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "lnphuto",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:25:18.000Z",
+        "description": "评论区不怎么看，可以私信我/🚪88纯绿，正常聊天/不接推广，不卖置顶，不卖号/文是纯幻想",
+        "id": "1699685199863316480",
+        "name": "椰椰椰椰奶小羊",
+        "pinned_tweet_id": "1832145903354089497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792871309686558720/TBXQXNM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44381,
+          "following_count": 298,
+          "like_count": 5429,
+          "listed_count": 78,
+          "tweet_count": 3635
+        },
+        "username": "caomeix04231621",
+        "verified": false
+      }
+    ]
+  }
+}

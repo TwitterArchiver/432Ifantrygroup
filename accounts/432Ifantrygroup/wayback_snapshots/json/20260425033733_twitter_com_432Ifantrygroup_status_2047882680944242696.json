@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047501442672644332",
+    "created_at": "2026-04-25T03:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047882680944242696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2030940275095519232",
+          "start": 0,
+          "username": "hattenter60606"
+        },
+        {
+          "end": 32,
+          "id": "1115557625398202368",
+          "start": 16,
+          "username": "Oc2QQZHD9jJXg5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047882680944242696",
+    "in_reply_to_user_id": "2030940275095519232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047859105167986936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hattenter60606 @Oc2QQZHD9jJXg5o 区别在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047501442672644332",
+        "created_at": "2026-04-25T03:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047882680944242696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2030940275095519232",
+              "start": 0,
+              "username": "hattenter60606"
+            },
+            {
+              "end": 32,
+              "id": "1115557625398202368",
+              "start": 16,
+              "username": "Oc2QQZHD9jJXg5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047882680944242696",
+        "in_reply_to_user_id": "2030940275095519232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047859105167986936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hattenter60606 @Oc2QQZHD9jJXg5o 区别在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030940275095519232",
+        "conversation_id": "2047501442672644332",
+        "created_at": "2026-04-25T02:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047859105167986936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 33,
+              "id": "1115557625398202368",
+              "start": 17,
+              "username": "Oc2QQZHD9jJXg5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047859105167986936",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047692395459072289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @Oc2QQZHD9jJXg5o There's a huge difference between traveling and taking drugs, right"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047687487079014759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 3231,
+          "like_count": 27651,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 7285
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T09:34:56.000Z",
+        "description": "Yakut~Yakut\nGet lost, Russian tsar",
+        "id": "2030940275095519232",
+        "location": "Siberian Yakutia",
+        "name": "ᠬᠤᠷᠤᠯᠴᠠᠪᠠᠶᠠᠨ ᛒᚨᛁ ᚺᚨᚾ ᛖᚱ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047748622695944192/hQ0VPArS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 24,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 162
+        },
+        "username": "hattenter60606",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-09T10:10:38.000Z",
+        "description": "",
+        "id": "1115557625398202368",
+        "name": "工具柜123",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "Oc2QQZHD9jJXg5o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061719525624864898",
+    "created_at": "2026-06-02T08:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061719525624864898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1984344414534483968",
+          "start": 3,
+          "username": "Michael_Ma03599"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061719525624864898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061700702284730485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Michael_Ma03599: 再见，原谅我不会英语，不知道怎么注销，嘿嘿嘿嘿，我也该结束了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061719525624864898",
+        "created_at": "2026-06-02T08:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061719525624864898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1984344414534483968",
+              "start": 3,
+              "username": "Michael_Ma03599"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061719525624864898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061700702284730485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Michael_Ma03599: 再见，原谅我不会英语，不知道怎么注销，嘿嘿嘿嘿，我也该结束了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984344414534483968",
+        "conversation_id": "2061700702284730485",
+        "created_at": "2026-06-02T06:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061700702284730485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061700702284730485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见，原谅我不会英语，不知道怎么注销，嘿嘿嘿嘿，我也该结束了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 3995,
+          "like_count": 41393,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 11526
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T19:39:16.000Z",
+        "description": "人生",
+        "id": "1984344414534483968",
+        "name": "小二",
+        "pinned_tweet_id": "2060522527978623085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030185324362747909/eoFdU4Hq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 78
+        },
+        "username": "Michael_Ma03599",
+        "verified": false
+      }
+    ]
+  }
+}

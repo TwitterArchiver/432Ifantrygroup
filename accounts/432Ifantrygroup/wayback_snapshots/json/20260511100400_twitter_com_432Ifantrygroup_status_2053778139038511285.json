@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053742427236880638",
+    "created_at": "2026-05-11T10:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053778139038511285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2036847459864080384",
+          "start": 0,
+          "username": "swallowtai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053778139038511285",
+    "in_reply_to_user_id": "2036847459864080384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053742427236880638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swallowtai11 割完心情好些了吗🥺🫂记得要消毒呀，刀片也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 230588,
+        "height": 1280,
+        "media_key": "13_2053742168645455872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053742168645455872/img/CXGSDViAnHsWWgQ2.jpg",
+        "public_metrics": {
+          "view_count": 145
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053742168645455872/vid/avc1/320x568/WtmhqCC_oN1tGgYx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053742168645455872/vid/avc1/480x852/3kDl7rlVu32fJpud.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053742168645455872/vid/avc1/720x1280/hmxJ-pXzsEf-tAco.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053742168645455872/pl/Ml-76VFj_ijqTTvj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053742427236880638",
+        "created_at": "2026-05-11T10:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053778139038511285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2036847459864080384",
+              "start": 0,
+              "username": "swallowtai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053778139038511285",
+        "in_reply_to_user_id": "2036847459864080384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053742427236880638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swallowtai11 割完心情好些了吗🥺🫂记得要消毒呀，刀片也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053742168645455872"
+          ]
+        },
+        "author_id": "2036847459864080384",
+        "conversation_id": "2053742427236880638",
+        "created_at": "2026-05-11T07:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053742427236880638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZ5lbLofPH",
+              "end": 28,
+              "expanded_url": "https://x.com/swallowtai11/status/2053742427236880638/video/1",
+              "media_key": "13_2053742168645455872",
+              "start": 5,
+              "url": "https://t.co/tZ5lbLofPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053742427236880638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 342,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在这样 https://t.co/tZ5lbLofPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 3746,
+          "like_count": 35319,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 9475
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T16:48:49.000Z",
+        "description": "不约不谈别来问我了 05 od 自伤 喜欢画画发呆打游戏 叫我小挞就好了 这里只是堆放一些东西 想认识我可以点我的陪玩 要算的话大概就是🚪88吧送两个小时陪玩 这只是一种筛选方式",
+        "id": "2036847459864080384",
+        "name": "远方天台一跃而下",
+        "pinned_tweet_id": "2046103081759506829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039752838637928449/NLDBp40k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 52,
+          "like_count": 383,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 244
+        },
+        "username": "swallowtai11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Brazilian politician",
+          "id": "1070735182087376899",
+          "name": "Marcelo Freixo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Brazilian politician",
+          "id": "1070735182087376899",
+          "name": "Marcelo Freixo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brazilian politician",
+          "id": "1070735182087376899",
+          "name": "Marcelo Freixo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1455305940291375106",
+          "name": "Brazil politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518653237720625152",
+          "name": "Brazil political figures"
+        }
+      }
+    ],
+    "conversation_id": "2062237358985220253",
+    "created_at": "2026-06-03T18:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062237358985220253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "45870897",
+          "start": 3,
+          "username": "MarceloFreixo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062237358985220253",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062168536986931631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarceloFreixo: Na calada da noite e em votação relâmpago de apenas 1 minuto e 40 segundos, o Senado aprovou um projeto que dificulta o…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Brazilian politician",
+              "id": "1070735182087376899",
+              "name": "Marcelo Freixo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Brazilian politician",
+              "id": "1070735182087376899",
+              "name": "Marcelo Freixo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazilian politician",
+              "id": "1070735182087376899",
+              "name": "Marcelo Freixo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          }
+        ],
+        "conversation_id": "2062237358985220253",
+        "created_at": "2026-06-03T18:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062237358985220253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "45870897",
+              "start": 3,
+              "username": "MarceloFreixo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062237358985220253",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062168536986931631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MarceloFreixo: Na calada da noite e em votação relâmpago de apenas 1 minuto e 40 segundos, o Senado aprovou um projeto que dificulta o…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "45870897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Brazilian politician",
+              "id": "1070735182087376899",
+              "name": "Marcelo Freixo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Brazilian politician",
+              "id": "1070735182087376899",
+              "name": "Marcelo Freixo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazilian politician",
+              "id": "1070735182087376899",
+              "name": "Marcelo Freixo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          }
+        ],
+        "conversation_id": "2062168536986931631",
+        "created_at": "2026-06-03T13:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062168536986931631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062168536986931631",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "Na calada da noite e em votação relâmpago de apenas 1 minuto e 40 segundos, o Senado aprovou um projeto que dificulta o acesso ao aborto legal para crianças e adolescentes vítimas de estvpro. Uma aberração! CRIANÇA NÃO É MÃE!\n\nEnquanto isso, cresce o lobby para adiar a votação do fim da escala 6x1, e a PEC da Segurança continua travada. Temas que impactam diretamente a vida de milhões de brasileiros seguem esperando.\n\nA pergunta é simples: essa é a prioridade do Brasil neste momento? Legitimar o estvpro?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5963,
+          "like_count": 609,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "Na calada da noite e em votação relâmpago de apenas 1 minuto e 40 segundos, o Senado aprovou um projeto que dificulta o acesso ao aborto legal para crianças e adolescentes vítimas de estvpro. Uma aberração! CRIANÇA NÃO É MÃE!\n\nEnquanto isso, cresce o lobby para adiar a votação do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4015,
+          "like_count": 41995,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 11715
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-09T16:10:40.000Z",
+        "description": "Pré-candidato a deputado federal (PT-RJ)! \nProfessor, dep. federal (2019-2022), dep. estadual 3x no RJ e ex-presidente da Embratur.\nPai, avô e marido.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marcelofreixo.com.br",
+                "end": 23,
+                "expanded_url": "http://www.marcelofreixo.com.br",
+                "start": 0,
+                "url": "https://t.co/UCz08liHsT"
+              }
+            ]
+          }
+        },
+        "id": "45870897",
+        "location": "Brasil",
+        "name": "Marcelo Freixo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825997499892441088/LPltDMIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809123,
+          "following_count": 2404,
+          "like_count": 16403,
+          "listed_count": 2584,
+          "media_count": 7394,
+          "tweet_count": 56630
+        },
+        "url": "https://t.co/UCz08liHsT",
+        "username": "MarceloFreixo",
+        "verified": true
+      }
+    ]
+  }
+}

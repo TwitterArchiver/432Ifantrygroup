@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1783824591955374470",
+    "created_at": "2024-12-29T17:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T18:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873419058567389302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783816177984348161",
+          "start": 0,
+          "username": "Upup_xiaoying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873419058567389302",
+    "in_reply_to_user_id": "1783816177984348161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1783824591955374470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Upup_xiaoying 你可以再弄一个。比如你用的如果是qq邮箱就用gmail再注册一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1783824591955374470",
+        "created_at": "2024-12-29T17:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873419058567389302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783816177984348161",
+              "start": 0,
+              "username": "Upup_xiaoying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873419058567389302",
+        "in_reply_to_user_id": "1783816177984348161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1783824591955374470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Upup_xiaoying 你可以再弄一个。比如你用的如果是qq邮箱就用gmail再注册一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783816177984348161",
+        "conversation_id": "1783824591955374470",
+        "created_at": "2024-04-26T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-26T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1783824591955374470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1783824591955374470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了，因为按实际生日注册了帐号，结果未成年限制，发不了照片，被自己蠢哭了QAQ，ε=(´ο｀*)))唉，还是先老老实实上几天课吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 515,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 59
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:11:55.000Z",
+        "description": "努力挣学费中ing...\n希望大家多多关注~",
+        "id": "1783816177984348161",
+        "name": "小滢（努力版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783816575931600896/7BdkI1rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Upup_xiaoying",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2057537589511405572",
+    "created_at": "2026-05-22T08:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057745682916938046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1260943600239566853",
+          "start": 0,
+          "username": "Gu2020Marks"
+        },
+        {
+          "end": 23,
+          "id": "885436981886439424",
+          "start": 13,
+          "username": "BadDogEgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057745682916938046",
+    "in_reply_to_user_id": "1260943600239566853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057538777946472957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gu2020Marks @BadDogEgg 追逐这个确实能说明一定的问题，但要认定成正当防卫也不现实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2057537589511405572",
+        "created_at": "2026-05-22T08:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057745682916938046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1260943600239566853",
+              "start": 0,
+              "username": "Gu2020Marks"
+            },
+            {
+              "end": 23,
+              "id": "885436981886439424",
+              "start": 13,
+              "username": "BadDogEgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057745682916938046",
+        "in_reply_to_user_id": "1260943600239566853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057538777946472957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gu2020Marks @BadDogEgg 追逐这个确实能说明一定的问题，但要认定成正当防卫也不现实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260943600239566853",
+        "conversation_id": "2057537589511405572",
+        "created_at": "2026-05-21T19:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057538777946472957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "885436981886439424",
+              "start": 0,
+              "username": "BadDogEgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057538777946472957",
+        "in_reply_to_user_id": "885436981886439424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057538394851549345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BadDogEgg 发生争吵并厮打，为什么不说谁打谁？\n赵晓红退至客厅，张勃追过来，那不就是追着打吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057663540010651754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 3855,
+          "like_count": 37699,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 10216
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-14T14:42:50.000Z",
+        "description": "天地正道，飞面神教",
+        "id": "1260943600239566853",
+        "name": "Mocking Jay🌹",
+        "pinned_tweet_id": "1279567701833203713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602612070788190208/4aCNHZOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2947,
+          "following_count": 408,
+          "like_count": 249752,
+          "listed_count": 15,
+          "media_count": 2058,
+          "tweet_count": 38267
+        },
+        "username": "Gu2020Marks",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-13T09:53:21.000Z",
+        "description": "I am nothing/领养代替购买",
+        "id": "885436981886439424",
+        "location": "水泥廠",
+        "name": "狗蛋",
+        "pinned_tweet_id": "2019862075728883808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050149271610216448/c8Xd9df5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6462,
+          "following_count": 286,
+          "like_count": 144206,
+          "listed_count": 29,
+          "media_count": 12623,
+          "tweet_count": 49255
+        },
+        "username": "BadDogEgg",
+        "verified": false
+      }
+    ]
+  }
+}

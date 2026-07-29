@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053504752219291648"
+      ],
+      "media_source_tweet_id": [
+        "2053504762877034499"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053506820808032397",
+    "created_at": "2026-05-10T16:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053506820808032397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CoTO6SVsjR",
+          "end": 52,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2053504762877034499/photo/1",
+          "media_key": "3_2053504752219291648",
+          "start": 29,
+          "url": "https://t.co/CoTO6SVsjR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053506820808032397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053504762877034499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 这种人有心吗？ https://t.co/CoTO6SVsjR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1491,
+        "media_key": "3_2053504752219291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-DsTSbgAAXuHl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053504752219291648"
+          ],
+          "media_source_tweet_id": [
+            "2053504762877034499"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053506820808032397",
+        "created_at": "2026-05-10T16:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053506820808032397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoTO6SVsjR",
+              "end": 52,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2053504762877034499/photo/1",
+              "media_key": "3_2053504752219291648",
+              "start": 29,
+              "url": "https://t.co/CoTO6SVsjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053506820808032397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053504762877034499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 这种人有心吗？ https://t.co/CoTO6SVsjR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053504752219291648"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053504762877034499",
+        "created_at": "2026-05-10T15:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053504762877034499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CoTO6SVsjR",
+              "end": 31,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2053504762877034499/photo/1",
+              "media_key": "3_2053504752219291648",
+              "start": 8,
+              "url": "https://t.co/CoTO6SVsjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053504762877034499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种人有心吗？ https://t.co/CoTO6SVsjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 3734,
+          "like_count": 34995,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 9377
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

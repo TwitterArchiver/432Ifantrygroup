@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040377825719673220",
+    "created_at": "2026-04-04T10:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040381376625815714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817513346645827584",
+          "start": 0,
+          "username": "linny83215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040381376625815714",
+    "in_reply_to_user_id": "1817513346645827584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040381239497248924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linny83215 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040377825719673220",
+        "created_at": "2026-04-04T10:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040381376625815714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817513346645827584",
+              "start": 0,
+              "username": "linny83215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040381376625815714",
+        "in_reply_to_user_id": "1817513346645827584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040381239497248924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linny83215 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817513346645827584",
+        "conversation_id": "2040377825719673220",
+        "created_at": "2026-04-04T10:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040381239497248924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040381239497248924",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040380962178253145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 早就好啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040147011979407800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 2721,
+          "like_count": 18290,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 4740
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T10:52:20.000Z",
+        "description": "ugw:114lbs/gw120lbs/首席teenager/保持一颗银子般的心［抑郁/贪食症/cptsd/adhd］未受洗新教徒 08 直女「EN/简中」🚪纯绿好友位77猥琐男dni abt2fast tcc ifw#shedtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/7JxVPIXEer"
+              }
+            ]
+          }
+        },
+        "id": "1817513346645827584",
+        "location": "peekaboo",
+        "name": "˚₊‧꒰ა✞uuuUu7✞໒꒱ ‧₊˚🇺🇸",
+        "pinned_tweet_id": "2019662801846030506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012243032624766976/Ri2TQ8on_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 212,
+          "like_count": 4758,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 7016
+        },
+        "url": "https://t.co/7JxVPIXEer",
+        "username": "linny83215",
+        "verified": false
+      }
+    ]
+  }
+}

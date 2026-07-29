@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2015144429116670079",
+    "created_at": "2026-02-02T05:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018192183682294208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941449706229665792",
+          "start": 0,
+          "username": "u488304564"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018192183682294208",
+    "in_reply_to_user_id": "1941449706229665792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015144429116670079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u488304564 @grok who is her"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 439639,
+        "height": 1080,
+        "media_key": "13_2015143993940508672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015143993940508672/img/en-x4nfC7Un3Df3s.jpg",
+        "public_metrics": {
+          "view_count": 23302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015143993940508672/vid/avc1/404x270/Wsifdv2S7CiQmbQ7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015143993940508672/vid/avc1/540x360/ln5GTvQ-mjAQF_xU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015143993940508672/vid/avc1/1080x720/TKqZoetppW5g37XZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015143993940508672/pl/rP_TYWUtt48ZZCHz.m3u8?tag=14"
+          }
+        ],
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2015144429116670079",
+        "created_at": "2026-02-02T05:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018192183682294208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941449706229665792",
+              "start": 0,
+              "username": "u488304564"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018192183682294208",
+        "in_reply_to_user_id": "1941449706229665792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015144429116670079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u488304564 @grok who is her"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015143993940508672"
+          ]
+        },
+        "author_id": "1941449706229665792",
+        "conversation_id": "2015144429116670079",
+        "created_at": "2026-01-24T19:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015144429116670079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3nHwR7bKS",
+              "end": 29,
+              "expanded_url": "https://x.com/u488304564/status/2015144429116670079/video/1",
+              "media_key": "13_2015143993940508672",
+              "start": 6,
+              "url": "https://t.co/G3nHwR7bKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015144429116670079",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1040,
+          "impression_count": 47838,
+          "like_count": 2106,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "wataa https://t.co/G3nHwR7bKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1552,
+          "like_count": 2867,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 306
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T10:51:10.000Z",
+        "description": "",
+        "id": "1941449706229665792",
+        "name": "𐙚⋆ sophiekimm ⋆♡",
+        "pinned_tweet_id": "1990990815930560938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990513091340349442/gSeMHJJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6999,
+          "following_count": 25,
+          "like_count": 3,
+          "listed_count": 15,
+          "media_count": 26,
+          "tweet_count": 26
+        },
+        "username": "u488304564",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7769294,
+          "following_count": 3,
+          "like_count": 86,
+          "listed_count": 5953,
+          "media_count": 8011502,
+          "tweet_count": 97879170
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1874029632871424246",
+    "created_at": "2026-02-22T10:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025519415543189961"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Nigerian",
+          "probability": 0.4931,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1575944185558990873",
+          "start": 0,
+          "username": "Thegiantchris1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025519415543189961",
+    "in_reply_to_user_id": "1575944185558990873",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874029632871424246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thegiantchris1 Are you Nigerian?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61207,
+        "height": 1024,
+        "media_key": "7_1874029587451039744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1874029587451039744/pu/img/vIRObKyH-yRvDeg6.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874029587451039744/pu/vid/avc1/320x568/SLGBYwpBNrbkXaY0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874029587451039744/pu/vid/avc1/480x852/fe1pM0oNFuQqoZbL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1874029587451039744/pu/vid/avc1/576x1024/r_6kPaKrJ84aykl2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1874029587451039744/pu/pl/C3nh9QwrXnW4Oqh1.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1874029632871424246",
+        "created_at": "2026-02-22T10:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025519415543189961"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Nigerian",
+              "probability": 0.4931,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1575944185558990873",
+              "start": 0,
+              "username": "Thegiantchris1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025519415543189961",
+        "in_reply_to_user_id": "1575944185558990873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874029632871424246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thegiantchris1 Are you Nigerian?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1874029587451039744"
+          ]
+        },
+        "author_id": "1575944185558990873",
+        "conversation_id": "1874029632871424246",
+        "created_at": "2024-12-31T09:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T10:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874029632871424246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhDmFtdr1l",
+              "end": 150,
+              "expanded_url": "https://x.com/Thegiantchris1/status/1874029632871424246/video/1",
+              "media_key": "7_1874029587451039744",
+              "start": 127,
+              "url": "https://t.co/HhDmFtdr1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874029632871424246",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nigerian never ready!!!\nSomebody saw a sadistic system that kills many people for entertainment and tried to help out...🧵(1/3) https://t.co/HhDmFtdr1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2021185568856551730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 1682,
+          "like_count": 3015,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 364
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T20:24:01.000Z",
+        "description": "",
+        "id": "1575944185558990873",
+        "location": "Nigeria",
+        "name": "Chidozie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874060469536739328/j_mRxIKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 1171,
+          "like_count": 59534,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2862
+        },
+        "username": "Thegiantchris1",
+        "verified": false
+      }
+    ]
+  }
+}

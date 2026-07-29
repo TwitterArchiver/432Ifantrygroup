@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072359050973708291"
+      ],
+      "media_source_tweet_id": [
+        "2072359064584225209"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2072371849758146616",
+    "created_at": "2026-07-01T17:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072371849758146616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BhGyG9lWVI",
+          "end": 52,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2072359064584225209/photo/1",
+          "media_key": "3_2072359050973708291",
+          "start": 29,
+          "url": "https://t.co/BhGyG9lWVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072371849758146616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072359064584225209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 还有自学中医？ https://t.co/BhGyG9lWVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2072359050973708291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ_k7hagAMZYKf.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072359050973708291"
+          ],
+          "media_source_tweet_id": [
+            "2072359064584225209"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2072371849758146616",
+        "created_at": "2026-07-01T17:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072371849758146616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhGyG9lWVI",
+              "end": 52,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2072359064584225209/photo/1",
+              "media_key": "3_2072359050973708291",
+              "start": 29,
+              "url": "https://t.co/BhGyG9lWVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072371849758146616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072359064584225209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 还有自学中医？ https://t.co/BhGyG9lWVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072359050973708291"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2072359064584225209",
+        "created_at": "2026-07-01T16:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072359064584225209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhGyG9lWVI",
+              "end": 31,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2072359064584225209/photo/1",
+              "media_key": "3_2072359050973708291",
+              "start": 8,
+              "url": "https://t.co/BhGyG9lWVI"
+            },
+            {
+              "display_url": "x.com/zhx0912/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/zhx0912/status/2072165454433386802",
+              "start": 32,
+              "url": "https://t.co/k7wwaWWArm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072359064584225209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072165454433386802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有自学中医？ https://t.co/BhGyG9lWVI https://t.co/k7wwaWWArm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 4219,
+          "like_count": 44753,
+          "listed_count": 4,
+          "media_count": 539,
+          "tweet_count": 12904
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

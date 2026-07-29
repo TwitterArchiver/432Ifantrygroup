@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034919054692298772",
+    "created_at": "2026-03-21T03:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T04:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035202858539524457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963077328768270337",
+          "start": 0,
+          "username": "ShaZiaX02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035202858539524457",
+    "in_reply_to_user_id": "1963077328768270337",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034919054692298772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShaZiaX02 so cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2034919051856945156",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD18GKCboAQFP4z.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034919054692298772",
+        "created_at": "2026-03-21T03:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T04:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035202858539524457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963077328768270337",
+              "start": 0,
+              "username": "ShaZiaX02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035202858539524457",
+        "in_reply_to_user_id": "1963077328768270337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034919054692298772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaZiaX02 so cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034919051856945156"
+          ]
+        },
+        "author_id": "1963077328768270337",
+        "conversation_id": "2034919054692298772",
+        "created_at": "2026-03-20T09:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034919054692298772"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Hank",
+              "probability": 0.5807,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7t23uAeYt",
+              "end": 175,
+              "expanded_url": "https://x.com/ShaZiaX02/status/2034919054692298772/photo/1",
+              "media_key": "3_2034919051856945156",
+              "start": 152,
+              "url": "https://t.co/V7t23uAeYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034919054692298772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 575970,
+          "like_count": 29893,
+          "quote_count": 63,
+          "reply_count": 952,
+          "retweet_count": 893
+        },
+        "reply_settings": "everyone",
+        "text": "this is Hank. He saved his human from a rattlesnake. He was bit 3x on the nose. He’s my warrior, angel and protector. Leave a 🤍 to show him some love 🥹 https://t.co/V7t23uAeYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035039695928008831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2490,
+          "like_count": 9204,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2438
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T03:12:22.000Z",
+        "description": "🎨 Services: \n✏️ Pencil Drawing \n🖌️ Digital painting \n🙂 Cartoon portrait \n💼 Logo Design\n🎥 3D Logo Animation",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sofia_mila",
+                "end": 23,
+                "expanded_url": "https://t.me/sofia_mila",
+                "start": 0,
+                "url": "https://t.co/rCdKmHBWIm"
+              }
+            ]
+          }
+        },
+        "id": "1963077328768270337",
+        "location": "Join my telegram channel👉",
+        "name": "Sophie Rose",
+        "pinned_tweet_id": "2034602443787612609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031222217741316098/LyO8aLg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10301,
+          "following_count": 4573,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 776,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/rCdKmHBWIm",
+        "username": "ShaZiaX02",
+        "verified": false
+      }
+    ]
+  }
+}

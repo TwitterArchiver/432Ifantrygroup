@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051661534838047075",
+    "created_at": "2026-05-05T13:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051661534838047075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984316739363209216",
+          "start": 3,
+          "username": "Ouiwops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051661534838047075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051114574552662507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ouiwops: 废奴主义者必须是奴隶才能反对奴隶制？女权主义者必须是女性才能谈性别平等？医生必须得过病才能治病？恩格斯本人甚至亲自深入曼彻斯特工厂调查，写出《英国工人阶级状况》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051661534838047075",
+        "created_at": "2026-05-05T13:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051661534838047075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984316739363209216",
+              "start": 3,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051661534838047075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051114574552662507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ouiwops: 废奴主义者必须是奴隶才能反对奴隶制？女权主义者必须是女性才能谈性别平等？医生必须得过病才能治病？恩格斯本人甚至亲自深入曼彻斯特工厂调查，写出《英国工人阶级状况》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984316739363209216",
+        "conversation_id": "2051114574552662507",
+        "created_at": "2026-05-04T01:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051114574552662507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LPX2019/status…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LPX2019/status/2051023018151846212",
+              "start": 81,
+              "url": "https://t.co/Fhaycnsazk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051114574552662507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3297,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051023018151846212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "废奴主义者必须是奴隶才能反对奴隶制？女权主义者必须是女性才能谈性别平等？医生必须得过病才能治病？恩格斯本人甚至亲自深入曼彻斯特工厂调查，写出《英国工人阶级状况》 https://t.co/Fhaycnsazk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 3544,
+          "like_count": 32022,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 8581
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "日常生活是所有伟大历史的真正基础",
+        "id": "1984316739363209216",
+        "name": "阳🇵🇸🇺🇦🇨🇳⚙️☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050265299069329409/jmjb1nGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 127,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 193
+        },
+        "username": "Ouiwops",
+        "verified": false
+      }
+    ]
+  }
+}

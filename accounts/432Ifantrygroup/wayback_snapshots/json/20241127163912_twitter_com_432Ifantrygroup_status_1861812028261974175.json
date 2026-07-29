@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1858937603971838142",
+    "created_at": "2024-11-27T16:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T17:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861812028261974175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547627881768947712",
+          "start": 0,
+          "username": "buzhixiaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861812028261974175",
+    "in_reply_to_user_id": "1547627881768947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858937603971838142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhixiaoye 今年厄尔尼诺。你敢信东北某市昨天才下第一场雪吗？你长沙我估计就不要想了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1858937603971838142",
+        "created_at": "2024-11-27T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861812028261974175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547627881768947712",
+              "start": 0,
+              "username": "buzhixiaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861812028261974175",
+        "in_reply_to_user_id": "1547627881768947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858937603971838142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhixiaoye 今年厄尔尼诺。你敢信东北某市昨天才下第一场雪吗？你长沙我估计就不要想了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858937595956523013"
+          ]
+        },
+        "author_id": "1547627881768947712",
+        "conversation_id": "1858937603971838142",
+        "created_at": "2024-11-19T18:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T19:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858937603971838142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3iO6yrwCPX",
+              "end": 39,
+              "expanded_url": "https://x.com/buzhixiaoye/status/1858937603971838142/photo/1",
+              "media_key": "3_1858937595956523013",
+              "start": 16,
+              "url": "https://t.co/3iO6yrwCPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858937603971838142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20541,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入冬了\n希望今年可以在长沙看雪 https://t.co/3iO6yrwCPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "432 Infantry Regiment",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852896507399385088/qdW2TLxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 236,
+          "like_count": 267,
+          "listed_count": 0,
+          "tweet_count": 43
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T17:03:47.000Z",
+        "description": "长沙 162/52/k9\n 🚪88过门加v",
+        "id": "1547627881768947712",
+        "location": "小y的世界",
+        "name": "小野好乖",
+        "pinned_tweet_id": "1713560797006418004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855179243409596417/tFQ2Enyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 11,
+          "like_count": 218,
+          "listed_count": 9,
+          "tweet_count": 473
+        },
+        "username": "buzhixiaoye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048062948220842060",
+    "created_at": "2026-04-25T18:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048101234687783300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "chessiaya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048101234687783300",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048062948220842060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiaya1 人类的尊严和肉体的欢愉并不相排斥。实际上，人的特殊性和动物性应该是1+1大于2的关系，而不是互斥的关系。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048062948220842060",
+        "created_at": "2026-04-25T18:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048101234687783300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "chessiaya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048101234687783300",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048062948220842060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiaya1 人类的尊严和肉体的欢愉并不相排斥。实际上，人的特殊性和动物性应该是1+1大于2的关系，而不是互斥的关系。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007800360057135104",
+        "conversation_id": "2048062948220842060",
+        "created_at": "2026-04-25T15:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048062948220842060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048062948220842060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1147,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思刚才腾不出手，我想说的是，如果人类总是在追求肉体的快感和片刻的欢愉，那么人类的尊严体现在哪里？作为人类这种最高级的动物，我们是否更应该注重于精神世界的富足和实际的贡献？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048100171058454915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 3271,
+          "like_count": 28114,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 7449
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "这个世界好坏但是姐姐会带我走@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "2007800360057135104",
+        "location": "288好友位（口令",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2044432209646399602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 334,
+          "like_count": 12703,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1835
+        },
+        "username": "chessiaya1",
+        "verified": false
+      }
+    ]
+  }
+}

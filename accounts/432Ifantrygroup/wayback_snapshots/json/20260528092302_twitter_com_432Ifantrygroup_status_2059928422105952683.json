@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059760752018505864",
+    "created_at": "2026-05-28T09:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059928422105952683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450208653642907650",
+          "start": 0,
+          "username": "androcygne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059928422105952683",
+    "in_reply_to_user_id": "1450208653642907650",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059760752018505864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@androcygne Where did you buy that jacket, miss?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1257,
+        "media_key": "3_2059760748201660416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJW9fMbaUAALcSO.jpg",
+        "width": 736
+      },
+      {
+        "height": 983,
+        "media_key": "3_2059760749497737216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJW9fRQa4AAr6Qs.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059760752018505864",
+        "created_at": "2026-05-28T09:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059928422105952683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450208653642907650",
+              "start": 0,
+              "username": "androcygne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059928422105952683",
+        "in_reply_to_user_id": "1450208653642907650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059760752018505864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@androcygne Where did you buy that jacket, miss?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059760748201660416",
+            "3_2059760749497737216"
+          ]
+        },
+        "author_id": "1450208653642907650",
+        "conversation_id": "2059760752018505864",
+        "created_at": "2026-05-27T22:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059760752018505864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tXewG6u8aG",
+              "end": 65,
+              "expanded_url": "https://x.com/androcygne/status/2059760752018505864/photo/1",
+              "media_key": "3_2059760748201660416",
+              "start": 42,
+              "url": "https://t.co/tXewG6u8aG"
+            },
+            {
+              "display_url": "pic.x.com/tXewG6u8aG",
+              "end": 65,
+              "expanded_url": "https://x.com/androcygne/status/2059760752018505864/photo/1",
+              "media_key": "3_2059760749497737216",
+              "start": 42,
+              "url": "https://t.co/tXewG6u8aG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059760752018505864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 6573,
+          "like_count": 845,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Sick but skinny. That's all that matters. https://t.co/tXewG6u8aG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059891680699117741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 3954,
+          "like_count": 39773,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 11031
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T21:14:30.000Z",
+        "description": "",
+        "id": "1450208653642907650",
+        "location": "22. SEASIAN. ONE/ONESELF.",
+        "name": "BYRON",
+        "pinned_tweet_id": "1944542330578682229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023432183936086016/c2sNIXFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4880,
+          "following_count": 297,
+          "like_count": 13650,
+          "listed_count": 25,
+          "media_count": 3695,
+          "tweet_count": 20636
+        },
+        "username": "androcygne",
+        "verified": false
+      }
+    ]
+  }
+}

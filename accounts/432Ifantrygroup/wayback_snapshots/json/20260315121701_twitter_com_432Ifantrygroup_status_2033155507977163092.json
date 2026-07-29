@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032590933745873359",
+    "created_at": "2026-03-15T12:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T13:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033155507977163092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929182132414689280",
+          "start": 0,
+          "username": "lqioqin152068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033155507977163092",
+    "in_reply_to_user_id": "1929182132414689280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032590933745873359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lqioqin152068 你这是无效包扎！去医院好吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25743,
+        "height": 1280,
+        "media_key": "13_2032590857799602176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032590857799602176/img/KH3XE8cUErKRF-aX.jpg",
+        "public_metrics": {
+          "view_count": 1282
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032590857799602176/vid/avc1/320x568/G9zjiXDVi9tHmB3S.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032590857799602176/vid/avc1/480x852/Ctioz9S-BUI0DUxw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032590857799602176/vid/avc1/720x1280/9L6dfgROmV3-lWbe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032590857799602176/pl/RQIWFuBxRdK-bIKA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032590933745873359",
+        "created_at": "2026-03-15T12:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033155507977163092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929182132414689280",
+              "start": 0,
+              "username": "lqioqin152068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033155507977163092",
+        "in_reply_to_user_id": "1929182132414689280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032590933745873359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lqioqin152068 你这是无效包扎！去医院好吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032590857799602176"
+          ]
+        },
+        "author_id": "1929182132414689280",
+        "conversation_id": "2032590933745873359",
+        "created_at": "2026-03-13T22:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T23:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032590933745873359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6sOZ1ZvAY",
+              "end": 27,
+              "expanded_url": "https://x.com/lqioqin152068/status/2032590933745873359/video/1",
+              "media_key": "13_2032590857799602176",
+              "start": 4,
+              "url": "https://t.co/s6sOZ1ZvAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032590933745873359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 2894,
+          "like_count": 431,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "大腿🦵 https://t.co/s6sOZ1ZvAY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2032746819856511229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 2304,
+          "like_count": 6914,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1736
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T14:24:14.000Z",
+        "description": "shedtwt冷魚 歡迎私信擴列",
+        "id": "1929182132414689280",
+        "name": "cold fish",
+        "pinned_tweet_id": "2030253673985798498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943784002315259905/fMIzzL6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 517,
+          "like_count": 4725,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 226
+        },
+        "username": "lqioqin152068",
+        "verified": false
+      }
+    ]
+  }
+}

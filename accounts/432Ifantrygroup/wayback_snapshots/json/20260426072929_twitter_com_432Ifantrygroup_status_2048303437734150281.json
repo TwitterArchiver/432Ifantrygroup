@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048276934963134770",
+    "created_at": "2026-04-26T07:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048303437734150281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800384669428703232",
+          "start": 0,
+          "username": "yimissyoui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048303437734150281",
+    "in_reply_to_user_id": "1800384669428703232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048302696453869622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yimissyoui 反正我会一直治到他们咽气为止。如果他们自己要求放弃治疗出去旅游那又是另外一回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048276934963134770",
+        "created_at": "2026-04-26T07:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048303437734150281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800384669428703232",
+              "start": 0,
+              "username": "yimissyoui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048303437734150281",
+        "in_reply_to_user_id": "1800384669428703232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048302696453869622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yimissyoui 反正我会一直治到他们咽气为止。如果他们自己要求放弃治疗出去旅游那又是另外一回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800384669428703232",
+        "conversation_id": "2048276934963134770",
+        "created_at": "2026-04-26T07:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302696453869622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302696453869622",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048276934963134770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 不说别人，你的父母得了绝症你会放弃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048262891355394513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 3301,
+          "like_count": 28328,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 7508
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T04:29:11.000Z",
+        "description": "",
+        "id": "1800384669428703232",
+        "name": "思雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838595021064527872/4DXYgGYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 123,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 1059
+        },
+        "username": "yimissyoui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2032659275777192305",
+    "created_at": "2026-03-14T07:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T08:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032726900666413393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911429624694730753",
+          "start": 0,
+          "username": "huixue888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032726900666413393",
+    "in_reply_to_user_id": "1911429624694730753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032659275777192305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixue888 贩卖容貌焦虑的最终目的就是卖你各种产品。大家一定要想清楚，是你为了身体健康想减肥，还是有人说你胖，导致你想减肥。拒绝后者造成的容貌焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2032659275777192305",
+        "created_at": "2026-03-14T07:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032726900666413393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911429624694730753",
+              "start": 0,
+              "username": "huixue888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032726900666413393",
+        "in_reply_to_user_id": "1911429624694730753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032659275777192305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixue888 贩卖容貌焦虑的最终目的就是卖你各种产品。大家一定要想清楚，是你为了身体健康想减肥，还是有人说你胖，导致你想减肥。拒绝后者造成的容貌焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911429624694730753",
+        "conversation_id": "2032659275777192305",
+        "created_at": "2026-03-14T03:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032659275777192305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxinpoiu/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/xxinpoiu/status/2031984342470443153",
+              "start": 30,
+              "url": "https://t.co/smUHbe60WG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032659275777192305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1125,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031984342470443153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种为了卖减肥药给女孩子萌制造焦虑的，真是家里老冯子没了🙄 https://t.co/smUHbe60WG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2032690474990055444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 2269,
+          "like_count": 6259,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1557
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:42:06.000Z",
+        "description": "HRT2024.2.18｜09高中辍学｜超级社恐｜喜欢听0014556 尹康 小怜 极贵｜同类，od妹，边缘化青少年互fo好不好！\n｜不鉴证 不发黄",
+        "id": "1911429624694730753",
+        "location": "上海",
+        "name": "奶猪",
+        "pinned_tweet_id": "2031575477773808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 185,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 301
+        },
+        "username": "huixue888",
+        "verified": false
+      }
+    ]
+  }
+}

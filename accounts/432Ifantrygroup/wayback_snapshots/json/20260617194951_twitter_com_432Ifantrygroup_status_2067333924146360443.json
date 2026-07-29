@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2066912929660985633",
+    "created_at": "2026-06-17T19:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067333924146360443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        },
+        {
+          "end": 15,
+          "id": "1636883849039826944",
+          "start": 8,
+          "username": "xwwen0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067333924146360443",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067327594278883334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS @xwwen0 这是骗子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2066912929660985633",
+        "created_at": "2026-06-17T19:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067333924146360443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            },
+            {
+              "end": 15,
+              "id": "1636883849039826944",
+              "start": 8,
+              "username": "xwwen0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067333924146360443",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067327594278883334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS @xwwen0 这是骗子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2066912929660985633",
+        "created_at": "2026-06-17T19:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067327594278883334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636883849039826944",
+              "start": 0,
+              "username": "xwwen0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067327594278883334",
+        "in_reply_to_user_id": "1636883849039826944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066912929660985633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwwen0 要不和爸妈沟通吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 4085,
+          "like_count": 42251,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 11977
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|戒药|戒割|是个人（理解能力有问题，冒泡勿喷）  不接线下  今年100大寿",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 556,
+          "like_count": 41902,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 12649
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T00:15:00.000Z",
+        "description": "一个爱发骚的小萝莉",
+        "id": "1636883849039826944",
+        "location": "6.9km",
+        "name": "徐文文",
+        "pinned_tweet_id": "2066097657580507605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846968766514741248/a1N-UWHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7530,
+          "following_count": 0,
+          "like_count": 265,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "xwwen0",
+        "verified": false
+      }
+    ]
+  }
+}

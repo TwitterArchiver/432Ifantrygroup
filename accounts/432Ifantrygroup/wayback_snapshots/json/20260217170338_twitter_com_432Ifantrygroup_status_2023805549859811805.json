@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2023688778817433939",
+    "created_at": "2026-02-17T17:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T18:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023805549859811805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884591567220178944",
+          "start": 0,
+          "username": "Lanzhouyang7"
+        },
+        {
+          "end": 23,
+          "id": "1370689455896465408",
+          "start": 14,
+          "username": "Key__908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023805549859811805",
+    "in_reply_to_user_id": "1884591567220178944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023791358167912519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanzhouyang7 @Key__908 抽烟伤身体这是公认的，不像喝酒，酒蒙子现在还能以酒精活血为由给自己挽尊，老烟鬼现在是一点话都说不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2023688778817433939",
+        "created_at": "2026-02-17T17:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T18:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023805549859811805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884591567220178944",
+              "start": 0,
+              "username": "Lanzhouyang7"
+            },
+            {
+              "end": 23,
+              "id": "1370689455896465408",
+              "start": 14,
+              "username": "Key__908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023805549859811805",
+        "in_reply_to_user_id": "1884591567220178944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023791358167912519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanzhouyang7 @Key__908 抽烟伤身体这是公认的，不像喝酒，酒蒙子现在还能以酒精活血为由给自己挽尊，老烟鬼现在是一点话都说不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884591567220178944",
+        "conversation_id": "2023688778817433939",
+        "created_at": "2026-02-17T16:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T17:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023791358167912519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370689455896465408",
+              "start": 0,
+              "username": "Key__908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023791358167912519",
+        "in_reply_to_user_id": "1370689455896465408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023688778817433939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Key__908 不抽烟的男生贤惠能结婚是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2021185568856551730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 1669,
+          "like_count": 2974,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 354
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T13:17:08.000Z",
+        "description": "好雨知时节",
+        "id": "1884591567220178944",
+        "name": "Timeing7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018342551217147904/reB6-eC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 61,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "Lanzhouyang7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T10:53:33.000Z",
+        "description": "就像一只🦋飞过废墟",
+        "id": "1370689455896465408",
+        "name": "北冰洋八爪大章鱼零售商",
+        "pinned_tweet_id": "1977743586297835830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005790069194645505/M9rV7J4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 456,
+          "like_count": 14165,
+          "listed_count": 8,
+          "media_count": 93,
+          "tweet_count": 2028
+        },
+        "username": "Key__908",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047921400057647308",
+    "created_at": "2026-04-25T16:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048077851325612240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882051931763568643",
+          "start": 0,
+          "username": "feieyuhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048077851325612240",
+    "in_reply_to_user_id": "1882051931763568643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048077534022222220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feieyuhuo 讨论的就是，精神独立和经济独立到底是什么关系。图中说是必要不充分，我说是充分不必要，你怎么看吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047921400057647308",
+        "created_at": "2026-04-25T16:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048077851325612240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882051931763568643",
+              "start": 0,
+              "username": "feieyuhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048077851325612240",
+        "in_reply_to_user_id": "1882051931763568643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048077534022222220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feieyuhuo 讨论的就是，精神独立和经济独立到底是什么关系。图中说是必要不充分，我说是充分不必要，你怎么看吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882051931763568643",
+        "conversation_id": "2047921400057647308",
+        "created_at": "2026-04-25T16:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048077534022222220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048077534022222220",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047921400057647308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 具体地说，追求精神的“自足”而漠视严峻现实的状况是一种精神病。\n只是向往自由，只能让奴隶在幻想的幸福和恶化的现实中撕裂自我。\n而愿意追求经济独立(而不是追求靠奇异白日梦独立)的勇敢者，才能一次次动摇反动派的力量，为那个无需幻想，自然而然就能有尊严活着的未来添砖加瓦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047981379359776796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 3269,
+          "like_count": 28053,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 7418
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T13:05:32.000Z",
+        "description": "你好呀，这里是飞蛾～社科求学者一枚。( *ˊᵕˋ)✩︎.₊(键政号回fo100%)  历史是假的,政经是真的,没有什么是理所当然的。 \n无论如何，请让理智与信念刻骨铭心，让傲慢与偏见无处遁形。                          \n标签概括：散修毛左\n09 ENTP 劳有所得 造反有理",
+        "id": "1882051931763568643",
+        "location": "乌托邦之桥",
+        "name": "飞蛾浴火",
+        "pinned_tweet_id": "2024545803310944754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026688690211401732/PfmtK5HU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 84,
+          "like_count": 3278,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1603
+        },
+        "username": "feieyuhuo",
+        "verified": false
+      }
+    ]
+  }
+}

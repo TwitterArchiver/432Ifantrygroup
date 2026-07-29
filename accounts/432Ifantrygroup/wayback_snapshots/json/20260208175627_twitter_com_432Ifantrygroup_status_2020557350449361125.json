@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2020450056814350363",
+    "created_at": "2026-02-08T17:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020557350449361125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "555154723",
+          "start": 0,
+          "username": "alas_kaaaa"
+        },
+        {
+          "end": 28,
+          "id": "1457253375934746624",
+          "start": 12,
+          "username": "chaoyinsukandao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020557350449361125",
+    "in_reply_to_user_id": "555154723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020467022216507672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alas_kaaaa @chaoyinsukandao 外飘的甲板还没安呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2020450056814350363",
+        "created_at": "2026-02-08T17:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020557350449361125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "555154723",
+              "start": 0,
+              "username": "alas_kaaaa"
+            },
+            {
+              "end": 28,
+              "id": "1457253375934746624",
+              "start": 12,
+              "username": "chaoyinsukandao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020557350449361125",
+        "in_reply_to_user_id": "555154723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020467022216507672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alas_kaaaa @chaoyinsukandao 外飘的甲板还没安呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "555154723",
+        "conversation_id": "2020450056814350363",
+        "created_at": "2026-02-08T11:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020467022216507672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457253375934746624",
+              "start": 0,
+              "username": "chaoyinsukandao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020467022216507672",
+        "in_reply_to_user_id": "1457253375934746624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3492,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020450056814350363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoyinsukandao 身型瘦长，不像是航母啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2011100033249427868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 1623,
+          "like_count": 2895,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 327
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-16T14:12:10.000Z",
+        "description": "AI让造谣迎来了爆发式增长。",
+        "id": "555154723",
+        "location": "火星",
+        "name": "佚名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017240846035472385/oTIV--Q9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 265,
+          "like_count": 2745,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 8121
+        },
+        "username": "alas_kaaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T07:47:43.000Z",
+        "description": "本号主要记录PLA军事历史",
+        "id": "1457253375934746624",
+        "name": "🔪飞刀🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670094181396774912/h38aO7vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5497,
+          "following_count": 1001,
+          "like_count": 393,
+          "listed_count": 51,
+          "media_count": 1111,
+          "tweet_count": 1643
+        },
+        "username": "chaoyinsukandao",
+        "verified": false
+      }
+    ]
+  }
+}

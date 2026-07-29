@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2041691575613546517",
+    "created_at": "2026-04-08T02:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041707762187686258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "Noverdose_DBD"
+        },
+        {
+          "end": 24,
+          "id": "1688104374042836992",
+          "start": 15,
+          "username": "ovocaize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041707762187686258",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041696091520037310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noverdose_DBD @ovocaize 不是的，如果学校判定学生存在严重的精神健康问题且可能危害自身安全，可以要求家长领回。\n我不看好她家长的反应会对她有利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2041691575613546517",
+        "created_at": "2026-04-08T02:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041707762187686258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "Noverdose_DBD"
+            },
+            {
+              "end": 24,
+              "id": "1688104374042836992",
+              "start": 15,
+              "username": "ovocaize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041707762187686258",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041696091520037310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noverdose_DBD @ovocaize 不是的，如果学校判定学生存在严重的精神健康问题且可能危害自身安全，可以要求家长领回。\n我不看好她家长的反应会对她有利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "2041691575613546517",
+        "created_at": "2026-04-08T01:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041696091520037310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688104374042836992",
+              "start": 0,
+              "username": "ovocaize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041696091520037310",
+        "in_reply_to_user_id": "1688104374042836992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041691575613546517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovocaize 导员没权利让你休学你反抗就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041499030333919302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 2859,
+          "like_count": 20471,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 5375
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "该页面触犯了中华人民共和国刑法",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Noverdose_DBD",
+                "end": 23,
+                "expanded_url": "http://t.me/Noverdose_DBD",
+                "start": 0,
+                "url": "https://t.co/P1KKvJSoY1"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "违法百科",
+        "pinned_tweet_id": "2034529964557808079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041593174582308865/8D_qw6Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 242,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/P1KKvJSoY1",
+        "username": "Noverdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:27:09.000Z",
+        "description": "小鼠｜顺女｜Tibetan｜宇宙无敌矛盾混沌纠结体｜自伤od碎碎念黑泥聚集地｜查成分后互fo｜私信给我发几把的全家死｜你喜欢我我喜欢你｜来下面匿名聊天呀喂⬇️｜👁️@Naijin66998",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "Naijin66998"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gogochun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gogochun",
+                "start": 0,
+                "url": "https://t.co/rMh869vg8F"
+              }
+            ]
+          }
+        },
+        "id": "1688104374042836992",
+        "location": "🚪88/128/288/520",
+        "name": "为了没有眼泪的明天",
+        "pinned_tweet_id": "2037609537814065606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 170,
+          "like_count": 8831,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/rMh869vg8F",
+        "username": "ovocaize",
+        "verified": false
+      }
+    ]
+  }
+}

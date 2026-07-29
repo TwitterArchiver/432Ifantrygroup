@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2002962887409877207",
+    "created_at": "2025-12-22T11:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003069764001026277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1567056102084444165",
+          "start": 0,
+          "username": "JunBaby0v0"
+        },
+        {
+          "end": 22,
+          "id": "1380942195650256900",
+          "start": 12,
+          "username": "sktwogirl"
+        },
+        {
+          "end": 33,
+          "id": "1463035825214476288",
+          "start": 23,
+          "username": "sktwolris"
+        },
+        {
+          "end": 43,
+          "id": "1437679665653686279",
+          "start": 34,
+          "username": "sktworel"
+        },
+        {
+          "end": 53,
+          "id": "1405912481130717187",
+          "start": 44,
+          "username": "sktwober"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003069764001026277",
+    "in_reply_to_user_id": "1567056102084444165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002962887409877207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JunBaby0v0 @sktwogirl @sktwolris @sktworel @sktwober 入门私信看见没"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16705,
+        "height": 1280,
+        "media_key": "13_2002962822293340160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002962822293340160/img/ak9MsPMlvl028Txc.jpg",
+        "public_metrics": {
+          "view_count": 852
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002962822293340160/vid/avc1/320x568/wi7P0O_Gm3YqiMBf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002962822293340160/vid/avc1/480x852/Jt4enIpULn7zS_eV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002962822293340160/vid/avc1/720x1280/JGj9kuKSb2vQkIIv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002962822293340160/pl/Wv2_mdWfUjza8DvF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2002962887409877207",
+        "created_at": "2025-12-22T11:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003069764001026277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1567056102084444165",
+              "start": 0,
+              "username": "JunBaby0v0"
+            },
+            {
+              "end": 22,
+              "id": "1380942195650256900",
+              "start": 12,
+              "username": "sktwogirl"
+            },
+            {
+              "end": 33,
+              "id": "1463035825214476288",
+              "start": 23,
+              "username": "sktwolris"
+            },
+            {
+              "end": 43,
+              "id": "1437679665653686279",
+              "start": 34,
+              "username": "sktworel"
+            },
+            {
+              "end": 53,
+              "id": "1405912481130717187",
+              "start": 44,
+              "username": "sktwober"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003069764001026277",
+        "in_reply_to_user_id": "1567056102084444165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002962887409877207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JunBaby0v0 @sktwogirl @sktwolris @sktworel @sktwober 入门私信看见没"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002962822293340160"
+          ]
+        },
+        "author_id": "1567056102084444165",
+        "conversation_id": "2002962887409877207",
+        "created_at": "2025-12-22T04:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002962887409877207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1380942195650256900",
+              "start": 8,
+              "username": "sktwogirl"
+            },
+            {
+              "end": 29,
+              "id": "1463035825214476288",
+              "start": 19,
+              "username": "sktwolris"
+            },
+            {
+              "end": 39,
+              "id": "1437679665653686279",
+              "start": 30,
+              "username": "sktworel"
+            },
+            {
+              "end": 49,
+              "id": "1405912481130717187",
+              "start": 40,
+              "username": "sktwober"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0iGgV3uUD",
+              "end": 73,
+              "expanded_url": "https://x.com/JunBaby0v0/status/2002962887409877207/video/1",
+              "media_key": "13_2002962822293340160",
+              "start": 50,
+              "url": "https://t.co/u0iGgV3uUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002962887409877207",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3706,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "wataa🦶\n\n@sktwogirl @sktwolris\n@sktworel @sktwober https://t.co/u0iGgV3uUD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1385,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 225
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T07:44:47.000Z",
+        "description": "03的 不要再叫姐姐了🥹在校。164 86。已过小白的日常，小小佛，等大V认证👉🏻私信只回52🚪👈🏻发口令自留联系方式就行～过🚪有完整版赠送🫣。支持验证。。。过🚪解锁｜定制视频｜原味｜11｜ 。。。。。。。。。。盗视频替我挡灾！！！！不接线下谢谢！",
+        "id": "1567056102084444165",
+        "name": "君贝贝🍑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948073158201966592/TFo4Q_m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20875,
+          "following_count": 71,
+          "like_count": 14,
+          "listed_count": 100,
+          "media_count": 91,
+          "tweet_count": 123
+        },
+        "username": "JunBaby0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-10T17:54:35.000Z",
+        "description": "全网高质量外围包养@xuhuumi｜小葵优质c圈线下约会@xiaokuicos1｜十年线下外围教兽@HFJR5888｜可爱甜喵全国线下找@tianmiaocos｜兔糖线下质量最好cos @tutang888｜靠谱全国C圈约会三岁 @sansuicos01｜简介位招商💎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "xuhuumi"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "xiaokuicos1"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "HFJR5888"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "tianmiaocos"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "tutang888"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "sansuicos01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/xo8JkE…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/xo8JkEBBXSkzYTZl",
+                "start": 0,
+                "url": "https://t.co/uNP4qQzk1a"
+              }
+            ]
+          }
+        },
+        "id": "1380942195650256900",
+        "location": "真人福利姬聊天群👉",
+        "name": "学姐大大",
+        "pinned_tweet_id": "1933085040063463869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959384623798251520/ZeIpxdii_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 450954,
+          "following_count": 95,
+          "like_count": 20,
+          "listed_count": 887,
+          "media_count": 0,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/uNP4qQzk1a",
+        "username": "sktwogirl",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-23T06:45:11.000Z",
+        "description": "小妹推荐十年线下外围教兽@HFJR5888｜兔糖线下质量最好cos @tutang888｜外围导师七喜高端娱乐@qixiyule666｜小葵优质C圈线下约会@xiaokuicos1｜可爱甜喵全国线下找@tianmiaocos｜靠谱全国C圈三岁@sansuicos01｜💯多年圈内经验高端外围经纪人@xitin19594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "HFJR5888"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "tutang888"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "qixiyule666"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "xiaokuicos1"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "tianmiaocos"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "sansuicos01"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "xitin19594"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/ddfOyT…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/ddfOyTgAgoI1NjU9",
+                "start": 0,
+                "url": "https://t.co/YdVJrTe5fI"
+              }
+            ]
+          }
+        },
+        "id": "1463035825214476288",
+        "location": "已验证女生聊天营业群👉",
+        "name": "小妹の日常",
+        "pinned_tweet_id": "1982427678339973430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811022024804061187/I-dQkyW7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 331740,
+          "following_count": 1116,
+          "like_count": 0,
+          "listed_count": 1112,
+          "media_count": 0,
+          "tweet_count": 11551
+        },
+        "url": "https://t.co/YdVJrTe5fI",
+        "username": "sktwolris",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2021-09-14T07:28:48.000Z",
+        "description": "🍬兔糖线下质量最好cos @tutang888|推荐十年外围教授@hfjr8889 |小葵优质C圈@xiaokuicos1|可爱甜喵全国线下找@tianmiaocos|全网最高质量外围和包养@xuhuumi| 🥇靠谱全国C圈约会三岁 @sansuicos01|舒馨全球🌍顶级高端外围@Sx5318",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "tutang888"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "username": "hfjr8889"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "xiaokuicos1"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "tianmiaocos"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "xuhuumi"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "sansuicos01"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "Sx5318"
+              }
+            ]
+          }
+        },
+        "id": "1437679665653686279",
+        "location": "⬇️帅哥小姐姐聊天交友群",
+        "name": "纯情大叔",
+        "pinned_tweet_id": "1982449740861378792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811059985226551299/YHCWEcGg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 533531,
+          "following_count": 428,
+          "like_count": 700,
+          "listed_count": 1135,
+          "media_count": 0,
+          "tweet_count": 8838
+        },
+        "username": "sktworel",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-18T15:37:20.000Z",
+        "description": "投稿验证广告商务私信@sktwolris｜推特靠谱收号商家认准月野兔 @yyt000812｜小葵优质c圈甜蜜线下约会@xiaokuicos1｜可爱甜喵全国线下找@tianmiaocos｜靠谱全国C圈约会三岁 @sansuicos01｜简介位招商🔥🔥🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "sktwolris"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "yyt000812"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "xiaokuicos1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "tianmiaocos"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "sansuicos01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/xo8JkE…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/xo8JkEBBXSkzYTZl",
+                "start": 0,
+                "url": "https://t.co/y62y4Q46wu"
+              }
+            ]
+          }
+        },
+        "id": "1405912481130717187",
+        "location": "真人福利姬聊天群👉",
+        "name": "流川枫学长",
+        "pinned_tweet_id": "1871090252888359403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923465710027911168/rRCRSyi9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 419584,
+          "following_count": 22,
+          "like_count": 31,
+          "listed_count": 790,
+          "media_count": 0,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/y62y4Q46wu",
+        "username": "sktwober",
+        "verified": false
+      }
+    ]
+  }
+}

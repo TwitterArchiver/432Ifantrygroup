@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046995059409842283",
+    "created_at": "2026-04-23T16:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047353629473153058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2841102129",
+          "start": 0,
+          "username": "Contrarianism_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047353629473153058",
+    "in_reply_to_user_id": "2841102129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047345338756043214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Contrarianism_ 无论怎么说，文化大革命是一场被号召起来的革命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046995059409842283",
+        "created_at": "2026-04-23T16:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047353629473153058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2841102129",
+              "start": 0,
+              "username": "Contrarianism_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047353629473153058",
+        "in_reply_to_user_id": "2841102129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047345338756043214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Contrarianism_ 无论怎么说，文化大革命是一场被号召起来的革命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2841102129",
+        "conversation_id": "2046995059409842283",
+        "created_at": "2026-04-23T16:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047345338756043214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047345338756043214",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046995059409842283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 又是奉旨造反，奉旨搞的720？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 3180,
+          "like_count": 26833,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 7042
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-22T12:16:51.000Z",
+        "description": "",
+        "id": "2841102129",
+        "name": "Dusk",
+        "pinned_tweet_id": "1937172216493560239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912986657319763968/Ukou4xTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 329,
+          "like_count": 86,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 1599
+        },
+        "username": "Contrarianism_",
+        "verified": false
+      }
+    ]
+  }
+}

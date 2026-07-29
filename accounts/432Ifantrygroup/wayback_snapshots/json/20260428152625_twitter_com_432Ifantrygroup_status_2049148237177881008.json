@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049148058060087427",
+    "created_at": "2026-04-28T15:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049148237177881008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990455987552256000",
+          "start": 0,
+          "username": "yikuqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049148237177881008",
+    "in_reply_to_user_id": "1990455987552256000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049148058060087427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yikuqwq 😢🫂\n别割太深老师，注意消毒呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049148050304794624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAJS36aAAAYVnl.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049148058060087427",
+        "created_at": "2026-04-28T15:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049148237177881008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990455987552256000",
+              "start": 0,
+              "username": "yikuqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049148237177881008",
+        "in_reply_to_user_id": "1990455987552256000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049148058060087427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yikuqwq 😢🫂\n别割太深老师，注意消毒呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049148050304794624"
+          ]
+        },
+        "author_id": "1990455987552256000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049148058060087427",
+        "created_at": "2026-04-28T15:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049148058060087427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFHUNPd1f5",
+              "end": 23,
+              "expanded_url": "https://x.com/yikuqwq/status/2049148058060087427/photo/1",
+              "media_key": "3_2049148050304794624",
+              "start": 0,
+              "url": "https://t.co/VFHUNPd1f5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049148058060087427",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VFHUNPd1f5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049141749407490485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 3399,
+          "like_count": 29476,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 7885
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T16:24:34.000Z",
+        "description": "我在等待那个不会在意我古怪性格的天使男孩",
+        "id": "1990455987552256000",
+        "name": "yuni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047905943011332096/OMWXRbm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 132,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 109
+        },
+        "username": "yikuqwq",
+        "verified": false
+      }
+    ]
+  }
+}

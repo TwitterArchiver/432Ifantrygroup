@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1936415744729960559",
+    "created_at": "2025-08-09T11:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954144693086040326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1629051402176856066",
+          "start": 0,
+          "username": "xzwn151"
+        },
+        {
+          "end": 18,
+          "id": "715183792697303041",
+          "start": 9,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954144693086040326",
+    "in_reply_to_user_id": "1629051402176856066",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936415744729960559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzwn151 @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 387726,
+        "height": 1280,
+        "media_key": "13_1936415400385744896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936415400385744896/img/ihSxfey6ge-Q1phs.jpg",
+        "public_metrics": {
+          "view_count": 1182226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936415400385744896/vid/avc1/320x568/P1_ipoYHh0GnMLQR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936415400385744896/vid/avc1/480x852/hE9CQ3Uawq7biHNy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936415400385744896/vid/avc1/720x1280/P_cBUoD6mU4cZYCJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936415400385744896/pl/cWKfyvZXRlSQzYnp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1936415744729960559",
+        "created_at": "2025-08-09T11:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954144693086040326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1629051402176856066",
+              "start": 0,
+              "username": "xzwn151"
+            },
+            {
+              "end": 18,
+              "id": "715183792697303041",
+              "start": 9,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954144693086040326",
+        "in_reply_to_user_id": "1629051402176856066",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936415744729960559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzwn151 @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936415400385744896"
+          ]
+        },
+        "author_id": "1629051402176856066",
+        "conversation_id": "1936415744729960559",
+        "created_at": "2025-06-21T13:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T14:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936415744729960559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfiAmn9eKm",
+              "end": 31,
+              "expanded_url": "https://x.com/xzwn151/status/1936415744729960559/video/1",
+              "media_key": "13_1936415400385744896",
+              "start": 8,
+              "url": "https://t.co/CfiAmn9eKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936415744729960559",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21581,
+          "impression_count": 2819006,
+          "like_count": 51539,
+          "quote_count": 16,
+          "reply_count": 174,
+          "retweet_count": 8253
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai💦 https://t.co/CfiAmn9eKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1168,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 110
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:32:04.000Z",
+        "description": "",
+        "id": "1629051402176856066",
+        "name": "糖心VloG",
+        "pinned_tweet_id": "1938888312850391561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935235238294081536/1nA6PwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41247,
+          "following_count": 3,
+          "like_count": 68,
+          "listed_count": 72,
+          "media_count": 80,
+          "tweet_count": 1987
+        },
+        "username": "xzwn151",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195950,
+          "following_count": 116,
+          "like_count": 25,
+          "listed_count": 614,
+          "media_count": 1,
+          "tweet_count": 757491
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

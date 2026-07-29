@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051558698372526553",
+    "created_at": "2026-05-05T07:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T08:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051558698372526553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39151934",
+          "start": 3,
+          "username": "im_PULSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051558698372526553",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051309777616085200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @im_PULSE: The two Intifadas were indeed very violent. During the first, Yitzhak Rabin ordered the IDF to \"break the bones\" of demonstra…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051558698372526553",
+        "created_at": "2026-05-05T07:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051558698372526553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39151934",
+              "start": 3,
+              "username": "im_PULSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051558698372526553",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051309777616085200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @im_PULSE: The two Intifadas were indeed very violent. During the first, Yitzhak Rabin ordered the IDF to \"break the bones\" of demonstra…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39151934",
+        "conversation_id": "2051309777616085200",
+        "created_at": "2026-05-04T14:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051309777616085200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daverich1/stat…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/daverich1/status/2051284740888465882",
+              "start": 251,
+              "url": "https://t.co/b3E7nHWcvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051309777616085200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 25786,
+          "like_count": 1313,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051284740888465882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The two Intifadas were indeed very violent. During the first, Yitzhak Rabin ordered the IDF to \"break the bones\" of demonstrators. In the first days of the second Intifada, Israel fired more than a million bullets and killed 47 unarmed demonstrators. https://t.co/b3E7nHWcvj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 3532,
+          "like_count": 31722,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 8475
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-11T01:00:10.000Z",
+        "description": "Associate Editor—@newlinesmag; Contributing Editor—@lareviewofbooks; Bylines—@guardian @nybooks @foreignpolicy @WashingtonPost @TheTLS; Author—Dark Instruments",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "newlinesmag"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "lareviewofbooks"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "guardian"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "nybooks"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "foreignpolicy"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "WashingtonPost"
+              },
+              {
+                "end": 134,
+                "start": 127,
+                "username": "TheTLS"
+              }
+            ]
+          }
+        },
+        "id": "39151934",
+        "name": "Idrees Ahmad | idreesahmad.bsky.social",
+        "pinned_tweet_id": "2021913632297431514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525653752761442305/zzS66Xhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35234,
+          "following_count": 4873,
+          "like_count": 58709,
+          "listed_count": 687,
+          "media_count": 3394,
+          "tweet_count": 74561
+        },
+        "username": "im_PULSE",
+        "verified": false
+      }
+    ]
+  }
+}

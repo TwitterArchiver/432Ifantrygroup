@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2041104696375755129",
+    "created_at": "2026-04-07T12:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041489008510079112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643179626435362817",
+          "start": 0,
+          "username": "Lu3Lve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041489008510079112",
+    "in_reply_to_user_id": "1643179626435362817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041481680448278580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lu3Lve 实话实说而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2041104696375755129",
+        "created_at": "2026-04-07T12:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041489008510079112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643179626435362817",
+              "start": 0,
+              "username": "Lu3Lve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041489008510079112",
+        "in_reply_to_user_id": "1643179626435362817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041481680448278580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lu3Lve 实话实说而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643179626435362817",
+        "conversation_id": "2041104696375755129",
+        "created_at": "2026-04-07T11:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041481680448278580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041481680448278580",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041444758175047901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 魔怔了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 2838,
+          "like_count": 20079,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 5272
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T09:12:14.000Z",
+        "description": "Based in Berlin / Hangzhou AI/LLM",
+        "id": "1643179626435362817",
+        "name": "Post party",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026579026672746496/Ee8FTom3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 325,
+          "like_count": 5815,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 561
+        },
+        "username": "Lu3Lve",
+        "verified": false
+      }
+    ]
+  }
+}

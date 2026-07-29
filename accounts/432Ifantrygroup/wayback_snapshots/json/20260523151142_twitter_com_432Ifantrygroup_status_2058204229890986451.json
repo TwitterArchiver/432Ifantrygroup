@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058174851429625857"
+      ],
+      "media_source_tweet_id": [
+        "2058174886192062488"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058204229890986451",
+    "created_at": "2026-05-23T15:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058204229890986451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986828541930119168",
+          "start": 3,
+          "username": "shigure07288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypKyZRQ6xg",
+          "end": 41,
+          "expanded_url": "https://x.com/shigure07288/status/2058174886192062488/photo/1",
+          "media_key": "3_2058174851429625857",
+          "start": 18,
+          "url": "https://t.co/ypKyZRQ6xg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058204229890986451",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058174886192062488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigure07288: https://t.co/ypKyZRQ6xg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2058174851429625857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAbH2ka8AEhg4P.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058174851429625857"
+          ],
+          "media_source_tweet_id": [
+            "2058174886192062488"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058204229890986451",
+        "created_at": "2026-05-23T15:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058204229890986451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986828541930119168",
+              "start": 3,
+              "username": "shigure07288"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypKyZRQ6xg",
+              "end": 41,
+              "expanded_url": "https://x.com/shigure07288/status/2058174886192062488/photo/1",
+              "media_key": "3_2058174851429625857",
+              "start": 18,
+              "url": "https://t.co/ypKyZRQ6xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058204229890986451",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058174886192062488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shigure07288: https://t.co/ypKyZRQ6xg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058174851429625857"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2058174886192062488",
+        "created_at": "2026-05-23T13:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058174886192062488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypKyZRQ6xg",
+              "end": 23,
+              "expanded_url": "https://x.com/shigure07288/status/2058174886192062488/photo/1",
+              "media_key": "3_2058174851429625857",
+              "start": 0,
+              "url": "https://t.co/ypKyZRQ6xg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058174886192062488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ypKyZRQ6xg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058030329898967507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 3866,
+          "like_count": 37871,
+          "listed_count": 4,
+          "media_count": 409,
+          "tweet_count": 10272
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 643,
+          "like_count": 5963,
+          "listed_count": 7,
+          "media_count": 556,
+          "tweet_count": 7277
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

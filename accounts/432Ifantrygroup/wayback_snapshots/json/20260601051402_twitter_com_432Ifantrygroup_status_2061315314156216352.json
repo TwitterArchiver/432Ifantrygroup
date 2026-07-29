@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061315314156216352",
+    "created_at": "2026-06-01T05:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061315314156216352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633918939842457600",
+          "start": 3,
+          "username": "diol2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061315314156216352",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060998411462017137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @diol2n: مشهد مرعب في روسيا، مجموعة اطفال كانوا يلعبون امام المنزل جاء الجار اليكسي (44 عام) واخذ فتاه وحملها ذاهب بها للداخل وهي تصرخ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 119633,
+        "height": 1280,
+        "media_key": "13_2060996195464450048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060996195464450048/img/fzzMR42oejl1FMIY.jpg",
+        "public_metrics": {
+          "view_count": 8959447
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060996195464450048/vid/avc1/320x568/N-nnGqAtDpveOyOd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060996195464450048/vid/avc1/480x852/htrGauye4qJvzUBd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060996195464450048/vid/avc1/720x1280/yfSplOnvLL60Dh8i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060996195464450048/pl/9m0UuwcqT-dkTAiQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061315314156216352",
+        "created_at": "2026-06-01T05:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061315314156216352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633918939842457600",
+              "start": 3,
+              "username": "diol2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061315314156216352",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060998411462017137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @diol2n: مشهد مرعب في روسيا، مجموعة اطفال كانوا يلعبون امام المنزل جاء الجار اليكسي (44 عام) واخذ فتاه وحملها ذاهب بها للداخل وهي تصرخ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060996195464450048"
+          ]
+        },
+        "author_id": "1633918939842457600",
+        "conversation_id": "2060998411462017137",
+        "created_at": "2026-05-31T08:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060998411462017137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrER4yUOdS",
+              "end": 297,
+              "expanded_url": "https://x.com/diol2n/status/2060998411462017137/video/1",
+              "media_key": "13_2060996195464450048",
+              "start": 274,
+              "url": "https://t.co/VrER4yUOdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060998411462017137",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {},
+          "text": "مشهد مرعب في روسيا، مجموعة اطفال كانوا يلعبون امام المنزل جاء الجار اليكسي (44 عام) واخذ فتاه وحملها ذاهب بها للداخل وهي تصرخ\n\nوهنا شجاعة صديقها الولد: ما تخلى عنها وقاوم وامسك الباب وقام بالصراخ حتى سمعته امرأة تدعى يوليا كانت تمر بالصدفه بالسيارةوقفت وانقذت الفتاه في اخر لحظةوتم القبض على اليكسي"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14937,
+          "impression_count": 13498837,
+          "like_count": 196317,
+          "quote_count": 725,
+          "reply_count": 1824,
+          "retweet_count": 23595
+        },
+        "reply_settings": "everyone",
+        "text": "مشهد مرعب في روسيا، مجموعة اطفال كانوا يلعبون امام المنزل جاء الجار اليكسي (44 عام) واخذ فتاه وحملها ذاهب بها للداخل وهي تصرخ\n\nوهنا شجاعة صديقها الولد: ما تخلى عنها وقاوم وامسك الباب وقام بالصراخ حتى سمعته امرأة تدعى يوليا كانت تمر بالصدفه بالسيارةوقفت وانقذت الفتاه في اخر https://t.co/VrER4yUOdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 3996,
+          "like_count": 41067,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 11443
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T19:53:46.000Z",
+        "description": "أجوب أعماق الإنترنت لأجلب لكم أغرب وأعجب القضايا والأحداث في الماضي والحاضر",
+        "id": "1633918939842457600",
+        "name": "Saif",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966956823660896256/CaBXakHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129052,
+          "following_count": 286,
+          "like_count": 12720,
+          "listed_count": 119,
+          "media_count": 3359,
+          "tweet_count": 11724
+        },
+        "username": "diol2n",
+        "verified": true
+      }
+    ]
+  }
+}

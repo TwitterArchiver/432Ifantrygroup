@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1979440928168558638",
+    "created_at": "2025-10-19T06:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T07:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979797889791742406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909340630205214720",
+          "start": 0,
+          "username": "77smailbox7"
+        },
+        {
+          "end": 26,
+          "id": "1443261851693768705",
+          "start": 13,
+          "username": "Xiaoxiaofoer"
+        },
+        {
+          "end": 39,
+          "id": "1553519232645996544",
+          "start": 27,
+          "username": "MitsumeDoji"
+        },
+        {
+          "end": 50,
+          "id": "1248127011534454789",
+          "start": 40,
+          "username": "OoniDevil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979797889791742406",
+    "in_reply_to_user_id": "1909340630205214720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979440928168558638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77smailbox7 @Xiaoxiaofoer @MitsumeDoji @OoniDevil 你有长视频作品吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36433,
+        "height": 668,
+        "media_key": "13_1979440601427857408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979440601427857408/img/1WwGyfxuescZHYEg.jpg",
+        "public_metrics": {
+          "view_count": 10514
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979440601427857408/vid/avc1/516x270/eL1xsONZNHIlHFU8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979440601427857408/vid/avc1/688x360/aLVUs9ZXZissU-u4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979440601427857408/vid/avc1/1280x668/zPpBE27jL_d9NsYX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979440601427857408/pl/ITqh6R7QMnwZ_A-M.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1979440928168558638",
+        "created_at": "2025-10-19T06:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979797889791742406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909340630205214720",
+              "start": 0,
+              "username": "77smailbox7"
+            },
+            {
+              "end": 26,
+              "id": "1443261851693768705",
+              "start": 13,
+              "username": "Xiaoxiaofoer"
+            },
+            {
+              "end": 39,
+              "id": "1553519232645996544",
+              "start": 27,
+              "username": "MitsumeDoji"
+            },
+            {
+              "end": 50,
+              "id": "1248127011534454789",
+              "start": 40,
+              "username": "OoniDevil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979797889791742406",
+        "in_reply_to_user_id": "1909340630205214720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979440928168558638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77smailbox7 @Xiaoxiaofoer @MitsumeDoji @OoniDevil 你有长视频作品吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979440601427857408"
+          ]
+        },
+        "author_id": "1909340630205214720",
+        "conversation_id": "1979440928168558638",
+        "created_at": "2025-10-18T06:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T07:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979440928168558638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "1443261851693768705",
+              "start": 20,
+              "username": "Xiaoxiaofoer"
+            },
+            {
+              "end": 46,
+              "id": "1553519232645996544",
+              "start": 34,
+              "username": "MitsumeDoji"
+            },
+            {
+              "end": 57,
+              "id": "1248127011534454789",
+              "start": 47,
+              "username": "OoniDevil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCvWRFkmTU",
+              "end": 81,
+              "expanded_url": "https://x.com/77smailbox7/status/1979440928168558638/video/1",
+              "media_key": "13_1979440601427857408",
+              "start": 58,
+              "url": "https://t.co/bCvWRFkmTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979440928168558638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 56490,
+          "like_count": 843,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "含苞待放阴户～娇艳欲滴的小穴！\n✉️：\n@Xiaoxiaofoer\n@MitsumeDoji\n@OoniDevil https://t.co/bCvWRFkmTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1251,
+          "like_count": 2799,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 212
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T20:21:12.000Z",
+        "description": "坐标：成都 🐼 励志成为一名优秀黄推！门槛99🧧➕私人微信 以下有无门槛微信 朋友圈更新日常 拍摄男主角为固定炮友 日常碎碎念小号@kekehoney888防走丢 无门槛微信：AXcaomei0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "kekehoney888"
+              }
+            ]
+          }
+        },
+        "id": "1909340630205214720",
+        "name": "小虞快跑",
+        "pinned_tweet_id": "1977046642907136282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975196438020968448/KHCcnwfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45420,
+          "following_count": 65,
+          "like_count": 0,
+          "listed_count": 119,
+          "media_count": 15,
+          "tweet_count": 20
+        },
+        "username": "77smailbox7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T17:11:14.000Z",
+        "description": "NSFW🔞橙子🍊主营北上广深杭👉@youleww 全球最真实cos外围找草莓熊🍓@CMX5210 c圈天花板小凰小凰@xiaohc88 柚子只做C圈萝系专业户@Rodncemsents🥇品鉴师玩高端找白鹤@bh8881bot 全网最高质量外围和包养@Maowushiqi｜简介有空位❤️‍🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "youleww"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "CMX5210"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "xiaohc88"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "Rodncemsents"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "bh8881bot"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "Maowushiqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+1F4DN-KifKphO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+1F4DN-KifKphOTQ9",
+                "start": 0,
+                "url": "https://t.co/tofsrQVjnx"
+              }
+            ]
+          }
+        },
+        "id": "1443261851693768705",
+        "location": "全网100%保真无假人/可无门槛约会群👇",
+        "name": "小小佛（原创验证私信）",
+        "pinned_tweet_id": "1960378906793681065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819708294145204224/DR-vMsO5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1152683,
+          "following_count": 662,
+          "like_count": 131,
+          "listed_count": 3531,
+          "media_count": 0,
+          "tweet_count": 15640
+        },
+        "url": "https://t.co/tofsrQVjnx",
+        "username": "Xiaoxiaofoer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2022-07-30T23:14:25.000Z",
+        "description": "橙子🍊主营北上广深杭👉@youleww 丨全球最真实cos外围找草莓熊🍓@CMX5210 ｜c圈线下靠谱约妹找@jinchen6868｜全国学生妹包养平台🟡@MTxBY｜子怡全球🌍高端外围（真人真照）@s0078082",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "youleww"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "CMX5210"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "jinchen6868"
+              },
+              {
+                "end": 84,
+                "start": 78,
+                "username": "MTxBY"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "s0078082"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TaohuayuanJ",
+                "end": 23,
+                "expanded_url": "https://t.me/TaohuayuanJ",
+                "start": 0,
+                "url": "https://t.co/gdXgX6Y3Zn"
+              }
+            ]
+          }
+        },
+        "id": "1553519232645996544",
+        "location": "桃花社区优质福利姬100%可约无假人👇",
+        "name": "三木童子（漏转私信）",
+        "pinned_tweet_id": "1978795007038595137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910584998207557632/4jRr9h3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395927,
+          "following_count": 196,
+          "like_count": 570,
+          "listed_count": 800,
+          "media_count": 0,
+          "tweet_count": 8982
+        },
+        "url": "https://t.co/gdXgX6Y3Zn",
+        "username": "MitsumeDoji",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-09T05:54:10.000Z",
+        "description": "原创投稿验证请私信@Xiaoxiaofoer｜橙子🍊主营北上广深杭👉@youleww丨全球最真实cos外围找草莓熊🍓@CMX5210｜c圈线下靠谱约妹找@jinchen6868｜全国学生妹包养平台🟡@MTxBY｜子怡全球🌍高端外围（真人真照）@s0078082｜简介位招商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "Xiaoxiaofoer"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "youleww"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "CMX5210"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "jinchen6868"
+              },
+              {
+                "end": 105,
+                "start": 99,
+                "username": "MTxBY"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "s0078082"
+              }
+            ]
+          }
+        },
+        "id": "1248127011534454789",
+        "name": "BIG鬼鬼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978757372094140416/w0d04-q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592284,
+          "following_count": 11,
+          "like_count": 37,
+          "listed_count": 1555,
+          "media_count": 8,
+          "tweet_count": 426
+        },
+        "username": "OoniDevil",
+        "verified": false
+      }
+    ]
+  }
+}

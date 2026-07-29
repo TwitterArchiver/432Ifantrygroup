@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048694175324135762",
+    "created_at": "2026-04-27T09:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048694175324135762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eo4gB13r7t7GV3…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/eo4gB13r7t7GV3x/status/2048524502980866479",
+          "start": 19,
+          "url": "https://t.co/z313gTSpia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048694175324135762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048524502980866479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我难以置信这句话竟然是你发自内心说的 https://t.co/z313gTSpia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048694175324135762",
+        "created_at": "2026-04-27T09:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048694175324135762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eo4gB13r7t7GV3…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/eo4gB13r7t7GV3x/status/2048524502980866479",
+              "start": 19,
+              "url": "https://t.co/z313gTSpia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048694175324135762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048524502980866479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我难以置信这句话竟然是你发自内心说的 https://t.co/z313gTSpia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476309403741876225",
+        "conversation_id": "2048339681901977769",
+        "created_at": "2026-04-26T22:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048524502980866479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            },
+            {
+              "end": 30,
+              "id": "1948365390813310976",
+              "start": 14,
+              "username": "HsMmMThJ4V90618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048524502980866479",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9614,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412021058850935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 @HsMmMThJ4V90618 世話されてる人間がしてる人間と平等なわけない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048656713625313291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 3362,
+          "like_count": 28948,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 7702
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T21:49:43.000Z",
+        "description": "",
+        "id": "1476309403741876225",
+        "name": "おかわり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523628859437961216/svDY4CQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 25,
+          "like_count": 1138,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 6855
+        },
+        "username": "eo4gB13r7t7GV3x",
+        "verified": false
+      }
+    ]
+  }
+}

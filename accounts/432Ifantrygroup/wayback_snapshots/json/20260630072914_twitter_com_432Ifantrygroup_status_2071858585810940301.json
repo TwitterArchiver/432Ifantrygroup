@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071748758128263168"
+      ],
+      "media_source_tweet_id": [
+        "2071748760766431722"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071858585810940301",
+    "created_at": "2026-06-30T07:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071858585810940301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647468070279999489",
+          "start": 3,
+          "username": "elcriticopol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4EDuaEind6",
+          "end": 74,
+          "expanded_url": "https://x.com/elcriticopol/status/2071748760766431722/photo/1",
+          "media_key": "3_2071748758128263168",
+          "start": 51,
+          "url": "https://t.co/4EDuaEind6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071858585810940301",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 422
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071748760766431722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elcriticopol: Ahí tienen a su \"raza\" superior. https://t.co/4EDuaEind6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2071748758128263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBUhNgXgAA8KEO.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071748758128263168"
+          ],
+          "media_source_tweet_id": [
+            "2071748760766431722"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071858585810940301",
+        "created_at": "2026-06-30T07:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071858585810940301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647468070279999489",
+              "start": 3,
+              "username": "elcriticopol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EDuaEind6",
+              "end": 74,
+              "expanded_url": "https://x.com/elcriticopol/status/2071748760766431722/photo/1",
+              "media_key": "3_2071748758128263168",
+              "start": 51,
+              "url": "https://t.co/4EDuaEind6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071858585810940301",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 422
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071748760766431722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elcriticopol: Ahí tienen a su \"raza\" superior. https://t.co/4EDuaEind6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071748758128263168"
+          ]
+        },
+        "author_id": "1647468070279999489",
+        "conversation_id": "2071748760766431722",
+        "created_at": "2026-06-30T00:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071748760766431722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EDuaEind6",
+              "end": 56,
+              "expanded_url": "https://x.com/elcriticopol/status/2071748760766431722/photo/1",
+              "media_key": "3_2071748758128263168",
+              "start": 33,
+              "url": "https://t.co/4EDuaEind6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071748760766431722",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 57089,
+          "like_count": 6839,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "Ahí tienen a su \"raza\" superior. https://t.co/4EDuaEind6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 4213,
+          "like_count": 44521,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 12763
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T05:13:04.000Z",
+        "description": "Análisis político y económico.   \nEstado, clase y poder desde una mirada marxista.\nDesmintiendo a los liberales.",
+        "id": "1647468070279999489",
+        "location": "Dentro de la polis. ",
+        "name": "El crítico crítico ☭",
+        "pinned_tweet_id": "1959101023378690497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014550973100781568/tl3L_GnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22630,
+          "following_count": 2655,
+          "like_count": 18139,
+          "listed_count": 127,
+          "media_count": 2910,
+          "tweet_count": 24672
+        },
+        "url": "",
+        "username": "elcriticopol",
+        "verified": true
+      }
+    ]
+  }
+}

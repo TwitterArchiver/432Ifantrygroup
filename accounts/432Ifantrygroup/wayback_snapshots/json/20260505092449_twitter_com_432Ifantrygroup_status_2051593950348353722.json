@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051592146147528816",
+    "created_at": "2026-05-05T09:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051593950348353722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921588381844467712",
+          "start": 0,
+          "username": "Lianlianx_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051593950348353722",
+    "in_reply_to_user_id": "1921588381844467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051592146147528816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lianlianx_o 你这件大衣挺好看呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10433,
+        "height": 720,
+        "media_key": "13_2051592080091402240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051592080091402240/img/dxmNkDbi7P23Mnqx.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051592080091402240/vid/avc1/480x270/f9ppnzG4gp-Mh7ZU.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051592080091402240/vid/avc1/640x360/TZHZaOpMeX3yiWUh.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051592080091402240/vid/avc1/1280x720/naUZcsxJgKR8H_eI.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051592080091402240/pl/90ElJIItB_tsDofL.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051592146147528816",
+        "created_at": "2026-05-05T09:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051593950348353722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921588381844467712",
+              "start": 0,
+              "username": "Lianlianx_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051593950348353722",
+        "in_reply_to_user_id": "1921588381844467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051592146147528816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lianlianx_o 你这件大衣挺好看呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051592080091402240"
+          ]
+        },
+        "author_id": "1921588381844467712",
+        "conversation_id": "2051592146147528816",
+        "created_at": "2026-05-05T09:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051592146147528816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Uq8nmIAgK",
+              "end": 23,
+              "expanded_url": "https://x.com/Lianlianx_o/status/2051592146147528816/video/1",
+              "media_key": "13_2051592080091402240",
+              "start": 0,
+              "url": "https://t.co/5Uq8nmIAgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051592146147528816",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5Uq8nmIAgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 3536,
+          "like_count": 31807,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 8511
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T15:29:14.000Z",
+        "description": "做了mect*n已淡忘前世记忆\n不是开玩笑的我真的啥都不记得了",
+        "id": "1921588381844467712",
+        "location": " ",
+        "name": "爱我,谢谢",
+        "pinned_tweet_id": "2051444758766404031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050894715265150976/no3cwe4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 165,
+          "like_count": 7536,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 819
+        },
+        "username": "Lianlianx_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1912105819749142807",
+    "created_at": "2025-04-15T17:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T18:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912196200901820447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880947236462616576",
+          "start": 0,
+          "username": "RuthanneSo92628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912196200901820447",
+    "in_reply_to_user_id": "1880947236462616576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912105819749142807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuthanneSo92628 往好了想，我看你这教学楼比我学校气派多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1912105819749142807",
+        "created_at": "2025-04-15T17:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912196200901820447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947236462616576",
+              "start": 0,
+              "username": "RuthanneSo92628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912196200901820447",
+        "in_reply_to_user_id": "1880947236462616576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912105819749142807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuthanneSo92628 往好了想，我看你这教学楼比我学校气派多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880947236462616576",
+        "conversation_id": "1912105819749142807",
+        "created_at": "2025-04-15T11:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T12:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912105819749142807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912105819749142807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3533,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同样是高中生，家庭好的女孩子活的真幸福，朋友圈一到放假就能刷到我的同学全国各地的旅游，而我连这个出生的城市都没走出去过，每天唯一开阔视野的方式就是刷刷推，对着屏幕自慰换去短暂的快感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "搞抽象的哈",
+        "id": "1852895432269234176",
+        "name": "日月山河永在",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 1059,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:54.000Z",
+        "description": "就不介绍了，都是自家人，就一个目的分享无聊的日常生活，寻找聊得来的搭子，全高中最沙雕的女人，有公的让我撩一下？",
+        "id": "1880947236462616576",
+        "name": "奥特之母",
+        "pinned_tweet_id": "1910873965436031447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905696285153460224/Adq5QrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 26,
+          "tweet_count": 60
+        },
+        "username": "RuthanneSo92628",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1952988456218706005",
+    "created_at": "2026-03-07T15:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030307769577046438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589795851848732672",
+          "start": 0,
+          "username": "Gaokerena6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030307769577046438",
+    "in_reply_to_user_id": "1589795851848732672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030143895628398641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaokerena6 是这样吗？软籽石榴？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1952988456218706005",
+        "created_at": "2026-03-07T15:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030307769577046438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589795851848732672",
+              "start": 0,
+              "username": "Gaokerena6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030307769577046438",
+        "in_reply_to_user_id": "1589795851848732672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030143895628398641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaokerena6 是这样吗？软籽石榴？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589795851848732672",
+        "conversation_id": "1952988456218706005",
+        "created_at": "2026-03-07T04:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030143895628398641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030143895628398641",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030143484200661412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 每个都掌心大小吧，是有籽但不至于全是籽，籽也可以嚼着吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 1884,
+          "like_count": 3584,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 566
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T01:44:18.000Z",
+        "description": "喜欢香料、烹饪和人文历史|ADHD diagnosed|Whole Plant Slant|请每天按时吃……",
+        "id": "1589795851848732672",
+        "location": "广州/深圳",
+        "name": "Azucena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903374270824390656/iutIBfzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 172,
+          "like_count": 118258,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1890
+        },
+        "username": "Gaokerena6",
+        "verified": false
+      }
+    ]
+  }
+}

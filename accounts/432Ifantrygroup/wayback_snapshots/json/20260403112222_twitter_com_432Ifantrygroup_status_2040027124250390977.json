@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2040027124250390977",
+    "created_at": "2026-04-03T11:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040027124250390977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024718499206356992",
+          "start": 3,
+          "username": "FFFWEAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040027124250390977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040006954739990735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFWEAR: 在乡镇路上可以见到的残障人士反而比在城市可以见到的更多。现代化城建设计基本上就是为了健全人服务的，城市化对残疾人来说反而成为了出行阻碍。这就是对少数/弱势群体的一种排挤，没有人可以保证自己一辈子都是主流群体…谁知道哪天自己会不会变成那个需求被透明化的部…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2040027124250390977",
+        "created_at": "2026-04-03T11:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040027124250390977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024718499206356992",
+              "start": 3,
+              "username": "FFFWEAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040027124250390977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040006954739990735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFWEAR: 在乡镇路上可以见到的残障人士反而比在城市可以见到的更多。现代化城建设计基本上就是为了健全人服务的，城市化对残疾人来说反而成为了出行阻碍。这就是对少数/弱势群体的一种排挤，没有人可以保证自己一辈子都是主流群体…谁知道哪天自己会不会变成那个需求被透明化的部…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024718499206356992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2040006954739990735",
+        "created_at": "2026-04-03T10:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040006954739990735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Horiyet8964/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Horiyet8964/status/2039973348768436572",
+              "start": 138,
+              "url": "https://t.co/ryHaATEEOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040006954739990735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039973348768436572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在乡镇路上可以见到的残障人士反而比在城市可以见到的更多。现代化城建设计基本上就是为了健全人服务的，城市化对残疾人来说反而成为了出行阻碍。这就是对少数/弱势群体的一种排挤，没有人可以保证自己一辈子都是主流群体…谁知道哪天自己会不会变成那个需求被透明化的部分。这种环境好可怕，， https://t.co/ryHaATEEOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2039150831120130134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 2719,
+          "like_count": 17877,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 4644
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T05:31:33.000Z",
+        "description": "去在意一些真的值得你在意的东西吧。喜欢我可以给我打钱额说别的我听不懂",
+        "id": "2024718499206356992",
+        "name": "玻璃剑",
+        "pinned_tweet_id": "2033053770255577453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035006605499277313/8gwKuCTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 8,
+          "like_count": 1052,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 185
+        },
+        "username": "FFFWEAR",
+        "verified": false
+      }
+    ]
+  }
+}

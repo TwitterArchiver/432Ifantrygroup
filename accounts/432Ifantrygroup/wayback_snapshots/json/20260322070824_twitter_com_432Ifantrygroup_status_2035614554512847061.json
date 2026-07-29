@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952529354757681152"
+      ],
+      "media_source_tweet_id": [
+        "1952529365746762081"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035614554512847061",
+    "created_at": "2026-03-22T07:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035614554512847061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933730779571638272",
+          "start": 3,
+          "username": "creepioi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LYop4oclej",
+          "end": 37,
+          "expanded_url": "https://x.com/1onelygir1/status/1952529365746762081/photo/1",
+          "media_key": "3_1952529354757681152",
+          "start": 14,
+          "url": "https://t.co/LYop4oclej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035614554512847061",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952529365746762081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @creepioi: https://t.co/LYop4oclej"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035614554512847061].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035614554512847061",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035614554512847061"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_1952529354757681152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxjHGmvasAAW-T3.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952529354757681152"
+          ]
+        },
+        "author_id": "1933730779571638272",
+        "conversation_id": "1952529365746762081",
+        "created_at": "2025-08-05T00:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952529365746762081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYop4oclej",
+              "end": 23,
+              "expanded_url": "https://x.com/1onelygir1/status/1952529365746762081/photo/1",
+              "media_key": "3_1952529354757681152",
+              "start": 0,
+              "url": "https://t.co/LYop4oclej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952529365746762081",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 126415,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LYop4oclej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035613539289985465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 2579,
+          "like_count": 10079,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2685
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T03:38:46.000Z",
+        "description": "",
+        "id": "1933730779571638272",
+        "location": "我来自地狱",
+        "name": "creep",
+        "pinned_tweet_id": "2016353746368839901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035093926814916608/ZXpOF0bm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14980,
+          "following_count": 105,
+          "like_count": 2215,
+          "listed_count": 13,
+          "media_count": 12,
+          "tweet_count": 921
+        },
+        "username": "creepioi",
+        "verified": false
+      }
+    ]
+  }
+}

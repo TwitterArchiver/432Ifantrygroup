@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1927048791833665639",
+    "created_at": "2025-08-09T12:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954157463286002152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1205515098007179265",
+          "start": 0,
+          "username": "TZZ_guochan"
+        },
+        {
+          "end": 21,
+          "id": "1655156808",
+          "start": 13,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954157463286002152",
+    "in_reply_to_user_id": "1205515098007179265",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927048791833665639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TZZ_guochan @GetXBot 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1388718,
+        "height": 1080,
+        "media_key": "13_1907467167337164800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1907467167337164800/img/wAE_8nVl20DhtW8r.jpg",
+        "public_metrics": {
+          "view_count": 182250
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907467167337164800/vid/avc1/480x270/-YG0_rz3KwYnry8F.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907467167337164800/vid/avc1/640x360/yn6XTuNd-8yCB--k.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907467167337164800/vid/avc1/1280x720/pTJeXfDgfNCSpVSy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907467167337164800/pl/VClWzmUURyU7UzY8.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1927048791833665639",
+        "created_at": "2025-08-09T12:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954157463286002152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1205515098007179265",
+              "start": 0,
+              "username": "TZZ_guochan"
+            },
+            {
+              "end": 21,
+              "id": "1655156808",
+              "start": 13,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954157463286002152",
+        "in_reply_to_user_id": "1205515098007179265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927048791833665639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TZZ_guochan @GetXBot 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907467167337164800"
+          ],
+          "media_source_tweet_id": [
+            "1907468908195623188"
+          ]
+        },
+        "author_id": "1205515098007179265",
+        "conversation_id": "1927048791833665639",
+        "created_at": "2025-05-26T17:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T18:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927048791833665639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9T9y1OR9Gr",
+              "end": 53,
+              "expanded_url": "https://x.com/zhenaishe_/status/1907468908195623188/video/1",
+              "media_key": "13_1907467167337164800",
+              "start": 30,
+              "url": "https://t.co/9T9y1OR9Gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927048791833665639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 758,
+          "impression_count": 163698,
+          "like_count": 1894,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "被健身房帅教练彻底征服了，火车便当式操的腿都绷直了，真的爽翻https://t.co/9T9y1OR9Gr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1172,
+          "like_count": 2667,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 166
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T15:49:38.000Z",
+        "description": "原创博主 认证请私信 百万流量扶持！！ @guochanfulishe/////无任何广告 无任何盈利  为爱发电",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "guochanfulishe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GCFL999",
+                "end": 23,
+                "expanded_url": "https://t.me/GCFL999",
+                "start": 0,
+                "url": "https://t.co/TFDxl9Ph1G"
+              }
+            ]
+          }
+        },
+        "id": "1205515098007179265",
+        "location": "推特视频大全 所有博主都有",
+        "name": "桃之助丨原创认证",
+        "pinned_tweet_id": "1941404971880403179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823686820141645824/g2dF5kcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173806,
+          "following_count": 44,
+          "like_count": 25,
+          "listed_count": 347,
+          "media_count": 215,
+          "tweet_count": 1561
+        },
+        "url": "https://t.co/TFDxl9Ph1G",
+        "username": "TZZ_guochan",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "1926122359926223224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83094,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 39,
+          "media_count": 1,
+          "tweet_count": 108891
+        },
+        "username": "GetXBot",
+        "verified": false
+      }
+    ]
+  }
+}

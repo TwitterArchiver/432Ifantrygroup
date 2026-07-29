@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048104849804537915",
+    "created_at": "2026-04-25T18:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048104849804537915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313383273079345152",
+          "start": 3,
+          "username": "ValeriaEulabeia"
+        },
+        {
+          "end": 32,
+          "id": "2011815153592049665",
+          "start": 21,
+          "username": "jiabujiabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048104849804537915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047526030399738031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValeriaEulabeia: @jiabujiabu 根据基因设计人类应该在50岁前自然死亡，而不是活到60岁再死皮赖脸领20年退休金。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048104849804537915",
+        "created_at": "2026-04-25T18:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048104849804537915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313383273079345152",
+              "start": 3,
+              "username": "ValeriaEulabeia"
+            },
+            {
+              "end": 32,
+              "id": "2011815153592049665",
+              "start": 21,
+              "username": "jiabujiabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048104849804537915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047526030399738031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValeriaEulabeia: @jiabujiabu 根据基因设计人类应该在50岁前自然死亡，而不是活到60岁再死皮赖脸领20年退休金。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2047473932715061444",
+        "created_at": "2026-04-24T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047526030399738031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011815153592049665",
+              "start": 0,
+              "username": "jiabujiabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047526030399738031",
+        "in_reply_to_user_id": "2011815153592049665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1547,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047492932811571448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiabujiabu 根据基因设计人类应该在50岁前自然死亡，而不是活到60岁再死皮赖脸领20年退休金。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048100171058454915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 3271,
+          "like_count": 28120,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 7451
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6938,
+          "following_count": 3808,
+          "like_count": 155715,
+          "listed_count": 19,
+          "media_count": 2669,
+          "tweet_count": 24834
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T14:58:16.000Z",
+        "description": "要么流芳百世，要么遗臭万年",
+        "id": "2011815153592049665",
+        "name": "贾布加布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020224306815594497/lceMD7va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 36,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 713
+        },
+        "username": "jiabujiabu",
+        "verified": false
+      }
+    ]
+  }
+}

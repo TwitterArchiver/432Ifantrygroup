@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2052112155655426159",
+    "created_at": "2026-05-07T09:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052326146306613725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782990236836089856",
+          "start": 0,
+          "username": "lilllllli1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052326146306613725",
+    "in_reply_to_user_id": "1782990236836089856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052112155655426159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilllllli1i ？？？？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052112155655426159",
+        "created_at": "2026-05-07T09:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052326146306613725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782990236836089856",
+              "start": 0,
+              "username": "lilllllli1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052326146306613725",
+        "in_reply_to_user_id": "1782990236836089856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052112155655426159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilllllli1i ？？？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782990236836089856",
+        "conversation_id": "2052112155655426159",
+        "created_at": "2026-05-06T19:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052112155655426159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052112155655426159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 116522,
+          "like_count": 485,
+          "quote_count": 9,
+          "reply_count": 219,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嗯自慰到一半突然想起来我小时候很小就学会自慰了，被我妈发现后她要我表演给她看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052203723573821701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 3636,
+          "like_count": 33163,
+          "listed_count": 4,
+          "media_count": 355,
+          "tweet_count": 8867
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T04:29:44.000Z",
+        "description": "不要回应",
+        "id": "1782990236836089856",
+        "location": "自我意识极度过剩",
+        "name": "拿流浪的躯体抱拥直到筋竭力穷",
+        "pinned_tweet_id": "2036102534524551206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360720048984064/5y0fSRyN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4351,
+          "following_count": 421,
+          "like_count": 20288,
+          "listed_count": 26,
+          "media_count": 378,
+          "tweet_count": 4510
+        },
+        "username": "lilllllli1i",
+        "verified": false
+      }
+    ]
+  }
+}

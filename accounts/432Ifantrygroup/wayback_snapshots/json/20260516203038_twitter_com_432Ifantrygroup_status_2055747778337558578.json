@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055747724411289600"
+      ],
+      "media_source_tweet_id": [
+        "2055747734884528171"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055747778337558578",
+    "created_at": "2026-05-16T20:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055747778337558578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6PdQlXnQS",
+          "end": 139,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2055747734884528171/photo/1",
+          "media_key": "3_2055747724411289600",
+          "start": 116,
+          "url": "https://t.co/S6PdQlXnQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055747778337558578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055747734884528171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 那他们觉得痛苦还能去咋办我问你？你不去安慰和同情也就罢了，恶语相向是什么意思？还污染环境，你才是那个病原体来的，你自爱吗，我咋没看出来呢？你自爱不应该谨言慎行吗？怎么还在网上发表起观点了？ https://t.co/S6PdQlXnQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055747724411289600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HId7qd1aQAAI_Zv.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055747724411289600"
+          ],
+          "media_source_tweet_id": [
+            "2055747734884528171"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055747778337558578",
+        "created_at": "2026-05-16T20:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055747778337558578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6PdQlXnQS",
+              "end": 139,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055747734884528171/photo/1",
+              "media_key": "3_2055747724411289600",
+              "start": 116,
+              "url": "https://t.co/S6PdQlXnQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055747778337558578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055747734884528171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 那他们觉得痛苦还能去咋办我问你？你不去安慰和同情也就罢了，恶语相向是什么意思？还污染环境，你才是那个病原体来的，你自爱吗，我咋没看出来呢？你自爱不应该谨言慎行吗？怎么还在网上发表起观点了？ https://t.co/S6PdQlXnQS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055747724411289600"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055747734884528171",
+        "created_at": "2026-05-16T20:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055747734884528171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6PdQlXnQS",
+              "end": 118,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2055747734884528171/photo/1",
+              "media_key": "3_2055747724411289600",
+              "start": 95,
+              "url": "https://t.co/S6PdQlXnQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055747734884528171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那他们觉得痛苦还能去咋办我问你？你不去安慰和同情也就罢了，恶语相向是什么意思？还污染环境，你才是那个病原体来的，你自爱吗，我咋没看出来呢？你自爱不应该谨言慎行吗？怎么还在网上发表起观点了？ https://t.co/S6PdQlXnQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055747734884528171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 3832,
+          "like_count": 36907,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 9960
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

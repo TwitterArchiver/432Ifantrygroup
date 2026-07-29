@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1914131984844198266",
+    "created_at": "2025-08-09T11:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954145643422769163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331513959904538624",
+          "start": 0,
+          "username": "Glichen56789"
+        },
+        {
+          "end": 23,
+          "id": "715183792697303041",
+          "start": 14,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954145643422769163",
+    "in_reply_to_user_id": "1331513959904538624",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914131984844198266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glichen56789 @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 119791,
+        "height": 720,
+        "media_key": "7_1914131732745555968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1914131732745555968/pu/img/S_XFMnhA8dDP3hLS.jpg",
+        "public_metrics": {
+          "view_count": 2240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914131732745555968/pu/vid/avc1/480x270/m3JexCE6WDxCOKsC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914131732745555968/pu/vid/avc1/640x360/XG4QV5q0pTwH7d3A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914131732745555968/pu/vid/avc1/1280x720/VvlUYIsyijMp3I-a.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1914131732745555968/pu/pl/PWOMBr4wJsN2Hfdb.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 118212,
+        "height": 720,
+        "media_key": "7_1914131853822554112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1914131853822554112/pu/img/MFoZ_nks-a1tk9XY.jpg",
+        "public_metrics": {
+          "view_count": 535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914131853822554112/pu/vid/avc1/480x270/qFr_S_dXbn9pnuR1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914131853822554112/pu/vid/avc1/640x360/uN7EP6FVRQyLHsIa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1914131853822554112/pu/vid/avc1/1280x720/uwraUl6PK0BaWhEa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1914131853822554112/pu/pl/BYmyVJ1bazOrl1oj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1914131984844198266",
+        "created_at": "2025-08-09T11:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954145643422769163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331513959904538624",
+              "start": 0,
+              "username": "Glichen56789"
+            },
+            {
+              "end": 23,
+              "id": "715183792697303041",
+              "start": 14,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954145643422769163",
+        "in_reply_to_user_id": "1331513959904538624",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914131984844198266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glichen56789 @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1914131732745555968",
+            "7_1914131853822554112"
+          ]
+        },
+        "author_id": "1331513959904538624",
+        "conversation_id": "1914131984844198266",
+        "created_at": "2025-04-21T01:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T02:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914131984844198266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "反差"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "自慰"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "母狗"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "女神"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "发情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfkfHsvtAh",
+              "end": 74,
+              "expanded_url": "https://x.com/Glichen56789/status/1914131984844198266/video/1",
+              "media_key": "7_1914131732745555968",
+              "start": 51,
+              "url": "https://t.co/cfkfHsvtAh"
+            },
+            {
+              "display_url": "pic.x.com/cfkfHsvtAh",
+              "end": 74,
+              "expanded_url": "https://x.com/Glichen56789/status/1914131984844198266/video/1",
+              "media_key": "7_1914131853822554112",
+              "start": 51,
+              "url": "https://t.co/cfkfHsvtAh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914131984844198266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 11704,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "买了一个新玩具试一下\n用来遣戏热身不错，唯一的缺点就是太细了\n#反差 #自慰 #母狗 #女神 #发情 https://t.co/cfkfHsvtAh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1168,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 125
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T08:24:11.000Z",
+        "description": "闲散人员，不转推，有什么话可以随便说，不加联系/不加绿泡泡/不加企鹅/不露脸",
+        "id": "1331513959904538624",
+        "location": "Guangdong",
+        "name": "果粒陈",
+        "pinned_tweet_id": "1888560271410757988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853003096420663296/hdz8uJYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 482,
+          "like_count": 750,
+          "listed_count": 14,
+          "media_count": 21,
+          "tweet_count": 40
+        },
+        "username": "Glichen56789",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "1919373344526217390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195956,
+          "following_count": 116,
+          "like_count": 25,
+          "listed_count": 614,
+          "media_count": 1,
+          "tweet_count": 757497
+        },
+        "username": "HuoQubot",
+        "verified": false
+      }
+    ]
+  }
+}

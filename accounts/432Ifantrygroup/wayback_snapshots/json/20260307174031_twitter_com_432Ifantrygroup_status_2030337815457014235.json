@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2030337774621229056"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2030337815457014235",
+    "created_at": "2026-03-07T17:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T18:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030337815457014235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Ny7rQS6HF",
+          "end": 39,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2030337815457014235/video/1",
+          "media_key": "7_2030337774621229056",
+          "start": 16,
+          "url": "https://t.co/9Ny7rQS6HF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030337815457014235",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Fight for Peace https://t.co/9Ny7rQS6HF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16532,
+        "height": 720,
+        "media_key": "7_2030337774621229056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030337774621229056/pu/img/GuRXYZxKxMBiM6fu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030337774621229056/pu/vid/avc1/480x270/3pFWEf8QjJci1WgY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030337774621229056/pu/vid/avc1/640x360/2BAhK25h4DXcuDB7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030337774621229056/pu/vid/avc1/1280x720/GMDTCqknZ-RkmGqs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030337774621229056/pu/pl/dNJI4_CjLBKHXGPb.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030337774621229056"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2030337815457014235",
+        "created_at": "2026-03-07T17:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030337815457014235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ny7rQS6HF",
+              "end": 39,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2030337815457014235/video/1",
+              "media_key": "7_2030337774621229056",
+              "start": 16,
+              "url": "https://t.co/9Ny7rQS6HF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030337815457014235",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Fight for Peace https://t.co/9Ny7rQS6HF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 1905,
+          "like_count": 3694,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 605
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

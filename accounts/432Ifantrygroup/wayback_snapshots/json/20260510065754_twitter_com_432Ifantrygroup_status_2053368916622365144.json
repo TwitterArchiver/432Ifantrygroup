@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2053321540058685657",
+    "created_at": "2026-05-10T06:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053368916622365144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503409133399150596",
+          "start": 0,
+          "username": "dengdengmiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053368916622365144",
+    "in_reply_to_user_id": "1503409133399150596",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053368692923420821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dengdengmiu 🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053321540058685657",
+        "created_at": "2026-05-10T06:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053368916622365144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503409133399150596",
+              "start": 0,
+              "username": "dengdengmiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053368916622365144",
+        "in_reply_to_user_id": "1503409133399150596",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053368692923420821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dengdengmiu 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503409133399150596",
+        "conversation_id": "2053321540058685657",
+        "created_at": "2026-05-10T06:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053368692923420821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053368692923420821",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053321540058685657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我会🙌🙌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 3713,
+          "like_count": 34639,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9239
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T16:34:13.000Z",
+        "description": "这个世界是开放地图游戏，请你享受其中",
+        "id": "1503409133399150596",
+        "location": "I am because you are",
+        "name": "灯灯（remake版）",
+        "pinned_tweet_id": "2047688963427811434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503411107028824068/hnk4rqha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5104,
+          "following_count": 497,
+          "like_count": 40316,
+          "listed_count": 15,
+          "media_count": 953,
+          "tweet_count": 7850
+        },
+        "username": "dengdengmiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032119990191865951",
+    "created_at": "2026-03-12T16:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032127501536018673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032127501536018673",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032119990191865951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 我感觉八成是住宿生活害得，住宿高中真的太反人类了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032119975398559744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOKWdqbUAAwrWX.jpg",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032119990191865951",
+        "created_at": "2026-03-12T16:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032127501536018673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032127501536018673",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032119990191865951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 我感觉八成是住宿生活害得，住宿高中真的太反人类了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032119975398559744"
+          ]
+        },
+        "author_id": "1893580687200157696",
+        "conversation_id": "2032119990191865951",
+        "created_at": "2026-03-12T15:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032119990191865951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vBDH6HsKe1",
+              "end": 37,
+              "expanded_url": "https://x.com/kittsayes/status/2032119990191865951/photo/1",
+              "media_key": "3_2032119975398559744",
+              "start": 14,
+              "url": "https://t.co/vBDH6HsKe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032119990191865951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一条负面。我好崩溃。对不起 https://t.co/vBDH6HsKe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 2215,
+          "like_count": 5497,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1319
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "我就随便发发｜恋痛偏m\n同类和萌妹子能不能跟我互fo🤤。。。\n（萌弟子也可以。。。）\n不聊黄 性压抑别来",
+        "id": "1893580687200157696",
+        "name": "Croissant",
+        "pinned_tweet_id": "2031061052646109493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030706865601122304/j7M7aVEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 357,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 613
+        },
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049440887122317317",
+    "created_at": "2026-05-04T07:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051208773113708971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1975275228277137408",
+          "start": 0,
+          "username": "xftsko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051208773113708971",
+    "in_reply_to_user_id": "1975275228277137408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049440887122317317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xftsko Coco, what's wrong? 🥺 Why haven't you been online for several days?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049440887122317317",
+        "created_at": "2026-05-04T07:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051208773113708971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1975275228277137408",
+              "start": 0,
+              "username": "xftsko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051208773113708971",
+        "in_reply_to_user_id": "1975275228277137408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049440887122317317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xftsko Coco, what's wrong? 🥺 Why haven't you been online for several days?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975275228277137408",
+        "conversation_id": "2049440887122317317",
+        "created_at": "2026-04-29T10:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049440887122317317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049440887122317317",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9837,
+          "like_count": 1360,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "my biggest fear is being bigger than i think i am"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051017076677190084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 3519,
+          "like_count": 31349,
+          "listed_count": 4,
+          "media_count": 342,
+          "tweet_count": 8401
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T19:01:45.000Z",
+        "description": "18 //🍨// i block freely // atheist @xshaoth -priv / pro recovery! // block don’t report / NOT suicidal btw❌‼️💯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "xshaoth"
+              }
+            ]
+          }
+        },
+        "id": "1975275228277137408",
+        "location": "my room🧁",
+        "name": "coco💭",
+        "pinned_tweet_id": "2041236932257071601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046332175549964288/IeninUCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1455,
+          "like_count": 78877,
+          "listed_count": 49,
+          "media_count": 510,
+          "tweet_count": 10033
+        },
+        "username": "xftsko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2037932773294698534",
+    "created_at": "2026-03-28T16:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037934134526398876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930293236494675969",
+          "start": 0,
+          "username": "wojiao12yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037934134526398876",
+    "in_reply_to_user_id": "1930293236494675969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037932773294698534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wojiao12yi 你不算胖其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2037932773294698534",
+        "created_at": "2026-03-28T16:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037934134526398876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930293236494675969",
+              "start": 0,
+              "username": "wojiao12yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037934134526398876",
+        "in_reply_to_user_id": "1930293236494675969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037932773294698534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wojiao12yi 你不算胖其实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930293236494675969",
+        "conversation_id": "2037932773294698534",
+        "created_at": "2026-03-28T16:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037932773294698534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037932773294698534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不敢玩吊缚的原因：我太胖了绳子断了咋整啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2030649261487268073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 2655,
+          "like_count": 14528,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 3846
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T15:59:17.000Z",
+        "description": "不约炮不约拍，脾气差也看不上任何人\n你们都来私信给我发猫猫！！",
+        "id": "1930293236494675969",
+        "location": "广州",
+        "name": "12yi",
+        "pinned_tweet_id": "2037912692925829294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027652188257062913/-5UD-JAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 17,
+          "like_count": 2002,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 279
+        },
+        "username": "wojiao12yi",
+        "verified": false
+      }
+    ]
+  }
+}

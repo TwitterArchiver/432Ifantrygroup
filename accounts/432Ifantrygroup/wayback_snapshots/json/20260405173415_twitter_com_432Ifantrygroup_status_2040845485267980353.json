@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040839046935855419",
+    "created_at": "2026-04-05T17:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040845485267980353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1788642156111863808",
+          "start": 0,
+          "username": "22wbxsx"
+        },
+        {
+          "end": 22,
+          "id": "1436967591910645767",
+          "start": 9,
+          "username": "asahikokura1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040845485267980353",
+    "in_reply_to_user_id": "1788642156111863808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040845127116267963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@22wbxsx @asahikokura1 这人都说啥了，他怎么锁推了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040839046935855419",
+        "created_at": "2026-04-05T17:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040845485267980353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1788642156111863808",
+              "start": 0,
+              "username": "22wbxsx"
+            },
+            {
+              "end": 22,
+              "id": "1436967591910645767",
+              "start": 9,
+              "username": "asahikokura1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040845485267980353",
+        "in_reply_to_user_id": "1788642156111863808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040845127116267963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@22wbxsx @asahikokura1 这人都说啥了，他怎么锁推了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788642156111863808",
+        "conversation_id": "2040839046935855419",
+        "created_at": "2026-04-05T17:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040845127116267963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436967591910645767",
+              "start": 0,
+              "username": "asahikokura1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040845127116267963",
+        "in_reply_to_user_id": "1436967591910645767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040844151156285770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@asahikokura1 对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040815459826913526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 2767,
+          "like_count": 19116,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 4984
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T18:48:31.000Z",
+        "description": "与世无争",
+        "id": "1788642156111863808",
+        "name": "22",
+        "pinned_tweet_id": "2040811697108361287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038701832802045952/g-oAnWqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 292,
+          "like_count": 13733,
+          "listed_count": 1,
+          "media_count": 1159,
+          "tweet_count": 9104
+        },
+        "username": "22wbxsx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T08:19:21.000Z",
+        "description": "碎碎唸兼記錄生活 近月委員會/地球🌍貓貓教 還請五毛 粉紅 毛左 穆畜 極左 極右不要關注我真的感謝 祝福你們輪迴永世種花家 \n@L080_0 里賬戶啟用 認識的人可能會通過",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 64,
+                "username": "L080_0"
+              }
+            ]
+          }
+        },
+        "id": "1436967591910645767",
+        "location": "George Town",
+        "name": "小倉朝日🇬🇧地球🌍貓貓教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011095330675441667/C_YIrlvj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 470,
+          "like_count": 103899,
+          "listed_count": 4,
+          "media_count": 943,
+          "tweet_count": 26460
+        },
+        "username": "asahikokura1",
+        "verified": false
+      }
+    ]
+  }
+}

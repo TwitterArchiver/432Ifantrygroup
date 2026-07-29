@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2043250931136114881",
+    "created_at": "2026-04-13T08:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043603993256210584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598129227034857473",
+          "start": 0,
+          "username": "Hi558575331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043603993256210584",
+    "in_reply_to_user_id": "1598129227034857473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043602710671565186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hi558575331 单赢变双输。父母就算再怎么折磨跨，他们也不会拥有一个真正的儿子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2043250931136114881",
+        "created_at": "2026-04-13T08:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043603993256210584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598129227034857473",
+              "start": 0,
+              "username": "Hi558575331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043603993256210584",
+        "in_reply_to_user_id": "1598129227034857473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043602710671565186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hi558575331 单赢变双输。父母就算再怎么折磨跨，他们也不会拥有一个真正的儿子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598129227034857473",
+        "conversation_id": "2043250931136114881",
+        "created_at": "2026-04-13T08:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043602710671565186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043602710671565186",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043250931136114881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 实在是没看出来这个政策在这件事情里面体现出的好在哪呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2043588785422979203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 2898,
+          "like_count": 22090,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 5770
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T01:38:08.000Z",
+        "description": "梦境护卫/请多多关照",
+        "id": "1598129227034857473",
+        "location": "Earth ",
+        "name": "你不要胡说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968992182192525312/tMOZvbCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10855,
+          "following_count": 209,
+          "like_count": 49452,
+          "listed_count": 52,
+          "media_count": 3051,
+          "tweet_count": 37408
+        },
+        "username": "Hi558575331",
+        "verified": true
+      }
+    ]
+  }
+}

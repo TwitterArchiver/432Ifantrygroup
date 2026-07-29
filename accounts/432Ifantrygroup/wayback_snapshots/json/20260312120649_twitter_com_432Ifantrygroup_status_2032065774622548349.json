@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032047114839343258",
+    "created_at": "2026-03-12T12:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032065774622548349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032043767713452032",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032065774622548349",
+    "in_reply_to_user_id": "2032043767713452032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032047114839343258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 轻一点啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032047071352721408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNIC47aEAA-59T.jpg",
+        "width": 1972
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032047074221641728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNIDDnaUAAcxCE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032047074771116032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNIDFqaoAA38SQ.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 23391,
+        "height": 720,
+        "media_key": "7_2032047080039165952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2032047080039165952/pu/img/g4erIp4YKjUvsi7g.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032047080039165952/pu/vid/avc1/480x270/FWlBnxo280-f0i1X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032047080039165952/pu/vid/avc1/640x360/BLb7QsTibtMFRd81.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032047080039165952/pu/vid/avc1/1280x720/KIQWoGOTDsTgOqp3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2032047080039165952/pu/pl/ST-1pEYKChGTyc3s.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032047114839343258",
+        "created_at": "2026-03-12T12:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032065774622548349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032043767713452032",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032065774622548349",
+        "in_reply_to_user_id": "2032043767713452032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032047114839343258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 轻一点啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032047071352721408",
+            "3_2032047074221641728",
+            "3_2032047074771116032",
+            "7_2032047080039165952"
+          ]
+        },
+        "author_id": "2032043767713452032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032047114839343258",
+        "created_at": "2026-03-12T10:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032047114839343258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "shtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8T5cmSIzaA",
+              "end": 67,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047114839343258/video/1",
+              "media_key": "3_2032047071352721408",
+              "start": 44,
+              "url": "https://t.co/8T5cmSIzaA"
+            },
+            {
+              "display_url": "pic.x.com/8T5cmSIzaA",
+              "end": 67,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047114839343258/video/1",
+              "media_key": "3_2032047074221641728",
+              "start": 44,
+              "url": "https://t.co/8T5cmSIzaA"
+            },
+            {
+              "display_url": "pic.x.com/8T5cmSIzaA",
+              "end": 67,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047114839343258/video/1",
+              "media_key": "3_2032047074771116032",
+              "start": 44,
+              "url": "https://t.co/8T5cmSIzaA"
+            },
+            {
+              "display_url": "pic.x.com/8T5cmSIzaA",
+              "end": 67,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047114839343258/video/1",
+              "media_key": "7_2032047080039165952",
+              "start": 44,
+              "url": "https://t.co/8T5cmSIzaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032047114839343258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他娘不行了没有红贝印自残阳痿了没意思\nbtw声音调大可以听见我在放的歌\n#shtwt https://t.co/8T5cmSIzaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 2205,
+          "like_count": 5418,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1279
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T10:39:31.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt #shtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2032043767713452032",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032047608798302418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032044042373173248/P0TOWWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 3,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

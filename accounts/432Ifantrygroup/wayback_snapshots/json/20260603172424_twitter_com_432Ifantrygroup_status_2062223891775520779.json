@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062094984229036032",
+        "3_2062098556375244800"
+      ],
+      "media_source_tweet_id": [
+        "2062157362358575267",
+        "2062157362358575267"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062223891775520779",
+    "created_at": "2026-06-03T17:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062223891775520779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "753424463560052736",
+          "start": 3,
+          "username": "AcervoCharts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FI7BewAHoN",
+          "end": 90,
+          "expanded_url": "https://x.com/AcervoCharts/status/2062157362358575267/photo/1",
+          "media_key": "3_2062094984229036032",
+          "start": 67,
+          "url": "https://t.co/FI7BewAHoN"
+        },
+        {
+          "display_url": "pic.x.com/FI7BewAHoN",
+          "end": 90,
+          "expanded_url": "https://x.com/AcervoCharts/status/2062157362358575267/photo/1",
+          "media_key": "3_2062098556375244800",
+          "start": 67,
+          "url": "https://t.co/FI7BewAHoN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062223891775520779",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062157362358575267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcervoCharts: Veadinho chama atenção por seus cílios gigantes. https://t.co/FI7BewAHoN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2062094984229036032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4IdnQWIAA_0Gy.jpg",
+        "width": 761
+      },
+      {
+        "height": 900,
+        "media_key": "3_2062098556375244800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4LtiiXoAAJStE.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062094984229036032",
+            "3_2062098556375244800"
+          ],
+          "media_source_tweet_id": [
+            "2062157362358575267",
+            "2062157362358575267"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062223891775520779",
+        "created_at": "2026-06-03T17:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062223891775520779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "753424463560052736",
+              "start": 3,
+              "username": "AcervoCharts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FI7BewAHoN",
+              "end": 90,
+              "expanded_url": "https://x.com/AcervoCharts/status/2062157362358575267/photo/1",
+              "media_key": "3_2062094984229036032",
+              "start": 67,
+              "url": "https://t.co/FI7BewAHoN"
+            },
+            {
+              "display_url": "pic.x.com/FI7BewAHoN",
+              "end": 90,
+              "expanded_url": "https://x.com/AcervoCharts/status/2062157362358575267/photo/1",
+              "media_key": "3_2062098556375244800",
+              "start": 67,
+              "url": "https://t.co/FI7BewAHoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062223891775520779",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062157362358575267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcervoCharts: Veadinho chama atenção por seus cílios gigantes. https://t.co/FI7BewAHoN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062094984229036032",
+            "3_2062098556375244800"
+          ]
+        },
+        "author_id": "753424463560052736",
+        "conversation_id": "2062157362358575267",
+        "created_at": "2026-06-03T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062157362358575267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FI7BewAHoN",
+              "end": 72,
+              "expanded_url": "https://x.com/AcervoCharts/status/2062157362358575267/photo/1",
+              "media_key": "3_2062094984229036032",
+              "start": 49,
+              "url": "https://t.co/FI7BewAHoN"
+            },
+            {
+              "display_url": "pic.x.com/FI7BewAHoN",
+              "end": 72,
+              "expanded_url": "https://x.com/AcervoCharts/status/2062157362358575267/photo/1",
+              "media_key": "3_2062098556375244800",
+              "start": 49,
+              "url": "https://t.co/FI7BewAHoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062157362358575267",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 160017,
+          "like_count": 11601,
+          "quote_count": 688,
+          "reply_count": 226,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "Veadinho chama atenção por seus cílios gigantes. https://t.co/FI7BewAHoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4014,
+          "like_count": 41940,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 11681
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2059657365343883464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200665,
+          "following_count": 7599,
+          "like_count": 26407,
+          "listed_count": 321,
+          "media_count": 13528,
+          "tweet_count": 14472
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

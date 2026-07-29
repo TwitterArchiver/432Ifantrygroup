@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2055686607840358586",
+    "created_at": "2026-05-16T17:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055698584700637428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921588381844467712",
+          "start": 0,
+          "username": "fxxkXXww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055698584700637428",
+    "in_reply_to_user_id": "1921588381844467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055686607840358586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxxkXXww 还记得我吗老师😶‍🌫️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2055686607840358586",
+        "created_at": "2026-05-16T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055698584700637428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921588381844467712",
+              "start": 0,
+              "username": "fxxkXXww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055698584700637428",
+        "in_reply_to_user_id": "1921588381844467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055686607840358586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxxkXXww 还记得我吗老师😶‍🌫️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921588381844467712",
+        "conversation_id": "2055686607840358586",
+        "created_at": "2026-05-16T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055686607840358586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055686607840358586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是谁呀我想你了我想好多人我都不记得谁是谁了把认识的人全都发一遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2055520955645268179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 3831,
+          "like_count": 36825,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 9933
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T15:29:14.000Z",
+        "description": "做了mect*n已淡忘前世记忆\n不聊骚不线下不卖原味没有门槛",
+        "id": "1921588381844467712",
+        "location": " ",
+        "name": "爱我,谢谢",
+        "pinned_tweet_id": "2051796464876274169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055498730565140480/b1L79lBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 163,
+          "like_count": 7934,
+          "listed_count": 6,
+          "media_count": 146,
+          "tweet_count": 983
+        },
+        "username": "fxxkXXww",
+        "verified": false
+      }
+    ]
+  }
+}

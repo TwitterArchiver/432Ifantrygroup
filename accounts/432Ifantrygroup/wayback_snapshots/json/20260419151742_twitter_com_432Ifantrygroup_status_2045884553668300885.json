@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045882303940039042",
+    "created_at": "2026-04-19T15:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045884553668300885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017977830093860864",
+          "start": 0,
+          "username": "finoa0726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045884553668300885",
+    "in_reply_to_user_id": "2017977830093860864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045882303940039042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finoa0726 这个游戏真的非常好玩吗？我身边的朋友全在玩我靠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1930,
+        "media_key": "3_2045882294800666624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRvG4na0AA5t_I.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045882303940039042",
+        "created_at": "2026-04-19T15:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045884553668300885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017977830093860864",
+              "start": 0,
+              "username": "finoa0726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045884553668300885",
+        "in_reply_to_user_id": "2017977830093860864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045882303940039042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finoa0726 这个游戏真的非常好玩吗？我身边的朋友全在玩我靠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045882294800666624"
+          ]
+        },
+        "author_id": "2017977830093860864",
+        "conversation_id": "2045882303940039042",
+        "created_at": "2026-04-19T15:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045882303940039042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDVfbZwU0U",
+              "end": 74,
+              "expanded_url": "https://x.com/finoa0726/status/2045882303940039042/photo/1",
+              "media_key": "3_2045882294800666624",
+              "start": 51,
+              "url": "https://t.co/mDVfbZwU0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045882303940039042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哥每天坚持不懈的给我发洛克王国，我已经知道他的软肋了。哪天要是惹我生气了我就把他洛克王国的号盗了。 https://t.co/mDVfbZwU0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 3043,
+          "like_count": 24461,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 6470
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T15:06:43.000Z",
+        "description": "请你今天也过好。文案不可搬运。匿名信箱：https://t.co/skJ8ugHMdR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finoa072611457",
+                "end": 43,
+                "expanded_url": "https://ngl.link/finoa072611457",
+                "start": 20,
+                "url": "https://t.co/skJ8ugHMdR"
+              }
+            ]
+          }
+        },
+        "id": "2017977830093860864",
+        "name": "就把祝福别在襟上吧。",
+        "pinned_tweet_id": "2029484661173543224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017990376460800000/FgPb_TqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 109,
+          "like_count": 2729,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 3417
+        },
+        "username": "finoa0726",
+        "verified": false
+      }
+    ]
+  }
+}

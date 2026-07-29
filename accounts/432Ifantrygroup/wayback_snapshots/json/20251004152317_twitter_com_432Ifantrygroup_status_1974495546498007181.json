@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1936399012657258542",
+    "created_at": "2025-10-04T15:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974495546498007181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "756743549215879168",
+          "start": 0,
+          "username": "Derail777_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974495546498007181",
+    "in_reply_to_user_id": "756743549215879168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936399012657258542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Derail777_ 玩的狼人杀啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138716,
+        "height": 1080,
+        "media_key": "13_1936398530920300544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936398530920300544/img/427BB9OoAnL9P7pJ.jpg",
+        "public_metrics": {
+          "view_count": 52294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/640x360/0oKfnDE3WuELkJQw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936398530920300544/pl/le08lDAapzxHzPKP.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/1280x720/xb7qoDl2KlqzitN0.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/480x270/OVXj4pZxoELd4DSB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/1920x1080/9z8KOGYLwN7Z1N52.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1936399012657258542",
+        "created_at": "2025-10-04T15:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974495546498007181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756743549215879168",
+              "start": 0,
+              "username": "Derail777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974495546498007181",
+        "in_reply_to_user_id": "756743549215879168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936399012657258542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Derail777_ 玩的狼人杀啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936398530920300544"
+          ]
+        },
+        "author_id": "756743549215879168",
+        "conversation_id": "1936399012657258542",
+        "created_at": "2025-06-21T12:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T13:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936399012657258542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKZUDdcBCG",
+              "end": 33,
+              "expanded_url": "https://x.com/Derail777_/status/1936399012657258542/video/1",
+              "media_key": "13_1936398530920300544",
+              "start": 10,
+              "url": "https://t.co/SKZUDdcBCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936399012657258542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 249183,
+          "like_count": 941,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "室友在玩游戏qaq https://t.co/SKZUDdcBCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "1882798400342786096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 1216,
+          "like_count": 2746,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 184
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T06:51:36.000Z",
+        "description": "hi，还是原来的小D",
+        "id": "756743549215879168",
+        "location": "上海",
+        "name": "小D老师",
+        "pinned_tweet_id": "1904567412101726432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799142645119471616/I31UOq0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81734,
+          "following_count": 0,
+          "like_count": 17,
+          "listed_count": 159,
+          "media_count": 51,
+          "tweet_count": 72
+        },
+        "username": "Derail777_",
+        "verified": true
+      }
+    ]
+  }
+}

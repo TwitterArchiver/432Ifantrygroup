@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048310354015621270",
+    "created_at": "2026-04-27T06:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048658165047406797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647731558269485058",
+          "start": 0,
+          "username": "LijunZhou182088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048658165047406797",
+    "in_reply_to_user_id": "1647731558269485058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048657712574259653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LijunZhou182088 法律的制定没有公民的参与，公民就没有义务遵守法律。离岸粉红更是难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048310354015621270",
+        "created_at": "2026-04-27T06:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048658165047406797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647731558269485058",
+              "start": 0,
+              "username": "LijunZhou182088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048658165047406797",
+        "in_reply_to_user_id": "1647731558269485058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048657712574259653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LijunZhou182088 法律的制定没有公民的参与，公民就没有义务遵守法律。离岸粉红更是难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647731558269485058",
+        "conversation_id": "2048310354015621270",
+        "created_at": "2026-04-27T06:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048657712574259653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048657712574259653",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048647679258042624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 你脑袋有坑我需要翻墙吗？你都不遵守法律就没权利要求政府遵守法律"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048656713625313291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 3360,
+          "like_count": 28917,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 7679
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T22:40:12.000Z",
+        "description": "别cue我，我在潜水吃瓜",
+        "id": "1647731558269485058",
+        "name": "虾仁猪心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027254324364247040/IqTYl_Sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 16,
+          "like_count": 284,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 4290
+        },
+        "username": "LijunZhou182088",
+        "verified": false
+      }
+    ]
+  }
+}

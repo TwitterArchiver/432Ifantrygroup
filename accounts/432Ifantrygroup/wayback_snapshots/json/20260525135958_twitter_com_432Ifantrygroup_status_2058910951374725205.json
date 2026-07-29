@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058910567574958355",
+    "created_at": "2026-05-25T13:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058910951374725205"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058910951374725205",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058910567574958355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "故意杀人罪并不等于死刑，望周知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058910567574958355",
+        "created_at": "2026-05-25T13:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058910951374725205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058910951374725205",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910567574958355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "故意杀人罪并不等于死刑，望周知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058910567574958355",
+        "created_at": "2026-05-25T13:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058910567574958355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure07288/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/shigure07288/status/2058908960539975934",
+              "start": 132,
+              "url": "https://t.co/ufZyCbYKk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058910567574958355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058908960539975934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还认真思考过这个问题，我的建议是按照密接等级进行划分,我们以粉发女被网暴案为例：\n煽动、组织、传播、制作有关受害人相关音视频内容的，犯故意杀人罪；直接在受害者生前账号里留下有关恶意评论的，犯故意伤害罪；在受害者有关事件的内容下留下有关恶意评论的，犯寻衅滋事罪。 https://t.co/ufZyCbYKk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058794876662374831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 3886,
+          "like_count": 38349,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 10480
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

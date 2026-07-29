@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060018615064367104",
+        "3_2060018615458680832"
+      ],
+      "media_source_tweet_id": [
+        "2060018618038149273",
+        "2060018618038149273"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060049907088752822",
+    "created_at": "2026-05-28T17:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060049907088752822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RmD4jMRiYV",
+          "end": 46,
+          "expanded_url": "https://x.com/neko0202002/status/2060018618038149273/photo/1",
+          "media_key": "3_2060018615064367104",
+          "start": 23,
+          "url": "https://t.co/RmD4jMRiYV"
+        },
+        {
+          "display_url": "pic.x.com/RmD4jMRiYV",
+          "end": 46,
+          "expanded_url": "https://x.com/neko0202002/status/2060018618038149273/photo/1",
+          "media_key": "3_2060018615458680832",
+          "start": 23,
+          "url": "https://t.co/RmD4jMRiYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060049907088752822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060018618038149273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 是这个傻逼 https://t.co/RmD4jMRiYV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060018615064367104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaoBBWakAA9EQ7.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060018615458680832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaoBC0bUAAMe-k.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060018615064367104",
+            "3_2060018615458680832"
+          ],
+          "media_source_tweet_id": [
+            "2060018618038149273",
+            "2060018618038149273"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060049907088752822",
+        "created_at": "2026-05-28T17:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060049907088752822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmD4jMRiYV",
+              "end": 46,
+              "expanded_url": "https://x.com/neko0202002/status/2060018618038149273/photo/1",
+              "media_key": "3_2060018615064367104",
+              "start": 23,
+              "url": "https://t.co/RmD4jMRiYV"
+            },
+            {
+              "display_url": "pic.x.com/RmD4jMRiYV",
+              "end": 46,
+              "expanded_url": "https://x.com/neko0202002/status/2060018618038149273/photo/1",
+              "media_key": "3_2060018615458680832",
+              "start": 23,
+              "url": "https://t.co/RmD4jMRiYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060049907088752822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060018618038149273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 是这个傻逼 https://t.co/RmD4jMRiYV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060018615064367104",
+            "3_2060018615458680832"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2060018618038149273",
+        "created_at": "2026-05-28T15:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060018618038149273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmD4jMRiYV",
+              "end": 29,
+              "expanded_url": "https://x.com/neko0202002/status/2060018618038149273/photo/1",
+              "media_key": "3_2060018615064367104",
+              "start": 6,
+              "url": "https://t.co/RmD4jMRiYV"
+            },
+            {
+              "display_url": "pic.x.com/RmD4jMRiYV",
+              "end": 29,
+              "expanded_url": "https://x.com/neko0202002/status/2060018618038149273/photo/1",
+              "media_key": "3_2060018615458680832",
+              "start": 6,
+              "url": "https://t.co/RmD4jMRiYV"
+            },
+            {
+              "display_url": "x.com/Kuromi_ooooo/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Kuromi_ooooo/status/2060008171478057447",
+              "start": 30,
+              "url": "https://t.co/4HikbjOaTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060018618038149273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060008171478057447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这个傻逼 https://t.co/RmD4jMRiYV https://t.co/4HikbjOaTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2060039923676397927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 3957,
+          "like_count": 40066,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 11134
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 956,
+          "like_count": 1646,
+          "listed_count": 2,
+          "media_count": 1493,
+          "tweet_count": 4160
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

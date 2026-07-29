@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059318474867146795",
+    "created_at": "2026-05-26T17:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059325968846880826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818456444611555328",
+          "start": 2,
+          "username": "wzdxhnqad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059325968846880826",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059318474867146795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个@wzdxhnqad"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059318461730582528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQrOu7a8AAzZvo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2210,
+        "media_key": "3_2059318461353123841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQrOthbYAEckfA.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059318461718048768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQrOu4bsAArzpA.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059318474867146795",
+        "created_at": "2026-05-26T17:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059325968846880826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818456444611555328",
+              "start": 2,
+              "username": "wzdxhnqad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059325968846880826",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059318474867146795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个@wzdxhnqad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059318461730582528",
+            "3_2059318461353123841",
+            "3_2059318461718048768"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059318474867146795",
+        "created_at": "2026-05-26T16:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059318474867146795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ows9yF3jg",
+              "end": 140,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059318474867146795/photo/1",
+              "media_key": "3_2059318461730582528",
+              "start": 117,
+              "url": "https://t.co/3ows9yF3jg"
+            },
+            {
+              "display_url": "pic.x.com/3ows9yF3jg",
+              "end": 140,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059318474867146795/photo/1",
+              "media_key": "3_2059318461353123841",
+              "start": 117,
+              "url": "https://t.co/3ows9yF3jg"
+            },
+            {
+              "display_url": "pic.x.com/3ows9yF3jg",
+              "end": 140,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059318474867146795/photo/1",
+              "media_key": "3_2059318461718048768",
+              "start": 117,
+              "url": "https://t.co/3ows9yF3jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059318474867146795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恳请各位看到的推友来帮我骂这个傻逼，这关乎一个人的生命，你的帮助能帮我尝试挽回一个人的生命，感谢各位。\n​帮她骂这个人是很有必要的，因为受害者本就处于一个精神极度崩溃的状态下，我们必须用一场完全的胜利来为尝试挽回这个人的生命做准备。 https://t.co/3ows9yF3jg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059318474867146795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 3900,
+          "like_count": 38660,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 10674
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T01:19:57.000Z",
+        "description": "碎碎念 叫我初初就好",
+        "id": "1818456444611555328",
+        "location": "地球入",
+        "name": "我睡觉的时候没睡醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057721058816294912/iLrP7w6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 112
+        },
+        "username": "wzdxhnqad",
+        "verified": false
+      }
+    ]
+  }
+}

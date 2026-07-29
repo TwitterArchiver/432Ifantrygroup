@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048040671601430716",
+    "created_at": "2026-04-25T14:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048040671601430716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2003755092915494912",
+          "start": 3,
+          "username": "tYIeF7yiBY37028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048040671601430716",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047841031136411700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tYIeF7yiBY37028: So she tried to stop a man from smoking at a bus stop... then the real nightmare beganRepost (not my own). A Shenzhen…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048040671601430716",
+        "created_at": "2026-04-25T14:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048040671601430716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2003755092915494912",
+              "start": 3,
+              "username": "tYIeF7yiBY37028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048040671601430716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047841031136411700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tYIeF7yiBY37028: So she tried to stop a man from smoking at a bus stop... then the real nightmare beganRepost (not my own). A Shenzhen…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003755092915494912",
+        "conversation_id": "2047841031136411700",
+        "created_at": "2026-04-25T00:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047841031136411700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047841031136411700",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "So she tried to stop a man from smoking at a bus stop... then the real nightmare beganRepost (not my own). A Shenzhen woman's true account, faithfully translated. What happened after she asked a man to stop smoking is disturbing. Read and share."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047981379359776796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 3262,
+          "like_count": 28033,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 7406
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T09:10:49.000Z",
+        "description": "",
+        "id": "2003755092915494912",
+        "name": "深海鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024137435048013824/0Zzn-tvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 31
+        },
+        "username": "tYIeF7yiBY37028",
+        "verified": false
+      }
+    ]
+  }
+}

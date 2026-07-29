@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059632713167208859",
+    "created_at": "2026-05-27T15:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059654710538457201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1455183357944340483",
+          "start": 0,
+          "username": "ETOH6O3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059654710538457201",
+    "in_reply_to_user_id": "1455183357944340483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059654154830975207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ETOH6O3 太真实了，就实验报告写字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059632713167208859",
+        "created_at": "2026-05-27T15:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059654710538457201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1455183357944340483",
+              "start": 0,
+              "username": "ETOH6O3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059654710538457201",
+        "in_reply_to_user_id": "1455183357944340483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059654154830975207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ETOH6O3 太真实了，就实验报告写字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455183357944340483",
+        "conversation_id": "2059632713167208859",
+        "created_at": "2026-05-27T15:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059654154830975207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059654154830975207",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059632713167208859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 想起我上学期一共就用掉了以一支笔芯，不过这学期三门实验课的报告消耗的有点多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059548405635153933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 3925,
+          "like_count": 39292,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 10871
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T14:42:13.000Z",
+        "description": "喜爱政治历史的工科大学生\n\n世界观塑造.ing||群众||左翼民族主义（大中华）|泛左乐子人|建左|旺座||兔(曾经)|粉红（帽子）|基本盘（帽子+1）\n\n毛左/社民欢迎交流||LGBT友好交流||目田/殖人/绿娃/民国派/皇汉❌️\n\n术力口||三体||原神|崩铁||三国杀\n\nC艹|py||sv||FPGA|STM32",
+        "id": "1455183357944340483",
+        "location": "中国广东省广州市番禺区",
+        "name": "ETOH6O3",
+        "pinned_tweet_id": "2058248197135598076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458006766319333376/9bi6c7NB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 56,
+          "like_count": 2606,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 1810
+        },
+        "username": "ETOH6O3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036055831956140032",
+        "3_2036055831968706560"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036055839853949290",
+    "created_at": "2026-03-23T12:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036055839853949290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0f5SK3qzz",
+          "end": 43,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2036055839853949290/photo/1",
+          "media_key": "3_2036055831956140032",
+          "start": 20,
+          "url": "https://t.co/C0f5SK3qzz"
+        },
+        {
+          "display_url": "pic.x.com/C0f5SK3qzz",
+          "end": 43,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2036055839853949290/photo/1",
+          "media_key": "3_2036055831968706560",
+          "start": 20,
+          "url": "https://t.co/C0f5SK3qzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036055839853949290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我直接就是一个超大杯庆祝一下逃课成功😋 https://t.co/C0f5SK3qzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2036055831956140032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGF_d6bsAABD8h.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2036055831968706560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGF_d9bcAAdID8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036055831956140032",
+            "3_2036055831968706560"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036055839853949290",
+        "created_at": "2026-03-23T12:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036055839853949290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0f5SK3qzz",
+              "end": 43,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2036055839853949290/photo/1",
+              "media_key": "3_2036055831956140032",
+              "start": 20,
+              "url": "https://t.co/C0f5SK3qzz"
+            },
+            {
+              "display_url": "pic.x.com/C0f5SK3qzz",
+              "end": 43,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2036055839853949290/photo/1",
+              "media_key": "3_2036055831968706560",
+              "start": 20,
+              "url": "https://t.co/C0f5SK3qzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036055839853949290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我直接就是一个超大杯庆祝一下逃课成功😋 https://t.co/C0f5SK3qzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 2664,
+          "like_count": 11025,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2932
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

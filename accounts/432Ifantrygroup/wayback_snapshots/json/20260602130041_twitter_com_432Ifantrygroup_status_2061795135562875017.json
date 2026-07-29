@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061795117762236416"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2061793398584226236",
+    "created_at": "2026-06-02T13:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061795135562875017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Fmu58D5yO",
+          "end": 43,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2061795135562875017/photo/1",
+          "media_key": "3_2061795117762236416",
+          "start": 20,
+          "url": "https://t.co/0Fmu58D5yO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061795135562875017",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061793398584226236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 我也特别佩服她哎 https://t.co/0Fmu58D5yO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2061795117762236416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJz3vFnaUAAgy08.jpg",
+        "width": 1417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061795117762236416"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2061793398584226236",
+        "created_at": "2026-06-02T13:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061795135562875017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Fmu58D5yO",
+              "end": 43,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2061795135562875017/photo/1",
+              "media_key": "3_2061795117762236416",
+              "start": 20,
+              "url": "https://t.co/0Fmu58D5yO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061795135562875017",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061793398584226236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 我也特别佩服她哎 https://t.co/0Fmu58D5yO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Savage X Fenty",
+              "id": "988436857640837120",
+              "name": "Savage X Fenty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rihanna",
+              "id": "806558580715311104",
+              "name": "Rihanna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "2061793398584226236",
+        "created_at": "2026-06-02T12:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061793398584226236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ji_chunsheng/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ji_chunsheng/status/2061503310620717164",
+              "start": 43,
+              "url": "https://t.co/8SwliSPb0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061793398584226236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061503310620717164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克的女儿真的意志好坚定。。要是我我就不行了 我会坚定的选择花不完的钱 特别佩服她 https://t.co/8SwliSPb0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061780063906083041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 3999,
+          "like_count": 41479,
+          "listed_count": 4,
+          "media_count": 458,
+          "tweet_count": 11555
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子。\n主页许多内容都是我转载的比较认可的",
+        "id": "1986760052955652096",
+        "name": "one",
+        "pinned_tweet_id": "2055995869632360478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 48,
+          "like_count": 8371,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3975
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

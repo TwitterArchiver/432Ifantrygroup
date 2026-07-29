@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036863990949961853",
+    "created_at": "2026-03-25T18:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T19:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036870455488110947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        },
+        {
+          "end": 27,
+          "id": "1759608933470310400",
+          "start": 11,
+          "username": "d1YWXa4nki18550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036870455488110947",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036865292845097432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes @d1YWXa4nki18550 好聪明耶👍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036865292845097432].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036865292845097432",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036865292845097432"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036863990949961853",
+        "created_at": "2026-03-25T18:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T19:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036870455488110947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            },
+            {
+              "end": 27,
+              "id": "1759608933470310400",
+              "start": 11,
+              "username": "d1YWXa4nki18550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036870455488110947",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036865292845097432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes @d1YWXa4nki18550 好聪明耶👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036518135612973442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2712,
+          "like_count": 13164,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3506
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜中抑重焦｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 关注就是喜欢你）\n二次深空沈星回高浓度梦女 纸性恋已有老公\n喜欢我可以给我打赏\n🚪52纯绿 获得一个碎碎念的我\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant28452",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant28452",
+                "start": 0,
+                "url": "https://t.co/TbbxjotPeC"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "啦啦啦啦",
+        "name": "Croissant",
+        "pinned_tweet_id": "2034848066705240169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034143537328181248/xBnFbECc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 608,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/TbbxjotPeC",
+        "username": "kittsayes",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T16:00:44.000Z",
+        "description": "少女祈祷中…..",
+        "id": "1759608933470310400",
+        "name": "迷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025654711131820032/Zy7STlUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "username": "d1YWXa4nki18550",
+        "verified": false
+      }
+    ]
+  }
+}

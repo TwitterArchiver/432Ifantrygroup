@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051594376154062970",
+    "created_at": "2026-05-05T09:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051594376154062970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1824764938641887232",
+          "start": 3,
+          "username": "yh9401700442687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051594376154062970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022659747623932075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yh9401700442687: 马克思出生之前工业革命没有进入欧洲，他8岁的时候英国修了第一条铁路，19岁的时候出现了第一台实用电报机，他25的时候德国已经有了70万产业工人。\n\n同时他出生前滑铁卢战败拿破仑被流放，写《宣言》的时候那个拿破仑的侄子回来选总统成了民选皇…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2022659741189836805",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHuUW8akAUYk-h.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051594376154062970",
+        "created_at": "2026-05-05T09:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051594376154062970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1824764938641887232",
+              "start": 3,
+              "username": "yh9401700442687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051594376154062970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022659747623932075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yh9401700442687: 马克思出生之前工业革命没有进入欧洲，他8岁的时候英国修了第一条铁路，19岁的时候出现了第一台实用电报机，他25的时候德国已经有了70万产业工人。\n\n同时他出生前滑铁卢战败拿破仑被流放，写《宣言》的时候那个拿破仑的侄子回来选总统成了民选皇…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022659741189836805"
+          ]
+        },
+        "author_id": "1824764938641887232",
+        "conversation_id": "2022659747623932075",
+        "created_at": "2026-02-14T13:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022659747623932075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZHWNzLMDSS",
+              "end": 161,
+              "expanded_url": "https://x.com/yh9401700442687/status/2022659747623932075/photo/1",
+              "media_key": "3_2022659741189836805",
+              "start": 138,
+              "url": "https://t.co/ZHWNzLMDSS"
+            },
+            {
+              "display_url": "x.com/jz86574932/sta…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/jz86574932/status/2022475885886972302",
+              "start": 162,
+              "url": "https://t.co/NgWiJQFdnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022659747623932075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8205,
+          "like_count": 64,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022475885886972302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马克思出生之前工业革命没有进入欧洲，他8岁的时候英国修了第一条铁路，19岁的时候出现了第一台实用电报机，他25的时候德国已经有了70万产业工人。\n\n同时他出生前滑铁卢战败拿破仑被流放，写《宣言》的时候那个拿破仑的侄子回来选总统成了民选皇帝，然后就是普法战争直接促成巴黎公社。 https://t.co/ZHWNzLMDSS https://t.co/NgWiJQFdnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051339459158012265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 3536,
+          "like_count": 31824,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 8514
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T11:07:36.000Z",
+        "description": "五帝三皇神圣事，骗了无涯过客",
+        "id": "1824764938641887232",
+        "name": "渊泉",
+        "pinned_tweet_id": "2026235506481418435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021872576193343490/Ara_bImP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 122,
+          "like_count": 1279,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 2023
+        },
+        "username": "yh9401700442687",
+        "verified": false
+      }
+    ]
+  }
+}

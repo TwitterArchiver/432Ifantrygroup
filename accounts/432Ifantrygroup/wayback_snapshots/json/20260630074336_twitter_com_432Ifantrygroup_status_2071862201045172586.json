@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2071862201045172586",
+    "created_at": "2026-06-30T07:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071862201045172586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1430650939665522692",
+          "start": 3,
+          "username": "tuitero_rafael"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/X2N",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/X2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071862201045172586",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43841
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071387436022698091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitero_rafael: “o ar condicionado está destruindo o planeta”\n\nenquanto isso estados unidos e israel no oriente médio: https://t.co/X2N…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18853,
+        "height": 360,
+        "media_key": "13_2071387362718892032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071387362718892032/img/nTn93DrL9sB3m2Ti.jpg",
+        "public_metrics": {
+          "view_count": 1653277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071387362718892032/vid/avc1/360x270/8ifUqpSlhw_afjYz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071387362718892032/vid/avc1/482x360/-GOBKLsBkt2drXUp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071387362718892032/pl/GIdqhj3ek0D_FlZH.m3u8?v=cfc"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2071862201045172586",
+        "created_at": "2026-06-30T07:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071862201045172586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1430650939665522692",
+              "start": 3,
+              "username": "tuitero_rafael"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/X2N",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/X2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071862201045172586",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43841
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071387436022698091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitero_rafael: “o ar condicionado está destruindo o planeta”\n\nenquanto isso estados unidos e israel no oriente médio: https://t.co/X2N…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071387362718892032"
+          ]
+        },
+        "author_id": "1430650939665522692",
+        "conversation_id": "2071387436022698091",
+        "created_at": "2026-06-29T00:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071387436022698091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2N9Q7K68d",
+              "end": 126,
+              "expanded_url": "https://x.com/tuitero_rafael/status/2071387436022698091/video/1",
+              "media_key": "13_2071387362718892032",
+              "start": 103,
+              "url": "https://t.co/X2N9Q7K68d"
+            },
+            {
+              "display_url": "x.com/gusholderhaber…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/gusholderhaber/status/2070965018905170292",
+              "start": 127,
+              "url": "https://t.co/GQqMPuaM9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071387436022698091",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6951,
+          "impression_count": 5627618,
+          "like_count": 345352,
+          "quote_count": 118,
+          "reply_count": 196,
+          "retweet_count": 43841
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070965018905170292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“o ar condicionado está destruindo o planeta”\n\nenquanto isso estados unidos e israel no oriente médio: https://t.co/X2N9Q7K68d https://t.co/GQqMPuaM9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 4213,
+          "like_count": 44538,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 12770
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T21:59:25.000Z",
+        "description": "because lacração killed my grandma ok",
+        "id": "1430650939665522692",
+        "location": "coitadolandia",
+        "name": "Rafael, um socialista de iPhone",
+        "pinned_tweet_id": "1909959154455785865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801664892430090240/imX4MbwM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46795,
+          "following_count": 293,
+          "like_count": 16204,
+          "listed_count": 97,
+          "media_count": 66,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "tuitero_rafael",
+        "verified": false
+      }
+    ]
+  }
+}

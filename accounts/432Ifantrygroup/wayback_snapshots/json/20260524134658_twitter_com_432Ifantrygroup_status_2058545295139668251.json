@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058545286092632064"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058545295139668251",
+    "created_at": "2026-05-24T13:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058545295139668251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MK8kEFIwKr",
+          "end": 23,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2058545295139668251/photo/1",
+          "media_key": "3_2058545286092632064",
+          "start": 0,
+          "url": "https://t.co/MK8kEFIwKr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058545295139668251",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MK8kEFIwKr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2058545286092632064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFsB_ObMAAsAs5.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058545286092632064"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058545295139668251",
+        "created_at": "2026-05-24T13:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058545295139668251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MK8kEFIwKr",
+              "end": 23,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2058545295139668251/photo/1",
+              "media_key": "3_2058545286092632064",
+              "start": 0,
+              "url": "https://t.co/MK8kEFIwKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058545295139668251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MK8kEFIwKr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058030329898967507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 3875,
+          "like_count": 38008,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 10330
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

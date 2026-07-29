@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047952234684551600",
+    "created_at": "2026-04-25T08:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047955301492834688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047955301492834688",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047952234684551600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ 手性是产生旋光性的必要条件（内消旋体除外）。有手性，通常就有旋光性。而旋光性左旋右旋是实验室中测出来的，是指偏振光往哪里偏，左旋右旋和R/S构型没有任何直接的关系，他俩是两回事。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2047952176623050752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvJp3Sa4AA7qEu.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047952234684551600",
+        "created_at": "2026-04-25T08:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047955301492834688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047955301492834688",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047952234684551600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ 手性是产生旋光性的必要条件（内消旋体除外）。有手性，通常就有旋光性。而旋光性左旋右旋是实验室中测出来的，是指偏振光往哪里偏，左旋右旋和R/S构型没有任何直接的关系，他俩是两回事。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047952176623050752"
+          ]
+        },
+        "author_id": "1924482734396997632",
+        "conversation_id": "2047952234684551600",
+        "created_at": "2026-04-25T08:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047952234684551600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkdxXSUoQZ",
+              "end": 92,
+              "expanded_url": "https://x.com/_vvni_/status/2047952234684551600/photo/1",
+              "media_key": "3_2047952176623050752",
+              "start": 69,
+              "url": "https://t.co/WkdxXSUoQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047952234684551600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旋光性到底是什么玩意啊？我已经完全被搞懵了，和手性有没有关系？平时说的左旋右旋是旋光性还是手性？那为什么又说从结构上看不出来是什么旋光性 https://t.co/WkdxXSUoQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047901916865429638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 3251,
+          "like_count": 27913,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 7354
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 331,
+          "like_count": 38300,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "_vvni_",
+        "verified": false
+      }
+    ]
+  }
+}

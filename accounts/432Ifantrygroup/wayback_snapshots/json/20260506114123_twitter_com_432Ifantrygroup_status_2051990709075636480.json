@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2051990709075636480",
+    "created_at": "2026-05-06T11:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051990709075636480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051990709075636480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051987572315046234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 这点诅咒算什么，共产党人从投身革命的那一刻起就完全做好了尸骨无存的准备，笑着迎向死亡的怀抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051990709075636480",
+        "created_at": "2026-05-06T11:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051990709075636480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051990709075636480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051987572315046234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 这点诅咒算什么，共产党人从投身革命的那一刻起就完全做好了尸骨无存的准备，笑着迎向死亡的怀抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2051987572315046234",
+        "created_at": "2026-05-06T11:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051987572315046234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quarktalksss/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/quarktalksss/status/2051847163370754088",
+              "start": 46,
+              "url": "https://t.co/04XI2P9g4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051987572315046234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051847163370754088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这点诅咒算什么，共产党人从投身革命的那一刻起就完全做好了尸骨无存的准备，笑着迎向死亡的怀抱 https://t.co/04XI2P9g4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2051824257039282403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 3603,
+          "like_count": 32741,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 8767
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

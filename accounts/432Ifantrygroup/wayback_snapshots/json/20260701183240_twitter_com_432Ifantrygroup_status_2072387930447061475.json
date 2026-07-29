@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2072384767308534175",
+    "created_at": "2026-07-01T18:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T19:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072387930447061475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010422988236369920",
+          "start": 0,
+          "username": "jvziqwq555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/18003…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/status/1800358207912886507",
+          "start": 12,
+          "url": "https://t.co/OOIegED3iE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072387930447061475",
+    "in_reply_to_user_id": "2010422988236369920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800358207912886507",
+        "type": "quoted"
+      },
+      {
+        "id": "2072384767308534175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jvziqwq555 https://t.co/OOIegED3iE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1800358198039474176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPwoPg6a8AA1m0E.jpg",
+        "width": 664
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1800358198043705344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPwoPg7bgAAgAGJ.jpg",
+        "width": 396
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1800358198039425024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPwoPg6aMAAiRZL.jpg",
+        "width": 326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2072384767308534175",
+        "created_at": "2026-07-01T18:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072387930447061475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010422988236369920",
+              "start": 0,
+              "username": "jvziqwq555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18003…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/1800358207912886507",
+              "start": 12,
+              "url": "https://t.co/OOIegED3iE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072387930447061475",
+        "in_reply_to_user_id": "2010422988236369920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800358207912886507",
+            "type": "quoted"
+          },
+          {
+            "id": "2072384767308534175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jvziqwq555 https://t.co/OOIegED3iE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1800358198039474176",
+            "3_1800358198043705344",
+            "3_1800358198039425024"
+          ]
+        },
+        "author_id": "1600562687041495040",
+        "conversation_id": "1800358207912886507",
+        "created_at": "2024-06-11T02:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T03:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800358207912886507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uA9PTjBAAJ",
+              "end": 127,
+              "expanded_url": "https://x.com/vitamindds/status/1800358207912886507/photo/1",
+              "media_key": "3_1800358198039474176",
+              "start": 104,
+              "url": "https://t.co/uA9PTjBAAJ"
+            },
+            {
+              "display_url": "pic.x.com/uA9PTjBAAJ",
+              "end": 127,
+              "expanded_url": "https://x.com/vitamindds/status/1800358207912886507/photo/1",
+              "media_key": "3_1800358198043705344",
+              "start": 104,
+              "url": "https://t.co/uA9PTjBAAJ"
+            },
+            {
+              "display_url": "pic.x.com/uA9PTjBAAJ",
+              "end": 127,
+              "expanded_url": "https://x.com/vitamindds/status/1800358207912886507/photo/1",
+              "media_key": "3_1800358198039425024",
+              "start": 104,
+              "url": "https://t.co/uA9PTjBAAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800358207912886507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 186857,
+          "like_count": 599,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "【潮吹教程+进阶玩法分享】\n✨女生自慰、男女、女女都适用\n✨如何成功解锁潮吹？👉事前准备、具体步骤、注意事项\n✨解锁后如何进阶？女生怎么“夹”另一半？怎么把女生“干哭”？👉进阶玩法\n（3k字超详细，请品🤲） https://t.co/uA9PTjBAAJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010422988236369920",
+        "conversation_id": "2072384767308534175",
+        "created_at": "2026-07-01T18:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072384767308534175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072384767308534175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我连抠逼都不会，他妈的为什么他们这么爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 4219,
+          "like_count": 44806,
+          "listed_count": 4,
+          "media_count": 539,
+          "tweet_count": 12922
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:46:16.000Z",
+        "description": "我是橘子/10/od/自伤/自设厨/双相/重焦/LGBT友好/画画/森口 术力口爱好者/同类回fo\n很唐比 谢谢你们愿意和我玩...",
+        "id": "2010422988236369920",
+        "name": "橘酱在哭",
+        "pinned_tweet_id": "2033949619986518419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069355805728722944/034YjzV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 152,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "jvziqwq555",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T18:47:43.000Z",
+        "description": "@vitamindvv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "vitamindvv"
+              }
+            ]
+          }
+        },
+        "id": "1600562687041495040",
+        "name": "·vitamind·",
+        "pinned_tweet_id": "1800358207912886507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746100125565648896/62Cgg15q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5415,
+          "following_count": 64,
+          "like_count": 51,
+          "listed_count": 32,
+          "media_count": 42,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "vitamindds",
+        "verified": false
+      }
+    ]
+  }
+}

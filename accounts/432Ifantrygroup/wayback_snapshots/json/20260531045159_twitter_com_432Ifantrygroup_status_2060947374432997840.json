@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2060749652056825894",
+    "created_at": "2026-05-31T04:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060947374432997840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040081214460055552",
+          "start": 0,
+          "username": "siosio_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060947374432997840",
+    "in_reply_to_user_id": "2040081214460055552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060749652056825894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siosio_official 你是不是有觉得我不应该存在这样的念头？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2060749652056825894",
+        "created_at": "2026-05-31T04:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060947374432997840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040081214460055552",
+              "start": 0,
+              "username": "siosio_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060947374432997840",
+        "in_reply_to_user_id": "2040081214460055552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060749652056825894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siosio_official 你是不是有觉得我不应该存在这样的念头？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040081214460055552",
+        "conversation_id": "2060749652056825894",
+        "created_at": "2026-05-30T15:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060749652056825894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forownblueprin…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/forownblueprint/status/2060637982273802672",
+              "start": 101,
+              "url": "https://t.co/OYFXTBndGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060749652056825894",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 135748,
+          "like_count": 2698,
+          "quote_count": 203,
+          "reply_count": 3,
+          "retweet_count": 875
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060637982273802672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "나는 사실 자살이 아니라 걍 소멸되고 싶음\n내가 죽어서 누가 슬퍼한다면 그것도 존나 낭비인 거 같아서 딱히 슬퍼할 사람도 없겠지만 걍 깔끔하게 처음부터 없었던 것처럼 소멸되고 싶음 https://t.co/OYFXTBndGH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 3995,
+          "like_count": 40826,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 11356
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:57:28.000Z",
+        "description": "",
+        "id": "2040081214460055552",
+        "name": "단발충",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040086417502871552/g-xhrbNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 109,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4844
+        },
+        "username": "siosio_official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049172986721194278",
+    "created_at": "2026-04-29T01:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T02:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049303558932332817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906229079541522432",
+          "start": 0,
+          "username": "baiye12255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049303558932332817",
+    "in_reply_to_user_id": "1906229079541522432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049303477629632756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiye12255 已严肃练习"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049172986721194278",
+        "created_at": "2026-04-29T01:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049303558932332817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906229079541522432",
+              "start": 0,
+              "username": "baiye12255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049303558932332817",
+        "in_reply_to_user_id": "1906229079541522432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049303477629632756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiye12255 已严肃练习"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906229079541522432",
+        "conversation_id": "2049172986721194278",
+        "created_at": "2026-04-29T01:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049303477629632756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049303477629632756",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049172986721194278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 确实有点说不过去🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049198556431712278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 3407,
+          "like_count": 29787,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 7986
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T06:17:03.000Z",
+        "description": "宁宁ovo｜enfp｜女权｜Re0｜祝大家天天开心｜五月天🥕｜🌟匿名提问https://t.co/gMewtiUGim｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%99%BD%E5%A…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E7%99%BD%E5%A4%9C52455",
+                "start": 36,
+                "url": "https://t.co/gMewtiUGim"
+              }
+            ]
+          }
+        },
+        "id": "1906229079541522432",
+        "location": "日本",
+        "name": "白夜ovo",
+        "pinned_tweet_id": "1956032814165713356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049302882248445952/KN3qSgpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 79,
+          "like_count": 2954,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1008
+        },
+        "username": "baiye12255",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049726421111894118",
+    "created_at": "2026-04-30T08:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049764747294461955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029061443568713731",
+          "start": 0,
+          "username": "maoxiansql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049764747294461955",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049726421111894118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxiansql 我会怀念我在高中和同学一起翘自习、吃烧烤、跑到职工活动中心打台球的日子，但我绝不想再上一次高中了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049726407350394881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIXTrzboAE-iAh.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049726421111894118",
+        "created_at": "2026-04-30T08:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764747294461955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxiansql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764747294461955",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049726421111894118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxiansql 我会怀念我在高中和同学一起翘自习、吃烧烤、跑到职工活动中心打台球的日子，但我绝不想再上一次高中了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049726407350394881"
+          ]
+        },
+        "author_id": "2029061443568713731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049726421111894118",
+        "created_at": "2026-04-30T05:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049726421111894118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evSTwVzz0w",
+              "end": 40,
+              "expanded_url": "https://x.com/maoxiansql/status/2049726421111894118/photo/1",
+              "media_key": "3_2049726407350394881",
+              "start": 17,
+              "url": "https://t.co/evSTwVzz0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049726421111894118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日提问：你会怀念你的校园生活吗 https://t.co/evSTwVzz0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 3437,
+          "like_count": 30410,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 8118
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "前世@maoxian1527 | 🏳️‍⚧️友好 | 顺女 | 🍣梦女 | fo友巡回 | 地铁迷🚇 | 摄影📷 | apple |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "maoxian1527"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029061783508652032/3ACAbPrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 27,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 116
+        },
+        "username": "maoxiansql",
+        "verified": false
+      }
+    ]
+  }
+}

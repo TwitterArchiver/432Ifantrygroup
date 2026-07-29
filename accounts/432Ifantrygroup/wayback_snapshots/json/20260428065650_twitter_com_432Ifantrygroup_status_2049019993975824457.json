@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049019993975824457",
+    "created_at": "2026-04-28T06:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049019993975824457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/orange219695619/status/2049016033948979432",
+          "start": 18,
+          "url": "https://t.co/afQYhCmXpK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049019993975824457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049016033948979432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧典中典群众愚蠢，被煽动、被蒙蔽 https://t.co/afQYhCmXpK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049016031503663104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-ROXjbQAAiZni.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049019993975824457",
+        "created_at": "2026-04-28T06:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049019993975824457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/orange219695619/status/2049016033948979432",
+              "start": 18,
+              "url": "https://t.co/afQYhCmXpK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049019993975824457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049016033948979432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧典中典群众愚蠢，被煽动、被蒙蔽 https://t.co/afQYhCmXpK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049016031503663104"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2049016033948979432",
+        "created_at": "2026-04-28T06:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049016033948979432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htRo4caKcf",
+              "end": 27,
+              "expanded_url": "https://x.com/orange219695619/status/2049016033948979432/photo/1",
+              "media_key": "3_2049016031503663104",
+              "start": 4,
+              "url": "https://t.co/htRo4caKcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049016033948979432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好笑 https://t.co/htRo4caKcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048785928278487404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 3389,
+          "like_count": 29319,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 7833
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 87,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1761
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

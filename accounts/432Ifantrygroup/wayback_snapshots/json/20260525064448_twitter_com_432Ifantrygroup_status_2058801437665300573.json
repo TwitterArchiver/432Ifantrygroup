@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2058799993742409753",
+    "created_at": "2026-05-25T06:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058801437665300573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878790796394053632",
+          "start": 0,
+          "username": "shikinimomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058801437665300573",
+    "in_reply_to_user_id": "1878790796394053632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058799993742409753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikinimomo 好呀老师🥹🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2058799993742409753",
+        "created_at": "2026-05-25T06:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058801437665300573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878790796394053632",
+              "start": 0,
+              "username": "shikinimomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058801437665300573",
+        "in_reply_to_user_id": "1878790796394053632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058799993742409753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikinimomo 好呀老师🥹🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878790796394053632",
+        "conversation_id": "2058799993742409753",
+        "created_at": "2026-05-25T06:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058799993742409753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058799993742409753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以后每天跟新一点我的过往你们想看吗，今天晚上讲一些我被霸凌的故事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2058722574331486500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 3878,
+          "like_count": 38166,
+          "listed_count": 4,
+          "media_count": 413,
+          "tweet_count": 10418
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T13:06:57.000Z",
+        "description": "我是momo 希望你幸福",
+        "id": "1878790796394053632",
+        "location": "极乐",
+        "name": "忧",
+        "pinned_tweet_id": "2056726769885954121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939710303601561600/IuE-ovwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 317,
+          "like_count": 1534,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 955
+        },
+        "username": "shikinimomo",
+        "verified": false
+      }
+    ]
+  }
+}

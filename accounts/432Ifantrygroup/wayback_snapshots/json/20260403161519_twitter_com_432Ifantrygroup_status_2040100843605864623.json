@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2040073397024211420",
+    "created_at": "2026-04-03T16:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040100843605864623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779799340191817728",
+          "start": 0,
+          "username": "yezi03281"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040100843605864623",
+    "in_reply_to_user_id": "1779799340191817728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040094055653376355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezi03281 👍👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2040073397024211420",
+        "created_at": "2026-04-03T16:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040100843605864623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779799340191817728",
+              "start": 0,
+              "username": "yezi03281"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040100843605864623",
+        "in_reply_to_user_id": "1779799340191817728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040094055653376355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezi03281 👍👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779799340191817728",
+        "conversation_id": "2040073397024211420",
+        "created_at": "2026-04-03T15:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040094055653376355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040094055653376355",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040078317702037654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 谢谢关心  已严肃缝针  还被迫打了个破伤风🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2040027095276118435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 2721,
+          "like_count": 18008,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 4674
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T09:10:11.000Z",
+        "description": "一款脑袋空空里面全是水的神经病",
+        "id": "1779799340191817728",
+        "location": "床底下",
+        "name": "椰子",
+        "pinned_tweet_id": "1785159258742612070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782012453943226368/CgE3Q2sh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 60
+        },
+        "username": "yezi03281",
+        "verified": false
+      }
+    ]
+  }
+}

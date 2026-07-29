@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2054436781677023562",
+    "created_at": "2026-05-13T05:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054438813121098090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054438813121098090",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054436781677023562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过实事求是地说，这些激进的尝试很大一部分在斯大林上台后被终止了，苏联的掘墓人在我看来就是斯大林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054436781677023562",
+        "created_at": "2026-05-13T05:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054438813121098090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054438813121098090",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054436781677023562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过实事求是地说，这些激进的尝试很大一部分在斯大林上台后被终止了，苏联的掘墓人在我看来就是斯大林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2054436781677023562",
+        "created_at": "2026-05-13T05:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054436781677023562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2054435048309534946",
+              "start": 143,
+              "url": "https://t.co/ANFWD8fnCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054436781677023562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054435048309534946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苏联创造的世界第一有：\n第一个立法保障非婚生子权利、第一个自然保护区、第一个植树造林计划、第一个带薪产假制度、​第一个把女性选举权写入宪法、​第一个实现全面扫盲、第一个带薪休假制度、​第一个8小时工作制、​第一颗人造地球卫星、​​第一个进入太空、第一位女宇航员女坦克手和女战斗机飞行员 https://t.co/ANFWD8fnCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054346706662412789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 3779,
+          "like_count": 35932,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 9648
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

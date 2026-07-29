@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047157874691068121",
+    "created_at": "2026-04-23T15:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047343209437913126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494068245279563776",
+          "start": 0,
+          "username": "mr_liang123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047343209437913126",
+    "in_reply_to_user_id": "1494068245279563776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047342266608652621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mr_liang123 你也很清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T15:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047343209437913126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494068245279563776",
+              "start": 0,
+              "username": "mr_liang123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047343209437913126",
+        "in_reply_to_user_id": "1494068245279563776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047342266608652621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mr_liang123 你也很清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494068245279563776",
+        "conversation_id": "2047157874691068121",
+        "created_at": "2026-04-23T15:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047342266608652621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047342266608652621",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047157874691068121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup “野生猫”和“流浪猫”根本就是两个品种，你能在城市里见到无主猫往前溯源99%来自于人为遗弃和出逃，或为前二者的后代，真正的本土野生种群和城市流浪猫品种差异巨大，家猫野化程度较高的种群也不会在城市内。“野生狗”也是有点伪命题，高度驯化的物种还怎么个野生法呢？家狗野化也是只在野外出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 3180,
+          "like_count": 26826,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 7039
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T21:56:52.000Z",
+        "description": "喜欢吃饭",
+        "id": "1494068245279563776",
+        "name": "youjustyou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046163836160602113/BjbRGSc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "mr_liang123",
+        "verified": false
+      }
+    ]
+  }
+}

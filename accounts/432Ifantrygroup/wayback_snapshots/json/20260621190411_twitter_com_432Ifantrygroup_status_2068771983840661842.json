@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068771983840661842",
+    "created_at": "2026-06-21T19:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068771983840661842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "320767676",
+          "start": 3,
+          "username": "PerspCommuniste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068771983840661842",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068373988313641198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @PerspCommuniste: 🇩🇪🚩 20 juin 1933 - Décès de Clara Zetkin.\n\nMilitante communiste allemande (membre du KPD).\n\nFigure historique du fémin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2068373985796947970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRXLm4WAAIVZL7.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068771983840661842",
+        "created_at": "2026-06-21T19:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068771983840661842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "320767676",
+              "start": 3,
+              "username": "PerspCommuniste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068771983840661842",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068373988313641198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @PerspCommuniste: 🇩🇪🚩 20 juin 1933 - Décès de Clara Zetkin.\n\nMilitante communiste allemande (membre du KPD).\n\nFigure historique du fémin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068373985796947970"
+          ]
+        },
+        "author_id": "320767676",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465696502051864584",
+              "name": "International Women's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1465696502051864584",
+              "name": "International Women's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465696502051864584",
+              "name": "International Women's Day"
+            }
+          }
+        ],
+        "conversation_id": "2068373988313641198",
+        "created_at": "2026-06-20T16:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068373988313641198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0y8DxvO3eU",
+              "end": 279,
+              "expanded_url": "https://x.com/PerspCommuniste/status/2068373988313641198/photo/1",
+              "media_key": "3_2068373985796947970",
+              "start": 256,
+              "url": "https://t.co/0y8DxvO3eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068373988313641198",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2019,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "following",
+        "text": "🇩🇪🚩 20 juin 1933 - Décès de Clara Zetkin.\n\nMilitante communiste allemande (membre du KPD).\n\nFigure historique du féminisme socialiste, elle est à  l'origine de la Journée internationale des femmes du 8 mars.\n\nElle sera députée au Reichstag de 1920 à 1933. https://t.co/0y8DxvO3eU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 4186,
+          "like_count": 43436,
+          "listed_count": 4,
+          "media_count": 516,
+          "tweet_count": 12322
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-20T14:02:02.000Z",
+        "description": "🎙️ USSR state-affiliated media\n\n🚩 Communisme\n🚩 Marxisme-Léninisme\n🚩 Internationalisme\n🚩 Autodétermination des peuples\n🇨🇺 Forceur de blocus\n\n🌐 IMCWP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "editoweb.eu/nicolas_maury/",
+                "end": 23,
+                "expanded_url": "http://www.editoweb.eu/nicolas_maury/",
+                "start": 0,
+                "url": "https://t.co/cTIurmtq9u"
+              }
+            ]
+          }
+        },
+        "id": "320767676",
+        "location": "Komintern",
+        "name": "Perspective communiste ☭🔻",
+        "pinned_tweet_id": "1882059943672770863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922542253953761280/5U1GJzCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18522,
+          "following_count": 872,
+          "like_count": 92599,
+          "listed_count": 64,
+          "media_count": 12648,
+          "tweet_count": 36740
+        },
+        "url": "https://t.co/cTIurmtq9u",
+        "username": "PerspCommuniste",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2042234024262082946",
+    "created_at": "2026-04-09T15:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042262859909132417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747999697506340864",
+          "start": 0,
+          "username": "CoCI2Na2CO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042262859909132417",
+    "in_reply_to_user_id": "1747999697506340864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042250627271815555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoCI2Na2CO3 🥹🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2042234024262082946",
+        "created_at": "2026-04-09T15:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042262859909132417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747999697506340864",
+              "start": 0,
+              "username": "CoCI2Na2CO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042262859909132417",
+        "in_reply_to_user_id": "1747999697506340864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042250627271815555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoCI2Na2CO3 🥹🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747999697506340864",
+        "conversation_id": "2042234024262082946",
+        "created_at": "2026-04-09T14:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042250627271815555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042250627271815555",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042238995934134753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 诶谢谢你，我不想这些了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2042110335428202840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 2879,
+          "like_count": 21176,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 5541
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T15:09:50.000Z",
+        "description": "我只是你渴望蓝天时无尽的黑夜",
+        "id": "1747999697506340864",
+        "location": "黑与白之间",
+        "name": "Seraph",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041142421246058496/DBwWTUwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 47,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 805
+        },
+        "username": "CoCI2Na2CO3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068327469665468416",
+        "3_2068327469656969216"
+      ],
+      "media_source_tweet_id": [
+        "2068327475793256869",
+        "2068327475793256869"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2068409291158237195",
+    "created_at": "2026-06-20T19:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T20:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068409291158237195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816862464769695744",
+          "start": 3,
+          "username": "uor2v2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ndINrwRCpE",
+          "end": 54,
+          "expanded_url": "https://x.com/uor2v2/status/2068327475793256869/photo/1",
+          "media_key": "3_2068327469665468416",
+          "start": 31,
+          "url": "https://t.co/ndINrwRCpE"
+        },
+        {
+          "display_url": "pic.x.com/ndINrwRCpE",
+          "end": 54,
+          "expanded_url": "https://x.com/uor2v2/status/2068327475793256869/photo/1",
+          "media_key": "3_2068327469656969216",
+          "start": 31,
+          "url": "https://t.co/ndINrwRCpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068409291158237195",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068327475793256869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @uor2v2: 7 years difference https://t.co/ndINrwRCpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068327469665468416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQs4AyXwAA-NqY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2068327469656969216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQs4AwWEAAcQ9z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068327469665468416",
+            "3_2068327469656969216"
+          ],
+          "media_source_tweet_id": [
+            "2068327475793256869",
+            "2068327475793256869"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2068409291158237195",
+        "created_at": "2026-06-20T19:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T20:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068409291158237195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816862464769695744",
+              "start": 3,
+              "username": "uor2v2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndINrwRCpE",
+              "end": 54,
+              "expanded_url": "https://x.com/uor2v2/status/2068327475793256869/photo/1",
+              "media_key": "3_2068327469665468416",
+              "start": 31,
+              "url": "https://t.co/ndINrwRCpE"
+            },
+            {
+              "display_url": "pic.x.com/ndINrwRCpE",
+              "end": 54,
+              "expanded_url": "https://x.com/uor2v2/status/2068327475793256869/photo/1",
+              "media_key": "3_2068327469656969216",
+              "start": 31,
+              "url": "https://t.co/ndINrwRCpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068409291158237195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068327475793256869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @uor2v2: 7 years difference https://t.co/ndINrwRCpE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068327469665468416",
+            "3_2068327469656969216"
+          ]
+        },
+        "author_id": "1816862464769695744",
+        "conversation_id": "2068327475793256869",
+        "created_at": "2026-06-20T13:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068327475793256869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndINrwRCpE",
+              "end": 42,
+              "expanded_url": "https://x.com/uor2v2/status/2068327475793256869/photo/1",
+              "media_key": "3_2068327469665468416",
+              "start": 19,
+              "url": "https://t.co/ndINrwRCpE"
+            },
+            {
+              "display_url": "pic.x.com/ndINrwRCpE",
+              "end": 42,
+              "expanded_url": "https://x.com/uor2v2/status/2068327475793256869/photo/1",
+              "media_key": "3_2068327469656969216",
+              "start": 19,
+              "url": "https://t.co/ndINrwRCpE"
+            },
+            {
+              "display_url": "x.com/pampinolic/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/pampinolic/status/2067211903789633776",
+              "start": 43,
+              "url": "https://t.co/D0TnVrrfAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068327475793256869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 173946,
+          "like_count": 5738,
+          "quote_count": 18,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067211903789633776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "7 years difference https://t.co/ndINrwRCpE https://t.co/D0TnVrrfAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 4175,
+          "like_count": 43251,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 12240
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T15:45:47.000Z",
+        "description": "It is not allowed to save photos| 404 | #lwl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 40,
+                "tag": "lwl"
+              }
+            ]
+          }
+        },
+        "id": "1816862464769695744",
+        "location": "مبتعث ( مصر )",
+        "name": "CE | Lumel",
+        "pinned_tweet_id": "1981008574932463970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064395883450343424/T65XDywS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 211,
+          "like_count": 3376,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "uor2v2",
+        "verified": false
+      }
+    ]
+  }
+}

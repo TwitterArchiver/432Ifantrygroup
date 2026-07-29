@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059823328265912320",
+        "3_2059823327397695488"
+      ],
+      "media_source_tweet_id": [
+        "2059823333932437574",
+        "2059823333932437574"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059823555823710663",
+    "created_at": "2026-05-28T02:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059823555823710663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUTk6BBYe7",
+          "end": 98,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2059823333932437574/photo/1",
+          "media_key": "3_2059823328265912320",
+          "start": 75,
+          "url": "https://t.co/kUTk6BBYe7"
+        },
+        {
+          "display_url": "pic.x.com/kUTk6BBYe7",
+          "end": 98,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2059823333932437574/photo/1",
+          "media_key": "3_2059823327397695488",
+          "start": 75,
+          "url": "https://t.co/kUTk6BBYe7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059823555823710663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059823333932437574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 1.这是机器人吗？\n2.都是，但kards已经不咋玩了，欢迎找我玩战雷但是我接下来要期末了可能不会怎么玩啦 https://t.co/kUTk6BBYe7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059823328265912320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJX2Z1VaQAAu0AA.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059823327397695488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJX2ZyGaUAA5I_L.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059823328265912320",
+            "3_2059823327397695488"
+          ],
+          "media_source_tweet_id": [
+            "2059823333932437574",
+            "2059823333932437574"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059823555823710663",
+        "created_at": "2026-05-28T02:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059823555823710663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUTk6BBYe7",
+              "end": 98,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059823333932437574/photo/1",
+              "media_key": "3_2059823328265912320",
+              "start": 75,
+              "url": "https://t.co/kUTk6BBYe7"
+            },
+            {
+              "display_url": "pic.x.com/kUTk6BBYe7",
+              "end": 98,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059823333932437574/photo/1",
+              "media_key": "3_2059823327397695488",
+              "start": 75,
+              "url": "https://t.co/kUTk6BBYe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059823555823710663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059823333932437574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 1.这是机器人吗？\n2.都是，但kards已经不咋玩了，欢迎找我玩战雷但是我接下来要期末了可能不会怎么玩啦 https://t.co/kUTk6BBYe7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059823328265912320",
+            "3_2059823327397695488"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059823333932437574",
+        "created_at": "2026-05-28T02:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059823333932437574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUTk6BBYe7",
+              "end": 77,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059823333932437574/photo/1",
+              "media_key": "3_2059823328265912320",
+              "start": 54,
+              "url": "https://t.co/kUTk6BBYe7"
+            },
+            {
+              "display_url": "pic.x.com/kUTk6BBYe7",
+              "end": 77,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2059823333932437574/photo/1",
+              "media_key": "3_2059823327397695488",
+              "start": 54,
+              "url": "https://t.co/kUTk6BBYe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059823333932437574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1.这是机器人吗？\n2.都是，但kards已经不咋玩了，欢迎找我玩战雷但是我接下来要期末了可能不会怎么玩啦 https://t.co/kUTk6BBYe7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052713217882042684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 3942,
+          "like_count": 39611,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 10996
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

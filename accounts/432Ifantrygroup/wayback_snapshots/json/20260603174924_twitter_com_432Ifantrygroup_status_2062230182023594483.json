@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2062230182023594483",
+    "created_at": "2026-06-03T17:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062230182023594483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tyomateee2/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/tyomateee2/status/2062158945096241408",
+          "start": 11,
+          "url": "https://t.co/Bh4rN809vU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062230182023594483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062158945096241408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯，这大概率是咸的。 https://t.co/Bh4rN809vU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14258,
+        "height": 1280,
+        "media_key": "7_2058215484567490560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058215484567490560/pu/img/4SPdl_QJtQsRPiOA.jpg",
+        "public_metrics": {
+          "view_count": 316459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058215484567490560/pu/vid/avc1/320x568/WVBpuq59Z4r3ynyu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058215484567490560/pu/vid/avc1/480x852/SV4kGLeCjdqBEWIh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058215484567490560/pu/vid/avc1/720x1280/G-NhTRJzaNxe8CIH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058215484567490560/pu/pl/zSMTjoUHPfjwGTtE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062230182023594483",
+        "created_at": "2026-06-03T17:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062230182023594483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tyomateee2/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/tyomateee2/status/2062158945096241408",
+              "start": 11,
+              "url": "https://t.co/Bh4rN809vU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062230182023594483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062158945096241408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯，这大概率是咸的。 https://t.co/Bh4rN809vU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058215484567490560"
+          ],
+          "media_source_tweet_id": [
+            "2058215801161916714"
+          ]
+        },
+        "author_id": "1064317162028822528",
+        "conversation_id": "2062158945096241408",
+        "created_at": "2026-06-03T13:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062158945096241408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhrIkAArfH",
+              "end": 55,
+              "expanded_url": "https://x.com/beautyquotes0/status/2058215801161916714/video/1",
+              "media_key": "7_2058215484567490560",
+              "start": 32,
+              "url": "https://t.co/YhrIkAArfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062158945096241408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 284957,
+          "like_count": 5370,
+          "quote_count": 35,
+          "reply_count": 155,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "人間に拾われた子猫、ハムを食べながら涙を流す様子が撮影される。 https://t.co/YhrIkAArfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 4014,
+          "like_count": 41968,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 11690
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-19T00:39:20.000Z",
+        "description": "【利用規約に従い、スパムツイートは一切しません。また動画のツイートはX社が規定する引用元を明記したツイートをしています。】当人が運営しているアカウントは最多情報局 もふもふ動画 カイガイノワダイです。他 癒し垢等の運営とは一切関係ありません。 削除申請はDMまたはメールまでお願い致します。",
+        "id": "1064317162028822528",
+        "location": "aokun4321@gmail.com",
+        "name": "もふもふ動画",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161172534789906432/xKRolaCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293644,
+          "following_count": 859,
+          "like_count": 13736,
+          "listed_count": 4415,
+          "media_count": 12008,
+          "tweet_count": 32863
+        },
+        "username": "tyomateee2",
+        "verified": true
+      }
+    ]
+  }
+}

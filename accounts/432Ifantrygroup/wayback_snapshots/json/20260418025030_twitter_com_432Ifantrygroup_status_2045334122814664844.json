@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2045329237108981887",
+    "created_at": "2026-04-18T02:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045334122814664844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687593213886935040",
+          "start": 0,
+          "username": "ChaNgeMiNd34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045334122814664844",
+    "in_reply_to_user_id": "1687593213886935040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045329237108981887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaNgeMiNd34 😢🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2045329237108981887",
+        "created_at": "2026-04-18T02:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045334122814664844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687593213886935040",
+              "start": 0,
+              "username": "ChaNgeMiNd34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045334122814664844",
+        "in_reply_to_user_id": "1687593213886935040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045329237108981887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaNgeMiNd34 😢🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687593213886935040",
+        "conversation_id": "2045329237108981887",
+        "created_at": "2026-04-18T02:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045329237108981887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045329237108981887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我精神崩溃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045192579353027051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2942,
+          "like_count": 23579,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 6250
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T22:36:05.000Z",
+        "description": "我的世界不是我的，我的身体不是我的，我的世界不是我的，我的身体不是我的，我的世界不是我的，我的身体不是我的。",
+        "id": "1687593213886935040",
+        "location": "地府 不聊骚骚扰我全家死完",
+        "name": "帶狀皰疹患者",
+        "pinned_tweet_id": "2040861622194053540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035700345033441280/L_lgOMHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 34,
+          "like_count": 2815,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2691
+        },
+        "username": "ChaNgeMiNd34",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061370971802759168",
+        "3_2061370975141453824"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061370988806435040",
+    "created_at": "2026-06-01T08:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061370988806435040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6NQcO2jWh7",
+          "end": 80,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2061370988806435040/photo/1",
+          "media_key": "3_2061370971802759168",
+          "start": 57,
+          "url": "https://t.co/6NQcO2jWh7"
+        },
+        {
+          "display_url": "pic.x.com/6NQcO2jWh7",
+          "end": 80,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2061370988806435040/photo/1",
+          "media_key": "3_2061370975141453824",
+          "start": 57,
+          "url": "https://t.co/6NQcO2jWh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061370988806435040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家母给我邮来两样我深恶痛绝根本不会吃的东西，问了一圈舍友也根本不吃。\n我要不给个互关邮过去得了，免费，邮费我也出 https://t.co/6NQcO2jWh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061370971802759168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt1-iya8AAyXPK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2061370975141453824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt1-vObYAA_nwL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061370971802759168",
+            "3_2061370975141453824"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061370988806435040",
+        "created_at": "2026-06-01T08:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061370988806435040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NQcO2jWh7",
+              "end": 80,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2061370988806435040/photo/1",
+              "media_key": "3_2061370971802759168",
+              "start": 57,
+              "url": "https://t.co/6NQcO2jWh7"
+            },
+            {
+              "display_url": "pic.x.com/6NQcO2jWh7",
+              "end": 80,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2061370988806435040/photo/1",
+              "media_key": "3_2061370975141453824",
+              "start": 57,
+              "url": "https://t.co/6NQcO2jWh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061370988806435040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家母给我邮来两样我深恶痛绝根本不会吃的东西，问了一圈舍友也根本不吃。\n我要不给个互关邮过去得了，免费，邮费我也出 https://t.co/6NQcO2jWh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2061158581903540619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 4000,
+          "like_count": 41133,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 11457
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

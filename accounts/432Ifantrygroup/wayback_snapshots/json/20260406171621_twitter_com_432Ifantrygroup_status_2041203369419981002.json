@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1931004831159767384",
+    "created_at": "2026-04-06T17:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T18:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041203369419981002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1819993384830025728",
+          "start": 0,
+          "username": "WOw5UHU6aA67588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041203369419981002",
+    "in_reply_to_user_id": "1819993384830025728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931004831159767384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WOw5UHU6aA67588 疤痕尽量用长裤长袖遮起来。阳光中的紫外线会加重色素沉积"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931004821189914624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsxOp2qXcAANg5u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1931004831159767384",
+        "created_at": "2026-04-06T17:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T18:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041203369419981002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1819993384830025728",
+              "start": 0,
+              "username": "WOw5UHU6aA67588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041203369419981002",
+        "in_reply_to_user_id": "1819993384830025728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931004831159767384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WOw5UHU6aA67588 疤痕尽量用长裤长袖遮起来。阳光中的紫外线会加重色素沉积"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931004821189914624"
+          ]
+        },
+        "author_id": "1819993384830025728",
+        "conversation_id": "1931004831159767384",
+        "created_at": "2025-06-06T15:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T16:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931004831159767384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5aDK5GXPeI",
+              "end": 27,
+              "expanded_url": "https://x.com/WOw5UHU6aA67588/status/1931004831159767384/photo/1",
+              "media_key": "3_1931004821189914624",
+              "start": 4,
+              "url": "https://t.co/5aDK5GXPeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931004831159767384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kkk https://t.co/5aDK5GXPeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2041166209698480493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 2821,
+          "like_count": 19863,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 5190
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T07:07:01.000Z",
+        "description": "Busyday 🚪888无福利纯⭕",
+        "id": "1819993384830025728",
+        "name": "☠️🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840850489929560064/qLkndHkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 412,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 186
+        },
+        "username": "WOw5UHU6aA67588",
+        "verified": false
+      }
+    ]
+  }
+}

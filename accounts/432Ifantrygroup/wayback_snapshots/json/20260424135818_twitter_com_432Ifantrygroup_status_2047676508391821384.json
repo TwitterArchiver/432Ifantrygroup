@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047676508391821384",
+    "created_at": "2026-04-24T13:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047676508391821384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718148161515192320",
+          "start": 3,
+          "username": "Alex_mengfei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047676508391821384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047668874355904907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alex_mengfei: 上世纪，种族主义的纳粹迫害lgbt，资本主义的英美迫害lgbt，社会主义的苏联也迫害lgbt。\n\n对于图灵来说，英国和德国谁赢，不都是坐牢吗，他帮助英国破译德军密码，换来的是获罪和强制矫正。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047676508391821384",
+        "created_at": "2026-04-24T13:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047676508391821384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718148161515192320",
+              "start": 3,
+              "username": "Alex_mengfei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047676508391821384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047668874355904907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alex_mengfei: 上世纪，种族主义的纳粹迫害lgbt，资本主义的英美迫害lgbt，社会主义的苏联也迫害lgbt。\n\n对于图灵来说，英国和德国谁赢，不都是坐牢吗，他帮助英国破译德军密码，换来的是获罪和强制矫正。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718148161515192320",
+        "conversation_id": "2047668874355904907",
+        "created_at": "2026-04-24T13:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047668874355904907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/50munderazure/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/50munderazure/status/2016722703915319698",
+              "start": 96,
+              "url": "https://t.co/QIPxXluV6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047668874355904907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016722703915319698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上世纪，种族主义的纳粹迫害lgbt，资本主义的英美迫害lgbt，社会主义的苏联也迫害lgbt。\n\n对于图灵来说，英国和德国谁赢，不都是坐牢吗，他帮助英国破译德军密码，换来的是获罪和强制矫正。 https://t.co/QIPxXluV6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047588634040357233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 3218,
+          "like_count": 27415,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 7223
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T06:10:43.000Z",
+        "description": "#mtf\n精神状态不良好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "mtf"
+              }
+            ]
+          }
+        },
+        "id": "1718148161515192320",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911048994349780992/_lcoHHf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 48,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 145
+        },
+        "username": "Alex_mengfei",
+        "verified": false
+      }
+    ]
+  }
+}

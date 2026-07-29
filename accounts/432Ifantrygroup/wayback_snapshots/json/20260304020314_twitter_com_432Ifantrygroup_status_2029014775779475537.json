@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2028584487492141380",
+    "created_at": "2026-03-04T02:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T03:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029014775779475537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653818811219361794",
+          "start": 0,
+          "username": "cute_catte"
+        },
+        {
+          "end": 20,
+          "id": "1655156808",
+          "start": 12,
+          "username": "GetXBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029014775779475537",
+    "in_reply_to_user_id": "1653818811219361794",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028584487492141380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cute_catte @GetXBot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8613,
+        "height": 694,
+        "media_key": "13_2028584096515907584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028584096515907584/img/jvWIUshqZ4LTqUm9.jpg",
+        "public_metrics": {
+          "view_count": 354750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028584096515907584/vid/avc1/320x384/vpypZqKa-5fb_Nlt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028584096515907584/vid/avc1/480x578/fHAFJcNKT6JOsr6L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028584096515907584/vid/avc1/576x694/x4t8mJ0AhhVkY4Jq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028584096515907584/pl/XTVQU7U6SqrzMg66.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2028584487492141380",
+        "created_at": "2026-03-04T02:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029014775779475537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653818811219361794",
+              "start": 0,
+              "username": "cute_catte"
+            },
+            {
+              "end": 20,
+              "id": "1655156808",
+              "start": 12,
+              "username": "GetXBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029014775779475537",
+        "in_reply_to_user_id": "1653818811219361794",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028584487492141380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cute_catte @GetXBot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028584096515907584"
+          ]
+        },
+        "author_id": "1653818811219361794",
+        "conversation_id": "2028584487492141380",
+        "created_at": "2026-03-02T21:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028584487492141380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSCFmPzpbe",
+              "end": 23,
+              "expanded_url": "https://x.com/cute_catte/status/2028584487492141380/video/1",
+              "media_key": "13_2028584096515907584",
+              "start": 0,
+              "url": "https://t.co/YSCFmPzpbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028584487492141380",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2430,
+          "like_count": 87,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YSCFmPzpbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 1753,
+          "like_count": 3200,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 450
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T17:48:36.000Z",
+        "description": "",
+        "id": "1653818811219361794",
+        "name": "CAT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653841971453067266/7M0IUsMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 2,
+          "like_count": 31,
+          "listed_count": 5,
+          "media_count": 3133,
+          "tweet_count": 3141
+        },
+        "username": "cute_catte",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T11:34:32.000Z",
+        "description": "在推文中提及@GetXBot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。\n新功能：VIP会员可将推文通过私信发送给我获取视频下载链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "GetXBot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pay.getxbot.work",
+                "end": 23,
+                "expanded_url": "https://pay.getxbot.work",
+                "start": 0,
+                "url": "https://t.co/PMtZdQVrNl"
+              }
+            ]
+          }
+        },
+        "id": "1655156808",
+        "location": "订阅成为会员➤",
+        "name": "保存视频机器人",
+        "pinned_tweet_id": "2009751195653681430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922649828288524288/hXOId127_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523563,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 216,
+          "media_count": 9,
+          "tweet_count": 515230
+        },
+        "url": "https://t.co/PMtZdQVrNl",
+        "username": "GetXBot",
+        "verified": true
+      }
+    ]
+  }
+}

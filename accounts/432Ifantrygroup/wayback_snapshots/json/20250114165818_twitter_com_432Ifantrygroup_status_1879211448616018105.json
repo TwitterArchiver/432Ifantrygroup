@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1866002711684272579",
+    "created_at": "2025-01-14T16:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T17:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879211448616018105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793381335303909376",
+          "start": 0,
+          "username": "XinXiao74829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879211448616018105",
+    "in_reply_to_user_id": "1793381335303909376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866002711684272579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinXiao74829 初中就会翻墙，上大学了不得早饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1866002711684272579",
+        "created_at": "2025-01-14T16:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T17:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879211448616018105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793381335303909376",
+              "start": 0,
+              "username": "XinXiao74829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879211448616018105",
+        "in_reply_to_user_id": "1793381335303909376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866002711684272579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinXiao74829 初中就会翻墙，上大学了不得早饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793381335303909376",
+        "conversation_id": "1866002711684272579",
+        "created_at": "2024-12-09T06:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T07:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866002711684272579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866002711684272579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22761,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太吓人了被一个男初中生关注了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 609,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T20:40:15.000Z",
+        "description": "体育生勿扰 盗图全家死光光 蠢的别烦我",
+        "id": "1793381335303909376",
+        "location": "🚪",
+        "name": "会永远开心",
+        "pinned_tweet_id": "1852388032986718357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859241423486488576/X0yXpETw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 237,
+          "like_count": 1326,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 562
+        },
+        "username": "XinXiao74829",
+        "verified": false
+      }
+    ]
+  }
+}

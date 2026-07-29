@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048743820632956929",
+        "3_2048743821048180736"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2048743845530337338",
+    "created_at": "2026-04-27T12:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048743845530337338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DZKTbMVhSq",
+          "end": 51,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2048743845530337338/photo/1",
+          "media_key": "3_2048743820632956929",
+          "start": 28,
+          "url": "https://t.co/DZKTbMVhSq"
+        },
+        {
+          "display_url": "pic.x.com/DZKTbMVhSq",
+          "end": 51,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2048743845530337338/photo/1",
+          "media_key": "3_2048743821048180736",
+          "start": 28,
+          "url": "https://t.co/DZKTbMVhSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048743845530337338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "连罗科索夫斯基和朱可夫都分不清就在这丢人现眼了行不行？ https://t.co/DZKTbMVhSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2048743820632956929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ZpnCaoAE_5aH.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048743821048180736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ZpolacAA1h-4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048743820632956929",
+            "3_2048743821048180736"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048743845530337338",
+        "created_at": "2026-04-27T12:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048743845530337338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZKTbMVhSq",
+              "end": 51,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2048743845530337338/photo/1",
+              "media_key": "3_2048743820632956929",
+              "start": 28,
+              "url": "https://t.co/DZKTbMVhSq"
+            },
+            {
+              "display_url": "pic.x.com/DZKTbMVhSq",
+              "end": 51,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2048743845530337338/photo/1",
+              "media_key": "3_2048743821048180736",
+              "start": 28,
+              "url": "https://t.co/DZKTbMVhSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048743845530337338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连罗科索夫斯基和朱可夫都分不清就在这丢人现眼了行不行？ https://t.co/DZKTbMVhSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048703129471029448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 3366,
+          "like_count": 29051,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 7743
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

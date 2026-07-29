@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2032461601333473738",
+    "created_at": "2026-03-13T17:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032510367998554258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20321…",
+          "end": 59,
+          "expanded_url": "https://x.com/i/status/2032177565167993170",
+          "start": 36,
+          "url": "https://t.co/3H2wNpuYGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032510367998554258",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032177565167993170",
+        "type": "quoted"
+      },
+      {
+        "id": "2032461601333473738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 这是减张贴的原理呀，你好聪明🥹可以买一些那个，很好用。https://t.co/3H2wNpuYGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032177554732556288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO-uBZbIAAvAGt.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032177555156123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO-uC-aQAA_-x6.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032177554845765632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO-uB0akAAt9nu.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2032461601333473738",
+        "created_at": "2026-03-13T17:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032510367998554258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20321…",
+              "end": 59,
+              "expanded_url": "https://x.com/i/status/2032177565167993170",
+              "start": 36,
+              "url": "https://t.co/3H2wNpuYGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032510367998554258",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032177565167993170",
+            "type": "quoted"
+          },
+          {
+            "id": "2032461601333473738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 这是减张贴的原理呀，你好聪明🥹可以买一些那个，很好用。https://t.co/3H2wNpuYGN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032177554732556288",
+            "3_2032177555156123648",
+            "3_2032177554845765632"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2031415810703634709",
+        "created_at": "2026-03-12T19:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032177565167993170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4KnFq2hzu",
+              "end": 164,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2032177565167993170/photo/1",
+              "media_key": "3_2032177554732556288",
+              "start": 141,
+              "url": "https://t.co/b4KnFq2hzu"
+            },
+            {
+              "display_url": "pic.x.com/b4KnFq2hzu",
+              "end": 164,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2032177565167993170/photo/1",
+              "media_key": "3_2032177555156123648",
+              "start": 141,
+              "url": "https://t.co/b4KnFq2hzu"
+            },
+            {
+              "display_url": "pic.x.com/b4KnFq2hzu",
+              "end": 164,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2032177565167993170/photo/1",
+              "media_key": "3_2032177554845765632",
+              "start": 141,
+              "url": "https://t.co/b4KnFq2hzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032177565167993170",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031415810703634709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结痂前，脱落后全过程应该使用的药品顺序如下。\n结痂前用生长因子加快愈合，同时贴减张贴减少伤口恢复后的皮肤压力。结痂脱落后减张贴可以撕掉了，同时一定不能再涂生长因子了会导致增生，要在新皮肤表面涂硅酮类祛疤膏。\n最后恢复期戴那种紧紧的冰丝防晒套袖，避免紫外线刺激伤口的嫩肉导致色素沉积 https://t.co/b4KnFq2hzu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2032461601333473738",
+        "created_at": "2026-03-13T14:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032461601333473738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Lomyral/status/2029535922514190544",
+              "start": 40,
+              "url": "https://t.co/yDe1SrfW0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032461601333473738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029535922514190544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痂快脱落了，感觉不会留下很明显的疤，太好了，捏着伤口直到血液凝固这招真的有用。 https://t.co/yDe1SrfW0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男。\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "Жизнь — это движение.",
+        "pinned_tweet_id": "2031415810703634709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 2254,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1483
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.除了碎碎念就没别的了.不贩卖任何东西.互fo私信，会查成分选拒.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/TsibFHazM8"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 333,
+          "like_count": 27377,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/TsibFHazM8",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

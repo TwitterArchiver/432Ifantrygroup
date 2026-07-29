@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034294847151218688"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2034294867799785754",
+    "created_at": "2026-03-18T15:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T16:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034294867799785754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSNfgS2X0u",
+          "end": 34,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2034294867799785754/photo/1",
+          "media_key": "3_2034294847151218688",
+          "start": 11,
+          "url": "https://t.co/DSNfgS2X0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034294867799785754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这都能混个社会实践啊 https://t.co/DSNfgS2X0u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034294847151218688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtEYqTbIAATWW3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034294847151218688"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034294867799785754",
+        "created_at": "2026-03-18T15:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034294867799785754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSNfgS2X0u",
+              "end": 34,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2034294867799785754/photo/1",
+              "media_key": "3_2034294847151218688",
+              "start": 11,
+              "url": "https://t.co/DSNfgS2X0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034294867799785754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这都能混个社会实践啊 https://t.co/DSNfgS2X0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 2390,
+          "like_count": 8047,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 2060
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035044842548396034",
+    "created_at": "2026-03-21T07:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035251389904122256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "534400451",
+          "start": 0,
+          "username": "stparabellum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035251389904122256",
+    "in_reply_to_user_id": "534400451",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035249896043827680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stparabellum For us Chinese, it's difficult to say who was on the side of justice in this war."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035044842548396034",
+        "created_at": "2026-03-21T07:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035251389904122256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "534400451",
+              "start": 0,
+              "username": "stparabellum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035251389904122256",
+        "in_reply_to_user_id": "534400451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035249896043827680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stparabellum For us Chinese, it's difficult to say who was on the side of justice in this war."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "534400451",
+        "conversation_id": "2035044842548396034",
+        "created_at": "2026-03-21T06:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035249896043827680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035249896043827680",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035248070729007124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup Argies were also equipped with FALs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 2504,
+          "like_count": 9296,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2464
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-23T15:14:53.000Z",
+        "description": "War Aesthetics and Balaclavas",
+        "id": "534400451",
+        "location": "Sahara ☀️",
+        "name": "𝙉𝙞𝙛",
+        "pinned_tweet_id": "1766131555309654341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947415687355330560/y_m31G4P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47716,
+          "following_count": 254,
+          "like_count": 95684,
+          "listed_count": 129,
+          "media_count": 6615,
+          "tweet_count": 14658
+        },
+        "username": "stparabellum",
+        "verified": true
+      }
+    ]
+  }
+}

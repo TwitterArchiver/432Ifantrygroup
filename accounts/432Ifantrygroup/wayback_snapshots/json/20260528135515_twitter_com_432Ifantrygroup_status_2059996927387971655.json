@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059757965364588553"
+      ],
+      "media_source_tweet_id": [
+        "2059758107874513346"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2059996927387971655",
+    "created_at": "2026-05-28T13:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059996927387971655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1364889678395105280",
+          "start": 3,
+          "username": "Nguri__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UFM5nauAR0",
+          "end": 133,
+          "expanded_url": "https://x.com/Nguri__/status/2059758107874513346/video/1",
+          "media_key": "13_2059757965364588553",
+          "start": 110,
+          "url": "https://t.co/UFM5nauAR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059996927387971655",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1708
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059758107874513346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nguri__: Ce n'est pas ta fille, mais elle mérite le même respect.\nNe cesse pas de parler de la Palestine. https://t.co/UFM5nauAR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14074,
+        "height": 1278,
+        "media_key": "13_2059757965364588553",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059757965364588553/img/oWHLwEuPKGd6nuWR.jpg",
+        "public_metrics": {
+          "view_count": 17011
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059757965364588553/vid/avc1/320x568/PxoGb00nOE1HHV5Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059757965364588553/vid/avc1/480x854/xl_sS467HbjlkGpw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059757965364588553/vid/avc1/718x1278/gCkWss611oLtCgmn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059757965364588553/pl/yyG_wyz6Rp63_MXj.m3u8?v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059757965364588553"
+          ],
+          "media_source_tweet_id": [
+            "2059758107874513346"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2059996927387971655",
+        "created_at": "2026-05-28T13:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059996927387971655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1364889678395105280",
+              "start": 3,
+              "username": "Nguri__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFM5nauAR0",
+              "end": 133,
+              "expanded_url": "https://x.com/Nguri__/status/2059758107874513346/video/1",
+              "media_key": "13_2059757965364588553",
+              "start": 110,
+              "url": "https://t.co/UFM5nauAR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059996927387971655",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1708
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059758107874513346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nguri__: Ce n'est pas ta fille, mais elle mérite le même respect.\nNe cesse pas de parler de la Palestine. https://t.co/UFM5nauAR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059757965364588553"
+          ]
+        },
+        "author_id": "1364889678395105280",
+        "conversation_id": "2059758107874513346",
+        "created_at": "2026-05-27T22:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T23:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059758107874513346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFM5nauAR0",
+              "end": 120,
+              "expanded_url": "https://x.com/Nguri__/status/2059758107874513346/video/1",
+              "media_key": "13_2059757965364588553",
+              "start": 97,
+              "url": "https://t.co/UFM5nauAR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059758107874513346",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 46424,
+          "like_count": 5309,
+          "quote_count": 31,
+          "reply_count": 65,
+          "retweet_count": 1708
+        },
+        "reply_settings": "everyone",
+        "text": "Ce n'est pas ta fille, mais elle mérite le même respect.\nNe cesse pas de parler de la Palestine. https://t.co/UFM5nauAR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2059960193107271724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 3960,
+          "like_count": 39983,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 11094
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T10:47:26.000Z",
+        "description": "♡ ﷺ",
+        "id": "1364889678395105280",
+        "location": "𝒮ℯ𝓃ℯℊ𝒶𝓁 ",
+        "name": "N G U R I",
+        "pinned_tweet_id": "2059629435897171986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049235385176469504/072H7U2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58949,
+          "following_count": 11230,
+          "like_count": 72483,
+          "listed_count": 29,
+          "media_count": 6887,
+          "tweet_count": 64002
+        },
+        "username": "Nguri__",
+        "verified": true
+      }
+    ]
+  }
+}

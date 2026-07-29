@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2049697896891892000",
+    "created_at": "2026-04-30T04:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049701152892305823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2043185716579246080",
+          "start": 0,
+          "username": "Rianwty3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049701152892305823",
+    "in_reply_to_user_id": "2043185716579246080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049699873101054410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rianwty3 好🥺🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049697896891892000",
+        "created_at": "2026-04-30T04:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049701152892305823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043185716579246080",
+              "start": 0,
+              "username": "Rianwty3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049701152892305823",
+        "in_reply_to_user_id": "2043185716579246080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049699873101054410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rianwty3 好🥺🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043185716579246080",
+        "conversation_id": "2049697896891892000",
+        "created_at": "2026-04-30T03:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049699873101054410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049699873101054410",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049698327282008443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这几天精神状态太差了准备去看医生了💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049653781781196809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 3434,
+          "like_count": 30232,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 8087
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T04:34:38.000Z",
+        "description": "只是碎碎念，表达能力和拖鞋差不多\n叫我小蕾就好\n互fo快来找我玩",
+        "id": "2043185716579246080",
+        "name": "天使在此",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044821680703553536/vMedAp1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "Rianwty3",
+        "verified": false
+      }
+    ]
+  }
+}

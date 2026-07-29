@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2073697642111172672",
+    "created_at": "2026-07-05T09:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073697642111172672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "109281190",
+          "start": 3,
+          "username": "iamhelenuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073697642111172672",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6983
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073419836428796232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamhelenuki: Luego nos dirán que nos demos duchas de 5 minutos y que no pongamos el ventilador porque contamina mucho."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2073697642111172672",
+        "created_at": "2026-07-05T09:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073697642111172672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "109281190",
+              "start": 3,
+              "username": "iamhelenuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073697642111172672",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6983
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073419836428796232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamhelenuki: Luego nos dirán que nos demos duchas de 5 minutos y que no pongamos el ventilador porque contamina mucho."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "109281190",
+        "conversation_id": "2073419836428796232",
+        "created_at": "2026-07-04T14:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073419836428796232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alertanews24/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/alertanews24/status/2073329215534145961",
+              "start": 106,
+              "url": "https://t.co/z18HEvyEch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073419836428796232",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 659956,
+          "like_count": 51545,
+          "quote_count": 16,
+          "reply_count": 26,
+          "retweet_count": 6983
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073329215534145961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Luego nos dirán que nos demos duchas de 5 minutos y que no pongamos el ventilador porque contamina mucho. https://t.co/z18HEvyEch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 4231,
+          "like_count": 45260,
+          "listed_count": 4,
+          "media_count": 545,
+          "tweet_count": 13103
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-28T14:56:26.000Z",
+        "description": "Editora, colorista, realizadora y gestora de contenido 📩 helenukialhabla@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helenuki.com",
+                "end": 23,
+                "expanded_url": "http://helenuki.com",
+                "start": 0,
+                "url": "https://t.co/vVZFNeHHTo"
+              }
+            ]
+          }
+        },
+        "id": "109281190",
+        "location": "Valladolid, España",
+        "name": "Helenuki 🎀",
+        "pinned_tweet_id": "1973453284544499722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195014452879361/Rl3vLNqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10076,
+          "following_count": 810,
+          "like_count": 190807,
+          "listed_count": 5,
+          "media_count": 11837,
+          "tweet_count": 71610
+        },
+        "url": "https://t.co/vVZFNeHHTo",
+        "username": "iamhelenuki",
+        "verified": false
+      }
+    ]
+  }
+}

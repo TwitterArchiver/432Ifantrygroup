@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "1889202618003869970",
+    "created_at": "2025-02-11T08:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T09:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889231378363130189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802720725310345216",
+          "start": 0,
+          "username": "Xxxtac_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889231378363130189",
+    "in_reply_to_user_id": "1802720725310345216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889202618003869970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxtac_17 不要命啦？？？这旁边就是颈动脉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "1889202618003869970",
+        "created_at": "2025-02-11T08:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T09:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889231378363130189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802720725310345216",
+              "start": 0,
+              "username": "Xxxtac_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889231378363130189",
+        "in_reply_to_user_id": "1802720725310345216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889202618003869970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxtac_17 不要命啦？？？这旁边就是颈动脉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889202604758228992"
+          ]
+        },
+        "author_id": "1802720725310345216",
+        "conversation_id": "1889202618003869970",
+        "created_at": "2025-02-11T06:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T07:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889202618003869970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzTS3Ed7Ya",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1889202618003869970/photo/1",
+              "media_key": "3_1889202604758228992",
+              "start": 0,
+              "url": "https://t.co/MzTS3Ed7Ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889202618003869970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 347,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MzTS3Ed7Ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "",
+        "id": "1852895432269234176",
+        "name": "The problem is nomoney",
+        "pinned_tweet_id": "1853476353838076018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868132525543137280/90X7Fb7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 805,
+          "like_count": 1883,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 77
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T15:11:36.000Z",
+        "description": "我叫败狗 06 休学状态 OD/自伤/负能量 坐标相同请找我玩 门槛52/88(不同的号)半绿",
+        "id": "1802720725310345216",
+        "location": "0.01km",
+        "name": "忧郁的文盲69",
+        "pinned_tweet_id": "1877765952789770418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802720863877570560/vEGrNwL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 102,
+          "like_count": 296,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 336
+        },
+        "username": "Xxxtac_17",
+        "verified": false
+      }
+    ]
+  }
+}

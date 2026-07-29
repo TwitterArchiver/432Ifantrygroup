@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046995059409842283",
+    "created_at": "2026-04-22T16:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046995059409842283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiangS82390/st…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/JiangS82390/status/2046968257244971383",
+          "start": 73,
+          "url": "https://t.co/6SbMKsAXWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046995059409842283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046968257244971383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你要说思想上的遗产，那确实有。但你要是说CR时期的斗争形势可以指导后续工人运动那是滑天下之大稽，这种中央下指令造反的情况肯定是前无古人后无来者了 https://t.co/6SbMKsAXWE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046995059409842283",
+        "created_at": "2026-04-22T16:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046995059409842283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiangS82390/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/JiangS82390/status/2046968257244971383",
+              "start": 73,
+              "url": "https://t.co/6SbMKsAXWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046995059409842283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046968257244971383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要说思想上的遗产，那确实有。但你要是说CR时期的斗争形势可以指导后续工人运动那是滑天下之大稽，这种中央下指令造反的情况肯定是前无古人后无来者了 https://t.co/6SbMKsAXWE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969531286579789824",
+        "conversation_id": "2046955180672078260",
+        "created_at": "2026-04-22T15:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046968257244971383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881256183828496385",
+              "start": 0,
+              "username": "Line_XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046968257244971383",
+        "in_reply_to_user_id": "1881256183828496385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046955180672078260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Line_XII 一场大演习，提高了工人阶级的意识。没这场运动，它们那些家伙在改开后。不知道还会多无法无天🥶🥶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2046854132095656361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 3136,
+          "like_count": 26280,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 6900
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T22:38:51.000Z",
+        "description": "",
+        "id": "1969531286579789824",
+        "name": "江江河流水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969531731989708804/-qV7WK1a_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "username": "JiangS82390",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2046098520676114685",
+    "created_at": "2026-04-20T05:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046101501211501006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002374827559301125",
+          "start": 0,
+          "username": "TUTU971111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046101501211501006",
+    "in_reply_to_user_id": "2002374827559301125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046100302680764700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TUTU971111 我不信上海的保护伞能跨省管到我一个籍贯在河北、户口在辽宁、上学在...反正是另外一个地方的大学生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2046098520676114685",
+        "created_at": "2026-04-20T05:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046101501211501006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002374827559301125",
+              "start": 0,
+              "username": "TUTU971111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046101501211501006",
+        "in_reply_to_user_id": "2002374827559301125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046100302680764700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TUTU971111 我不信上海的保护伞能跨省管到我一个籍贯在河北、户口在辽宁、上学在...反正是另外一个地方的大学生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002374827559301125",
+        "conversation_id": "2046098520676114685",
+        "created_at": "2026-04-20T05:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046100302680764700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046100302680764700",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046099705013420430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 这背后大概率有保护伞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2045930755239682447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 3066,
+          "like_count": 24811,
+          "listed_count": 3,
+          "media_count": 270,
+          "tweet_count": 6563
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T13:45:55.000Z",
+        "description": "只是碎碎念，一个爱说几句的人👩\n希望女生们多多和我互关👭💕\n不约无🚪想和大家做互联网好友🤟起止于推",
+        "id": "2002374827559301125",
+        "name": "🍚香香",
+        "pinned_tweet_id": "2033550997092778185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003472614933823489/CZLqraeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 19,
+          "like_count": 718,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 628
+        },
+        "username": "TUTU971111",
+        "verified": false
+      }
+    ]
+  }
+}

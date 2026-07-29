@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2036821259846132161",
+    "created_at": "2026-03-25T15:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036823260046958882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865372588085805056",
+          "start": 0,
+          "username": "gln1720771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036823260046958882",
+    "in_reply_to_user_id": "1865372588085805056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036821259846132161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gln1720771 你说的也对，对于一般人来说受不了这个社会的环境，那最好就是想办法润出去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2036821259846132161",
+        "created_at": "2026-03-25T15:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036823260046958882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865372588085805056",
+              "start": 0,
+              "username": "gln1720771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036823260046958882",
+        "in_reply_to_user_id": "1865372588085805056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036821259846132161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gln1720771 你说的也对，对于一般人来说受不了这个社会的环境，那最好就是想办法润出去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865372588085805056",
+        "conversation_id": "2036821259846132161",
+        "created_at": "2026-03-25T15:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036821259846132161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036821259846132161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望有一天我会在全新的国家陌生的城市的舒服的酒店里睡到自然醒 然后起床泡个澡 然后好好的打扮一番自己 再把所有会伤害到我的东西扔掉 再把所有会伤害我的人抛之脑后并远离他们 以一种新的心态活下去。我希望那一天可以比死亡先到来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2036518135612973442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 2721,
+          "like_count": 12960,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3436
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T12:27:55.000Z",
+        "description": "",
+        "id": "1865372588085805056",
+        "name": "linlin_n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034498590945746944/s2HCrRAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 4832,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 74
+        },
+        "username": "gln1720771",
+        "verified": false
+      }
+    ]
+  }
+}

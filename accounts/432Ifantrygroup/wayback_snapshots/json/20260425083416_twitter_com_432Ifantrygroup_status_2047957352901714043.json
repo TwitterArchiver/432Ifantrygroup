@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047957350389284864"
+      ]
+    },
+    "author_id": "1852895432269234176",
+    "conversation_id": "2047927245004779893",
+    "created_at": "2026-04-25T08:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047957352901714043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2842549538",
+          "start": 0,
+          "username": "Reflectier"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W0G5dSgMMn",
+          "end": 35,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2047957352901714043/photo/1",
+          "media_key": "3_2047957350389284864",
+          "start": 12,
+          "url": "https://t.co/W0G5dSgMMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047957352901714043",
+    "in_reply_to_user_id": "2842549538",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047927245004779893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reflectier https://t.co/W0G5dSgMMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2047957350389284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvOXBEagAA61sb.png",
+        "width": 534
+      },
+      {
+        "duration_ms": 14000,
+        "height": 720,
+        "media_key": "13_2047927178969636864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047927178969636864/img/iwIMnxrYgdQ8cjXL.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047927178969636864/vid/avc1/480x270/0ELr8qASUy84m123.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047927178969636864/vid/avc1/640x360/qZ0sTejGG5eT4WvM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047927178969636864/vid/avc1/1280x720/NTXl6w9wxp9omoly.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047927178969636864/pl/IG9eAo8ukMnueryN.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047957350389284864"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2047927245004779893",
+        "created_at": "2026-04-25T08:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047957352901714043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2842549538",
+              "start": 0,
+              "username": "Reflectier"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0G5dSgMMn",
+              "end": 35,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2047957352901714043/photo/1",
+              "media_key": "3_2047957350389284864",
+              "start": 12,
+              "url": "https://t.co/W0G5dSgMMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047957352901714043",
+        "in_reply_to_user_id": "2842549538",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047927245004779893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reflectier https://t.co/W0G5dSgMMn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047927178969636864"
+          ]
+        },
+        "author_id": "2842549538",
+        "conversation_id": "2047927245004779893",
+        "created_at": "2026-04-25T06:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047927245004779893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/naprj9tVmr",
+              "end": 29,
+              "expanded_url": "https://x.com/Reflectier/status/2047927245004779893/video/1",
+              "media_key": "13_2047927178969636864",
+              "start": 6,
+              "url": "https://t.co/naprj9tVmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047927245004779893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头部马杀鸡 https://t.co/naprj9tVmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2047901916865429638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 3251,
+          "like_count": 27923,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 7356
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n男的。日常向，但混杂键政内容，但在努力不键政中，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "location": "Victoria, Australia",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 814,
+          "like_count": 39238,
+          "listed_count": 10,
+          "media_count": 1309,
+          "tweet_count": 22509
+        },
+        "username": "Reflectier",
+        "verified": false
+      }
+    ]
+  }
+}

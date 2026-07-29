@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2035094319258915004",
+    "created_at": "2026-03-22T06:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T07:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035599187732259087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1336367826039418884",
+          "start": 0,
+          "username": "Konrad7Konrad"
+        },
+        {
+          "end": 26,
+          "id": "3195245890",
+          "start": 15,
+          "username": "ron_eisele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035599187732259087",
+    "in_reply_to_user_id": "1336367826039418884",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035327439522480497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konrad7Konrad @ron_eisele good decission"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035094319258915004",
+        "created_at": "2026-03-22T06:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035599187732259087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1336367826039418884",
+              "start": 0,
+              "username": "Konrad7Konrad"
+            },
+            {
+              "end": 26,
+              "id": "3195245890",
+              "start": 15,
+              "username": "ron_eisele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035599187732259087",
+        "in_reply_to_user_id": "1336367826039418884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035327439522480497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konrad7Konrad @ron_eisele good decission"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336367826039418884",
+        "conversation_id": "2035094319258915004",
+        "created_at": "2026-03-21T12:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035327439522480497"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Hitlers",
+              "probability": 0.4477,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 28,
+              "id": "3195245890",
+              "start": 17,
+              "username": "ron_eisele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035327439522480497",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035254698278813808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @ron_eisele f.y.i. Hitlers decission !"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2035249070516957407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 2572,
+          "like_count": 10027,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2672
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-08T17:52:09.000Z",
+        "description": "Versuchen immer einen wachen Verstand zu haben. Selbst wenn der Rest müde ist.",
+        "id": "1336367826039418884",
+        "location": "Europe",
+        "name": "Richard Konrad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675095429262852098/OcSxfC1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6446,
+          "following_count": 4783,
+          "like_count": 214541,
+          "listed_count": 11,
+          "media_count": 3096,
+          "tweet_count": 36227
+        },
+        "username": "Konrad7Konrad",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-22T16:06:46.000Z",
+        "description": "Author. Early aviation historian, enthusiast and aviator.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.uk/Ron-Eisele/e/B…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.uk/Ron-Eisele/e/B00VEZMAOY/ref=ntt_dp_epwbk_0",
+                "start": 0,
+                "url": "https://t.co/MqBpP2si0G"
+              }
+            ]
+          }
+        },
+        "id": "3195245890",
+        "location": "Eastbourne, Sussex, England",
+        "name": "Ron Eisele",
+        "pinned_tweet_id": "2007885604537901243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/783339924313534464/dvAe5r4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67100,
+          "following_count": 558,
+          "like_count": 49833,
+          "listed_count": 514,
+          "media_count": 245475,
+          "tweet_count": 261955
+        },
+        "url": "https://t.co/MqBpP2si0G",
+        "username": "ron_eisele",
+        "verified": false
+      }
+    ]
+  }
+}

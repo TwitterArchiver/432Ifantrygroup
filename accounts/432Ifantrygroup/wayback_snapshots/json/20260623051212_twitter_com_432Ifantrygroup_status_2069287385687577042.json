@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2069287385687577042",
+    "created_at": "2026-06-23T05:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069287385687577042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775443581496614913",
+          "start": 3,
+          "username": "saltt808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/GAkwiMRF",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/GAkwiMRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069287385687577042",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069081655982371099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saltt808: 중국 틱톡에서 제 사진과 영상을 무단으로 사용해 사칭 계정을 운영하며 수익 활동을 하고 있는 계정을 확인했습니다😭\n혹시 보시게 되면 신고 한 번씩만 도와주시면 정말 감사하겠습니다ㅠㅠ.. https://t.co/GAkwiMRF…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069081651465052161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbazK7aYAExNKQ.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2069287385687577042",
+        "created_at": "2026-06-23T05:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069287385687577042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775443581496614913",
+              "start": 3,
+              "username": "saltt808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/GAkwiMRF",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/GAkwiMRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069287385687577042",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069081655982371099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saltt808: 중국 틱톡에서 제 사진과 영상을 무단으로 사용해 사칭 계정을 운영하며 수익 활동을 하고 있는 계정을 확인했습니다😭\n혹시 보시게 되면 신고 한 번씩만 도와주시면 정말 감사하겠습니다ㅠㅠ.. https://t.co/GAkwiMRF…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069081651465052161"
+          ]
+        },
+        "author_id": "1775443581496614913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069081655982371099",
+        "created_at": "2026-06-22T15:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069081655982371099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAkwiMRFPr",
+              "end": 127,
+              "expanded_url": "https://x.com/saltt808/status/2069081655982371099/photo/1",
+              "media_key": "3_2069081651465052161",
+              "start": 104,
+              "url": "https://t.co/GAkwiMRFPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069081655982371099",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 90365,
+          "like_count": 664,
+          "quote_count": 1,
+          "reply_count": 148,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "중국 틱톡에서 제 사진과 영상을 무단으로 사용해 사칭 계정을 운영하며 수익 활동을 하고 있는 계정을 확인했습니다😭\n혹시 보시게 되면 신고 한 번씩만 도와주시면 정말 감사하겠습니다ㅠㅠ.. https://t.co/GAkwiMRFPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2067332332017861074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 4194,
+          "like_count": 43651,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 12386
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T08:41:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/saltt808",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/saltt808",
+                "start": 0,
+                "url": "https://t.co/DKyBwLjfIj"
+              }
+            ]
+          }
+        },
+        "id": "1775443581496614913",
+        "location": "qkql0808@naver.com",
+        "name": "소금",
+        "pinned_tweet_id": "2067907005185187932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039249218582560768/58b2mdLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12770,
+          "following_count": 186,
+          "like_count": 10191,
+          "listed_count": 41,
+          "media_count": 107,
+          "tweet_count": 1564
+        },
+        "url": "https://t.co/DKyBwLjfIj",
+        "username": "saltt808",
+        "verified": false
+      }
+    ]
+  }
+}

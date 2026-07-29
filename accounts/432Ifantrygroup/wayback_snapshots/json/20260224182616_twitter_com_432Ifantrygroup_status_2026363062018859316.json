@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1852895432269234176",
+    "conversation_id": "2026339227219476922",
+    "created_at": "2026-02-24T18:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026363062018859316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937048792487849984",
+          "start": 0,
+          "username": "nanami269322"
+        },
+        {
+          "end": 27,
+          "id": "1913595442946023424",
+          "start": 14,
+          "username": "ChenLi391236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026363062018859316",
+    "in_reply_to_user_id": "1937048792487849984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026361969109033199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami269322 @ChenLi391236 这是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2026361924427153408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8VbyPbgAAoq_2.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2026339227219476922",
+        "created_at": "2026-02-24T18:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026363062018859316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937048792487849984",
+              "start": 0,
+              "username": "nanami269322"
+            },
+            {
+              "end": 27,
+              "id": "1913595442946023424",
+              "start": 14,
+              "username": "ChenLi391236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026363062018859316",
+        "in_reply_to_user_id": "1937048792487849984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026361969109033199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami269322 @ChenLi391236 这是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026361924427153408"
+          ]
+        },
+        "author_id": "1937048792487849984",
+        "conversation_id": "2026339227219476922",
+        "created_at": "2026-02-24T18:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026361969109033199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913595442946023424",
+              "start": 0,
+              "username": "ChenLi391236"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9YNLEvbCy",
+              "end": 42,
+              "expanded_url": "https://x.com/nanami269322/status/2026361969109033199/photo/1",
+              "media_key": "3_2026361924427153408",
+              "start": 19,
+              "url": "https://t.co/s9YNLEvbCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026361969109033199",
+        "in_reply_to_user_id": "1913595442946023424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026339227219476922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenLi391236 有端联想 https://t.co/s9YNLEvbCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "汉族，男，中国人\n政治倾向：自由意志共产主义\n适度建政，上推特就是来看黄色和来骂人的。地域黑东北的你们死🐴了",
+        "id": "1852895432269234176",
+        "name": "Дистанционизм",
+        "pinned_tweet_id": "2023433359641473473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 1685,
+          "like_count": 3070,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 385
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T07:23:30.000Z",
+        "description": "時は流れて、大切な人ともう一度会えるように",
+        "id": "1937048792487849984",
+        "name": "七海燈子☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024791521657344000/GsUQRL-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 491,
+          "like_count": 21828,
+          "listed_count": 0,
+          "media_count": 872,
+          "tweet_count": 3630
+        },
+        "username": "nanami269322",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T14:08:52.000Z",
+        "description": "asd淡人，♀，非常温和的键政人，这里当胡言乱语的手记发。\n懒得吵架，想吵架就别找我了，我不会理你们的。",
+        "id": "1913595442946023424",
+        "location": "Nantes, France",
+        "name": "Chen Li",
+        "pinned_tweet_id": "2007483295140049224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980656361730908160/UuboD3IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 59,
+          "like_count": 2021,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 749
+        },
+        "username": "ChenLi391236",
+        "verified": false
+      }
+    ]
+  }
+}
