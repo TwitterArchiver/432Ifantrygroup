@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T18:31:13",
+  "last_updated": "2026-07-29T18:39:37",
   "html": {
     "https://web.archive.org/web/20241115152100if_/https://twitter.com/432Ifantrygroup/status/1857443692086518185": {
       "status": "done",
@@ -87245,13 +87245,13 @@
   },
   "videos": {
     "https://video.twimg.com/amplify_video/1906360831987855360/vid/avc1/1280x720/a4WZOoz5CVlekyb5.mp4?tag=14": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250420161916_twitter_com_432Ifantrygroup_status_1913990863371505794.json"
       ],
-      "last_updated": "2026-07-29T15:37:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250420161916/https://video.twimg.com/amplify_video/1906360831987855360/vid/avc1/1280x720/a4WZOoz5CVlekyb5.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a471a30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:33:55",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250420161916/https://video.twimg.com/amplify_video/1906360831987855360/vid/avc1/1280x720/a4WZOoz5CVlekyb5.mp4?tag=14",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1920141555416862720/vid/avc1/886x1920/TtUAv_W3iusuNYnc.mp4": {
       "status": "done",
@@ -87261,14 +87261,14 @@
       "last_updated": "2026-07-29T09:54:04"
     },
     "https://video.twimg.com/amplify_video/1926644075756769280/vid/avc1/1280x720/X4ugLh9p671Nq2tn.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250607121210_twitter_com_432Ifantrygroup_status_1931323294830981181.json",
         "20250809113309_twitter_com_432Ifantrygroup_status_1954143910793719818.json"
       ],
-      "last_updated": "2026-07-29T15:37:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250607121210/https://video.twimg.com/amplify_video/1926644075756769280/vid/avc1/1280x720/X4ugLh9p671Nq2tn.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a472a50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:33:57",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250607121210/https://video.twimg.com/amplify_video/1926644075756769280/vid/avc1/1280x720/X4ugLh9p671Nq2tn.mp4",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1927614979911688192/vid/avc1/720x1280/8613TnY2KXxm9QqH.mp4": {
       "status": "done",
@@ -87285,16 +87285,16 @@
       "last_updated": "2026-07-29T09:54:04"
     },
     "https://video.twimg.com/ext_tw_video/1925389618041810944/pu/vid/avc1/1280x720/NcKaNItc1TroVl7N.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250809113522_twitter_com_432Ifantrygroup_status_1954144471714558042.json",
         "20250809115836_twitter_com_432Ifantrygroup_status_1954150317781905874.json",
         "20250809121935_twitter_com_432Ifantrygroup_status_1954155598724862101.json",
         "20250809123420_twitter_com_432Ifantrygroup_status_1954159308091875527.json"
       ],
-      "last_updated": "2026-07-29T15:37:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809113522/https://video.twimg.com/ext_tw_video/1925389618041810944/pu/vid/avc1/1280x720/NcKaNItc1TroVl7N.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4701a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 9
+      "last_updated": "2026-07-29T18:34:01",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250809113522/https://video.twimg.com/ext_tw_video/1925389618041810944/pu/vid/avc1/1280x720/NcKaNItc1TroVl7N.mp4?tag=12",
+      "miss_count": 10
     },
     "https://video.twimg.com/amplify_video/1939140744490487808/vid/avc1/720x1222/1KAS64wmtteLHVGn.mp4": {
       "status": "done",
@@ -87374,29 +87374,29 @@
         "20250809113811_twitter_com_432Ifantrygroup_status_1954145178337325131.json",
         "20250809121955_twitter_com_432Ifantrygroup_status_1954155680115413279.json"
       ],
-      "last_updated": "2026-07-29T15:37:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809113811/https://video.twimg.com/amplify_video/1944096129140109312/vid/avc1/720x1280/2fbABffCoXlbctFL.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4719a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:34:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809113811if_/https://video.twimg.com/amplify_video/1944096129140109312/vid/avc1/720x1280/2fbABffCoXlbctFL.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d430>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1944096191240974337/vid/avc1/1280x720/zh68diRsxiUJwJV0.mp4?tag=14": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250809113811_twitter_com_432Ifantrygroup_status_1954145178337325131.json",
         "20250809121955_twitter_com_432Ifantrygroup_status_1954155680115413279.json"
       ],
-      "last_updated": "2026-07-29T15:37:43",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809113811/https://video.twimg.com/amplify_video/1944096191240974337/vid/avc1/1280x720/zh68diRsxiUJwJV0.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4a6840>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:34:08",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250809113811/https://video.twimg.com/amplify_video/1944096191240974337/vid/avc1/1280x720/zh68diRsxiUJwJV0.mp4?tag=14",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/1944096337659637760/vid/avc1/1280x720/-3msKQ8cfWnK0qrL.mp4?tag=14": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20250809113811_twitter_com_432Ifantrygroup_status_1954145178337325131.json",
         "20250809121955_twitter_com_432Ifantrygroup_status_1954155680115413279.json"
       ],
-      "last_updated": "2026-07-29T15:37:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809113811/https://video.twimg.com/amplify_video/1944096337659637760/vid/avc1/1280x720/-3msKQ8cfWnK0qrL.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4a48c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:34:10",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250809113811/https://video.twimg.com/amplify_video/1944096337659637760/vid/avc1/1280x720/-3msKQ8cfWnK0qrL.mp4?tag=14",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/1854398145633087488/pu/vid/avc1/1280x720/LVJ1q9ukKfbMlzou.mp4?tag=12": {
       "status": "done",
@@ -87546,9 +87546,9 @@
       "referenced_by": [
         "20250809115401_twitter_com_432Ifantrygroup_status_1954149165115793419.json"
       ],
-      "last_updated": "2026-07-29T15:37:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809115401if_/https://video.twimg.com/amplify_video/1914347691204866048/vid/avc1/720x1280/VdMSY4sAxRF9HNYO.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c09b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809115401if_/https://video.twimg.com/amplify_video/1914347691204866048/vid/avc1/720x1280/VdMSY4sAxRF9HNYO.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025e9f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1925963737334157312/vid/avc1/1280x720/U8jdejPHDKQQ8H5N.mp4?tag=14": {
       "status": "done",
@@ -87566,9 +87566,9 @@
       "referenced_by": [
         "20250809122244_twitter_com_432Ifantrygroup_status_1954156389217030452.json"
       ],
-      "last_updated": "2026-07-29T15:37:56",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809122244/https://video.twimg.com/ext_tw_video/1920385627410857984/pu/vid/avc1/720x1280/0C-2tCeFp30apgrD.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c13a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809122244im_/https://video.twimg.com/ext_tw_video/1920385627410857984/pu/vid/avc1/720x1280/0C-2tCeFp30apgrD.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512ea0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1907467167337164800/vid/avc1/1280x720/pTJeXfDgfNCSpVSy.mp4?tag=14": {
       "status": "done",
@@ -87589,27 +87589,27 @@
       "referenced_by": [
         "20250809130131_twitter_com_432Ifantrygroup_status_1954166150595768449.json"
       ],
-      "last_updated": "2026-07-29T15:38:00",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809130131/https://video.twimg.com/ext_tw_video/1826507105685127168/pu/vid/avc1/720x1280/_cIBC5SnXCdJhxO7.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4a54c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250809130131im_/https://video.twimg.com/ext_tw_video/1826507105685127168/pu/vid/avc1/720x1280/_cIBC5SnXCdJhxO7.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025eb10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1963968526039097344/vid/avc1/1280x720/1Bywc-owWFbSQj5G.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251004151400_twitter_com_432Ifantrygroup_status_1974493211298324795.json"
       ],
-      "last_updated": "2026-07-29T15:38:03",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004151400/https://video.twimg.com/amplify_video/1963968526039097344/vid/avc1/1280x720/1Bywc-owWFbSQj5G.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4735f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004151400im_/https://video.twimg.com/amplify_video/1963968526039097344/vid/avc1/1280x720/1Bywc-owWFbSQj5G.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025c620>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/1920x1080/9z8KOGYLwN7Z1N52.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251004152317_twitter_com_432Ifantrygroup_status_1974495546498007181.json"
       ],
-      "last_updated": "2026-07-29T15:38:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004152317im_/https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/1920x1080/9z8KOGYLwN7Z1N52.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4a6510>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251004152317im_/https://video.twimg.com/amplify_video/1936398530920300544/vid/avc1/1920x1080/9z8KOGYLwN7Z1N52.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf5134d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1977156320450297868/vid/avc1/1134x720/KRu56sh4zbYFOqVz.mp4": {
       "status": "done",
@@ -87623,9 +87623,9 @@
       "referenced_by": [
         "20251013101518_twitter_com_432Ifantrygroup_status_1977679531751452851.json"
       ],
-      "last_updated": "2026-07-29T15:38:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013101518/https://video.twimg.com/ext_tw_video/1977679366323879936/pu/vid/avc1/1280x720/YGTLE1lbP2WrQ_LN.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c3e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251013101518im_/https://video.twimg.com/ext_tw_video/1977679366323879936/pu/vid/avc1/1280x720/YGTLE1lbP2WrQ_LN.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf5109e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1977864738601062400/vid/avc1/886x894/MDX8Vw6RPkxIPqd1.mp4": {
       "status": "done",
@@ -87655,27 +87655,27 @@
       "referenced_by": [
         "20251022132907_twitter_com_432Ifantrygroup_status_1980989797704630541.json"
       ],
-      "last_updated": "2026-07-29T15:38:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251022132907/https://video.twimg.com/amplify_video/1980879116829134848/vid/avc1/720x1280/Od0YphEjZJ_YKSrq.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4a6480>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251022132907im_/https://video.twimg.com/amplify_video/1980879116829134848/vid/avc1/720x1280/Od0YphEjZJ_YKSrq.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025fe90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1985873503237652480/vid/avc1/480x640/Kts3lo_kv0t5uSDS.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251108040436_twitter_com_432Ifantrygroup_status_1987008326857822478.json"
       ],
-      "last_updated": "2026-07-29T15:38:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108040436/https://video.twimg.com/amplify_video/1985873503237652480/vid/avc1/480x640/Kts3lo_kv0t5uSDS.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c18b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108040436im_/https://video.twimg.com/amplify_video/1985873503237652480/vid/avc1/480x640/Kts3lo_kv0t5uSDS.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1985874530615574528/vid/avc1/624x832/s0LtD8LMHtIQf9AB.mp4": {
       "status": "failed",
       "referenced_by": [
         "20251108040436_twitter_com_432Ifantrygroup_status_1987008326857822478.json"
       ],
-      "last_updated": "2026-07-29T15:38:21",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108040436/https://video.twimg.com/amplify_video/1985874530615574528/vid/avc1/624x832/s0LtD8LMHtIQf9AB.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c03b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251108040436im_/https://video.twimg.com/amplify_video/1985874530615574528/vid/avc1/624x832/s0LtD8LMHtIQf9AB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025ec60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1988189974098046981/vid/avc1/720x1422/usAIfDauOpazY5ii.mp4": {
       "status": "done",
@@ -87689,9 +87689,9 @@
       "referenced_by": [
         "20251113070205_twitter_com_432Ifantrygroup_status_1988864931358216261.json"
       ],
-      "last_updated": "2026-07-29T15:38:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251113070205/https://video.twimg.com/amplify_video/1987630050494009344/vid/avc1/720x1280/1DHZJFknD5dP7kGf.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c3950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:34:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251113070205im_/https://video.twimg.com/amplify_video/1987630050494009344/vid/avc1/720x1280/1DHZJFknD5dP7kGf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025ffe0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/1992842955309391872/vid/avc1/1000x720/_y7Z7UECgZ7DWAol.mp4": {
       "status": "done",
@@ -87733,9 +87733,9 @@
         "20251229175949_twitter_com_432Ifantrygroup_status_2005700297596064246.json",
         "20251230035722_twitter_com_432Ifantrygroup_status_2005850676237156478.json"
       ],
-      "last_updated": "2026-07-29T15:38:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229175949/https://video.twimg.com/ext_tw_video/2005700146273869824/pu/vid/avc1/1280x576/BcinOrvkAHV6XF-1.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c0e60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:34:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229175949im_/https://video.twimg.com/ext_tw_video/2005700146273869824/pu/vid/avc1/1280x576/BcinOrvkAHV6XF-1.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf5114f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/1970507275573047296/pu/vid/avc1/1280x720/7BIB26u8-0YdBfLa.mp4?tag=12": {
       "status": "done",
@@ -87779,9 +87779,9 @@
       "referenced_by": [
         "20260206162426_twitter_com_432Ifantrygroup_status_2019809421493403737.json"
       ],
-      "last_updated": "2026-07-29T15:38:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206162426/https://video.twimg.com/amplify_video/1963298628434575361/vid/avc1/1388x720/soy2Z2RfkcOqbIN8.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4733b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260206162426im_/https://video.twimg.com/amplify_video/1963298628434575361/vid/avc1/1388x720/soy2Z2RfkcOqbIN8.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf513bf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2019722562088099840/vid/avc1/720x1280/Hle2XyUAjA47tJeL.mp4?tag=14": {
       "status": "done",
@@ -87796,9 +87796,9 @@
         "20260208183400_twitter_com_432Ifantrygroup_status_2020566802053702092.json",
         "20260210111042_twitter_com_432Ifantrygroup_status_2021180018957717765.json"
       ],
-      "last_updated": "2026-07-29T15:38:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208183400/https://video.twimg.com/ext_tw_video/1896788585468338176/pu/vid/avc1/980x720/46gyL3Ie6i6VFEjf.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a471400>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:35:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208183400im_/https://video.twimg.com/ext_tw_video/1896788585468338176/pu/vid/avc1/980x720/46gyL3Ie6i6VFEjf.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512ea0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/1874029587451039744/pu/vid/avc1/576x1024/r_6kPaKrJ84aykl2.mp4?tag=12": {
       "status": "done",
@@ -87890,9 +87890,9 @@
       "referenced_by": [
         "20260307173848_twitter_com_432Ifantrygroup_status_2030337383108133350.json"
       ],
-      "last_updated": "2026-07-29T15:38:38",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260307173848/https://video.twimg.com/ext_tw_video/2030337340288421888/pu/vid/avc1/1280x720/utIcKLQsTb2M2KNK.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4a4980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260307173848im_/https://video.twimg.com/ext_tw_video/2030337340288421888/pu/vid/avc1/1280x720/utIcKLQsTb2M2KNK.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025f9e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2030337774621229056/pu/vid/avc1/1280x720/GMDTCqknZ-RkmGqs.mp4?tag=12": {
       "status": "done",
@@ -87909,18 +87909,18 @@
       "referenced_by": [
         "20260308070216_twitter_com_432Ifantrygroup_status_2030539580118901029.json"
       ],
-      "last_updated": "2026-07-29T15:38:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308070216im_/https://video.twimg.com/amplify_video/2025827537361010688/vid/avc1/960x720/iwCAYllwM1VzveSH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4a69f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308070216im_/https://video.twimg.com/amplify_video/2025827537361010688/vid/avc1/960x720/iwCAYllwM1VzveSH.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025cbf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2030137756459085824/pu/vid/avc1/720x1280/aqYwovLWA_9oPe59.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260309103026_twitter_com_432Ifantrygroup_status_2030954357840322609.json"
       ],
-      "last_updated": "2026-07-29T15:38:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309103026/https://video.twimg.com/ext_tw_video/2030137756459085824/pu/vid/avc1/720x1280/aqYwovLWA_9oPe59.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4a7650>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309103026im_/https://video.twimg.com/ext_tw_video/2030137756459085824/pu/vid/avc1/720x1280/aqYwovLWA_9oPe59.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4ea600>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2030911990378672128/vid/avc1/888x1082/69iaVa-RYapx2z59.mp4": {
       "status": "done",
@@ -87963,9 +87963,9 @@
       "referenced_by": [
         "20260310103803_twitter_com_432Ifantrygroup_status_2031318660120543476.json"
       ],
-      "last_updated": "2026-07-29T15:38:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310103803/https://video.twimg.com/ext_tw_video/2031284982052958209/pu/vid/avc1/720x1280/Kt7xRchKlxAbN3Lw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4dc3b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310103803im_/https://video.twimg.com/ext_tw_video/2031284982052958209/pu/vid/avc1/720x1280/Kt7xRchKlxAbN3Lw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d610>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2031525563974696960/vid/avc1/720x1032/Y77hyR3IK3zrGdZO.mp4": {
       "status": "done",
@@ -87986,9 +87986,9 @@
       "referenced_by": [
         "20260312120649_twitter_com_432Ifantrygroup_status_2032065774622548349.json"
       ],
-      "last_updated": "2026-07-29T15:38:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312120649/https://video.twimg.com/ext_tw_video/2032047080039165952/pu/vid/avc1/1280x720/KIQWoGOTDsTgOqp3.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4de0c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312120649im_/https://video.twimg.com/ext_tw_video/2032047080039165952/pu/vid/avc1/1280x720/KIQWoGOTDsTgOqp3.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf511fa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032004700409905155/vid/avc1/540x940/hMyP10nrh1asvy2R.mp4": {
       "status": "done",
@@ -88002,18 +88002,18 @@
       "referenced_by": [
         "20260312155402_twitter_com_432Ifantrygroup_status_2032122955573113011.json"
       ],
-      "last_updated": "2026-07-29T15:39:01",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312155402/https://video.twimg.com/amplify_video/2032120220769533954/vid/avc1/720x1280/C3QmDi16PcxzbLr3.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a471640>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312155402im_/https://video.twimg.com/amplify_video/2032120220769533954/vid/avc1/720x1280/C3QmDi16PcxzbLr3.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf511490>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2032136453837504514/pu/vid/avc1/1280x720/WbbGvs3oebBk-kRZ.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260312171217_twitter_com_432Ifantrygroup_status_2032142650271547512.json"
       ],
-      "last_updated": "2026-07-29T15:39:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312171217/https://video.twimg.com/ext_tw_video/2032136453837504514/pu/vid/avc1/1280x720/WbbGvs3oebBk-kRZ.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4df800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312171217im_/https://video.twimg.com/ext_tw_video/2032136453837504514/pu/vid/avc1/1280x720/WbbGvs3oebBk-kRZ.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4e8800>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2031644326221189120/vid/avc1/720x1280/8Krr1o2S8m6i0YbW.mp4": {
       "status": "done",
@@ -88028,9 +88028,9 @@
       "referenced_by": [
         "20260313053009_twitter_com_432Ifantrygroup_status_2032328338782765358.json"
       ],
-      "last_updated": "2026-07-29T15:39:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260313053009/https://video.twimg.com/amplify_video/2032313218040020993/vid/avc1/720x1280/j7nLGEFyCuiwhkHE.mp4?tag=14 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a698980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260313053009im_/https://video.twimg.com/amplify_video/2032313218040020993/vid/avc1/720x1280/j7nLGEFyCuiwhkHE.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf513f80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032419474826313729/vid/avc1/720x1280/ogkUcchXdePVil3O.mp4": {
       "status": "done",
@@ -88079,9 +88079,9 @@
       "referenced_by": [
         "20260314120500_twitter_com_432Ifantrygroup_status_2032790095846322397.json"
       ],
-      "last_updated": "2026-07-29T15:39:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314120500/https://video.twimg.com/ext_tw_video/2032781813731778560/pu/vid/avc1/1280x720/oxvA8VvxmXw2IJYR.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a4c1ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260314120500im_/https://video.twimg.com/ext_tw_video/2032781813731778560/pu/vid/avc1/1280x720/oxvA8VvxmXw2IJYR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025c680>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032688377091461120/vid/avc1/576x1024/hIG8dXuKWw8qHJ9-.mp4": {
       "status": "done",
@@ -88125,9 +88125,9 @@
       "referenced_by": [
         "20260315121701_twitter_com_432Ifantrygroup_status_2033155507977163092.json"
       ],
-      "last_updated": "2026-07-29T15:39:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260315121701/https://video.twimg.com/amplify_video/2032590857799602176/vid/avc1/720x1280/9L6dfgROmV3-lWbe.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a69adb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260315121701im_/https://video.twimg.com/amplify_video/2032590857799602176/vid/avc1/720x1280/9L6dfgROmV3-lWbe.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4ea8a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2033080381122162689/vid/avc1/1080x1920/N-_uH8n4T-baolxk.mp4": {
       "status": "done",
@@ -88155,9 +88155,9 @@
       "referenced_by": [
         "20260319060407_twitter_com_432Ifantrygroup_status_2034511214001500595.json"
       ],
-      "last_updated": "2026-07-29T15:39:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319060407/https://video.twimg.com/ext_tw_video/1993266751212339202/pu/vid/avc1/960x720/K75hyjMzzeFQWo4V.mp4?tag=12 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a698dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:35:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319060407im_/https://video.twimg.com/ext_tw_video/1993266751212339202/pu/vid/avc1/960x720/K75hyjMzzeFQWo4V.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4eb7d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2034868081915568132/vid/avc1/1280x720/YWAG7S6RT7FV8KZu.mp4": {
       "status": "done",
@@ -88185,9 +88185,9 @@
       "referenced_by": [
         "20260321053402_twitter_com_432Ifantrygroup_status_2035228417176871226.json"
       ],
-      "last_updated": "2026-07-29T15:39:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321053402/https://video.twimg.com/ext_tw_video/2035227324090916865/pu/vid/avc1/720x1280/Gk0jlj8ZfIQ8wxTP.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4a4f80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321053402im_/https://video.twimg.com/ext_tw_video/2035227324090916865/pu/vid/avc1/720x1280/Gk0jlj8ZfIQ8wxTP.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512000>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2035291556710936576/vid/avc1/964x720/7UDKKiKsg6kqYCxf.mp4": {
       "status": "done",
@@ -88208,9 +88208,9 @@
       "referenced_by": [
         "20260322071532_twitter_com_432Ifantrygroup_status_2035616350333477213.json"
       ],
-      "last_updated": "2026-07-29T15:39:29",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322071532/https://video.twimg.com/amplify_video/2035595049363501056/vid/avc1/648x1280/cu_anqbcrjkh2aWA.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a3c8950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322071532im_/https://video.twimg.com/amplify_video/2035595049363501056/vid/avc1/648x1280/cu_anqbcrjkh2aWA.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf513020>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2035373254991339520/vid/avc1/1408x1872/5N13XTC7q9krqRou.mp4": {
       "status": "done",
@@ -88229,11 +88229,11 @@
       "last_updated": "2026-07-29T09:54:14"
     },
     "https://video.twimg.com/amplify_video/2035800977198985216/vid/avc1/720x1280/D02drH7ho8Nr2X9G.mp4": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260323064509_twitter_com_432Ifantrygroup_status_2035971092754661843.json"
       ],
-      "last_updated": "2026-07-29T15:39:31",
+      "last_updated": "2026-07-29T18:36:10",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323064509/https://video.twimg.com/amplify_video/2035800977198985216/vid/avc1/720x1280/D02drH7ho8Nr2X9G.mp4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f262a69ac60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 3
     },
@@ -88252,13 +88252,13 @@
       "last_updated": "2026-07-29T09:54:14"
     },
     "https://video.twimg.com/amplify_video/2036368544292806656/vid/avc1/742x720/vDNWyOYHIvX9vTAY.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260324092714_twitter_com_432Ifantrygroup_status_2036374270797029503.json"
       ],
-      "last_updated": "2026-07-29T15:39:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324092714im_/https://video.twimg.com/amplify_video/2036368544292806656/vid/avc1/742x720/vDNWyOYHIvX9vTAY.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4df890>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:12",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260324092714/https://video.twimg.com/amplify_video/2036368544292806656/vid/avc1/742x720/vDNWyOYHIvX9vTAY.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2035810522096955392/vid/avc1/720x1280/xCGbeGFrU1VyHie8.mp4": {
       "status": "done",
@@ -88272,9 +88272,9 @@
       "referenced_by": [
         "20260324134416_twitter_com_432Ifantrygroup_status_2036438955386872084.json"
       ],
-      "last_updated": "2026-07-29T15:39:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324134416/https://video.twimg.com/amplify_video/2036399119728779267/vid/avc1/720x1280/aZDENf-hrst9-KN5.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69a9f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324134416im_/https://video.twimg.com/amplify_video/2036399119728779267/vid/avc1/720x1280/aZDENf-hrst9-KN5.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025cc80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HEMkd6caIAEvo3g.mp4": {
       "status": "done",
@@ -88288,18 +88288,18 @@
       "referenced_by": [
         "20260325064604_twitter_com_432Ifantrygroup_status_2036696098463699396.json"
       ],
-      "last_updated": "2026-07-29T15:39:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325064604if_/https://video.twimg.com/ext_tw_video/2027425914649460737/pu/vid/avc1/588x1280/onRGkfX19PeULSHS.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a699040>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325064604if_/https://video.twimg.com/ext_tw_video/2027425914649460737/pu/vid/avc1/588x1280/onRGkfX19PeULSHS.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025ee10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2036725640662310912/vid/avc1/590x1280/cDQliIjBfdrQX9tz.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260325085320_twitter_com_432Ifantrygroup_status_2036728125405773941.json"
       ],
-      "last_updated": "2026-07-29T15:39:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325085320if_/https://video.twimg.com/amplify_video/2036725640662310912/vid/avc1/590x1280/cDQliIjBfdrQX9tz.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a699640>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325085320im_/https://video.twimg.com/amplify_video/2036725640662310912/vid/avc1/590x1280/cDQliIjBfdrQX9tz.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf5125a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2037082062314938368/pu/vid/avc1/720x1280/3lQO50Eca5ZGJn2P.mp4?tag=12": {
       "status": "done",
@@ -88344,9 +88344,9 @@
       "referenced_by": [
         "20260330115416_twitter_com_432Ifantrygroup_status_2038585600039866516.json"
       ],
-      "last_updated": "2026-07-29T15:40:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330115416im_/https://video.twimg.com/ext_tw_video/2038583629123821568/pu/vid/avc1/1280x720/6dwKvsw9Kj2Qxmwa.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69a4b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330115416im_/https://video.twimg.com/ext_tw_video/2038583629123821568/pu/vid/avc1/1280x720/6dwKvsw9Kj2Qxmwa.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf510290>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2038643824906686464/pu/vid/avc1/720x960/-1Sa3pFYQXa3hgVk.mp4?tag=12": {
       "status": "done",
@@ -88360,9 +88360,9 @@
       "referenced_by": [
         "20260330170400_twitter_com_432Ifantrygroup_status_2038663546993819693.json"
       ],
-      "last_updated": "2026-07-29T15:40:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330170400im_/https://video.twimg.com/ext_tw_video/2038661095737688064/pu/vid/avc1/582x1280/GpUz6vkil9kN6cff.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4723c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260330170400im_/https://video.twimg.com/ext_tw_video/2038661095737688064/pu/vid/avc1/582x1280/GpUz6vkil9kN6cff.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf511c10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2038878632849129472/vid/avc1/1280x720/31INL3IDaiXlHpru.mp4": {
       "status": "done",
@@ -88425,27 +88425,27 @@
       "referenced_by": [
         "20260404191317_twitter_com_432Ifantrygroup_status_2040508019784782216.json"
       ],
-      "last_updated": "2026-07-29T15:40:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404191317if_/https://video.twimg.com/ext_tw_video/2040497897838686208/pu/vid/avc1/720x1280/16QcaABBMiOVQLk0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a699970>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404191317im_/https://video.twimg.com/ext_tw_video/2040497897838686208/pu/vid/avc1/720x1280/16QcaABBMiOVQLk0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf510050>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2040498529203077120/pu/vid/avc1/720x1280/s-edp6Qoq84oNqMp.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260404193320_twitter_com_432Ifantrygroup_status_2040513066518069620.json"
       ],
-      "last_updated": "2026-07-29T15:40:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404193320im_/https://video.twimg.com/ext_tw_video/2040498529203077120/pu/vid/avc1/720x1280/s-edp6Qoq84oNqMp.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69b7a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404193320im_/https://video.twimg.com/ext_tw_video/2040498529203077120/pu/vid/avc1/720x1280/s-edp6Qoq84oNqMp.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d6d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2040632041155518464/vid/avc1/720x960/MKvQtomHz7y9Mc2K.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260405033818_twitter_com_432Ifantrygroup_status_2040635112635933152.json"
       ],
-      "last_updated": "2026-07-29T15:40:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405033818if_/https://video.twimg.com/amplify_video/2040632041155518464/vid/avc1/720x960/MKvQtomHz7y9Mc2K.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a473ad0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405033818im_/https://video.twimg.com/amplify_video/2040632041155518464/vid/avc1/720x960/MKvQtomHz7y9Mc2K.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025c6b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2040594579309879296/vid/avc1/720x924/26e35G-4T1ZwwdL0.mp4": {
       "status": "done",
@@ -88497,27 +88497,27 @@
         "20260407175106_twitter_com_432Ifantrygroup_status_2041574502958866577.json",
         "20260407175130_twitter_com_432Ifantrygroup_status_2041574603634745499.json"
       ],
-      "last_updated": "2026-07-29T15:40:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407175106im_/https://video.twimg.com/amplify_video/2041574205897240576/vid/avc1/720x1280/-C5t9h3FUymL4tf0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a471cd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:36:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407175106im_/https://video.twimg.com/amplify_video/2041574205897240576/vid/avc1/720x1280/-C5t9h3FUymL4tf0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025df10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/2041711071036370946/pu/vid/avc1/720x960/6N_J1p5wEQ7uTJjE.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260408025436_twitter_com_432Ifantrygroup_status_2041711276733427975.json"
       ],
-      "last_updated": "2026-07-29T15:40:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408025436im_/https://video.twimg.com/ext_tw_video/2041711071036370946/pu/vid/avc1/720x960/6N_J1p5wEQ7uTJjE.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a698b90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:36:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408025436im_/https://video.twimg.com/ext_tw_video/2041711071036370946/pu/vid/avc1/720x960/6N_J1p5wEQ7uTJjE.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512810>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2041711072651161600/pu/vid/avc1/720x960/AxjgKUhtIxFSf3Yy.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260408025436_twitter_com_432Ifantrygroup_status_2041711276733427975.json"
       ],
-      "last_updated": "2026-07-29T15:40:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408025436if_/https://video.twimg.com/ext_tw_video/2041711072651161600/pu/vid/avc1/720x960/AxjgKUhtIxFSf3Yy.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a471fa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408025436im_/https://video.twimg.com/ext_tw_video/2041711072651161600/pu/vid/avc1/720x960/AxjgKUhtIxFSf3Yy.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025eba0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2041724692369993728/vid/avc1/720x1280/3-qekX7KZNHWIva3.mp4": {
       "status": "failed",
@@ -88525,9 +88525,9 @@
         "20260408034906_twitter_com_432Ifantrygroup_status_2041724992170426680.json",
         "20260408034951_twitter_com_432Ifantrygroup_status_2041725184147951734.json"
       ],
-      "last_updated": "2026-07-29T15:40:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408034906im_/https://video.twimg.com/amplify_video/2041724692369993728/vid/avc1/720x1280/3-qekX7KZNHWIva3.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4700e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:37:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408034906im_/https://video.twimg.com/amplify_video/2041724692369993728/vid/avc1/720x1280/3-qekX7KZNHWIva3.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025c710>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/amplify_video/2041736587231555585/vid/avc1/720x1144/9UWHaXhZUEYm0oJ1.mp4": {
       "status": "done",
@@ -88548,9 +88548,9 @@
       "referenced_by": [
         "20260409115303_twitter_com_432Ifantrygroup_status_2042209169693143124.json"
       ],
-      "last_updated": "2026-07-29T15:40:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409115303im_/https://video.twimg.com/amplify_video/2042202064688934913/vid/avc1/720x1280/EaMB3Z9ov8IO9lIA.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69b560>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409115303im_/https://video.twimg.com/amplify_video/2042202064688934913/vid/avc1/720x1280/EaMB3Z9ov8IO9lIA.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4eab70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2042264845375164416/pu/vid/avc1/1152x720/0OTeB1SggN8qeL2L.mp4?tag=12": {
       "status": "done",
@@ -88571,36 +88571,36 @@
       "referenced_by": [
         "20260409171348_twitter_com_432Ifantrygroup_status_2042289888872346018.json"
       ],
-      "last_updated": "2026-07-29T15:40:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409171348im_/https://video.twimg.com/amplify_video/2040024069060648960/vid/avc1/1280x720/8eEfVOaTSu1QtW8D.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a473140>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409171348im_/https://video.twimg.com/amplify_video/2040024069060648960/vid/avc1/1280x720/8eEfVOaTSu1QtW8D.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025fa70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2042478787489939456/vid/avc1/720x1280/UqQRVNffydJIDdKh.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260410072028_twitter_com_432Ifantrygroup_status_2042502962094969134.json"
       ],
-      "last_updated": "2026-07-29T15:41:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410072028im_/https://video.twimg.com/amplify_video/2042478787489939456/vid/avc1/720x1280/UqQRVNffydJIDdKh.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4709e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410072028im_/https://video.twimg.com/amplify_video/2042478787489939456/vid/avc1/720x1280/UqQRVNffydJIDdKh.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025eb70>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2042806533571121152/vid/avc1/480x562/odxOULlIktVIgxcX.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260412040808_twitter_com_432Ifantrygroup_status_2043179333037240795.json"
       ],
-      "last_updated": "2026-07-29T15:41:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412040808im_/https://video.twimg.com/amplify_video/2042806533571121152/vid/avc1/480x562/odxOULlIktVIgxcX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4def60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412040808im_/https://video.twimg.com/amplify_video/2042806533571121152/vid/avc1/480x562/odxOULlIktVIgxcX.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf510290>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2043217728295534592/vid/avc1/720x962/0zpuSoG8QF38OzlC.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260412074436_twitter_com_432Ifantrygroup_status_2043233809727119795.json"
       ],
-      "last_updated": "2026-07-29T15:41:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412074436im_/https://video.twimg.com/amplify_video/2043217728295534592/vid/avc1/720x962/0zpuSoG8QF38OzlC.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c29c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412074436im_/https://video.twimg.com/amplify_video/2043217728295534592/vid/avc1/720x962/0zpuSoG8QF38OzlC.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512720>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2043100194992959488/vid/avc1/1080x2340/gM-KylehGM8vbqdu.mp4": {
       "status": "done",
@@ -88614,9 +88614,9 @@
       "referenced_by": [
         "20260414100338_twitter_com_432Ifantrygroup_status_2043993575122423983.json"
       ],
-      "last_updated": "2026-07-29T15:41:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414100338im_/https://video.twimg.com/amplify_video/2043952106655363072/vid/avc1/1280x720/ac5nEVHz3E4LE09a.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4deed0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414100338im_/https://video.twimg.com/amplify_video/2043952106655363072/vid/avc1/1280x720/ac5nEVHz3E4LE09a.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4ea2a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2044481406219550720/vid/avc1/1280x720/nut0EREU8EPrCp3C.mp4": {
       "status": "done",
@@ -88679,9 +88679,9 @@
       "referenced_by": [
         "20260424163056_twitter_com_432Ifantrygroup_status_2047714922143113710.json"
       ],
-      "last_updated": "2026-07-29T15:41:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424163056im_/https://video.twimg.com/ext_tw_video/2047711776771629058/pu/vid/avc1/720x1280/bz9Qngv3IxTwZNdU.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a471d60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424163056im_/https://video.twimg.com/ext_tw_video/2047711776771629058/pu/vid/avc1/720x1280/bz9Qngv3IxTwZNdU.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512900>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2047883356965343232/vid/avc1/1080x586/OMNEVtX3kHdSpZND.mp4": {
       "status": "done",
@@ -88730,27 +88730,27 @@
       "referenced_by": [
         "20260428160049_twitter_com_432Ifantrygroup_status_2049156892069712067.json"
       ],
-      "last_updated": "2026-07-29T15:41:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428160049im_/https://video.twimg.com/tweet_video/HHAQTVib0AAM6h8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69b5f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428160049im_/https://video.twimg.com/tweet_video/HHAQTVib0AAM6h8.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d27b5be0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2049167443332153345/vid/avc1/720x1280/ZUqfQWdZgx1A2Wye.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260428171004_twitter_com_432Ifantrygroup_status_2049174320795078894.json"
       ],
-      "last_updated": "2026-07-29T15:41:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428171004im_/https://video.twimg.com/amplify_video/2049167443332153345/vid/avc1/720x1280/ZUqfQWdZgx1A2Wye.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a698b90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428171004im_/https://video.twimg.com/amplify_video/2049167443332153345/vid/avc1/720x1280/ZUqfQWdZgx1A2Wye.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025c3e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HHBg-qkbgAAxUD6.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260428235409_twitter_com_432Ifantrygroup_status_2049276011284754892.json"
       ],
-      "last_updated": "2026-07-29T15:41:41",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428235409im_/https://video.twimg.com/tweet_video/HHBg-qkbgAAxUD6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c1ca0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428235409im_/https://video.twimg.com/tweet_video/HHBg-qkbgAAxUD6.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025cc50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2049331551566221312/pu/vid/avc1/1280x720/nQFDMnP3eiYBWr-z.mp4": {
       "status": "done",
@@ -88764,9 +88764,9 @@
       "referenced_by": [
         "20260429045708_twitter_com_432Ifantrygroup_status_2049352258249535797.json"
       ],
-      "last_updated": "2026-07-29T15:41:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429045708im_/https://video.twimg.com/amplify_video/2049348210679025664/vid/avc1/720x1280/g5aa7eTIZ4oy2bf1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69a1b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429045708im_/https://video.twimg.com/amplify_video/2049348210679025664/vid/avc1/720x1280/g5aa7eTIZ4oy2bf1.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4ebbf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2050818052812591104/vid/avc1/1080x2340/87pSmsqcS3XAIn_O.mp4?tag=27": {
       "status": "done",
@@ -88787,18 +88787,18 @@
       "referenced_by": [
         "20260505092449_twitter_com_432Ifantrygroup_status_2051593950348353722.json"
       ],
-      "last_updated": "2026-07-29T15:41:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505092449im_/https://video.twimg.com/amplify_video/2051592080091402240/vid/avc1/1280x720/naUZcsxJgKR8H_eI.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a471550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:37:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505092449im_/https://video.twimg.com/amplify_video/2051592080091402240/vid/avc1/1280x720/naUZcsxJgKR8H_eI.mp4?tag=27 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025e150>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2051702028481519616/vid/avc1/720x1280/XPbY9dbIgwHdgFKG.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260505235514_twitter_com_432Ifantrygroup_status_2051813000949248292.json"
       ],
-      "last_updated": "2026-07-29T15:42:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505235514if_/https://video.twimg.com/amplify_video/2051702028481519616/vid/avc1/720x1280/XPbY9dbIgwHdgFKG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262c9d8080>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505235514im_/https://video.twimg.com/amplify_video/2051702028481519616/vid/avc1/720x1280/XPbY9dbIgwHdgFKG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512b40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2051691018366676992/vid/avc1/720x1280/1eJQsnEZDLSR7C49.mp4": {
       "status": "done",
@@ -88840,27 +88840,27 @@
       "referenced_by": [
         "20260506235207_twitter_com_432Ifantrygroup_status_2052174600713404639.json"
       ],
-      "last_updated": "2026-07-29T15:42:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506235207/https://video.twimg.com/amplify_video/2052161120627228672/vid/avc1/1280x720/niYT7DDf1mngWzZs.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262c9d86e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506235207im_/https://video.twimg.com/amplify_video/2052161120627228672/vid/avc1/1280x720/niYT7DDf1mngWzZs.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf510860>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2052161120610459648/vid/avc1/1280x720/1en2937jeo7ucvqd.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260506235207_twitter_com_432Ifantrygroup_status_2052174600713404639.json"
       ],
-      "last_updated": "2026-07-29T15:42:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506235207im_/https://video.twimg.com/amplify_video/2052161120610459648/vid/avc1/1280x720/1en2937jeo7ucvqd.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4721e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260506235207im_/https://video.twimg.com/amplify_video/2052161120610459648/vid/avc1/1280x720/1en2937jeo7ucvqd.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf4e85c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2052408925589573633/vid/avc1/664x664/4iLQyfEQQLwM31jR.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260507154829_twitter_com_432Ifantrygroup_status_2052415281742627325.json"
       ],
-      "last_updated": "2026-07-29T15:42:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507154829im_/https://video.twimg.com/amplify_video/2052408925589573633/vid/avc1/664x664/4iLQyfEQQLwM31jR.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a473aa0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507154829im_/https://video.twimg.com/amplify_video/2052408925589573633/vid/avc1/664x664/4iLQyfEQQLwM31jR.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512de0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2052578575333634048/vid/avc1/720x1280/rcM6RHJ52sFWjxwT.mp4": {
       "status": "done",
@@ -88875,18 +88875,18 @@
         "20260508191207_twitter_com_432Ifantrygroup_status_2052828912842142054.json",
         "20260508191232_twitter_com_432Ifantrygroup_status_2052829017812938766.json"
       ],
-      "last_updated": "2026-07-29T15:42:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508191207im_/https://video.twimg.com/ext_tw_video/2052825773002661889/pu/vid/avc1/720x1280/5IR0Qikmn0Z9vNP2.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a699520>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:38:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508191207im_/https://video.twimg.com/ext_tw_video/2052825773002661889/pu/vid/avc1/720x1280/5IR0Qikmn0Z9vNP2.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf512b40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/2053533833484734464/pu/vid/avc1/576x1280/sJUlGgA3w_9qw-1p.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260510175327_twitter_com_432Ifantrygroup_status_2053533894725804248.json"
       ],
-      "last_updated": "2026-07-29T15:42:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175327im_/https://video.twimg.com/ext_tw_video/2053533833484734464/pu/vid/avc1/576x1280/sJUlGgA3w_9qw-1p.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a471910>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175327im_/https://video.twimg.com/ext_tw_video/2053533833484734464/pu/vid/avc1/576x1280/sJUlGgA3w_9qw-1p.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d550>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2053533944440922112/pu/vid/avc1/576x1280/qnWSi7YXMvG-UFBA.mp4?tag=12": {
       "status": "failed",
@@ -88894,45 +88894,45 @@
         "20260510175352_twitter_com_432Ifantrygroup_status_2053533998027272504.json",
         "20260510175434_twitter_com_432Ifantrygroup_status_2053534174729076784.json"
       ],
-      "last_updated": "2026-07-29T15:42:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175352if_/https://video.twimg.com/ext_tw_video/2053533944440922112/pu/vid/avc1/576x1280/qnWSi7YXMvG-UFBA.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a699760>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 5
+      "last_updated": "2026-07-29T18:38:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175352if_/https://video.twimg.com/ext_tw_video/2053533944440922112/pu/vid/avc1/576x1280/qnWSi7YXMvG-UFBA.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025f860>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 6
     },
     "https://video.twimg.com/ext_tw_video/2053534602741116928/pu/vid/avc1/576x1280/rS2PLyljjWvqTw-w.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260510175642_twitter_com_432Ifantrygroup_status_2053534709070914001.json"
       ],
-      "last_updated": "2026-07-29T15:42:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175642im_/https://video.twimg.com/ext_tw_video/2053534602741116928/pu/vid/avc1/576x1280/rS2PLyljjWvqTw-w.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c34a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175642/https://video.twimg.com/ext_tw_video/2053534602741116928/pu/vid/avc1/576x1280/rS2PLyljjWvqTw-w.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d760>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2053535251037863937/pu/vid/avc1/576x1280/9c3HmVOl55a8fs0y.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260510175917_twitter_com_432Ifantrygroup_status_2053535361935241282.json"
       ],
-      "last_updated": "2026-07-29T15:42:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175917im_/https://video.twimg.com/ext_tw_video/2053535251037863937/pu/vid/avc1/576x1280/9c3HmVOl55a8fs0y.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4a72f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:41",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175917im_/https://video.twimg.com/ext_tw_video/2053535251037863937/pu/vid/avc1/576x1280/9c3HmVOl55a8fs0y.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf511c40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2053535502494789633/pu/vid/avc1/576x1280/QMbJvSFWO6PWAocR.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260510180009_twitter_com_432Ifantrygroup_status_2053535580819173391.json"
       ],
-      "last_updated": "2026-07-29T15:42:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510180009im_/https://video.twimg.com/ext_tw_video/2053535502494789633/pu/vid/avc1/576x1280/QMbJvSFWO6PWAocR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69a060>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510180009im_/https://video.twimg.com/ext_tw_video/2053535502494789633/pu/vid/avc1/576x1280/QMbJvSFWO6PWAocR.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d27cddf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2053742168645455872/vid/avc1/720x1280/hmxJ-pXzsEf-tAco.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260511100400_twitter_com_432Ifantrygroup_status_2053778139038511285.json"
       ],
-      "last_updated": "2026-07-29T15:42:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511100400im_/https://video.twimg.com/amplify_video/2053742168645455872/vid/avc1/720x1280/hmxJ-pXzsEf-tAco.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c2300>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511100400im_/https://video.twimg.com/amplify_video/2053742168645455872/vid/avc1/720x1280/hmxJ-pXzsEf-tAco.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf5138f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2054284448728760320/vid/avc1/1290x2796/hBOKsCeg9hwoQDJt.mp4": {
       "status": "done",
@@ -88953,9 +88953,9 @@
       "referenced_by": [
         "20260513091756_twitter_com_432Ifantrygroup_status_2054491322489467236.json"
       ],
-      "last_updated": "2026-07-29T15:43:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513091756im_/https://video.twimg.com/amplify_video/2054489822492815360/vid/avc1/720x1280/EFn9KphD1U2WHNqf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a471130>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513091756im_/https://video.twimg.com/amplify_video/2054489822492815360/vid/avc1/720x1280/EFn9KphD1U2WHNqf.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf5122a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2052857058777612293/vid/avc1/720x1280/Twa2AjRwqZXSRWzW.mp4": {
       "status": "done",
@@ -89117,18 +89117,18 @@
       "referenced_by": [
         "20260527022609_twitter_com_432Ifantrygroup_status_2059461125344010410.json"
       ],
-      "last_updated": "2026-07-29T15:43:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527022609im_/https://video.twimg.com/amplify_video/2059338120097837056/vid/avc1/720x1280/0RhnlHoQ0cGp8wOa.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4a4f80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:38:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527022609im_/https://video.twimg.com/amplify_video/2059338120097837056/vid/avc1/720x1280/0RhnlHoQ0cGp8wOa.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025d640>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2057855085586313216/pu/vid/avc1/720x1270/weMjBID-j1sp5H-m.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260527070911_twitter_com_432Ifantrygroup_status_2059532352544764343.json"
       ],
-      "last_updated": "2026-07-29T15:43:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527070911if_/https://video.twimg.com/ext_tw_video/2057855085586313216/pu/vid/avc1/720x1270/weMjBID-j1sp5H-m.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4729c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527070911im_/https://video.twimg.com/ext_tw_video/2057855085586313216/pu/vid/avc1/720x1270/weMjBID-j1sp5H-m.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d27ce2a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2059609173751627776/vid/avc1/720x1280/zmhjAwTT7jg8Sxjz.mp4": {
       "status": "done",
@@ -89177,18 +89177,18 @@
       "referenced_by": [
         "20260529050511_twitter_com_432Ifantrygroup_status_2060225921697910835.json"
       ],
-      "last_updated": "2026-07-29T15:43:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529050511im_/https://video.twimg.com/amplify_video/2060225518629425152/vid/avc1/720x1280/2ewCB_C4wJ47jcHI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69a1b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529050511im_/https://video.twimg.com/amplify_video/2060225518629425152/vid/avc1/720x1280/2ewCB_C4wJ47jcHI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d27cd2e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2060223726327898112/vid/avc1/720x1280/oDyUbNHGO8Z7gitl.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260529054711_twitter_com_432Ifantrygroup_status_2060236492468072954.json"
       ],
-      "last_updated": "2026-07-29T15:43:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529054711im_/https://video.twimg.com/amplify_video/2060223726327898112/vid/avc1/720x1280/oDyUbNHGO8Z7gitl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a69a0f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260529054711im_/https://video.twimg.com/amplify_video/2060223726327898112/vid/avc1/720x1280/oDyUbNHGO8Z7gitl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025e3c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2060240154590425088/vid/avc1/1080x1080/jzFK2-XD-ww69mNp.mp4": {
       "status": "done",
@@ -89202,9 +89202,9 @@
       "referenced_by": [
         "20260530150450_twitter_com_432Ifantrygroup_status_2060739217530229197.json"
       ],
-      "last_updated": "2026-07-29T15:43:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530150450im_/https://video.twimg.com/amplify_video/2060738815652704258/vid/avc1/720x1280/0w7YwTtffccbMASt.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4a55b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260530150450im_/https://video.twimg.com/amplify_video/2060738815652704258/vid/avc1/720x1280/0w7YwTtffccbMASt.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d025e240>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2060647688111304704/vid/avc1/682x1280/td7uPJSkCgY7YPbH.mp4": {
       "status": "done",
@@ -89309,9 +89309,9 @@
       "referenced_by": [
         "20260603190448_twitter_com_432Ifantrygroup_status_2062249157281427637.json"
       ],
-      "last_updated": "2026-07-29T15:43:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603190448im_/https://video.twimg.com/amplify_video/2062246512332288000/vid/avc1/720x1280/HPO_kK3v9EhZ_R0W.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c0530>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603190448im_/https://video.twimg.com/amplify_video/2062246512332288000/vid/avc1/720x1280/HPO_kK3v9EhZ_R0W.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf510200>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2062229975361568768/vid/avc1/1080x1920/TrsVjTm5li2moiLk.mp4": {
       "status": "done",
@@ -89346,9 +89346,9 @@
       "referenced_by": [
         "20260618000537_twitter_com_432Ifantrygroup_status_2067398291919421941.json"
       ],
-      "last_updated": "2026-07-29T15:43:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618000537im_/https://video.twimg.com/amplify_video/2067376518955679744/vid/avc1/720x1280/L0wG19KQVxALkGsl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c2ba0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618000537im_/https://video.twimg.com/amplify_video/2067376518955679744/vid/avc1/720x1280/L0wG19KQVxALkGsl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf511580>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2067696411697881088/pu/vid/avc1/576x1280/kjMDmGs_9-zxRPey.mp4?tag=12": {
       "status": "done",
@@ -89363,9 +89363,9 @@
         "20260619144710_twitter_com_432Ifantrygroup_status_2067982527885938988.json",
         "20260619144726_twitter_com_432Ifantrygroup_status_2067982595162558781.json"
       ],
-      "last_updated": "2026-07-29T15:43:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619144710im_/https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/720x1280/zhkonTSu9dZ3m8b0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a4c2510>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 7
+      "last_updated": "2026-07-29T18:39:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619144710im_/https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/720x1280/zhkonTSu9dZ3m8b0.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf513ec0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 8
     },
     "https://video.twimg.com/amplify_video/2068072657283854336/vid/avc1/720x960/Uzhz3yk9lsWzc6zP.mp4": {
       "status": "done",
@@ -89409,9 +89409,9 @@
       "referenced_by": [
         "20260627153957_twitter_com_432Ifantrygroup_status_2070894913898881374.json"
       ],
-      "last_updated": "2026-07-29T15:43:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260627153957im_/https://video.twimg.com/amplify_video/2070114347226198017/vid/avc1/1920x1080/QQiHa2nZJZlBTAM7.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a472930>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260627153957im_/https://video.twimg.com/amplify_video/2070114347226198017/vid/avc1/1920x1080/QQiHa2nZJZlBTAM7.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4cf511100>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2071480611563261952/pu/vid/avc1/1080x548/eWqXYv7Mc4viFVIs.mp4": {
       "status": "done",
@@ -89425,9 +89425,9 @@
       "referenced_by": [
         "20260630074336_twitter_com_432Ifantrygroup_status_2071862201045172586.json"
       ],
-      "last_updated": "2026-07-29T15:43:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630074336im_/https://video.twimg.com/amplify_video/2071387362718892032/vid/avc1/482x360/-GOBKLsBkt2drXUp.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f262a473110>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T18:39:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630074336im_/https://video.twimg.com/amplify_video/2071387362718892032/vid/avc1/482x360/-GOBKLsBkt2drXUp.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa4d27b6f00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HMADKraawAAo6ug.mp4": {
       "status": "done",
@@ -142664,7 +142664,7 @@
       "miss_count": 2
     },
     "20250420161916_twitter_com_432Ifantrygroup_status_1913990863371505794.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -142675,7 +142675,7 @@
           "https://pbs.twimg.com/profile_images/1903735602954321920/nBXbBL3M_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T15:36:11",
+      "last_updated": "2026-07-29T18:33:55",
       "miss_count": 2
     },
     "20250420165100_twitter_com_432Ifantrygroup_status_1913998850232360972.json": {
@@ -142826,7 +142826,7 @@
       "miss_count": 2
     },
     "20250607121210_twitter_com_432Ifantrygroup_status_1931323294830981181.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -142838,7 +142838,7 @@
           "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T15:36:10",
+      "last_updated": "2026-07-29T18:33:57",
       "miss_count": 2
     },
     "20250701155145_twitter_com_432Ifantrygroup_status_1940075862935970243.json": {
@@ -142977,7 +142977,7 @@
       "miss_count": 2
     },
     "20250809113309_twitter_com_432Ifantrygroup_status_1954143910793719818.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -142989,7 +142989,7 @@
           "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T15:36:09",
+      "last_updated": "2026-07-29T18:33:57",
       "miss_count": 2
     },
     "20250809113511_twitter_com_432Ifantrygroup_status_1954144423891108017.json": {
@@ -181792,7 +181792,7 @@
       "last_updated": "2026-07-29T10:04:51"
     },
     "20260323064509_twitter_com_432Ifantrygroup_status_2035971092754661843.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -181803,7 +181803,7 @@
           "https://pbs.twimg.com/profile_images/1761417274592792576/uGABEz9t_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T15:36:15",
+      "last_updated": "2026-07-29T18:36:10",
       "miss_count": 2
     },
     "20260323065800_twitter_com_432Ifantrygroup_status_2035974326298787850.json": {
@@ -185398,7 +185398,7 @@
       "last_updated": "2026-07-29T10:04:43"
     },
     "20260324092714_twitter_com_432Ifantrygroup_status_2036374270797029503.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -185409,7 +185409,7 @@
           "https://pbs.twimg.com/profile_images/2035885369783406592/ZBJvpGQN_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T15:36:15",
+      "last_updated": "2026-07-29T18:36:12",
       "miss_count": 2
     },
     "20260324092924_twitter_com_432Ifantrygroup_status_2036374815721005111.json": {
